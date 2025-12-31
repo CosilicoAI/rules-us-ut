@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-401"/>
+          <FRBRuri value="/us-ut/act/code/59-14-401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-401/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-401/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_401">
+          <num>59-14-401</num>
+          <heading>Refund of taxes paid -- Exemption for exported cigarettes and tobacco products.</heading>
+          <content>
+            <p>59-14-401.
+Refund of taxes paid -- Exemption for exported cigarettes and tobacco products.
+(1)
+(a)
+When any cigarette or tobacco product taxed under this chapter is sold and shipped to a regular dealer in those articles in another state, the seller in this state shall be entitled to a refund of the actual amount of the taxes paid, upon condition that the seller in this state:
+(i)
+is a licensed dealer;
+(ii)
+signs an affidavit that the cigarette or tobacco product was so sold and shipped;
+(iii)
+furnishes from the purchaser a written acknowledgment that the purchaser has received:
+(A)
+the cigarette or tobacco product; and
+(B)
+the amount of any stamps for which a refund is requested;
+(iv)
+reports the name and address of the purchaser; and
+(v)
+reports the name of the manufacturer of the cigarette, as defined under Section
+59-22-202
+, reported under Section
+59-14-407
+if the cigarette is manufactured by a  manufacturer required to place funds into escrow under Section
+59-22-203
+.
+(b)
+The taxes shall be refunded in the manner provided in Subsection
+59-14-206(2)
+for unused stamps.
+(2)
+Wholesalers or distributors in this state who export taxable cigarettes and tobacco products to a regular dealer in another state shall be exempt from the payment of any tax upon the sale of the articles upon furnishing such proof of the sale and exportation as the commission may require.
+Amended by Chapter
+229
+, 2000 General Session</p>
+          </content>
+          <subsection eId="59_14_401__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_14_401__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>When any cigarette or tobacco product taxed under this chapter is sold and shipped to a regular dealer in those articles in another state, the seller in this state shall be entitled to a refund of the actual amount of the taxes paid, upon condition that the seller in this state:</p>
+              </content>
+              <subparagraph eId="59_14_401__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is a licensed dealer;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_401__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>signs an affidavit that the cigarette or tobacco product was so sold and shipped;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_401__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>furnishes from the purchaser a written acknowledgment that the purchaser has received:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_401__subsec_1__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>reports the name and address of the purchaser; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_401__subsec_1__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>reports the name of the manufacturer of the cigarette, as defined under Section , reported under Section if the cigarette is manufactured by a  manufacturer required to place funds into escrow under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_401__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The taxes shall be refunded in the manner provided in Subsection for unused stamps.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_401__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Wholesalers or distributors in this state who export taxable cigarettes and tobacco products to a regular dealer in another state shall be exempt from the payment of any tax upon the sale of the articles upon furnishing such proof of the sale and exportation as the commission may require.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1035"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1035"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1035/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1035/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1035/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1035/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1035">
+          <num>59-10-1035</num>
+          <heading>Nonrefundable tax credit for contribution to state Achieving a Better Life Experience Program account.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-1035.
+Nonrefundable tax credit for contribution to state Achieving a Better Life Experience Program account.
+(1)
+As used in this section:
+(a)
+&quot;Account&quot; means an account in a qualified ABLE program where the designated beneficiary of the account is a resident of this state.
+(b)
+&quot;Contributor&quot; means a claimant, estate, or trust that:
+(i)
+makes a contribution to an account; and
+(ii)
+receives a statement from the qualified ABLE program itemizing the contribution.
+(c)
+&quot;Designated beneficiary&quot; means the same as that term is defined in 26 U.S.C. Sec. 529A.
+(d)
+&quot;Qualified ABLE program&quot; means the same as that term is defined in Section
+35A-12-102
+.
+(2)
+A contributor to an account may claim a nonrefundable tax credit as provided in this section.
+(3)
+Subject to the other provisions of this section, the tax credit is equal to the product of:
+(a)
+the percentage listed in Subsection
+59-10-104(2)
+; and
+(b)
+the total amount of contributions:
+(i)
+the contributor makes for the taxable year; and
+(ii)
+for which the contributor receives a statement from the qualified ABLE program itemizing the contributions.
+(4)
+A contributor may not claim a tax credit under this section:
+(a)
+for an amount of excess contribution to an account that is returned to the contributor; or
+(b)
+with respect to an amount the contributor deducts on a federal income tax return.
+(5)
+A tax credit under this section may not be carried forward or carried back.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_1035__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1035__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Account&quot; means an account in a qualified ABLE program where the designated beneficiary of the account is a resident of this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1035__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Contributor&quot; means a claimant, estate, or trust that:</p>
+              </content>
+              <subparagraph eId="59_10_1035__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>makes a contribution to an account; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1035__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>receives a statement from the qualified ABLE program itemizing the contribution.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1035__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Designated beneficiary&quot; means the same as that term is defined in 26 U.S.C. Sec. 529A.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1035__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Qualified ABLE program&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1035__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A contributor to an account may claim a nonrefundable tax credit as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1035__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to the other provisions of this section, the tax credit is equal to the product of:</p>
+            </content>
+            <paragraph eId="59_10_1035__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the percentage listed in Subsection ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1035__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the total amount of contributions:</p>
+              </content>
+              <subparagraph eId="59_10_1035__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the contributor makes for the taxable year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1035__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for which the contributor receives a statement from the qualified ABLE program itemizing the contributions.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1035__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A contributor may not claim a tax credit under this section:</p>
+            </content>
+            <paragraph eId="59_10_1035__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for an amount of excess contribution to an account that is returned to the contributor; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1035__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>with respect to an amount the contributor deducts on a federal income tax return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1035__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A tax credit under this section may not be carried forward or carried back.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1205"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1205/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1205/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1205">
+          <num>59-2-1205</num>
+          <heading>Renumbered 1/1/2026</heading>
+          <content>
+            <p>Renumbered 1/1/2026
+59-2-1205.
+Time for filing claim for renter's credit.
+No claim with respect to a renter's credit may be paid or allowed unless the claim is actually filed with, and in the possession of, the commission on or before December 31 of each calendar year.
+Renumbered and Amended by Chapter
+4
+, 1987 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-109.1"/>
+          <FRBRuri value="/us-ut/act/code/59-2-109.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-109.1/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-109.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-109.1/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-109.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_109_1">
+          <num>59-2-109.1</num>
+          <heading>Superseded 1/1/2026</heading>
+          <content>
+            <p>Effective 1/1/2023
+Superseded 1/1/2026
+59-2-109.1.
+Burden of proof for an appeal involving property eligible for deferral for 2023.
+(1)
+This section applies to an appeal to the county board of equalization or the commission involving the valuation or equalization of real property that is eligible for a deferral under Section
+59-2-1802.1
+for the calendar year that begins on January 1, 2023.
+(2)
+(a)
+The party carrying the burden of proof shall demonstrate:
+(i)
+except as provided in Subsection (2)(b), substantial error in:
+(A)
+the adjusted value set by the county assessor in accordance with Section
+59-2-303.3
+in an appeal to the county board of equalization; or
+(B)
+the value set by the county board of equalization in an appeal to the commission; and
+(ii)
+a sound evidentiary basis to support the value the party requests.
+(b)
+The party carrying the burden of proof does not have to show substantial error as required by Subsection (2)(a)(i) if the party is requesting:
+(i)
+the adjusted value in an appeal to the board of equalization; or
+(ii)
+the value set by the county board of equalization in an appeal to the commission.
+(3)
+The following shall carry the burden of proof:
+(a)
+the county assessor or the county board of equalization that is a party to the appeal has the burden of proof to support the value the county assessor or the county board of equalization requests; and
+(b)
+the taxpayer that is a party to the appeal has the burden of proof to support the value the taxpayer requests.
+Enacted by Chapter
+263
+, 2024 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

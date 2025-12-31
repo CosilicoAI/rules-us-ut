@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1028"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1028"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1028/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1028/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1028/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1028/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1028">
+          <num>59-10-1028</num>
+          <heading>Nonrefundable tax credit for capital gain transactions on the exchange of one form of legal tender for another form of legal tender.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-1028.
+Nonrefundable tax credit for capital gain transactions on the exchange of one form of legal tender for another form of legal tender.
+(1)
+As used in this section:
+(a)
+&quot;Capital gain transaction&quot; means a transaction that results in a:
+(i)
+short-term capital gain; or
+(ii)
+long-term capital gain.
+(b)
+&quot;Long-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.
+(c)
+&quot;Long-term capital loss&quot; is as defined in Section 1222, Internal Revenue Code.
+(d)
+&quot;Net capital gain&quot; means the amount by which the sum of long-term capital gains and short-term capital gains on a claimant's, estate's, or trust's transactions from exchanges made for a taxable year of one form of legal tender for another form of legal tender exceeds the sum of long-term capital losses and short-term capital losses on those transactions for that taxable year.
+(e)
+&quot;Short-term capital loss&quot; is as defined in Section 1222, Internal Revenue Code.
+(f)
+&quot;Short-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.
+(2)
+Except as provided in Section
+59-10-1002.2
+, for taxable years beginning on or after January 1, 2012, a claimant, estate, or trust may claim a nonrefundable tax credit equal to the product of:
+(a)
+to the extent a net capital gain is included in taxable income, the amount of the claimant's, estate's, or trust's net capital gain on capital gain transactions from exchanges made on or after January 1, 2012, for a taxable year, of one form of legal tender for another form of legal tender; and
+(b)
+the percentage listed in Subsection
+59-10-104(2)
+.
+(3)
+A claimant, estate, or trust may not carry forward or carry back a tax credit under this section.
+(4)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules to implement this section.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_1028__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1028__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Capital gain transaction&quot; means a transaction that results in a:</p>
+              </content>
+              <subparagraph eId="59_10_1028__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>short-term capital gain; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1028__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>long-term capital gain.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1028__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Long-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1028__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Long-term capital loss&quot; is as defined in Section 1222, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1028__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Net capital gain&quot; means the amount by which the sum of long-term capital gains and short-term capital gains on a claimant's, estate's, or trust's transactions from exchanges made for a taxable year of one form of legal tender for another form of legal tender exceeds the sum of long-term capital losses and short-term capital losses on those transactions for that taxable year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1028__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Short-term capital loss&quot; is as defined in Section 1222, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1028__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Short-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1028__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in Section , for taxable years beginning on or after January 1, 2012, a claimant, estate, or trust may claim a nonrefundable tax credit equal to the product of:</p>
+            </content>
+            <paragraph eId="59_10_1028__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to the extent a net capital gain is included in taxable income, the amount of the claimant's, estate's, or trust's net capital gain on capital gain transactions from exchanges made on or after January 1, 2012, for a taxable year, of one form of legal tender for another form of legal tender; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1028__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the percentage listed in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1028__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A claimant, estate, or trust may not carry forward or carry back a tax credit under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1028__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In accordance with , the commission may make rules to implement this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

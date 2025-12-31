@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2213"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2213/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2213/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2213/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2213/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2213">
+          <num>59-12-2213</num>
+          <heading>County, city, or town option sales and use tax to fund a system for public transit -- Base -- Rate.</heading>
+          <content>
+            <p>59-12-2213.
+County, city, or town option sales and use tax to fund a system for public transit -- Base -- Rate.
+(1)
+Subject to the other provisions of this part, a county, city, or town may impose a sales and use tax under this section of up to:
+(a)
+for a county, city, or town other than a county, city, or town described in Subsection
+(1)(b)
+, .25% on the transactions described in Subsection
+59-12-103(1)
+located within the county, city, or town to fund a system for public transit; or
+(b)
+for a county, city, or town within which a tax is not imposed under Section
+59-12-2216
+, .30% on the transactions described in Subsection
+59-12-103(1)
+located within the county, city, or town, to fund a system for public transit.
+(2)
+Notwithstanding Section
+59-12-2208
+, a county, city, or town legislative body is not required to submit an opinion question to the county's, city's, or town's registered voters in accordance with Section
+59-12-2208
+to impose a sales and use tax under this section if the county, city, or town imposes the sales and use tax under Section
+59-12-2216
+on or before July 1, 2011.
+Amended by Chapter
+223
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_12_2213__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this part, a county, city, or town may impose a sales and use tax under this section of up to:</p>
+            </content>
+            <paragraph eId="59_12_2213__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a county, city, or town other than a county, city, or town described in Subsection , .25% on the transactions described in Subsection located within the county, city, or town to fund a system for public transit; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2213__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a county, city, or town within which a tax is not imposed under Section , .30% on the transactions described in Subsection located within the county, city, or town, to fund a system for public transit.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2213__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding Section , a county, city, or town legislative body is not required to submit an opinion question to the county's, city's, or town's registered voters in accordance with Section to impose a sales and use tax under this section if the county, city, or town imposes the sales and use tax under Section on or before July 1, 2011.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1307"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1307"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1307/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1307/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1307/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1307/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1307">
+          <num>59-10-1307</num>
+          <heading>Contributions for education.</heading>
+          <content>
+            <p>Effective 3/22/2018
+59-10-1307.
+Contributions for education.
+(1)
+Except as provided in Section
+59-10-1304
+, a resident or nonresident individual that files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution as provided in this part to:
+(a)
+the foundation of any school district if that foundation is exempt from federal income taxation under Section 501(c)(3), Internal Revenue Code; or
+(b)
+a school district described in
+Title 53G, Chapter 3, School District Creation and Change
+, if the school district has not established a foundation.
+(2)
+If a resident or nonresident individual designates an amount as a contribution under:
+(a)
+Subsection
+(1)(a)
+, but does not designate a particular school district foundation to receive the contribution, the contribution shall be made to the State Board of Education to be distributed to one or more associations of foundations:
+(i)
+if those foundations that are members of the association are established in accordance with Section
+53E-3-403
+; and
+(ii)
+as determined by the State Board of Education; or
+(b)
+Subsection
+(1)(b)
+, but does not designate a particular school district to receive the contribution, the contribution shall be made to the State Board of Education.
+(3)
+The commission shall:
+(a)
+determine annually the total amount of contributions designated to each entity described in Subsection
+(1)
+in accordance with this section; and
+(b)
+subject to Subsection
+(2)
+, credit the amounts described in Subsection
+(1)
+to the entities.
+Amended by Chapter
+415
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_10_1307__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Section , a resident or nonresident individual that files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution as provided in this part to:</p>
+            </content>
+            <paragraph eId="59_10_1307__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the foundation of any school district if that foundation is exempt from federal income taxation under Section 501(c)(3), Internal Revenue Code; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1307__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a school district described in , if the school district has not established a foundation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1307__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a resident or nonresident individual designates an amount as a contribution under:</p>
+            </content>
+            <paragraph eId="59_10_1307__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subsection , but does not designate a particular school district foundation to receive the contribution, the contribution shall be made to the State Board of Education to be distributed to one or more associations of foundations:</p>
+              </content>
+              <subparagraph eId="59_10_1307__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>if those foundations that are members of the association are established in accordance with Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1307__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>as determined by the State Board of Education; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1307__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Subsection , but does not designate a particular school district to receive the contribution, the contribution shall be made to the State Board of Education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1307__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall:</p>
+            </content>
+            <paragraph eId="59_10_1307__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>determine annually the total amount of contributions designated to each entity described in Subsection in accordance with this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1307__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>subject to Subsection , credit the amounts described in Subsection to the entities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

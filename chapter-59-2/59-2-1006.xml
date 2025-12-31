@@ -1,0 +1,276 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1006"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1006"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1006/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1006/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1006/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1006/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1006">
+          <num>59-2-1006</num>
+          <heading>Superseded 1/1/2026</heading>
+          <content>
+            <p>Effective 1/1/2025
+Superseded 1/1/2026
+59-2-1006.
+Appeal to commission -- Duties of auditor -- Decision by commission.
+(1)
+Any person dissatisfied with the decision of the county board of equalization concerning the assessment and equalization of any property, or the determination of any exemption in which the person has an interest, or a tax relief decision made under designated decision-making authority as described in Section
+59-2-1101
+or Part 18, Tax Deferral and Tax Abatement, may appeal that decision to the commission by:
+(a)
+filing a notice of appeal specifying the grounds for the appeal with the county auditor within 30 days after the final action of the county board or entity with designated decision-making authority described in Section
+59-2-1101
+or Part 18, Tax Deferral and Tax Abatement; and
+(b)
+if the county assessor valued the property in accordance with Section
+59-2-301.8
+and the taxpayer intends to contest the value of personal property located in a multi-tenant residential property, as that term is defined in Section
+59-2-301.8
+, submitting a signed statement of the personal property with the notice of appeal.
+(2)
+The auditor shall:
+(a)
+file one notice with the commission;
+(b)
+certify and transmit to the commission:
+(i)
+the minutes of the proceedings of the county board of equalization or entity with designated decision-making authority for the matter appealed;
+(ii)
+all documentary evidence received in that proceeding; and
+(iii)
+a transcript of any testimony taken at that proceeding that was preserved;
+(c)
+if the appeal is from a hearing where an exemption was granted or denied, certify and transmit to the commission the written decision of:
+(i)
+the board of equalization as required by Section
+59-2-1102
+; or
+(ii)
+the entity with designated decision-making authority; and
+(d)
+any signed statement submitted in accordance with Subsection
+(1)(b)
+.
+(3)
+In reviewing a decision described in Subsection
+(1)
+, the commission may:
+(a)
+admit additional evidence;
+(b)
+issue orders that it considers to be just and proper; and
+(c)
+make any correction or change in the assessment or order of the county board of equalization or entity with decision-making authority.
+(4)
+In reviewing evidence submitted to the commission to decide an appeal under this section, the commission shall consider and weigh:
+(a)
+the accuracy, reliability, and comparability of the evidence presented;
+(b)
+if submitted, the sales price of relevant property that was under contract for sale as of the lien date but sold after the lien date;
+(c)
+if submitted, the sales offering price of property that was offered for sale as of the lien date but did not sell, including considering and weighing the amount of time for which, and manner in which, the property was offered for sale; and
+(d)
+if submitted, other evidence that is relevant to determining the fair market value of the property.
+(5)
+In reviewing a decision described in Subsection
+(1)
+, the commission shall adjust property valuations to reflect a value equalized with the assessed value of other comparable properties if:
+(a)
+the issue of equalization of property values is raised; and
+(b)
+the commission determines that the property that is the subject of the appeal deviates in value plus or minus 5% from the assessed value of comparable properties.
+(6)
+The commission shall decide all appeals taken pursuant to this section not later than March 1 of the following year for real property and within 90 days for personal property, and shall report its decision, order, or assessment to the county auditor, who shall make all changes necessary to comply with the decision, order, or assessment.
+Amended by Chapter
+183
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_1006__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any person dissatisfied with the decision of the county board of equalization concerning the assessment and equalization of any property, or the determination of any exemption in which the person has an interest, or a tax relief decision made under designated decision-making authority as described in Section or Part 18, Tax Deferral and Tax Abatement, may appeal that decision to the commission by:</p>
+            </content>
+            <paragraph eId="59_2_1006__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>filing a notice of appeal specifying the grounds for the appeal with the county auditor within 30 days after the final action of the county board or entity with designated decision-making authority described in Section or Part 18, Tax Deferral and Tax Abatement; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the county assessor valued the property in accordance with Section and the taxpayer intends to contest the value of personal property located in a multi-tenant residential property, as that term is defined in Section , submitting a signed statement of the personal property with the notice of appeal.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1006__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The auditor shall:</p>
+            </content>
+            <paragraph eId="59_2_1006__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>file one notice with the commission;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>certify and transmit to the commission:</p>
+              </content>
+              <subparagraph eId="59_2_1006__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the minutes of the proceedings of the county board of equalization or entity with designated decision-making authority for the matter appealed;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1006__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>all documentary evidence received in that proceeding; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1006__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a transcript of any testimony taken at that proceeding that was preserved;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>if the appeal is from a hearing where an exemption was granted or denied, certify and transmit to the commission the written decision of:</p>
+              </content>
+              <subparagraph eId="59_2_1006__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the board of equalization as required by Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1006__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the entity with designated decision-making authority; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>any signed statement submitted in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1006__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In reviewing a decision described in Subsection , the commission may:</p>
+            </content>
+            <paragraph eId="59_2_1006__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>admit additional evidence;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>issue orders that it considers to be just and proper; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>make any correction or change in the assessment or order of the county board of equalization or entity with decision-making authority.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1006__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In reviewing evidence submitted to the commission to decide an appeal under this section, the commission shall consider and weigh:</p>
+            </content>
+            <paragraph eId="59_2_1006__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the accuracy, reliability, and comparability of the evidence presented;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if submitted, the sales price of relevant property that was under contract for sale as of the lien date but sold after the lien date;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>if submitted, the sales offering price of property that was offered for sale as of the lien date but did not sell, including considering and weighing the amount of time for which, and manner in which, the property was offered for sale; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>if submitted, other evidence that is relevant to determining the fair market value of the property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1006__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In reviewing a decision described in Subsection , the commission shall adjust property valuations to reflect a value equalized with the assessed value of other comparable properties if:</p>
+            </content>
+            <paragraph eId="59_2_1006__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the issue of equalization of property values is raised; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1006__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the commission determines that the property that is the subject of the appeal deviates in value plus or minus 5% from the assessed value of comparable properties.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1006__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The commission shall decide all appeals taken pursuant to this section not later than March 1 of the following year for real property and within 90 days for personal property, and shall report its decision, order, or assessment to the county auditor, who shall make all changes necessary to comply with the decision, order, or assessment.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

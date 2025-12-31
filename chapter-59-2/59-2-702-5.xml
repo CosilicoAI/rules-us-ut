@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-702.5"/>
+          <FRBRuri value="/us-ut/act/code/59-2-702.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-702.5/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-702.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-702.5/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-702.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_702_5">
+          <num>59-2-702.5</num>
+          <heading>Education and training for county assessors.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-2-702.5.
+Education and training for county assessors.
+(1)
+(a)
+The commission shall conduct a program of education and training for county assessors that offers instruction on:
+(i)
+a county assessor's statutory obligations; and
+(ii)
+the practical application of mass appraisal techniques to satisfy a county assessor's statutory obligations.
+(b)
+The commission shall confer a designation of completion upon a county assessor each time that the county assessor completes the program under Subsection (1)(a).
+(2)
+A county assessor shall obtain a designation of completion under Subsection (1)(b) within 12 months after the day on which the county assessor starts a term of office.
+Amended by Chapter
+337
+, 2025 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

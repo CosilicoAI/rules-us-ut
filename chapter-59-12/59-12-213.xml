@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-213"/>
+          <FRBRuri value="/us-ut/act/code/59-12-213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-213/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-213/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-213/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-213/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_213">
+          <num>59-12-213</num>
+          <heading>Location of a transaction involving a sale of aircraft, a manufactured home, a mobile home, a modular home, a motor vehicle, or watercraft.</heading>
+          <content>
+            <p>Effective 5/12/2020
+59-12-213.
+Location of a transaction involving a sale of aircraft, a manufactured home, a mobile home, a modular home, a motor vehicle, or watercraft.
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+or
+(4)
+, the location of a sale of the following tangible personal property is determined as provided in this section:
+(i)
+aircraft;
+(ii)
+a manufactured home;
+(iii)
+a mobile home;
+(iv)
+a modular home;
+(v)
+a motor vehicle; or
+(vi)
+watercraft.
+(b)
+The location of the sale of tangible personal property described in Subsection
+(1)(a)
+is determined in accordance with Sections
+59-12-211
+and
+59-12-212
+if the tangible personal property described in Subsection
+(1)(a)
+is transportation equipment as defined in Section
+59-12-211
+.
+(2)
+(a)
+Except as provided in Subsection
+(2)(b)
+, if an item of tangible personal property described in Subsection
+(1)(a)
+is sold by a dealer of that tangible personal property, the location of the sale of that tangible personal property is the business location of the dealer.
+(b)
+If an item of tangible personal property described in Subsection
+(1)(a)
+is sold by a dealer of that tangible personal property that does not have a business location in the state, the location of the sale of that tangible personal property is the location where the purchaser takes receipt of the tangible personal property.
+(3)
+If an item of tangible personal property described in Subsection
+(1)(a)
+is sold by a person other than a dealer of that tangible personal property, the location of the sale of that tangible personal property is:
+(a)
+if the tangible personal property is required to be registered with the state before the tangible personal property is used on a public highway, on a public waterway, on public land, or in the air, the location of the street address at which the tangible personal property is registered; or
+(b)
+if the tangible personal property is not required to be registered as provided in Subsection
+(3)(a)
+, the location of the street address at which the purchaser of the tangible personal property resides.
+(4)
+This section does not apply to the lease or rental of tangible personal property described in Subsection
+(1)(a)
+.
+Amended by Chapter
+39
+, 2020 General Session</p>
+          </content>
+          <subsection eId="59_12_213__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_12_213__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection or , the location of a sale of the following tangible personal property is determined as provided in this section:</p>
+              </content>
+              <subparagraph eId="59_12_213__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>aircraft;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_213__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a manufactured home;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_213__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a mobile home;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_213__subsec_1__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a modular home;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_213__subsec_1__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a motor vehicle; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_213__subsec_1__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>watercraft.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_213__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The location of the sale of tangible personal property described in Subsection is determined in accordance with Sections and if the tangible personal property described in Subsection is transportation equipment as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_213__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_213__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , if an item of tangible personal property described in Subsection is sold by a dealer of that tangible personal property, the location of the sale of that tangible personal property is the business location of the dealer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_213__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If an item of tangible personal property described in Subsection is sold by a dealer of that tangible personal property that does not have a business location in the state, the location of the sale of that tangible personal property is the location where the purchaser takes receipt of the tangible personal property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_213__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If an item of tangible personal property described in Subsection is sold by a person other than a dealer of that tangible personal property, the location of the sale of that tangible personal property is:</p>
+            </content>
+            <paragraph eId="59_12_213__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if the tangible personal property is required to be registered with the state before the tangible personal property is used on a public highway, on a public waterway, on public land, or in the air, the location of the street address at which the tangible personal property is registered; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_213__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the tangible personal property is not required to be registered as provided in Subsection , the location of the street address at which the purchaser of the tangible personal property resides.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_213__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>This section does not apply to the lease or rental of tangible personal property described in Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-112"/>
+          <FRBRuri value="/us-ut/act/code/59-7-112"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-112/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-112/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-112/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-112/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_112">
+          <num>59-7-112</num>
+          <heading>Installment sales.</heading>
+          <content>
+            <p>59-7-112.
+Installment sales.
+(1)
+Except as provided in Subsections
+(2)
+and
+(3)
+, installment sales shall be governed by Sections 453, 453A, and 453B, Internal Revenue Code.
+(2)
+Installment sales entered into prior to January 1, 1994, shall be recognized as originally reported.
+(3)
+If a corporation is no longer required to file a Utah corporate return, any taxes owed by that corporation on installment sales entered into by that corporation shall accelerate and be due on the corporation's last return filed in Utah.
+Repealed and Re-enacted by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_112__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsections and , installment sales shall be governed by Sections 453, 453A, and 453B, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_112__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Installment sales entered into prior to January 1, 1994, shall be recognized as originally reported.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_112__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a corporation is no longer required to file a Utah corporate return, any taxes owed by that corporation on installment sales entered into by that corporation shall accelerate and be due on the corporation's last return filed in Utah.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

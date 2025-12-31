@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1303"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1303"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1303/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1303/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1303/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1303/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1303">
+          <num>59-10-1303</num>
+          <heading>Contributions -- Amount -- Procedure for designating a contribution -- Joint return -- Contribution irrevocable.</heading>
+          <content>
+            <p>59-10-1303.
+Contributions -- Amount -- Procedure for designating a contribution -- Joint return -- Contribution irrevocable.
+(1)
+A resident or nonresident individual that makes a contribution under this part, other than Section
+59-10-1311
+or Section
+59-10-1313
+, may designate as the contribution any whole dollar amount of $1 or more.
+(2)
+If a resident or nonresident individual designating a contribution under this part other than Section
+59-10-1311
+:
+(a)
+is owed an individual income tax refund for the taxable year, the amount of the contribution under this part shall be deducted from the resident or nonresident individual's individual income tax refund; or
+(b)
+is not owed an individual income tax refund for the taxable year, the resident or nonresident individual may remit a contribution under this part with the resident or nonresident individual's individual income tax return, except as provided in Section
+59-10-1313
+.
+(3)
+If a husband and wife file a single individual income tax return jointly, a contribution under this part, other than Section
+59-10-1311
+, shall be a joint contribution.
+(4)
+Except as provided in Subsection
+59-10-1313(3)(c)
+, a contribution under this part is irrevocable for the taxable year for which the resident or nonresident individual makes the contribution.
+Amended by Chapter
+251
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_10_1303__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A resident or nonresident individual that makes a contribution under this part, other than Section or Section , may designate as the contribution any whole dollar amount of $1 or more.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1303__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a resident or nonresident individual designating a contribution under this part other than Section :</p>
+            </content>
+            <paragraph eId="59_10_1303__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is owed an individual income tax refund for the taxable year, the amount of the contribution under this part shall be deducted from the resident or nonresident individual's individual income tax refund; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1303__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>is not owed an individual income tax refund for the taxable year, the resident or nonresident individual may remit a contribution under this part with the resident or nonresident individual's individual income tax return, except as provided in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1303__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a husband and wife file a single individual income tax return jointly, a contribution under this part, other than Section , shall be a joint contribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1303__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as provided in Subsection , a contribution under this part is irrevocable for the taxable year for which the resident or nonresident individual makes the contribution.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

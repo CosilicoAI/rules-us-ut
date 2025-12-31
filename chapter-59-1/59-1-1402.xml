@@ -1,0 +1,533 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1402"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1402"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1402/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1402/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1402/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1402/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1402">
+          <num>59-1-1402</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 1/1/2021
+59-1-1402.
+Definitions.
+As used in this part:
+(1)
+&quot;Administrative cost&quot; means a fee imposed to cover:
+(a)
+the cost of filing;
+(b)
+the cost of administering a garnishment;
+(c)
+the amount the commission pays to a depository institution in accordance with
+Part 17, Depository Institution Data Match System and Levy Act
+; or
+(d)
+a cost similar to Subsections
+(1)(a)
+through
+(c)
+as determined by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(2)
+&quot;Books and records&quot; means the following made available in printed or electronic format:
+(a)
+an account;
+(b)
+a book;
+(c)
+an invoice;
+(d)
+a memorandum;
+(e)
+a paper;
+(f)
+a record; or
+(g)
+an item similar to Subsections
+(2)(a)
+through
+(f)
+as determined by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(3)
+&quot;Deficiency&quot; means:
+(a)
+the amount by which a tax, fee, or charge exceeds the difference between:
+(i)
+the sum of:
+(A)
+the amount shown as the tax, fee, or charge by a person on the person's return; and
+(B)
+any amount previously assessed, or collected without assessment, as a deficiency; and
+(ii)
+any amount previously abated, credited, refunded, or otherwise repaid with respect to that tax, fee, or charge; or
+(b)
+if a person does not show an amount as a tax, fee, or charge on the person's return, or if a person does not make a return, the amount by which the tax, fee, or charge exceeds:
+(i)
+the amount previously assessed, or collected without assessment, as a deficiency; and
+(ii)
+any amount previously abated, credited, refunded, or otherwise repaid with respect to that tax, fee, or charge.
+(4)
+&quot;Garnishment&quot; means any legal or equitable procedure through which one or more of the following are required to be withheld for payment of an amount a person owes:
+(a)
+an asset of the person held by another person; or
+(b)
+the earnings of the person.
+(5)
+&quot;Liability&quot; means the following that a person is required to remit to the commission:
+(a)
+a tax, fee, or charge;
+(b)
+an addition to a tax, fee, or charge;
+(c)
+an administrative cost;
+(d)
+interest that accrues in accordance with Section
+59-1-402
+; or
+(e)
+a penalty that accrues in accordance with Section
+59-1-401
+.
+(6)
+(a)
+Subject to Subsection
+(6)(b)
+, &quot;mathematical error&quot; is as defined in Section 6213(g)(2), Internal Revenue Code.
+(b)
+The reference to Section 6213(g)(2), Internal Revenue Code, in Subsection
+(6)(a)
+means:
+(i)
+the reference to Section 6213(g)(2), Internal Revenue Code, in effect for the taxable year; or
+(ii)
+a corresponding or comparable provision of the Internal Revenue Code as amended, redesignated, or reenacted.
+(7)
+(a)
+Except as provided in Subsection
+(7)(b)
+, &quot;tax, fee, or charge&quot; means:
+(i)
+a tax, fee, or charge the commission administers under:
+(A)
+this title;
+(B)
+Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act
+;
+(C)
+Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act
+;
+(D)
+Section
+19-6-410.5
+;
+(E)
+Section
+19-6-714
+;
+(F)
+Section
+19-6-805
+;
+(G)
+Section
+34A-2-202
+;
+(H)
+Section
+40-6-14
+; or
+(I)
+Title 69, Chapter 2, Part 4, Prepaid Wireless Telecommunications Service Charges
+; or
+(ii)
+another amount that by statute is administered by the commission.
+(b)
+&quot;Tax, fee, or charge&quot; does not include a tax, fee, or charge imposed under:
+(i)
+Title 41, Chapter 1a, Motor Vehicle Act
+, except for Section
+41-1a-301
+;
+(ii)
+Title 41, Chapter 3, Motor Vehicle Business Regulation Act
+;
+(iii)
+Chapter 2, Property Tax Act
+;
+(iv)
+Chapter 3, Tax Equivalent Property Act
+;
+(v)
+Chapter 4, Privilege Tax
+; or
+(vi)
+Chapter 13, Part 5, Interstate Agreements
+.
+(8)
+&quot;Transferee&quot; means:
+(a)
+a devisee;
+(b)
+a distributee;
+(c)
+a donee;
+(d)
+an heir;
+(e)
+a legatee; or
+(f)
+a person similar to Subsections
+(8)(a)
+through
+(e)
+as determined by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+Amended by Chapter
+294
+, 2020 General Session</p>
+          </content>
+          <subsection eId="59_1_1402__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Administrative cost&quot; means a fee imposed to cover:</p>
+            </content>
+            <paragraph eId="59_1_1402__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the cost of filing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the cost of administering a garnishment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the amount the commission pays to a depository institution in accordance with ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a cost similar to Subsections through as determined by the commission by rule made in accordance with .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Books and records&quot; means the following made available in printed or electronic format:</p>
+            </content>
+            <paragraph eId="59_1_1402__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an account;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a book;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an invoice;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a memorandum;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>a paper;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>a record; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>an item similar to Subsections through as determined by the commission by rule made in accordance with .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Deficiency&quot; means:</p>
+            </content>
+            <paragraph eId="59_1_1402__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the amount by which a tax, fee, or charge exceeds the difference between:</p>
+              </content>
+              <subparagraph eId="59_1_1402__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the sum of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>any amount previously abated, credited, refunded, or otherwise repaid with respect to that tax, fee, or charge; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if a person does not show an amount as a tax, fee, or charge on the person's return, or if a person does not make a return, the amount by which the tax, fee, or charge exceeds:</p>
+              </content>
+              <subparagraph eId="59_1_1402__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount previously assessed, or collected without assessment, as a deficiency; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>any amount previously abated, credited, refunded, or otherwise repaid with respect to that tax, fee, or charge.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Garnishment&quot; means any legal or equitable procedure through which one or more of the following are required to be withheld for payment of an amount a person owes:</p>
+            </content>
+            <paragraph eId="59_1_1402__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an asset of the person held by another person; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the earnings of the person.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Liability&quot; means the following that a person is required to remit to the commission:</p>
+            </content>
+            <paragraph eId="59_1_1402__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a tax, fee, or charge;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>an addition to a tax, fee, or charge;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an administrative cost;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>interest that accrues in accordance with Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>a penalty that accrues in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_1_1402__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , &quot;mathematical error&quot; is as defined in Section 6213(g)(2), Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The reference to Section 6213(g)(2), Internal Revenue Code, in Subsection means:</p>
+              </content>
+              <subparagraph eId="59_1_1402__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the reference to Section 6213(g)(2), Internal Revenue Code, in effect for the taxable year; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a corresponding or comparable provision of the Internal Revenue Code as amended, redesignated, or reenacted.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_1_1402__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , &quot;tax, fee, or charge&quot; means:</p>
+              </content>
+              <subparagraph eId="59_1_1402__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a tax, fee, or charge the commission administers under:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>another amount that by statute is administered by the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Tax, fee, or charge&quot; does not include a tax, fee, or charge imposed under:</p>
+              </content>
+              <subparagraph eId="59_1_1402__subsec_7__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>, except for Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_7__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_7__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_7__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_7__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1402__subsec_7__para_b__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1402__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Transferee&quot; means:</p>
+            </content>
+            <paragraph eId="59_1_1402__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a devisee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a distributee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a donee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_8__para_d">
+              <num>(d)</num>
+              <content>
+                <p>an heir;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_8__para_e">
+              <num>(e)</num>
+              <content>
+                <p>a legatee; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1402__subsec_8__para_f">
+              <num>(f)</num>
+              <content>
+                <p>a person similar to Subsections through as determined by the commission by rule made in accordance with .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1714"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1714"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1714/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1714/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1714/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1714/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1714">
+          <num>59-2-1714</num>
+          <heading>County regulation.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-2-1714.
+County regulation.
+(1)
+A county in this state may adopt an ordinance, authorizing residents of the county to:
+(a)
+participate in urban farming; and
+(b)
+utilize the provisions of this part.
+(2)
+(a)
+In adopting the ordinance, a county may limit urban farming to:
+(i)
+cultivating food or other marketable crop; or
+(ii)
+engaging in livestock production, including grazing.
+(b)
+If the county ordinance does not limit urban farming, the county authorizes urban farming by either cultivating food or other marketable crop or engaging in livestock production, including grazing.
+Amended by Chapter
+131
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_2_1714__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A county in this state may adopt an ordinance, authorizing residents of the county to:</p>
+            </content>
+            <paragraph eId="59_2_1714__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>participate in urban farming; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1714__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>utilize the provisions of this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1714__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1714__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In adopting the ordinance, a county may limit urban farming to:</p>
+              </content>
+              <subparagraph eId="59_2_1714__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>cultivating food or other marketable crop; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1714__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>engaging in livestock production, including grazing.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1714__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the county ordinance does not limit urban farming, the county authorizes urban farming by either cultivating food or other marketable crop or engaging in livestock production, including grazing.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

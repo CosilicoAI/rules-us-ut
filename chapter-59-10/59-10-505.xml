@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-505"/>
+          <FRBRuri value="/us-ut/act/code/59-10-505"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-505/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-505/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-505/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-505/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_505">
+          <num>59-10-505</num>
+          <heading>Return by minor.</heading>
+          <content>
+            <p>59-10-505.
+Return by minor.
+(1)
+As used in this section, &quot;parent&quot; includes an individual who is entitled to the services of an individual who is a minor by reason of having parental rights and duties with respect to the individual who is a minor.
+(2)
+If an individual who is a minor is required to make a return under this chapter, the return shall include:
+(a)
+all income attributable to the individual's personal services; and
+(b)
+all other items of the individual's income.
+(3)
+The income of an individual who is a minor may not be included on the return of the individual's parent.
+(4)
+An expenditure attributable to the income of an individual who is a minor that is made by the individual or the individual's parent is considered to have been paid or incurred by the individual who is a minor.
+(5)
+A tax assessed against an individual who is a minor, to the extent attributable to income from personal services, if not paid by the individual, for all purposes is considered as being properly assessable against the individual's parent.
+Amended by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_10_505__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;parent&quot; includes an individual who is entitled to the services of an individual who is a minor by reason of having parental rights and duties with respect to the individual who is a minor.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_505__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If an individual who is a minor is required to make a return under this chapter, the return shall include:</p>
+            </content>
+            <paragraph eId="59_10_505__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>all income attributable to the individual's personal services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_505__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>all other items of the individual's income.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_505__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The income of an individual who is a minor may not be included on the return of the individual's parent.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_505__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An expenditure attributable to the income of an individual who is a minor that is made by the individual or the individual's parent is considered to have been paid or incurred by the individual who is a minor.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_505__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A tax assessed against an individual who is a minor, to the extent attributable to income from personal services, if not paid by the individual, for all purposes is considered as being properly assessable against the individual's parent.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

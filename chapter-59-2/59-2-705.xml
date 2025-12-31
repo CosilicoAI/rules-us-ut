@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-705"/>
+          <FRBRuri value="/us-ut/act/code/59-2-705"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-705/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-705/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-705/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-705/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_705">
+          <num>59-2-705</num>
+          <heading>Personal property audits -- Records confidential -- Cost.</heading>
+          <content>
+            <p>59-2-705.
+Personal property audits -- Records confidential -- Cost.
+(1)
+The commission shall provide the services of qualified personal property appraisers for the purpose of auditing taxable personal property accounts in each county.  The results of the audits shall be reported to the assessor of the county. The reports shall constitute the confidential records of the commission and the assessor's office but the commission or the assessor may publish statistical information based upon the audits.  The accounts to be audited shall be determined by the commission and the county assessor.
+(2)
+The costs of all personal property audits made pursuant to Subsection
+(1)
+shall be computed by the commission upon the basis of the number of days of services rendered, and 70% of the cost shall be borne by the commission and 30% by the county.  To assist the counties in budgeting for these services, the commission shall submit to each county assessor not later than May 1 of each year an estimate of the costs of the audits for the following fiscal year.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_2_705__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall provide the services of qualified personal property appraisers for the purpose of auditing taxable personal property accounts in each county.  The results of the audits shall be reported to the assessor of the county. The reports shall constitute the confidential records of the commission and the assessor's office but the commission or the assessor may publish statistical information based upon the audits.  The accounts to be audited shall be determined by the commission and the county assessor.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_705__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The costs of all personal property audits made pursuant to Subsection shall be computed by the commission upon the basis of the number of days of services rendered, and 70% of the cost shall be borne by the commission and 30% by the county.  To assist the counties in budgeting for these services, the commission shall submit to each county assessor not later than May 1 of each year an estimate of the costs of the audits for the following fiscal year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

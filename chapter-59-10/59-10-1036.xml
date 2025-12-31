@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1036"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1036"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1036/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1036/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1036/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1036/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1036">
+          <num>59-10-1036</num>
+          <heading>Nonrefundable tax credit for military survivor benefits.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-1036.
+Nonrefundable tax credit for military survivor benefits.
+(1)
+As used in this section:
+(a)
+&quot;Dependent child&quot; means the same as that term is defined in 10 U.S.C. Sec. 1447.
+(b)
+&quot;Reserve components&quot; means the same as that term is described in 10 U.S.C. Sec. 10101.
+(c)
+&quot;Surviving spouse&quot; means the same as that term is defined in 10 U.S.C. Sec. 1447.
+(d)
+&quot;Survivor benefits&quot; means the amount paid by the federal government in accordance with 10 U.S.C. Secs. 1447 through 1455.
+(2)
+A surviving spouse or dependent child may claim a nonrefundable tax credit for survivor benefits if the benefits are paid due to:
+(a)
+the death of a member of the armed forces or reserve components while on active duty; or
+(b)
+the death of a member of the reserve components that results from a service-connected cause while performing inactive duty training.
+(3)
+The tax credit described in Subsection
+(2)
+is equal to the product of:
+(a)
+the amount of survivor benefits that the surviving spouse or dependent child received during the taxable year; and
+(b)
+the percentage listed in Subsection
+59-10-104(2)
+.
+(4)
+The tax credit described in Subsection
+(2)
+:
+(a)
+may not be carried forward or carried back; and
+(b)
+applies to a taxable year beginning on or after January 1, 2017.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_1036__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1036__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Dependent child&quot; means the same as that term is defined in 10 U.S.C. Sec. 1447.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1036__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Reserve components&quot; means the same as that term is described in 10 U.S.C. Sec. 10101.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1036__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Surviving spouse&quot; means the same as that term is defined in 10 U.S.C. Sec. 1447.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1036__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Survivor benefits&quot; means the amount paid by the federal government in accordance with 10 U.S.C. Secs. 1447 through 1455.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1036__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A surviving spouse or dependent child may claim a nonrefundable tax credit for survivor benefits if the benefits are paid due to:</p>
+            </content>
+            <paragraph eId="59_10_1036__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the death of a member of the armed forces or reserve components while on active duty; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1036__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the death of a member of the reserve components that results from a service-connected cause while performing inactive duty training.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1036__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax credit described in Subsection is equal to the product of:</p>
+            </content>
+            <paragraph eId="59_10_1036__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the amount of survivor benefits that the surviving spouse or dependent child received during the taxable year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1036__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the percentage listed in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1036__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax credit described in Subsection :</p>
+            </content>
+            <paragraph eId="59_10_1036__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>may not be carried forward or carried back; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1036__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>applies to a taxable year beginning on or after January 1, 2017.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

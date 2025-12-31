@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1503"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1503"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1503/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1503/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1503/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1503/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1503">
+          <num>59-2-1503</num>
+          <heading>Property tax treatment of transportable factory-built housing units.</heading>
+          <content>
+            <p>59-2-1503.
+Property tax treatment of transportable factory-built housing units.
+Regardless of whether a transportable factory-built housing unit is considered to be real property or personal property under Section
+70D-2-401
+, for purposes of this chapter:
+(1)
+a transportable factory-built housing unit that is located in a transportable factory-built housing unit park:
+(a)
+except as provided in Subsection
+(1)(b)
+, is considered to be personal property; and
+(b)
+notwithstanding Subsection
+(1)(a)
+, is considered to be real property if the owner of the transportable factory-built housing unit owns the real property upon which the transportable factory-built housing unit is located; and
+(2)
+a transportable factory-built housing unit that is not located in a transportable factory-built housing unit park:
+(a)
+except as provided in Subsection
+(2)(b)
+, is considered to be personal property; and
+(b)
+notwithstanding Subsection
+(2)(a)
+, is considered to be real property if the transportable factory-built housing unit is an improvement.
+Amended by Chapter
+72
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_2_1503__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>a transportable factory-built housing unit that is located in a transportable factory-built housing unit park:</p>
+            </content>
+            <paragraph eId="59_2_1503__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>except as provided in Subsection , is considered to be personal property; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1503__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>notwithstanding Subsection , is considered to be real property if the owner of the transportable factory-built housing unit owns the real property upon which the transportable factory-built housing unit is located; and</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1503__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>a transportable factory-built housing unit that is not located in a transportable factory-built housing unit park:</p>
+            </content>
+            <paragraph eId="59_2_1503__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>except as provided in Subsection , is considered to be personal property; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1503__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>notwithstanding Subsection , is considered to be real property if the transportable factory-built housing unit is an improvement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2214"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2214"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2214/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2214/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2214/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2214/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2214">
+          <num>59-12-2214</num>
+          <heading>County, city, or town option sales and use tax to fund a system for public transit, an airport facility, a water conservation project, or to be deposited into the County of the First Class Highway Projects Fund -- Base -- Rate.</heading>
+          <content>
+            <p>Effective 3/12/2025
+59-12-2214.
+County, city, or town option sales and use tax to fund a system for public transit, an airport facility, a water conservation project, or to be deposited into the County of the First Class Highway Projects Fund -- Base -- Rate.
+(1)
+Subject to the other provisions of this part, a county, city, or town may impose a sales and use tax of .25% on the transactions described in Subsection
+59-12-103(1)
+located within the county, city, or town.
+(2)
+Notwithstanding Section
+59-12-2212.2
+, and subject to Subsections
+(3)
+and
+(4)
+, a county, city, or town that imposes a sales and use tax under this section shall expend the revenues collected from the sales and use tax:
+(a)
+to fund a system for public transit;
+(b)
+to fund a project or service related to an airport facility for the portion of the project or service that is performed within the county, city, or town within which the sales and use tax is imposed:
+(i)
+for a county that imposes the sales and use tax, if the airport facility is part of the regional transportation plan of the area metropolitan planning organization if a metropolitan planning organization exists for the area; or
+(ii)
+for a city or town that imposes the sales and use tax, if:
+(A)
+that city or town is located within a county of the second class;
+(B)
+that city or town owns or operates the airport facility; and
+(C)
+an airline is headquartered in that city or town; or
+(c)
+for a combination of Subsections
+(2)(a)
+and
+(b)
+.
+(3)
+After application of Subsection
+59-12-2206(5)
+, a county of the first class that imposes a sales and use tax under this section shall expend the revenues collected from the sales and use tax as follows:
+(a)
+80% of the revenues collected from the sales and use tax shall be expended to fund a system for public transit; and
+(b)
+20% of the revenues collected from the sales and use tax shall be deposited into the County of the First Class Highway Projects Fund created by Section
+72-2-121
+.
+(4)
+(a)
+A county of the third class that has a portion of the county annexed into a large public transit district and that has imposed a sales and use tax under this section as of January 1, 2020, may change the list of purposes for which the sales and use tax revenue may be expended if:
+(i)
+the proposed uses of the sales and use tax revenue are allowed uses described in this section; and
+(ii)
+in coordination with a relevant large public transit district, the county legislative body passes an ordinance describing the allowed uses of the sales and use tax revenue.
+(b)
+Notwithstanding Section
+59-12-2208
+, and regardless of whether the imposition of the sales and use tax imposed under this section was submitted to the voters as described in Section
+59-12-2208
+, the county legislative body is not required to submit an opinion question to the county's registered voters to change the allowed uses as described in Subsection
+(4)(a)
+.
+Amended by Chapter
+29
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_12_2214__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this part, a county, city, or town may impose a sales and use tax of .25% on the transactions described in Subsection located within the county, city, or town.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2214__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding Section , and subject to Subsections and , a county, city, or town that imposes a sales and use tax under this section shall expend the revenues collected from the sales and use tax:</p>
+            </content>
+            <paragraph eId="59_12_2214__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to fund a system for public transit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2214__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to fund a project or service related to an airport facility for the portion of the project or service that is performed within the county, city, or town within which the sales and use tax is imposed:</p>
+              </content>
+              <subparagraph eId="59_12_2214__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a county that imposes the sales and use tax, if the airport facility is part of the regional transportation plan of the area metropolitan planning organization if a metropolitan planning organization exists for the area; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2214__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a city or town that imposes the sales and use tax, if:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2214__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for a combination of Subsections and .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2214__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After application of Subsection , a county of the first class that imposes a sales and use tax under this section shall expend the revenues collected from the sales and use tax as follows:</p>
+            </content>
+            <paragraph eId="59_12_2214__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>80% of the revenues collected from the sales and use tax shall be expended to fund a system for public transit; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2214__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>20% of the revenues collected from the sales and use tax shall be deposited into the County of the First Class Highway Projects Fund created by Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2214__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_2214__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A county of the third class that has a portion of the county annexed into a large public transit district and that has imposed a sales and use tax under this section as of January 1, 2020, may change the list of purposes for which the sales and use tax revenue may be expended if:</p>
+              </content>
+              <subparagraph eId="59_12_2214__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the proposed uses of the sales and use tax revenue are allowed uses described in this section; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2214__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in coordination with a relevant large public transit district, the county legislative body passes an ordinance describing the allowed uses of the sales and use tax revenue.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2214__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding Section , and regardless of whether the imposition of the sales and use tax imposed under this section was submitted to the voters as described in Section , the county legislative body is not required to submit an opinion question to the county's registered voters to change the allowed uses as described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

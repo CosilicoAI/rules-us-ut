@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-514"/>
+          <FRBRuri value="/us-ut/act/code/59-10-514"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-514/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-514/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-514/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-514/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_514">
+          <num>59-10-514</num>
+          <heading>Return filing requirements -- Rulemaking authority.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-514.
+Return filing requirements -- Rulemaking authority.
+(1)
+(a)
+Subject to Subsection
+(3)
+and Section
+59-10-518
+:
+(i)
+an individual income tax return filed for a tax imposed in accordance with
+Part 1, Determination and Reporting of Tax Liability and Information
+, shall be filed with the commission on or before the day on which a federal individual income tax return is due;
+(ii)
+a fiduciary income tax return filed for a tax imposed in accordance with
+Part 2, Trusts and Estates
+, shall be filed with the commission on or before the day on which a federal return for estates and trusts is due; or
+(iii)
+a return filed in accordance with Section
+59-10-507
+shall be filed with the commission on or before the later of:
+(A)
+the 15th day of the fourth month following the last day of the taxpayer's taxable year; or
+(B)
+the day on which the taxpayer is required to file a federal income tax return.
+(b)
+Interest accrues from the day on which a return is due under this Subsection
+(1)
+.
+(2)
+A person required to make and file a return under this chapter shall, without assessment, notice, or demand, pay any tax due:
+(a)
+to the commission; and
+(b)
+before the due date for filing the return, without regard to any extension of time for filing the return.
+(3)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules prescribing what constitutes filing a return with the commission.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_514__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_514__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection and Section :</p>
+              </content>
+              <subparagraph eId="59_10_514__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an individual income tax return filed for a tax imposed in accordance with , shall be filed with the commission on or before the day on which a federal individual income tax return is due;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_514__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a fiduciary income tax return filed for a tax imposed in accordance with , shall be filed with the commission on or before the day on which a federal return for estates and trusts is due; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_514__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a return filed in accordance with Section shall be filed with the commission on or before the later of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_514__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Interest accrues from the day on which a return is due under this Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_514__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person required to make and file a return under this chapter shall, without assessment, notice, or demand, pay any tax due:</p>
+            </content>
+            <paragraph eId="59_10_514__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to the commission; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_514__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>before the due date for filing the return, without regard to any extension of time for filing the return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_514__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In accordance with , the commission may make rules prescribing what constitutes filing a return with the commission.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

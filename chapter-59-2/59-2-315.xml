@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-315"/>
+          <FRBRuri value="/us-ut/act/code/59-2-315"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-315/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-315/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-315/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-315/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_315">
+          <num>59-2-315</num>
+          <heading>Crime insurance -- Liability for willful failure or neglect of duty -- Judgment.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-2-315.
+Crime insurance -- Liability for willful failure or neglect of duty -- Judgment.
+(1)
+The assessor shall obtain crime insurance in relation to the duties of the assessor, in an amount set by the county legislative body.
+(2)
+The county attorney shall, upon showing of proper evidence and upon written demand by the commission or the county legislative body, commence and prosecute to judgment an action against the assessor for willful failure or neglect in assessing property.
+(3)
+If, during the trial of the action against the assessor, the value of the unassessed or underassessed property is determined, the assessor is liable for the difference between the amount of taxes collected and the amount of taxes which should have been collected pursuant to law.
+Amended by Chapter
+76
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_315__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The assessor shall obtain crime insurance in relation to the duties of the assessor, in an amount set by the county legislative body.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_315__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The county attorney shall, upon showing of proper evidence and upon written demand by the commission or the county legislative body, commence and prosecute to judgment an action against the assessor for willful failure or neglect in assessing property.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_315__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If, during the trial of the action against the assessor, the value of the unassessed or underassessed property is determined, the assessor is liable for the difference between the amount of taxes collected and the amount of taxes which should have been collected pursuant to law.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

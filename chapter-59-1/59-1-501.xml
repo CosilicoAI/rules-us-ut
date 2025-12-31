@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-501"/>
+          <FRBRuri value="/us-ut/act/code/59-1-501"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-501/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-501/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-501/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-501/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_501">
+          <num>59-1-501</num>
+          <heading>Procedure for obtaining redetermination of a deficiency -- Claim for refund.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-1-501.
+Procedure for obtaining redetermination of a deficiency -- Claim for refund.
+(1)
+As used in this section:
+(a)
+&quot;Legal holiday&quot; means the same as that term is defined in Section
+59-10-518
+.
+(b)
+&quot;Tax, fee, or charge&quot; means the same as that term is defined in Section
+59-1-1402
+.
+(2)
+A person may file a request for agency action, petitioning the commission for redetermination of a deficiency.
+(3)
+Subject to Subsections (4) through (6), a person shall file the request for agency action described in Subsection (2):
+(a)
+within a 30-day period after the date the commission mails a notice of deficiency to the person in accordance with Section
+59-1-1405
+; or
+(b)
+within a 90-day period after the date the commission mails a notice of deficiency to the person in accordance with Section
+59-1-1405
+if the notice of deficiency is addressed to a person outside the United States or the District of Columbia.
+(4)
+If the last day of a time period described in Subsection (3) is a Saturday, Sunday, or legal holiday, the last day for a person to file a request for agency action is the next day that is not a Saturday, Sunday, or legal holiday.
+(5)
+A person that mails a request for agency action shall mail the request for agency action in accordance with Section
+59-1-1404
+.
+(6)
+For purposes of Subsection (3), a person is considered to have filed a request for agency action:
+(a)
+if the person mails the request for agency action, on the date the person is considered to have mailed the request for agency action in accordance with Section
+59-1-1404
+; or
+(b)
+if the person delivers the request for agency action to the commission by a method other than mail, on the date the commission receives the request for agency action.
+(7)
+A person that has not previously filed a timely request for agency action in accordance with Subsection (3) may object to a final assessment issued by the commission by:
+(a)
+paying the tax, fee, or charge, penalty accrued in accordance with Section
+59-1-401
+, or interest accrued in accordance with Section
+59-1-402
+; and
+(b)
+filing a claim for a refund as provided in Section
+59-1-1410
+.
+Amended by Chapter
+275
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_1_501__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_1_501__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Legal holiday&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_501__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Tax, fee, or charge&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_501__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person may file a request for agency action, petitioning the commission for redetermination of a deficiency.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_501__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to Subsections (4) through (6), a person shall file the request for agency action described in Subsection (2):</p>
+            </content>
+            <paragraph eId="59_1_501__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>within a 30-day period after the date the commission mails a notice of deficiency to the person in accordance with Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_501__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>within a 90-day period after the date the commission mails a notice of deficiency to the person in accordance with Section if the notice of deficiency is addressed to a person outside the United States or the District of Columbia.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_501__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the last day of a time period described in Subsection (3) is a Saturday, Sunday, or legal holiday, the last day for a person to file a request for agency action is the next day that is not a Saturday, Sunday, or legal holiday.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_501__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A person that mails a request for agency action shall mail the request for agency action in accordance with Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_501__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>For purposes of Subsection (3), a person is considered to have filed a request for agency action:</p>
+            </content>
+            <paragraph eId="59_1_501__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if the person mails the request for agency action, on the date the person is considered to have mailed the request for agency action in accordance with Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_501__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the person delivers the request for agency action to the commission by a method other than mail, on the date the commission receives the request for agency action.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_501__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A person that has not previously filed a timely request for agency action in accordance with Subsection (3) may object to a final assessment issued by the commission by:</p>
+            </content>
+            <paragraph eId="59_1_501__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>paying the tax, fee, or charge, penalty accrued in accordance with Section , or interest accrued in accordance with Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_501__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>filing a claim for a refund as provided in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

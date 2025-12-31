@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1406"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1406"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1406/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1406/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1406/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1406/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1406">
+          <num>59-1-1406</num>
+          <heading>Record retention -- Commission estimates tax if person fails to file a return.</heading>
+          <content>
+            <p>59-1-1406.
+Record retention -- Commission estimates tax if person fails to file a return.
+(1)
+A person subject to a tax, fee, or charge shall:
+(a)
+keep in a form prescribed by the commission books and records that are necessary to determine the amount of a tax, fee, or charge the person owes;
+(b)
+keep books and records described in Subsection
+(1)(a)
+for the time period during which an assessment may be made under Section
+59-1-1408
+; and
+(c)
+open the person's books and records for examination at any time by:
+(i)
+the commission; or
+(ii)
+an agent or representative the commission designates.
+(2)
+(a)
+If a person required to file a return with the commission fails to file the return with the commission, the commission may estimate the tax, fee, or charge due from the best information or knowledge the commission can obtain.
+(b)
+An estimate the commission makes under Subsection
+(2)(a)
+is considered to be a return filed on the date the commission makes the estimate.
+(3)
+For the purpose of ascertaining the correctness of a return or for estimating a tax, fee, or charge due in accordance with Subsection
+(2)(a)
+, the commission may:
+(a)
+examine the books and records bearing upon the matter required to be included in a return;
+(b)
+authorize an agent or representative designated by the commission to examine the books and records bearing upon the matter required to be included in a return;
+(c)
+require the attendance of:
+(i)
+an officer or employee of a person required to make a return; or
+(ii)
+a person having knowledge of a pertinent fact;
+(d)
+take testimony; or
+(e)
+require any other necessary information.
+Enacted by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_1406__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person subject to a tax, fee, or charge shall:</p>
+            </content>
+            <paragraph eId="59_1_1406__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>keep in a form prescribed by the commission books and records that are necessary to determine the amount of a tax, fee, or charge the person owes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>keep books and records described in Subsection for the time period during which an assessment may be made under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>open the person's books and records for examination at any time by:</p>
+              </content>
+              <subparagraph eId="59_1_1406__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the commission; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1406__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an agent or representative the commission designates.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1406__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_1_1406__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a person required to file a return with the commission fails to file the return with the commission, the commission may estimate the tax, fee, or charge due from the best information or knowledge the commission can obtain.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An estimate the commission makes under Subsection is considered to be a return filed on the date the commission makes the estimate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1406__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For the purpose of ascertaining the correctness of a return or for estimating a tax, fee, or charge due in accordance with Subsection , the commission may:</p>
+            </content>
+            <paragraph eId="59_1_1406__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>examine the books and records bearing upon the matter required to be included in a return;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>authorize an agent or representative designated by the commission to examine the books and records bearing upon the matter required to be included in a return;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>require the attendance of:</p>
+              </content>
+              <subparagraph eId="59_1_1406__subsec_3__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an officer or employee of a person required to make a return; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1406__subsec_3__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a person having knowledge of a pertinent fact;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>take testimony; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1406__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>require any other necessary information.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

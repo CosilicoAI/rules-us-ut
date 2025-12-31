@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1027"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1027"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1027/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1027/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1027/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1027/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1027">
+          <num>59-10-1027</num>
+          <heading>Nonrefundable tax credit for combat related death.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-1027.
+Nonrefundable tax credit for combat related death.
+(1)
+As used in this section:
+(a)
+&quot;Active component of the United States Armed Forces&quot; means active duty service in the United States Army, United States Navy, United States Air Force, United States Marine Corps, United States Space Force, or United States Coast Guard.
+(b)
+&quot;Combat related death&quot; means an individual who dies:
+(i)
+on or after January 1, 2010; and
+(ii)
+(A)
+while in military service in a combat zone; or
+(B)
+as a result of a wound, disease, or injury the individual incurs while in military service in a combat zone.
+(c)
+&quot;Combat zone&quot; means an area that the President of the United States designates by Executive Order as an area in which an active component of the United States Armed Forces or a reserve component of the United States Armed Forces are or have engaged in combat.
+(d)
+&quot;Military service in a combat zone&quot; means service:
+(i)
+in an active component of the United States Armed Forces or reserve component of the United States Armed Forces; and
+(ii)
+performed:
+(A)
+on or after the date the President of the United States designates by Executive Order as the date combatant activities begin in a combat zone; and
+(B)
+on or before the date the President of the United States designates by Executive Order as the date combatant activities terminate in a combat zone.
+(e)
+&quot;Reserve component of the United States Armed Forces&quot; means service in a reserve component of the armed forces listed in 10 U.S.C. Sec. 101(c) or 10 U.S.C. Sec. 10101.
+(2)
+A claimant, estate, or trust that files a return on behalf of an individual who dies a combat related death may claim a nonrefundable tax credit against that individual's tax liability under this chapter as provided in this section.
+(3)
+For purposes of Subsection
+(2)
+, the tax credit is equal to the tax liability of the individual who dies a combat related death for the taxable year during which the individual dies.
+Amended by Chapter
+93
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_1027__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1027__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Active component of the United States Armed Forces&quot; means active duty service in the United States Army, United States Navy, United States Air Force, United States Marine Corps, United States Space Force, or United States Coast Guard.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1027__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Combat related death&quot; means an individual who dies:</p>
+              </content>
+              <subparagraph eId="59_10_1027__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on or after January 1, 2010; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1027__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1027__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Combat zone&quot; means an area that the President of the United States designates by Executive Order as an area in which an active component of the United States Armed Forces or a reserve component of the United States Armed Forces are or have engaged in combat.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1027__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Military service in a combat zone&quot; means service:</p>
+              </content>
+              <subparagraph eId="59_10_1027__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>in an active component of the United States Armed Forces or reserve component of the United States Armed Forces; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1027__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>performed:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1027__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Reserve component of the United States Armed Forces&quot; means service in a reserve component of the armed forces listed in 10 U.S.C. Sec. 101(c) or 10 U.S.C. Sec. 10101.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1027__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A claimant, estate, or trust that files a return on behalf of an individual who dies a combat related death may claim a nonrefundable tax credit against that individual's tax liability under this chapter as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1027__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of Subsection , the tax credit is equal to the tax liability of the individual who dies a combat related death for the taxable year during which the individual dies.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

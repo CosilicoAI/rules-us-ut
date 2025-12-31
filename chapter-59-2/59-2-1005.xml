@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1005"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1005/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1005/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1005">
+          <num>59-2-1005</num>
+          <heading>Procedures for appeal of personal property valuation -- Time for appeal -- Hearing -- Decision -- Appeal to commission.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-2-1005.
+Procedures for appeal of personal property valuation -- Time for appeal -- Hearing -- Decision -- Appeal to commission.
+(1)
+(a)
+Except as provided in Section
+59-2-306.5
+, a taxpayer owning personal property assessed by a county assessor under Section
+59-2-301
+may make an appeal relating to the value of the personal property by filing an application with the county legislative body no later than:
+(i)
+the expiration of the time allowed under Section
+59-2-306
+for filing a signed statement, if the county assessor requests a signed statement under Section
+59-2-306
+; or
+(ii)
+60 days after the mailing of the tax notice, for each other taxpayer.
+(b)
+A county legislative body shall:
+(i)
+after giving reasonable notice, hear an appeal filed under Subsection (1)(a); and
+(ii)
+render a written decision on the appeal within 60 days after receiving the appeal.
+(c)
+If the taxpayer is dissatisfied with a county legislative body decision under Subsection (1)(b), the taxpayer may file an appeal with the commission in accordance with Section
+59-2-1006
+.
+(2)
+A taxpayer owning personal property subject to a fee in lieu of tax or a uniform tax under Article XIII, Section 2 of the Utah Constitution that is based on the value of the property may appeal the basis of the value by filing an appeal with the commission within 30 days after the mailing of the tax notice.
+Amended by Chapter
+315
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_1005__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1005__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Section , a taxpayer owning personal property assessed by a county assessor under Section may make an appeal relating to the value of the personal property by filing an application with the county legislative body no later than:</p>
+              </content>
+              <subparagraph eId="59_2_1005__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the expiration of the time allowed under Section for filing a signed statement, if the county assessor requests a signed statement under Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1005__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>60 days after the mailing of the tax notice, for each other taxpayer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1005__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county legislative body shall:</p>
+              </content>
+              <subparagraph eId="59_2_1005__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>after giving reasonable notice, hear an appeal filed under Subsection (1)(a); and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1005__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>render a written decision on the appeal within 60 days after receiving the appeal.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1005__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If the taxpayer is dissatisfied with a county legislative body decision under Subsection (1)(b), the taxpayer may file an appeal with the commission in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1005__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A taxpayer owning personal property subject to a fee in lieu of tax or a uniform tax under Article XIII, Section 2 of the Utah Constitution that is based on the value of the property may appeal the basis of the value by filing an appeal with the commission within 30 days after the mailing of the tax notice.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

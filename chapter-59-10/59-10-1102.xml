@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1102"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1102/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1102/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1102">
+          <num>59-10-1102</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>59-10-1102.
+Definitions.
+As used in this part:
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+or Subsection
+59-10-1103(1)(a)
+, &quot;claimant&quot; means a resident or nonresident person.
+(b)
+&quot;Claimant&quot; does not include an estate or trust.
+(2)
+Except as provided in Subsection
+59-10-1103(1)(a)
+, &quot;estate&quot; means a nonresident estate or a resident estate.
+(3)
+&quot;Refundable tax credit&quot; or &quot;tax credit&quot; means a tax credit that a claimant, estate, or trust may claim:
+(a)
+as provided by statute; and
+(b)
+regardless of whether the claimant, estate, or trust has a tax liability under this chapter for a taxable year.
+(4)
+Except as provided in Subsection
+59-10-1103(1)(a)
+, &quot;trust&quot; means a nonresident trust or a resident trust.
+Enacted by Chapter
+223
+, 2006 General Session</p>
+          </content>
+          <subsection eId="59_10_1102__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_1102__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection or Subsection , &quot;claimant&quot; means a resident or nonresident person.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1102__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Claimant&quot; does not include an estate or trust.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1102__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in Subsection , &quot;estate&quot; means a nonresident estate or a resident estate.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1102__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Refundable tax credit&quot; or &quot;tax credit&quot; means a tax credit that a claimant, estate, or trust may claim:</p>
+            </content>
+            <paragraph eId="59_10_1102__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>as provided by statute; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1102__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>regardless of whether the claimant, estate, or trust has a tax liability under this chapter for a taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1102__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as provided in Subsection , &quot;trust&quot; means a nonresident trust or a resident trust.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-107"/>
+          <FRBRuri value="/us-ut/act/code/59-2-107"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-107/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-107/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-107/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-107/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_107">
+          <num>59-2-107</num>
+          <heading>Classes of personal property -- Rulemaking authority.</heading>
+          <content>
+            <p>59-2-107.
+Classes of personal property -- Rulemaking authority.
+The commission shall make rules:
+(1)
+in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+;
+(2)
+defining classes of items considered to be personal property for purposes of this chapter;
+(3)
+defining items that fall into the classes established under Subsection
+(2)
+; and
+(4)
+defining any class or item as personal property if the commission defined that class or item as personal property prior to January 1, 2004, by:
+(a)
+a rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+;
+(b)
+a published decision of the commission; or
+(c)
+an official schedule published by the commission.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_2_107__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>in accordance with ;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_107__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>defining classes of items considered to be personal property for purposes of this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_107__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>defining items that fall into the classes established under Subsection ; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_107__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>defining any class or item as personal property if the commission defined that class or item as personal property prior to January 1, 2004, by:</p>
+            </content>
+            <paragraph eId="59_2_107__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a rule made in accordance with ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_107__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a published decision of the commission; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_107__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an official schedule published by the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

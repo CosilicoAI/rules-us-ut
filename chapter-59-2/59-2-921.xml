@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-921"/>
+          <FRBRuri value="/us-ut/act/code/59-2-921"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-921/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-921/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-921/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-921/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_921">
+          <num>59-2-921</num>
+          <heading>Changes in assessment roll -- Rate adjustments -- Exemption from notice and public hearing provisions.</heading>
+          <content>
+            <p>59-2-921.
+Changes in assessment roll -- Rate adjustments -- Exemption from notice and public hearing provisions.
+(1)
+On or before September 15 the county board of equalization and, in cases involving the original jurisdiction of the commission or an appeal from the county board of equalization, the commission, shall annually notify each taxing entity of the following changes resulting from actions by the commission or the county board of equalization:
+(a)
+a change in the taxing entity's assessment roll; and
+(b)
+a change in the taxing entity's adopted tax rate.
+(2)
+A taxing entity is not required to comply with the notice and public hearing provisions of Section
+59-2-919
+if the commission, the county board of equalization, or a court of competent jurisdiction:
+(a)
+changes a taxing entity's adopted tax rate; or
+(b)
+(i)
+makes a reduction in the taxing entity's assessment roll; and
+(ii)
+the taxing entity adopts by resolution an increase in its tax rate above the certified tax rate as a result of the reduction under Subsection
+(2)(b)(i)
+.
+(3)
+A rate adjustment under this section for:
+(a)
+a taxing entity shall be:
+(i)
+made by the county auditor;
+(ii)
+aggregated;
+(iii)
+reported by the county auditor to the commission; and
+(iv)
+certified by the commission; and
+(b)
+the state shall be made by the commission.
+Amended by Chapter
+204
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_2_921__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>On or before September 15 the county board of equalization and, in cases involving the original jurisdiction of the commission or an appeal from the county board of equalization, the commission, shall annually notify each taxing entity of the following changes resulting from actions by the commission or the county board of equalization:</p>
+            </content>
+            <paragraph eId="59_2_921__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a change in the taxing entity's assessment roll; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_921__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a change in the taxing entity's adopted tax rate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_921__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A taxing entity is not required to comply with the notice and public hearing provisions of Section if the commission, the county board of equalization, or a court of competent jurisdiction:</p>
+            </content>
+            <paragraph eId="59_2_921__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>changes a taxing entity's adopted tax rate; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_921__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_921__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>makes a reduction in the taxing entity's assessment roll; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_921__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the taxing entity adopts by resolution an increase in its tax rate above the certified tax rate as a result of the reduction under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_921__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A rate adjustment under this section for:</p>
+            </content>
+            <paragraph eId="59_2_921__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a taxing entity shall be:</p>
+              </content>
+              <subparagraph eId="59_2_921__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>made by the county auditor;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_921__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>aggregated;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_921__subsec_3__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>reported by the county auditor to the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_921__subsec_3__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>certified by the commission; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_921__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the state shall be made by the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-321"/>
+          <FRBRuri value="/us-ut/act/code/59-2-321"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-321/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-321/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-321/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-321/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_321">
+          <num>59-2-321</num>
+          <heading>Extension of taxes on assessment book.</heading>
+          <content>
+            <p>59-2-321.
+Extension of taxes on assessment book.
+(1)
+The property taxes of each city, town, school, and special taxing district shall be extended on the assessment book by the county auditor at the rate certified by the governing body of the city, town, school, and special taxing district at the time the state and county taxes are extended.
+(2)
+The whole tax shall be carried into a column of aggregates, and shall be collected by the county treasurer at the time and in the manner provided by law for collecting state and county taxes.
+Amended by Chapter
+271
+, 1995 General Session</p>
+          </content>
+          <subsection eId="59_2_321__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The property taxes of each city, town, school, and special taxing district shall be extended on the assessment book by the county auditor at the rate certified by the governing body of the city, town, school, and special taxing district at the time the state and county taxes are extended.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_321__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The whole tax shall be carried into a column of aggregates, and shall be collected by the county treasurer at the time and in the manner provided by law for collecting state and county taxes.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

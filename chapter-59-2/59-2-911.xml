@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-911"/>
+          <FRBRuri value="/us-ut/act/code/59-2-911"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-911/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-911/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-911/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-911/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_911">
+          <num>59-2-911</num>
+          <heading>Exceptions to maximum levy limitation.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-911.
+Exceptions to maximum levy limitation.
+(1)
+The maximum levies set forth in Section
+59-2-908
+do not apply to and do not include:
+(a)
+levies made to pay outstanding judgment debts;
+(b)
+levies made in any special improvement districts;
+(c)
+levies made for extended services in any county service area;
+(d)
+levies made for county library services;
+(e)
+levies made for county animal welfare services;
+(f)
+levies made to be used for storm water, flood, and water quality control;
+(g)
+levies made to share disaster recovery expenses for public facilities and structures as a condition of state assistance when a Presidential Declaration has been issued under the Disaster Relief Act of 1974, 42 U.S.C. Sec. 5121;
+(h)
+levies made to pay interest and provide for a sinking fund in connection with any bonded or voter authorized indebtedness, including the bonded or voter authorized indebtedness of county service areas, special service districts, and special improvement districts;
+(i)
+levies made to fund local health departments;
+(j)
+levies made to fund public transit districts;
+(k)
+levies made to establish, maintain, and replenish special improvement guaranty funds;
+(l)
+levies made in any special service district;
+(m)
+levies made to fund municipal-type services to unincorporated areas of counties under Title
+17, Chapter 78, Part 5
+, Provision of Municipal-Type Services to Unincorporated Areas;
+(n)
+levies made to fund the purchase of paramedic or ambulance facilities and equipment and to defray administration, personnel, and other costs of providing emergency medical and paramedic services, but this exception only applies to those counties in which a resolution setting forth the intention to make those levies has been duly adopted by the county legislative body and approved by a majority of the voters of the county voting at a special or general election;
+(o)
+the multicounty and county assessing and collecting levies under Section
+59-2-1602
+; and
+(p)
+all other exceptions to the maximum levy limitation pursuant to statute.
+(2)
+(a)
+Upon the retirement of bonds issued for the development of a convention complex described in Section
+17-63-904
+, and notwithstanding Section
+59-2-908
+, any county of the first class may continue to impose a property tax levy equivalent to the average property tax levy previously imposed to pay debt service on those retired bonds.
+(b)
+Notwithstanding that the imposition of the levy described in Subsection
+(2)(a)
+may not result in an increased amount of ad valorem tax revenue, the levy is subject to the notice requirements of Section
+59-2-919
+.
+(c)
+The revenue from this continued levy shall be used only for the funding of convention facilities as defined in Section
+59-12-602
+.
+Amended by Chapter
+17
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_2_911__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The maximum levies set forth in Section do not apply to and do not include:</p>
+            </content>
+            <paragraph eId="59_2_911__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>levies made to pay outstanding judgment debts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>levies made in any special improvement districts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>levies made for extended services in any county service area;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>levies made for county library services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>levies made for county animal welfare services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>levies made to be used for storm water, flood, and water quality control;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>levies made to share disaster recovery expenses for public facilities and structures as a condition of state assistance when a Presidential Declaration has been issued under the Disaster Relief Act of 1974, 42 U.S.C. Sec. 5121;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>levies made to pay interest and provide for a sinking fund in connection with any bonded or voter authorized indebtedness, including the bonded or voter authorized indebtedness of county service areas, special service districts, and special improvement districts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>levies made to fund local health departments;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>levies made to fund public transit districts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>levies made to establish, maintain, and replenish special improvement guaranty funds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>levies made in any special service district;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>levies made to fund municipal-type services to unincorporated areas of counties under Title , Provision of Municipal-Type Services to Unincorporated Areas;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>levies made to fund the purchase of paramedic or ambulance facilities and equipment and to defray administration, personnel, and other costs of providing emergency medical and paramedic services, but this exception only applies to those counties in which a resolution setting forth the intention to make those levies has been duly adopted by the county legislative body and approved by a majority of the voters of the county voting at a special or general election;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_o">
+              <num>(o)</num>
+              <content>
+                <p>the multicounty and county assessing and collecting levies under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_1__para_p">
+              <num>(p)</num>
+              <content>
+                <p>all other exceptions to the maximum levy limitation pursuant to statute.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_911__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_911__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon the retirement of bonds issued for the development of a convention complex described in Section , and notwithstanding Section , any county of the first class may continue to impose a property tax levy equivalent to the average property tax levy previously imposed to pay debt service on those retired bonds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding that the imposition of the levy described in Subsection may not result in an increased amount of ad valorem tax revenue, the levy is subject to the notice requirements of Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_911__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The revenue from this continued levy shall be used only for the funding of convention facilities as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

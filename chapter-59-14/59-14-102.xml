@@ -1,0 +1,634 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-102"/>
+          <FRBRuri value="/us-ut/act/code/59-14-102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-102/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-102/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_102">
+          <num>59-14-102</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-14-102.
+Definitions.
+As used in this chapter:
+(1)
+&quot;Alternative nicotine product&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(2)
+&quot;Cigarette&quot; means a roll made wholly or in part of tobacco:
+(a)
+regardless of:
+(i)
+the size of the roll;
+(ii)
+the shape of the roll;
+(iii)
+whether the tobacco is flavored, adulterated, or mixed with any other ingredient; or
+(iv)
+whether the tobacco is heated or burned; and
+(b)
+if the roll has a wrapper or cover that is made of paper or any other substance or material except tobacco.
+(3)
+&quot;Cigarette rolling machine&quot; means a device or machine that has the capability to produce at least 150 cigarettes in less than 30 minutes.
+(4)
+&quot;Cigarette rolling machine operator&quot; means a person who:
+(a)
+(i)
+controls, leases, owns, possesses, or otherwise has available for use a cigarette rolling machine; and
+(ii)
+makes the cigarette rolling machine available for use by another person to produce a cigarette; or
+(b)
+offers for sale, at retail, a cigarette produced from the cigarette rolling machine.
+(5)
+&quot;Consumer&quot; means a person that is not required:
+(a)
+under Section
+59-14-201
+to obtain a license under Section
+59-14-202
+;
+(b)
+under Section
+59-14-301
+to obtain a license under Section
+59-14-202
+; or
+(c)
+to obtain a license under Section
+59-14-803
+.
+(6)
+&quot;Counterfeit cigarette&quot; means:
+(a)
+a cigarette that has a false manufacturing label; or
+(b)
+a package of cigarettes bearing a counterfeit tax stamp.
+(7)
+(a)
+&quot;Electronic cigarette&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(b)
+&quot;Electronic cigarette&quot; does not include a cigarette or a tobacco product.
+(8)
+&quot;Electronic cigarette product&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(9)
+&quot;Electronic cigarette substance&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(10)
+&quot;Importer&quot; means a person that imports into the United States, either directly or indirectly, a finished cigarette for sale or distribution.
+(11)
+&quot;Indian tribal entity&quot; means a federally recognized Indian tribe, tribal entity, or any other person doing business as a distributor or retailer of cigarettes on tribal lands located in the state.
+(12)
+&quot;Little cigar&quot; means a roll for smoking that:
+(a)
+is made wholly or in part of tobacco;
+(b)
+uses an integrated cellulose acetate filter or other similar filter; and
+(c)
+is wrapped in a substance:
+(i)
+containing tobacco; and
+(ii)
+that is not exclusively natural leaf tobacco.
+(13)
+(a)
+Except as provided in Subsection
+(13)(b)
+, &quot;manufacturer&quot; means a person that:
+(i)
+manufactures, fabricates, assembles, processes, or labels a finished cigarette; or
+(ii)
+makes, modifies, mixes, manufactures, fabricates, assembles, processes, labels, repackages, relabels, or imports an electronic cigarette product or a nicotine product.
+(b)
+&quot;Manufacturer&quot; does not include a cigarette rolling machine operator.
+(14)
+&quot;Moist snuff&quot; means tobacco that:
+(a)
+is finely cut, ground, or powdered;
+(b)
+has at least 45% moisture content, as determined by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+;
+(c)
+is not intended to be:
+(i)
+smoked; or
+(ii)
+placed in the nasal cavity; and
+(d)
+except for single-use pouches of loose tobacco, is not packaged, produced, sold, or distributed in single-use units, including:
+(i)
+tablets;
+(ii)
+lozenges;
+(iii)
+strips;
+(iv)
+sticks; or
+(v)
+packages containing multiple single-use units.
+(15)
+&quot;Nicotine&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(16)
+&quot;Nicotine product&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(17)
+&quot;Nontherapeutic nicotine device&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(18)
+&quot;Nontherapeutic nicotine device substance&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(19)
+&quot;Nontherapeutic nicotine product&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(20)
+&quot;Prefilled electronic cigarette&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(21)
+&quot;Prefilled nontherapeutic nicotine device&quot; means the same as that term is defined in Section
+76-9-1101
+.
+(22)
+&quot;Retailer&quot; means a person that:
+(a)
+sells or distributes a cigarette, an electronic cigarette product, or a nicotine product to a consumer in the state; or
+(b)
+intends to sell or distribute a cigarette, an electronic cigarette product, or a nicotine product to a consumer in the state.
+(23)
+&quot;Stamp&quot; means the indicia required to be placed on a cigarette package that evidences payment of the tax on cigarettes required by Section
+59-14-205
+.
+(24)
+(a)
+&quot;Tobacco product&quot; means a product made of, or containing, tobacco.
+(b)
+&quot;Tobacco product&quot; includes:
+(i)
+a cigarette produced from a cigarette rolling machine;
+(ii)
+a little cigar; or
+(iii)
+moist snuff.
+(c)
+&quot;Tobacco product&quot; does not include a cigarette.
+(25)
+&quot;Tribal lands&quot; means land held by the United States in trust for a federally recognized Indian tribe.
+Amended by Chapter
+173
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_14_102__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Alternative nicotine product&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Cigarette&quot; means a roll made wholly or in part of tobacco:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>regardless of:</p>
+              </content>
+              <subparagraph eId="59_14_102__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the size of the roll;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the shape of the roll;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>whether the tobacco is flavored, adulterated, or mixed with any other ingredient; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_2__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>whether the tobacco is heated or burned; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the roll has a wrapper or cover that is made of paper or any other substance or material except tobacco.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Cigarette rolling machine&quot; means a device or machine that has the capability to produce at least 150 cigarettes in less than 30 minutes.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Cigarette rolling machine operator&quot; means a person who:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_4__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_14_102__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>controls, leases, owns, possesses, or otherwise has available for use a cigarette rolling machine; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>makes the cigarette rolling machine available for use by another person to produce a cigarette; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>offers for sale, at retail, a cigarette produced from the cigarette rolling machine.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Consumer&quot; means a person that is not required:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>under Section to obtain a license under Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>under Section to obtain a license under Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>to obtain a license under Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Counterfeit cigarette&quot; means:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a cigarette that has a false manufacturing label; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a package of cigarettes bearing a counterfeit tax stamp.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_14_102__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Electronic cigarette&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Electronic cigarette&quot; does not include a cigarette or a tobacco product.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Electronic cigarette product&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>&quot;Electronic cigarette substance&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>&quot;Importer&quot; means a person that imports into the United States, either directly or indirectly, a finished cigarette for sale or distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Indian tribal entity&quot; means a federally recognized Indian tribe, tribal entity, or any other person doing business as a distributor or retailer of cigarettes on tribal lands located in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>&quot;Little cigar&quot; means a roll for smoking that:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is made wholly or in part of tobacco;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>uses an integrated cellulose acetate filter or other similar filter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_12__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is wrapped in a substance:</p>
+              </content>
+              <subparagraph eId="59_14_102__subsec_12__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>containing tobacco; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_12__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>that is not exclusively natural leaf tobacco.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_13">
+            <num>(13)</num>
+            <paragraph eId="59_14_102__subsec_13__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , &quot;manufacturer&quot; means a person that:</p>
+              </content>
+              <subparagraph eId="59_14_102__subsec_13__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>manufactures, fabricates, assembles, processes, or labels a finished cigarette; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_13__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>makes, modifies, mixes, manufactures, fabricates, assembles, processes, labels, repackages, relabels, or imports an electronic cigarette product or a nicotine product.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_13__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Manufacturer&quot; does not include a cigarette rolling machine operator.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>&quot;Moist snuff&quot; means tobacco that:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_14__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is finely cut, ground, or powdered;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_14__para_b">
+              <num>(b)</num>
+              <content>
+                <p>has at least 45% moisture content, as determined by the commission by rule made in accordance with ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_14__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is not intended to be:</p>
+              </content>
+              <subparagraph eId="59_14_102__subsec_14__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>smoked; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_14__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>placed in the nasal cavity; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_14__para_d">
+              <num>(d)</num>
+              <content>
+                <p>except for single-use pouches of loose tobacco, is not packaged, produced, sold, or distributed in single-use units, including:</p>
+              </content>
+              <subparagraph eId="59_14_102__subsec_14__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>tablets;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_14__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>lozenges;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_14__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>strips;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_14__para_d__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>sticks; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_14__para_d__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>packages containing multiple single-use units.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>&quot;Nicotine&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>&quot;Nicotine product&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>&quot;Nontherapeutic nicotine device&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>&quot;Nontherapeutic nicotine device substance&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>&quot;Nontherapeutic nicotine product&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>&quot;Prefilled electronic cigarette&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>&quot;Prefilled nontherapeutic nicotine device&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>&quot;Retailer&quot; means a person that:</p>
+            </content>
+            <paragraph eId="59_14_102__subsec_22__para_a">
+              <num>(a)</num>
+              <content>
+                <p>sells or distributes a cigarette, an electronic cigarette product, or a nicotine product to a consumer in the state; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_22__para_b">
+              <num>(b)</num>
+              <content>
+                <p>intends to sell or distribute a cigarette, an electronic cigarette product, or a nicotine product to a consumer in the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>&quot;Stamp&quot; means the indicia required to be placed on a cigarette package that evidences payment of the tax on cigarettes required by Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_102__subsec_24">
+            <num>(24)</num>
+            <paragraph eId="59_14_102__subsec_24__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Tobacco product&quot; means a product made of, or containing, tobacco.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_24__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Tobacco product&quot; includes:</p>
+              </content>
+              <subparagraph eId="59_14_102__subsec_24__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a cigarette produced from a cigarette rolling machine;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_24__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a little cigar; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_102__subsec_24__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>moist snuff.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_102__subsec_24__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Tobacco product&quot; does not include a cigarette.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_102__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>&quot;Tribal lands&quot; means land held by the United States in trust for a federally recognized Indian tribe.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

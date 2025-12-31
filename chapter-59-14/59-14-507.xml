@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-507"/>
+          <FRBRuri value="/us-ut/act/code/59-14-507"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-507/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-507/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-507/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-507/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_507">
+          <num>59-14-507</num>
+          <heading>Penalty for violation.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-14-507.
+Penalty for violation.
+A violation of any of the following sections is a class B misdemeanor:
+(1)
+Section
+59-14-501
+, Warning labels required;
+(2)
+Section
+59-14-502
+, Requirements for placement of warning labels;
+(3)
+Section
+59-14-504
+, Responsibility for placement of warning labels; or
+(4)
+Section
+59-14-509
+, Restrictions on mail order or Internet sales.
+Amended by Chapter
+173
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_14_507__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Section , Warning labels required;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_507__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Section , Requirements for placement of warning labels;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_507__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Section , Responsibility for placement of warning labels; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_507__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Section , Restrictions on mail order or Internet sales.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,304 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-801"/>
+          <FRBRuri value="/us-ut/act/code/59-12-801"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-801/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-801/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-801/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-801/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_801">
+          <num>59-12-801</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-12-801.
+Definitions.
+As used in this part:
+(1)
+&quot;Emergency medical services&quot; means the same as that term is defined in Section
+53-2d-101
+.
+(2)
+&quot;Federally qualified health center&quot; means the same as that term is defined in 42 U.S.C. Sec. 1395x.
+(3)
+&quot;Freestanding urgent care center&quot; means a facility that provides outpatient health care service:
+(a)
+on an as-needed basis, without an appointment;
+(b)
+to the public;
+(c)
+for the diagnosis and treatment of a medical condition if that medical condition does not require hospitalization or emergency intervention for a life threatening or potentially permanently disabling condition; and
+(d)
+including one or more of the following services:
+(i)
+a medical history physical examination;
+(ii)
+an assessment of health status; or
+(iii)
+treatment:
+(A)
+for a variety of medical conditions; and
+(B)
+that is commonly offered in a physician's office.
+(4)
+&quot;Nursing care facility&quot; means the same as that term is defined in Section
+26B-2-201
+.
+(5)
+&quot;Rural city hospital&quot; means a hospital owned by a city that is located within a third, fourth, fifth, or sixth class county.
+(6)
+&quot;Rural county health care facility&quot; means a:
+(a)
+rural county hospital; or
+(b)
+rural county nursing care facility.
+(7)
+&quot;Rural county hospital&quot; means a hospital owned by a county that is:
+(a)
+a third, fourth, fifth, or sixth class county, as defined in Section
+17-60-104
+; and
+(b)
+located outside of a standard metropolitan statistical area, as designated by the United States Bureau of the Census.
+(8)
+&quot;Rural county nursing care facility&quot; means a nursing care facility owned by:
+(a)
+a county that is:
+(i)
+a third, fourth, fifth, or sixth class county, as defined in Section
+17-60-104
+; and
+(ii)
+located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau; or
+(b)
+a special service district if the special service district is:
+(i)
+created for the purpose of operating the nursing care facility; and
+(ii)
+within a county that is:
+(A)
+a third, fourth, fifth, or sixth class county, as defined in Section
+17-60-104
+; and
+(B)
+located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau.
+(9)
+&quot;Rural emergency medical services&quot; means emergency medical services that are provided by a county that is:
+(a)
+a third, fourth, fifth, or sixth class county, as defined in Section
+17-60-104
+; and
+(b)
+located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau.
+(10)
+&quot;Rural health clinic&quot; means the same as that term is defined in 42 U.S.C. Sec. 1395x.
+Amended by Chapter
+17
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_12_801__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Emergency medical services&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_801__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Federally qualified health center&quot; means the same as that term is defined in 42 U.S.C. Sec. 1395x.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_801__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Freestanding urgent care center&quot; means a facility that provides outpatient health care service:</p>
+            </content>
+            <paragraph eId="59_12_801__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>on an as-needed basis, without an appointment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to the public;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for the diagnosis and treatment of a medical condition if that medical condition does not require hospitalization or emergency intervention for a life threatening or potentially permanently disabling condition; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>including one or more of the following services:</p>
+              </content>
+              <subparagraph eId="59_12_801__subsec_3__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a medical history physical examination;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_801__subsec_3__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an assessment of health status; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_801__subsec_3__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>treatment:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_801__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Nursing care facility&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_801__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Rural city hospital&quot; means a hospital owned by a city that is located within a third, fourth, fifth, or sixth class county.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_801__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Rural county health care facility&quot; means a:</p>
+            </content>
+            <paragraph eId="59_12_801__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>rural county hospital; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>rural county nursing care facility.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_801__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Rural county hospital&quot; means a hospital owned by a county that is:</p>
+            </content>
+            <paragraph eId="59_12_801__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a third, fourth, fifth, or sixth class county, as defined in Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>located outside of a standard metropolitan statistical area, as designated by the United States Bureau of the Census.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_801__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Rural county nursing care facility&quot; means a nursing care facility owned by:</p>
+            </content>
+            <paragraph eId="59_12_801__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a county that is:</p>
+              </content>
+              <subparagraph eId="59_12_801__subsec_8__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a third, fourth, fifth, or sixth class county, as defined in Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_801__subsec_8__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a special service district if the special service district is:</p>
+              </content>
+              <subparagraph eId="59_12_801__subsec_8__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>created for the purpose of operating the nursing care facility; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_801__subsec_8__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>within a county that is:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_801__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>&quot;Rural emergency medical services&quot; means emergency medical services that are provided by a county that is:</p>
+            </content>
+            <paragraph eId="59_12_801__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a third, fourth, fifth, or sixth class county, as defined in Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_801__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>located outside of a standard metropolitan statistical area, as designated by the United States Census Bureau.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_801__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>&quot;Rural health clinic&quot; means the same as that term is defined in 42 U.S.C. Sec. 1395x.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

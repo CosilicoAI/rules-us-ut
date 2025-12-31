@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-508"/>
+          <FRBRuri value="/us-ut/act/code/59-14-508"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-508/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-508/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-508/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-508/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_508">
+          <num>59-14-508</num>
+          <heading>Federal laws to supersede these requirements.</heading>
+          <content>
+            <p>59-14-508.
+Federal laws to supersede these requirements.
+In the event federal legislation requiring warning labels on smokeless tobacco products is enacted, the requirements of that legislation shall supersede the requirements of Sections
+59-14-501
+through
+59-14-507
+.
+Renumbered and Amended by Chapter
+2
+, 1987 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

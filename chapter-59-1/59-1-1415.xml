@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1415"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1415"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1415/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1415/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1415/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1415/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1415">
+          <num>59-1-1415</num>
+          <heading>Release of lien.</heading>
+          <content>
+            <p>59-1-1415.
+Release of lien.
+The commission may release property from a lien placed under this part:
+(1)
+if the commission determines that the interests of the state will not be jeopardized by the release; and
+(2)
+under conditions the commission may require.
+Enacted by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_1415__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>if the commission determines that the interests of the state will not be jeopardized by the release; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1415__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>under conditions the commission may require.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

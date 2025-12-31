@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-704"/>
+          <FRBRuri value="/us-ut/act/code/59-1-704"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-704/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-704/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-704/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-704/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_704">
+          <num>59-1-704</num>
+          <heading>Restraint of collection restricted.</heading>
+          <content>
+            <p>59-1-704.
+Restraint of collection restricted.
+(1)
+Except as otherwise provided in
+Chapter 1, Part 5, Petitions for Redetermination of Deficiencies
+,
+Part 6, Judicial Review
+, and
+Part 7, Termination and Jeopardy Assessments Procedure
+and
+Chapter 2, Property Tax Act
+,
+Chapter 6, Mineral Production Tax Withholding
+,
+Chapter 7, Corporate Franchise and Income Taxes
+,
+Chapter 10, Individual Income Tax Act
+, and
+Chapter 12, Sales and Use Tax Act
+and the rules promulgated thereunder, no suit for the purpose of restraining the assessment or collection of any tax, penalty, or interest imposed under
+Chapter 1, General Taxation Policies
+,
+Chapter 2, Property Tax Act
+,
+Chapter 6, Mineral Production Tax Withholding
+,
+Chapter 7, Corporate Franchise and Income Taxes
+,
+Chapter 10, Individual Income Tax Act
+, or
+Chapter 12, Sales and Use Tax Act
+may be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed.
+(2)
+No suit may be maintained in any court for the purpose of restraining the assessment or collection of the amount of the state tax liability of a transferee or of a fiduciary of property of a taxpayer.
+Amended by Chapter
+9
+, 2001 General Session</p>
+          </content>
+          <subsection eId="59_1_704__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided in , , and and , , , , and and the rules promulgated thereunder, no suit for the purpose of restraining the assessment or collection of any tax, penalty, or interest imposed under , , , , , or may be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_704__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>No suit may be maintained in any court for the purpose of restraining the assessment or collection of the amount of the state tax liability of a transferee or of a fiduciary of property of a taxpayer.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

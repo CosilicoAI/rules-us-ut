@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-507"/>
+          <FRBRuri value="/us-ut/act/code/59-2-507"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-507/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-507/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-507/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-507/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_507">
+          <num>59-2-507</num>
+          <heading>Land included as agricultural -- Site of residence excluded -- Taxation of structures and site of residence.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-507.
+Land included as agricultural -- Site of residence excluded -- Taxation of structures and site of residence.
+(1)
+(a)
+Land under barns, sheds, silos, cribs, greenhouses and like structures, lakes, dams, ponds, streams, and irrigation ditches and like facilities is included in determining the total area of land actively devoted to agricultural use.
+(b)
+Land that is under a residence and land used in connection with a residence is excluded from the determination described in Subsection
+(1)(a)
+.
+(2)
+The following shall be valued, assessed, and taxed using the same standards, methods, and procedures that apply to other taxable structures and other land in the county:
+(a)
+a structure, except as provided in Subsection
+(3)
+, that is located on land in agricultural use;
+(b)
+a residence and the land on which the residence is located; and
+(c)
+land used in connection with a residence.
+(3)
+A high tunnel, as defined in Section
+10-20-613
+, is exempt from assessment for taxation purposes.
+Amended by Chapter
+15
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_2_507__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_507__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Land under barns, sheds, silos, cribs, greenhouses and like structures, lakes, dams, ponds, streams, and irrigation ditches and like facilities is included in determining the total area of land actively devoted to agricultural use.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_507__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Land that is under a residence and land used in connection with a residence is excluded from the determination described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_507__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The following shall be valued, assessed, and taxed using the same standards, methods, and procedures that apply to other taxable structures and other land in the county:</p>
+            </content>
+            <paragraph eId="59_2_507__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a structure, except as provided in Subsection , that is located on land in agricultural use;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_507__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a residence and the land on which the residence is located; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_507__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>land used in connection with a residence.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_507__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A high tunnel, as defined in Section , is exempt from assessment for taxation purposes.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

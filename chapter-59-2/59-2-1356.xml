@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1356"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1356"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1356/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1356/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1356/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1356/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1356">
+          <num>59-2-1356</num>
+          <heading>Sale -- Certificate of sale to be issued.</heading>
+          <content>
+            <p>59-2-1356.
+Sale -- Certificate of sale to be issued.
+If any foreclosure sale is made, the sheriff shall give to the purchaser a certificate of sale as in the case of sales upon execution, and shall file a duplicate of the certificate with the county recorder and county auditor. Where any property has been purchased by the county at any foreclosure sale, the certificate of sale may be sold and assigned by it to any person upon payment of a sum not less than the amount for which it was sold to the county, together with interest.  The assignee acquires all the rights of the county in the property.
+Repealed and Re-enacted by Chapter
+3
+, 1988 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

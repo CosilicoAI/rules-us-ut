@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-117"/>
+          <FRBRuri value="/us-ut/act/code/59-12-117"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-117/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-117/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-117/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-117/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_117">
+          <num>59-12-117</num>
+          <heading>Refusal to make or falsifying returns -- Evasion of payment of a tax -- Aiding or abetting an attempt to evade the payment of a tax -- Penalties -- Criminal violations.</heading>
+          <content>
+            <p>59-12-117.
+Refusal to make or falsifying returns -- Evasion of payment of a tax -- Aiding or abetting an attempt to evade the payment of a tax -- Penalties -- Criminal violations.
+(1)
+It is unlawful for any seller to:
+(a)
+refuse to make any return required to be made under this chapter;
+(b)
+make any false or fraudulent return or false statement on any return;
+(c)
+evade the payment of a tax, or any part of a tax imposed by this chapter; or
+(d)
+aid or abet another in any attempt to evade the payment of the tax or any part imposed by this chapter.
+(2)
+Any person violating any of the provisions of this chapter, except as provided in Section
+59-12-107
+, is guilty of a criminal violation as provided in Section
+59-1-401
+.
+(3)
+In addition to the penalties described in Subsection
+(2)
+, any person who knowingly swears to or verifies any false or fraudulent return, or any return containing any false or fraudulent statement is guilty of the offense of perjury and on conviction of perjury shall be punished in the manner provided by law.
+(4)
+Any company making a false return or a return containing a false statement is guilty of a criminal violation as provided in Section
+59-1-401
+.
+(5)
+Any person failing or refusing to furnish any return required to be made, failing or refusing to furnish a supplemental return or other data required by the commission, or rendering a false or fraudulent return is guilty of a criminal violation as provided in Section
+59-1-401
+for each offense.
+(6)
+Any person required to make, render, sign, or verify any report under this chapter, who makes any false or fraudulent return with intent to defeat or evade the assessment or determination of amount due required by law to be made is guilty of a criminal violation as provided in Section
+59-1-401
+for each offense.
+(7)
+Any violation of the provisions of this chapter, except as otherwise provided, shall be a criminal violation as provided in Section
+59-1-401
+.
+Amended by Chapter
+158
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_12_117__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is unlawful for any seller to:</p>
+            </content>
+            <paragraph eId="59_12_117__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>refuse to make any return required to be made under this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_117__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>make any false or fraudulent return or false statement on any return;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_117__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>evade the payment of a tax, or any part of a tax imposed by this chapter; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_117__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>aid or abet another in any attempt to evade the payment of the tax or any part imposed by this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_117__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person violating any of the provisions of this chapter, except as provided in Section , is guilty of a criminal violation as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_117__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In addition to the penalties described in Subsection , any person who knowingly swears to or verifies any false or fraudulent return, or any return containing any false or fraudulent statement is guilty of the offense of perjury and on conviction of perjury shall be punished in the manner provided by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_117__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any company making a false return or a return containing a false statement is guilty of a criminal violation as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_117__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any person failing or refusing to furnish any return required to be made, failing or refusing to furnish a supplemental return or other data required by the commission, or rendering a false or fraudulent return is guilty of a criminal violation as provided in Section for each offense.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_117__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Any person required to make, render, sign, or verify any report under this chapter, who makes any false or fraudulent return with intent to defeat or evade the assessment or determination of amount due required by law to be made is guilty of a criminal violation as provided in Section for each offense.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_117__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Any violation of the provisions of this chapter, except as otherwise provided, shall be a criminal violation as provided in Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

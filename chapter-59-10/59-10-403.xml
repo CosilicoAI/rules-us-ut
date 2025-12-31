@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-403"/>
+          <FRBRuri value="/us-ut/act/code/59-10-403"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-403/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-403/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-403/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-403/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_403">
+          <num>59-10-403</num>
+          <heading>Circumstances under which an employer is not required to deduct and withhold a tax.</heading>
+          <content>
+            <p>Effective 5/13/2014
+59-10-403.
+Circumstances under which an employer is not required to deduct and withhold a tax.
+(1)
+Notwithstanding any other provision of this chapter, an employer is not required to deduct and withhold any tax under this chapter upon a payment of wages to an employee:
+(a)
+if there is in effect with respect to the payment a withholding exemption certificate  furnished to the employer by the employee, certifying that the employee:
+(i)
+incurred no liability for a tax imposed under this chapter for the employee's immediately preceding taxable year; and
+(ii)
+expects that the employee will not incur liability for a tax imposed under this chapter for the employee's current taxable year; or
+(b)
+if the employer:
+(i)
+is an out-of-state business as defined in Section
+53-2a-1202
+; and
+(ii)
+pays the wages as compensation for services performed in response to a declared state disaster or emergency as defined in Section
+53-2a-1202
+.
+(2)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission shall provide for the coordination of this section with Section
+59-10-402
+.
+Amended by Chapter
+376
+, 2014 General Session</p>
+          </content>
+          <subsection eId="59_10_403__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other provision of this chapter, an employer is not required to deduct and withhold any tax under this chapter upon a payment of wages to an employee:</p>
+            </content>
+            <paragraph eId="59_10_403__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if there is in effect with respect to the payment a withholding exemption certificate  furnished to the employer by the employee, certifying that the employee:</p>
+              </content>
+              <subparagraph eId="59_10_403__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>incurred no liability for a tax imposed under this chapter for the employee's immediately preceding taxable year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_403__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>expects that the employee will not incur liability for a tax imposed under this chapter for the employee's current taxable year; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_403__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the employer:</p>
+              </content>
+              <subparagraph eId="59_10_403__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is an out-of-state business as defined in Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_403__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>pays the wages as compensation for services performed in response to a declared state disaster or emergency as defined in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_403__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In accordance with , the commission shall provide for the coordination of this section with Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

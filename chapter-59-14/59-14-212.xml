@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-212"/>
+          <FRBRuri value="/us-ut/act/code/59-14-212"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-212/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-212/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-212/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-212/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_212">
+          <num>59-14-212</num>
+          <heading>Reporting of imported cigarettes -- Penalty.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-14-212.
+Reporting of imported cigarettes -- Penalty.
+(1)
+Except as provided under Subsection
+(2)
+, any manufacturer, distributor, wholesaler, or retail dealer who under Section
+59-14-205
+affixes a stamp to an individual package or container of cigarettes imported to the United States shall provide to the commission the following as they pertain to the imported cigarettes:
+(a)
+a copy of the importer's federal import permit;
+(b)
+the customs form showing the tax information required by federal law;
+(c)
+a statement signed under penalty of perjury by the manufacturer or importer that the manufacturer or importer has complied with:
+(i)
+15 U.S.C. 1333 of the Federal Cigarette Labeling and Advertising Act, regarding warning labels and other package information; and
+(ii)
+15 U.S.C. 1335a of the Federal Cigarette Labeling and Advertising Act, regarding reporting of added ingredients;
+(d)
+the name of the person from whom the person affixing the stamp received the cigarettes;
+(e)
+the name of the person to whom the person affixing the stamp delivered the cigarettes, unless the person receiving the cigarettes was the ultimate consumer;
+(f)
+the quantity of cigarettes in the package or container; and
+(g)
+the brand and brand style of the cigarettes.
+(2)
+Subsection
+(1)
+does not apply to cigarettes sold or intended to be sold as duty-free merchandise by a duty-free sales enterprise in accordance with the provisions of 19 U.S.C. 1555(b) and any implementing regulations unless the cigarettes are brought back into the customs territory for resale within the customs territory.
+(3)
+The information under Subsection
+(1)
+shall be provided on a quarterly basis on forms specified by the agency.
+(4)
+A person who fails to comply with the reporting requirement or provides false or misleading information under Subsection
+(1)
+:
+(a)
+is guilty of a class B misdemeanor; and
+(b)
+may be subject to:
+(i)
+revocation or suspension of a license issued under Section
+59-14-202
+; and
+(ii)
+a civil penalty imposed by the commission in an amount not to exceed the greater of:
+(A)
+500% of the retail value of the cigarettes for which a report was not properly made; or
+(B)
+$5,000.
+(5)
+The information under Subsection
+(1)
+may be disclosed by the commission as provided under Subsection
+59-1-403(4)(g)
+.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_14_212__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided under Subsection , any manufacturer, distributor, wholesaler, or retail dealer who under Section affixes a stamp to an individual package or container of cigarettes imported to the United States shall provide to the commission the following as they pertain to the imported cigarettes:</p>
+            </content>
+            <paragraph eId="59_14_212__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a copy of the importer's federal import permit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the customs form showing the tax information required by federal law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a statement signed under penalty of perjury by the manufacturer or importer that the manufacturer or importer has complied with:</p>
+              </content>
+              <subparagraph eId="59_14_212__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>15 U.S.C. 1333 of the Federal Cigarette Labeling and Advertising Act, regarding warning labels and other package information; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_212__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>15 U.S.C. 1335a of the Federal Cigarette Labeling and Advertising Act, regarding reporting of added ingredients;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>the name of the person from whom the person affixing the stamp received the cigarettes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>the name of the person to whom the person affixing the stamp delivered the cigarettes, unless the person receiving the cigarettes was the ultimate consumer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>the quantity of cigarettes in the package or container; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>the brand and brand style of the cigarettes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_212__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsection does not apply to cigarettes sold or intended to be sold as duty-free merchandise by a duty-free sales enterprise in accordance with the provisions of 19 U.S.C. 1555(b) and any implementing regulations unless the cigarettes are brought back into the customs territory for resale within the customs territory.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_212__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The information under Subsection shall be provided on a quarterly basis on forms specified by the agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_212__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A person who fails to comply with the reporting requirement or provides false or misleading information under Subsection :</p>
+            </content>
+            <paragraph eId="59_14_212__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is guilty of a class B misdemeanor; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_212__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>may be subject to:</p>
+              </content>
+              <subparagraph eId="59_14_212__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>revocation or suspension of a license issued under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_212__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a civil penalty imposed by the commission in an amount not to exceed the greater of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_212__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The information under Subsection may be disclosed by the commission as provided under Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

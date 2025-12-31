@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-801"/>
+          <FRBRuri value="/us-ut/act/code/59-7-801"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-801/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-801/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-801/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-801/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_801">
+          <num>59-7-801</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>59-7-801.
+Definitions.
+For purposes of this part:
+(1)
+&quot;Unrelated business income&quot; means unrelated business income as determined under Section 512, Internal Revenue Code.
+(2)
+&quot;Utah unrelated business income&quot; means the unrelated business income apportioned to Utah in accordance with
+Part 3, Allocation and Apportionment of Income - Utah UDITPA Provisions
+.
+Amended by Chapter
+225
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_7_801__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Unrelated business income&quot; means unrelated business income as determined under Section 512, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_801__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Utah unrelated business income&quot; means the unrelated business income apportioned to Utah in accordance with .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-201"/>
+          <FRBRuri value="/us-ut/act/code/59-7-201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-201/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-201/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_201">
+          <num>59-7-201</num>
+          <heading>Tax -- Minimum tax.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-7-201.
+Tax -- Minimum tax.
+(1)
+There is imposed upon each corporation, except a corporation that is exempt under Section
+59-7-102
+, a tax upon the corporation's Utah taxable income for the taxable year that is derived from sources within this state other than income for any period that the corporation is required to include in the corporation's tax base under Section
+59-7-104
+.
+(2)
+The tax imposed by Subsection (1) shall be 4.5% of a corporation's Utah taxable income.
+(3)
+In no case shall the tax be less than $100.
+Amended by Chapter
+407
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_7_201__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is imposed upon each corporation, except a corporation that is exempt under Section , a tax upon the corporation's Utah taxable income for the taxable year that is derived from sources within this state other than income for any period that the corporation is required to include in the corporation's tax base under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_201__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax imposed by Subsection (1) shall be 4.5% of a corporation's Utah taxable income.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_201__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In no case shall the tax be less than $100.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

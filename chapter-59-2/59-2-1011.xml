@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1011"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1011/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1011/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1011">
+          <num>59-2-1011</num>
+          <heading>Record of changes -- Form and contents of signed statement.</heading>
+          <content>
+            <p>59-2-1011.
+Record of changes -- Form and contents of signed statement.
+The county auditor shall make a record of all changes, corrections, and orders and before October 15 shall affix a signed statement to the record, subscribed by the auditor, in a form substantially as follows:
+I, ____, do swear that, as county auditor of ____ county, I have kept correct minutes of all acts of the county board of equalization regarding alterations to the assessment rolls, that all alterations agreed to or directed to be made have been made and entered on the rolls, and that no changes or alterations have been made except those authorized by the board or the commission.
+Amended by Chapter
+86
+, 2000 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

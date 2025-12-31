@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-610"/>
+          <FRBRuri value="/us-ut/act/code/59-7-610"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-610/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-610/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-610/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-610/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_610">
+          <num>59-7-610</num>
+          <heading>Recycling market development zones tax credits.</heading>
+          <content>
+            <p>Effective 12/31/2024
+59-7-610.
+Recycling market development zones tax credits.
+(1)
+Subject to other provisions of this section, a taxpayer that is a business operating in a recycling market development zone as defined in Section
+19-13-102
+may claim the following nonrefundable tax credits:
+(a)
+a tax credit equal to the product of the percentage listed in Subsection
+59-7-104(2)
+and the purchase price paid for machinery and equipment used directly in:
+(i)
+commercial composting; or
+(ii)
+manufacturing facilities or plant units that:
+(A)
+manufacture, process, compound, or produce recycled items of tangible personal property for sale; or
+(B)
+reduce or reuse postconsumer waste material; and
+(b)
+a tax credit equal to the lesser of:
+(i)
+20% of net expenditures to third parties for rent, wages, supplies, tools, test inventory, and utilities made by the taxpayer for establishing and operating recycling or composting technology in the state; and
+(ii)
+$2,000.
+(2)
+(a)
+To claim a tax credit described in Subsection
+(1)
+, the taxpayer shall receive from the Department of Environmental Quality a written certification, on a form approved by the commission, that includes:
+(i)
+a statement that the taxpayer is operating a business within the boundaries of a recycling market development zone;
+(ii)
+for a claim of the tax credit described in Subsection
+(1)(a)
+:
+(A)
+the type of the machinery and equipment that the taxpayer purchased;
+(B)
+the date that the taxpayer purchased the machinery and equipment;
+(C)
+the purchase price for the machinery and equipment;
+(D)
+the total purchase price for all machinery and equipment for which the taxpayer is claiming a tax credit;
+(E)
+a statement that the machinery and equipment are integral to the composting or recycling process; and
+(F)
+the amount of the taxpayer's tax credit; and
+(iii)
+for a claim of the tax credit described in Subsection
+(1)(b)
+:
+(A)
+the type of net expenditure that the taxpayer made to a third party;
+(B)
+the date that the taxpayer made the payment to a third party;
+(C)
+the amount that the taxpayer paid to each third party;
+(D)
+the total amount that the taxpayer paid to all third parties;
+(E)
+a statement that the net expenditures support the establishment and operation of recycling or composting technology in the state; and
+(F)
+the amount of the taxpayer's tax credit.
+(b)
+(i)
+The Department of Environmental Quality shall provide a taxpayer seeking to claim a tax credit under Subsection
+(1)
+with a copy of the written certification.
+(ii)
+The taxpayer shall retain a copy of the written certification for the same period of time that a person is required to keep books and records under Section
+59-1-1406
+.
+(c)
+The Department of Environmental Quality shall submit to the commission an electronic list that includes:
+(i)
+the name and identifying information of each taxpayer to which the Department of Environmental Quality issues a written certification; and
+(ii)
+for each taxpayer, the amount of each tax credit listed on the written certification.
+(3)
+A taxpayer may not claim a tax credit under Subsection
+(1)(a)
+, Subsection
+(1)(b)
+, or both that exceeds 40% of the taxpayer's state income tax liability as the tax liability is calculated:
+(a)
+for the taxable year in which the taxpayer made the purchases or payments;
+(b)
+before any other tax credits the taxpayer may claim for the taxable year; and
+(c)
+before the taxpayer claims a tax credit authorized by this section.
+(4)
+The commission shall make rules governing what information a taxpayer shall file with the commission to verify the entitlement to and amount of a tax credit.
+(5)
+Except as provided in Subsections
+(6)
+through
+(8)
+, a taxpayer may carry forward, to the next three taxable years, the amount of a tax credit described in Subsection
+(1)(a)
+that the taxpayer does not use for the taxable year.
+(6)
+A taxpayer may not claim or carry forward a tax credit described in Subsection
+(1)(a)
+in a taxable year during which the taxpayer claims or carries forward a tax credit under Section
+63N-2-213
+.
+(7)
+A taxpayer may not claim a tax credit described in Subsection
+(1)(b)
+in a taxable year during which the taxpayer claims or carries forward a tax credit under Section
+63N-2-213
+.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_7_610__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to other provisions of this section, a taxpayer that is a business operating in a recycling market development zone as defined in Section may claim the following nonrefundable tax credits:</p>
+            </content>
+            <paragraph eId="59_7_610__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a tax credit equal to the product of the percentage listed in Subsection and the purchase price paid for machinery and equipment used directly in:</p>
+              </content>
+              <subparagraph eId="59_7_610__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>commercial composting; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_610__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>manufacturing facilities or plant units that:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_610__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a tax credit equal to the lesser of:</p>
+              </content>
+              <subparagraph eId="59_7_610__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>20% of net expenditures to third parties for rent, wages, supplies, tools, test inventory, and utilities made by the taxpayer for establishing and operating recycling or composting technology in the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_610__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>$2,000.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_610__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_610__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>To claim a tax credit described in Subsection , the taxpayer shall receive from the Department of Environmental Quality a written certification, on a form approved by the commission, that includes:</p>
+              </content>
+              <subparagraph eId="59_7_610__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a statement that the taxpayer is operating a business within the boundaries of a recycling market development zone;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_610__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a claim of the tax credit described in Subsection :</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_610__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>for a claim of the tax credit described in Subsection :</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_610__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_7_610__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The Department of Environmental Quality shall provide a taxpayer seeking to claim a tax credit under Subsection with a copy of the written certification.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_610__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The taxpayer shall retain a copy of the written certification for the same period of time that a person is required to keep books and records under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_610__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Environmental Quality shall submit to the commission an electronic list that includes:</p>
+              </content>
+              <subparagraph eId="59_7_610__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the name and identifying information of each taxpayer to which the Department of Environmental Quality issues a written certification; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_610__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for each taxpayer, the amount of each tax credit listed on the written certification.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_610__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A taxpayer may not claim a tax credit under Subsection , Subsection , or both that exceeds 40% of the taxpayer's state income tax liability as the tax liability is calculated:</p>
+            </content>
+            <paragraph eId="59_7_610__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for the taxable year in which the taxpayer made the purchases or payments;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_610__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>before any other tax credits the taxpayer may claim for the taxable year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_610__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>before the taxpayer claims a tax credit authorized by this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_610__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The commission shall make rules governing what information a taxpayer shall file with the commission to verify the entitlement to and amount of a tax credit.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_610__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Except as provided in Subsections through , a taxpayer may carry forward, to the next three taxable years, the amount of a tax credit described in Subsection that the taxpayer does not use for the taxable year.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_610__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A taxpayer may not claim or carry forward a tax credit described in Subsection in a taxable year during which the taxpayer claims or carries forward a tax credit under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_610__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A taxpayer may not claim a tax credit described in Subsection in a taxable year during which the taxpayer claims or carries forward a tax credit under Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

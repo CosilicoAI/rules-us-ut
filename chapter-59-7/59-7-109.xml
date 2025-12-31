@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-109"/>
+          <FRBRuri value="/us-ut/act/code/59-7-109"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-109/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-109/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-109/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-109/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_109">
+          <num>59-7-109</num>
+          <heading>Charitable contributions.</heading>
+          <content>
+            <p>59-7-109.
+Charitable contributions.
+(1)
+Except as provided in Subsection
+(2)
+, a subtraction is allowed for charitable contributions  made within the taxable year to organizations described in Section 170(c), Internal Revenue Code.
+(2)
+The aggregate amount of charitable contributions deductible under this section may not exceed 10% of the taxpayer's apportionable income. The limitation imposed in this subsection shall be calculated on a combined basis in a combined report.
+(3)
+Any charitable contribution made in a taxable year beginning on or after January 1, 1994, which is in excess of the amount allowed as a deduction under Subsection
+(2)
+may be carried over to the five succeeding taxable years in the same manner as allowed under federal law.
+Amended by Chapter
+311
+, 1995 General Session</p>
+          </content>
+          <subsection eId="59_7_109__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , a subtraction is allowed for charitable contributions  made within the taxable year to organizations described in Section 170(c), Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_109__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The aggregate amount of charitable contributions deductible under this section may not exceed 10% of the taxpayer's apportionable income. The limitation imposed in this subsection shall be calculated on a combined basis in a combined report.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_109__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any charitable contribution made in a taxable year beginning on or after January 1, 1994, which is in excess of the amount allowed as a deduction under Subsection may be carried over to the five succeeding taxable years in the same manner as allowed under federal law.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-301"/>
+          <FRBRuri value="/us-ut/act/code/59-14-301"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-301/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-301/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-301/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-301/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_301">
+          <num>59-14-301</num>
+          <heading>Registration and licensing -- Fee -- Bond exceptions.</heading>
+          <content>
+            <p>59-14-301.
+Registration and licensing -- Fee -- Bond exceptions.
+(1)
+All manufacturers and distributors of all tobacco products, as defined in Section
+59-14-102
+, who are responsible for the collection of tax on tobacco products under this chapter, and all retailers of all tobacco products:
+(a)
+shall register with the commission;
+(b)
+shall be licensed by the commission under
+Part 2, Cigarettes
+; and
+(c)
+are subject to the requirements, procedures, and penalties described in
+Part 2, Cigarettes
+.
+(2)
+A fee may not be charged for registration and licensing of manufacturers, jobbers, distributors, or retailers of tobacco products in addition to the cigarette license if such a license is required.
+(3)
+The commission shall require any manufacturer, wholesaler, retailer, or any other person subject to this section, and who is responsible for the collection of tax on tobacco products under this chapter, to post a bond as a prerequisite to registering.  The bond shall be in a form and an amount determined by the commission.  If the bond is required under Section
+59-14-201
+, the bond may be a combination, the minimum amount of which shall be $1,000.
+Amended by Chapter
+96
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_14_301__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All manufacturers and distributors of all tobacco products, as defined in Section , who are responsible for the collection of tax on tobacco products under this chapter, and all retailers of all tobacco products:</p>
+            </content>
+            <paragraph eId="59_14_301__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>shall register with the commission;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_301__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>shall be licensed by the commission under ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_301__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>are subject to the requirements, procedures, and penalties described in .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_301__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A fee may not be charged for registration and licensing of manufacturers, jobbers, distributors, or retailers of tobacco products in addition to the cigarette license if such a license is required.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_301__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall require any manufacturer, wholesaler, retailer, or any other person subject to this section, and who is responsible for the collection of tax on tobacco products under this chapter, to post a bond as a prerequisite to registering.  The bond shall be in a form and an amount determined by the commission.  If the bond is required under Section , the bond may be a combination, the minimum amount of which shall be $1,000.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

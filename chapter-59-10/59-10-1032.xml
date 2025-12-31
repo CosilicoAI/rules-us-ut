@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1032"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1032"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1032/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1032/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1032/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1032/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1032">
+          <num>59-10-1032</num>
+          <heading>Nonrefundable tax credit for employment of a person who is homeless.</heading>
+          <content>
+            <p>Effective 1/1/2015
+59-10-1032.
+Nonrefundable tax credit for employment of a person who is homeless.
+(1)
+As used in this section:
+(a)
+&quot;Eligible employer&quot; means a person who receives a tax credit certificate from the Department of Workforce Services in accordance with
+Title 35A, Chapter 5, Part 3, Tax Credit for Employment of Persons Who Are Homeless Act
+.
+(b)
+&quot;Person who is homeless&quot; is as defined in Section
+35A-5-302
+.
+(2)
+Subject to the other provisions of this section, an eligible employer that is a claimant, estate, or trust may claim a nonrefundable tax credit as provided in this section against a tax under this chapter.
+(3)
+The tax credit under this section is the amount of tax credit listed on a tax credit certificate that the Department of Workforce Services issues to an employer for a taxable year under
+Title 35A, Chapter 5, Part 3, Tax Credit for Employment of Persons Who Are Homeless Act
+.
+(4)
+An eligible employer may carry forward a tax credit under this section for a period that does not exceed the next five taxable years if:
+(a)
+the eligible employer is allowed to claim a tax credit under this section; and
+(b)
+the amount of the tax credit exceeds the eligible employer's tax liability under this chapter for that taxable year.
+(5)
+An eligible employer shall retain a tax credit certificate the eligible employer receives from the Department of Workforce Services for the same time period a person is required to keep books and records under Section
+59-1-1406
+.
+Enacted by Chapter
+315
+, 2014 General Session</p>
+          </content>
+          <subsection eId="59_10_1032__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1032__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Eligible employer&quot; means a person who receives a tax credit certificate from the Department of Workforce Services in accordance with .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1032__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Person who is homeless&quot; is as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1032__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the other provisions of this section, an eligible employer that is a claimant, estate, or trust may claim a nonrefundable tax credit as provided in this section against a tax under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1032__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax credit under this section is the amount of tax credit listed on a tax credit certificate that the Department of Workforce Services issues to an employer for a taxable year under .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1032__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An eligible employer may carry forward a tax credit under this section for a period that does not exceed the next five taxable years if:</p>
+            </content>
+            <paragraph eId="59_10_1032__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the eligible employer is allowed to claim a tax credit under this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1032__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the amount of the tax credit exceeds the eligible employer's tax liability under this chapter for that taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1032__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An eligible employer shall retain a tax credit certificate the eligible employer receives from the Department of Workforce Services for the same time period a person is required to keep books and records under Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1419"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1419"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1419/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1419/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1419/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1419/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1419">
+          <num>59-1-1419</num>
+          <heading>Venue -- Section does not affect right to seek judicial review.</heading>
+          <content>
+            <p>59-1-1419.
+Venue -- Section does not affect right to seek judicial review.
+(1)
+If the commission commences a proceeding relating to the following, the venue is the Third District Court in Salt Lake City:
+(a)
+failure to pay a liability;
+(b)
+failure to file a return; or
+(c)
+failure to supply information.
+(2)
+Nothing in this section affects a right to seek judicial review in accordance with
+Part 6, Judicial Review
+.
+Enacted by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_1419__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the commission commences a proceeding relating to the following, the venue is the Third District Court in Salt Lake City:</p>
+            </content>
+            <paragraph eId="59_1_1419__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>failure to pay a liability;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1419__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>failure to file a return; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1419__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>failure to supply information.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1419__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this section affects a right to seek judicial review in accordance with .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

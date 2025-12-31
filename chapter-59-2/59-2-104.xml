@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-104"/>
+          <FRBRuri value="/us-ut/act/code/59-2-104"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-104/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-104/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-104/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-104/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_104">
+          <num>59-2-104</num>
+          <heading>Situs of property for tax purposes.</heading>
+          <content>
+            <p>59-2-104.
+Situs of property for tax purposes.
+(1)
+The situs of all taxable property is the tax area where it is located.
+(2)
+Personal property, unless assessed by the commission, shall be assessed in the tax area where the owner is domiciled in this state on January 1, unless the owner demonstrates to the satisfaction of the county assessor that the personal property is usually kept in a tax area other than that of the domicile of the owner, in which case that property shall be assessed in the other tax area.
+(3)
+Land shall be assessed in parcels or subdivisions not exceeding 640 acres each, and tracts of land containing more than 640 acres, which have been sectioned by the United States government, shall be assessed by sections or fractions of sections.
+(4)
+The following property shall be listed and assessed in the county where the property is located:
+(a)
+public utilities, when operated wholly in one county;
+(b)
+bridges and ferries which are not public utilities, when operated wholly in one county;
+(c)
+electric light lines and similar improvements; and
+(d)
+canals, ditches, and flumes when separately taxable.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_2_104__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The situs of all taxable property is the tax area where it is located.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_104__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Personal property, unless assessed by the commission, shall be assessed in the tax area where the owner is domiciled in this state on January 1, unless the owner demonstrates to the satisfaction of the county assessor that the personal property is usually kept in a tax area other than that of the domicile of the owner, in which case that property shall be assessed in the other tax area.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_104__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Land shall be assessed in parcels or subdivisions not exceeding 640 acres each, and tracts of land containing more than 640 acres, which have been sectioned by the United States government, shall be assessed by sections or fractions of sections.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_104__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The following property shall be listed and assessed in the county where the property is located:</p>
+            </content>
+            <paragraph eId="59_2_104__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>public utilities, when operated wholly in one county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_104__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>bridges and ferries which are not public utilities, when operated wholly in one county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_104__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>electric light lines and similar improvements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_104__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>canals, ditches, and flumes when separately taxable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

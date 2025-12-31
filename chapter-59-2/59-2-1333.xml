@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1333"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1333"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1333/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1333/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1333/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1333/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1333">
+          <num>59-2-1333</num>
+          <heading>Errors or omissions -- In assessment book -- Authority to correct.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1333.
+Errors or omissions -- In assessment book -- Authority to correct.
+An omission, error, defect in form in the assessment roll, or clerical error, when it can be ascertained what was intended, may, with the consent of the county legislative body, be supplied or corrected by the assessor at any time before the sale for delinquent taxes or tax notice charges and after the original assessment or tax notice charge listing was made.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

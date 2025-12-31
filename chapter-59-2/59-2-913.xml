@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-913"/>
+          <FRBRuri value="/us-ut/act/code/59-2-913"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-913/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-913/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-913/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-913/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_913">
+          <num>59-2-913</num>
+          <heading>Definitions -- Statement of amount and purpose of levy -- Contents of statement -- Filing with county auditor -- Transmittal to commission -- Calculations for establishing tax levies -- Format of statement.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-913.
+Definitions -- Statement of amount and purpose of levy -- Contents of statement -- Filing with county auditor -- Transmittal to commission -- Calculations for establishing tax levies -- Format of statement.
+(1)
+As used in this section, &quot;budgeted property tax revenues&quot; does not include property tax revenue received by a taxing entity from personal property that is:
+(a)
+assessed by a county assessor in accordance with
+Part 3, County Assessment
+; and
+(b)
+semiconductor manufacturing equipment.
+(2)
+(a)
+The legislative body of each taxing entity shall file a statement as provided in this section with the county auditor of the county in which the taxing entity is located.
+(b)
+The auditor shall annually transmit the statement to the commission:
+(i)
+before June 22; or
+(ii)
+with the approval of the commission, on a subsequent date prior to the date required by Section
+59-2-1317
+for the county treasurer to provide the notice under Section
+59-2-1317
+.
+(c)
+The statement shall contain the amount and purpose of each levy fixed by the legislative body of the taxing entity.
+(3)
+For purposes of establishing the levy set for each of a taxing entity's applicable funds, the legislative body of the taxing entity shall calculate an amount determined by dividing the budgeted property tax revenues, specified in a budget that has been adopted and approved prior to setting the levy, by the amount calculated under Subsections
+59-2-924(4)(b)(i)
+through
+(iv)
+.
+(4)
+The format of the statement under this section shall:
+(a)
+be determined by the commission; and
+(b)
+cite any applicable statutory provisions that:
+(i)
+require a specific levy; or
+(ii)
+limit the property tax levy for any taxing entity.
+(5)
+The commission may require certification that the information submitted on a statement under this section is true and correct.
+Amended by Chapter
+368
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_913__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;budgeted property tax revenues&quot; does not include property tax revenue received by a taxing entity from personal property that is:</p>
+            </content>
+            <paragraph eId="59_2_913__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>assessed by a county assessor in accordance with ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_913__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>semiconductor manufacturing equipment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_913__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_913__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The legislative body of each taxing entity shall file a statement as provided in this section with the county auditor of the county in which the taxing entity is located.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_913__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The auditor shall annually transmit the statement to the commission:</p>
+              </content>
+              <subparagraph eId="59_2_913__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>before June 22; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_913__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>with the approval of the commission, on a subsequent date prior to the date required by Section for the county treasurer to provide the notice under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_913__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The statement shall contain the amount and purpose of each levy fixed by the legislative body of the taxing entity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_913__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of establishing the levy set for each of a taxing entity's applicable funds, the legislative body of the taxing entity shall calculate an amount determined by dividing the budgeted property tax revenues, specified in a budget that has been adopted and approved prior to setting the levy, by the amount calculated under Subsections through .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_913__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The format of the statement under this section shall:</p>
+            </content>
+            <paragraph eId="59_2_913__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>be determined by the commission; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_913__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>cite any applicable statutory provisions that:</p>
+              </content>
+              <subparagraph eId="59_2_913__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>require a specific levy; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_913__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>limit the property tax levy for any taxing entity.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_913__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission may require certification that the information submitted on a statement under this section is true and correct.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

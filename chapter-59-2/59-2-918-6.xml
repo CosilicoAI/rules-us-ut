@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-918.6"/>
+          <FRBRuri value="/us-ut/act/code/59-2-918.6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-918.6/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-918.6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-918.6/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-918.6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_918_6">
+          <num>59-2-918.6</num>
+          <heading>New and remaining school district budgets -- Advertisement -- Public hearing.</heading>
+          <content>
+            <p>Effective 3/22/2018
+59-2-918.6.
+New and remaining school district budgets -- Advertisement -- Public hearing.
+(1)
+As used in this section, &quot;existing school district,&quot; &quot;new school district,&quot; and &quot;remaining school district&quot; are as defined in Section
+53G-3-102
+.
+(2)
+For the first fiscal year in which a new school district created under Section
+53G-3-302
+assumes responsibility for providing student instruction, the new school district and the remaining school district or districts may not impose a property tax unless the district imposing the tax:
+(a)
+advertises its intention to do so in accordance with Subsection
+(3)
+; and
+(b)
+holds a public hearing in accordance with Subsection
+(4)
+.
+(3)
+The advertisement required by this section:
+(a)
+may be combined with the advertisement described in Section
+59-2-919
+;
+(b)
+shall be at least 1/4 of a page in size and shall meet the type, placement, and frequency requirements established under Section
+59-2-919
+; and
+(c)
+shall specify the date, time, and location of the public hearing at which the levy will be considered and shall set forth the total amount of the district's proposed property tax levy and the tax impact on an average residential and business property located within the taxing entity compared to the property tax levy imposed in the prior year by the existing school district.
+(4)
+(a)
+The date, time, and place of public hearings required by this section shall be included on the notice provided to property owners pursuant to Section
+59-2-919.1
+.
+(b)
+If a final decision regarding the property tax levy is not made at the public hearing, the school district shall announce at the public hearing the scheduled time and place for consideration and adoption of the budget and property tax levies.
+Amended by Chapter
+415
+, 2018 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

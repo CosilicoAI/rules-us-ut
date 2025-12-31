@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-407"/>
+          <FRBRuri value="/us-ut/act/code/59-10-407"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-407/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-407/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-407/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-407/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_407">
+          <num>59-10-407</num>
+          <heading>Withholding tax prepayments.</heading>
+          <content>
+            <p>59-10-407.
+Withholding tax prepayments.
+(1)
+This section does not apply to an employer filing a withholding tax return for a period under this part other than a quarterly period.
+(2)
+(a)
+Any employer whose withholding tax liability under Section
+59-10-402
+is estimated to average an amount designated by the commission by rule shall make a monthly prepayment of the amount required to be paid by Section
+59-10-406
+for each monthly period of each quarterly period.
+(b)
+An employer that makes a monthly prepayment described in this Subsection
+(2)
+shall make the monthly prepayment as provided in this section until the commission notifies the employer in writing.
+(c)
+(i)
+An employer shall file a form with a monthly prepayment.
+(ii)
+The commission shall prescribe and furnish the form described in Subsection
+(2)(c)(i)
+.
+(iii)
+An employer shall make a monthly prepayment and file the form described in Subsection
+(2)(c)(i)
+on or before the last day of the month after the end of each monthly period of each quarterly period.
+(3)
+In determining whether an employer's estimated withholding tax liability will average an amount that requires a monthly prepayment, the commission may consider:
+(a)
+a return filed pursuant to Section
+59-10-406
+; or
+(b)
+information in the commission's possession or that may come into the commission's possession.
+(4)
+The penalties and interest for failure to make a monthly prepayment and file the form described in Subsection
+(2)(c)(i)
+by the due date described in Subsection
+(2)(c)(iii)
+are the same as the penalties and interest under Sections
+59-1-401
+and
+59-1-402
+relating to payment of a tax, fee, or charge or filing a return.
+Amended by Chapter
+33
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_10_407__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>This section does not apply to an employer filing a withholding tax return for a period under this part other than a quarterly period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_407__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_407__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any employer whose withholding tax liability under Section is estimated to average an amount designated by the commission by rule shall make a monthly prepayment of the amount required to be paid by Section for each monthly period of each quarterly period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_407__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An employer that makes a monthly prepayment described in this Subsection shall make the monthly prepayment as provided in this section until the commission notifies the employer in writing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_407__subsec_2__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_10_407__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>An employer shall file a form with a monthly prepayment.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_407__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The commission shall prescribe and furnish the form described in Subsection .</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_407__subsec_2__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>An employer shall make a monthly prepayment and file the form described in Subsection on or before the last day of the month after the end of each monthly period of each quarterly period.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_407__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In determining whether an employer's estimated withholding tax liability will average an amount that requires a monthly prepayment, the commission may consider:</p>
+            </content>
+            <paragraph eId="59_10_407__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a return filed pursuant to Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_407__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>information in the commission's possession or that may come into the commission's possession.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_407__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The penalties and interest for failure to make a monthly prepayment and file the form described in Subsection by the due date described in Subsection are the same as the penalties and interest under Sections and relating to payment of a tax, fee, or charge or filing a return.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

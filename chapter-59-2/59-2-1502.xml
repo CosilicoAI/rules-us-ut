@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1502"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1502"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1502/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1502/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1502/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1502/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1502">
+          <num>59-2-1502</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>59-2-1502.
+Definitions.
+As used in this part:
+(1)
+&quot;Manufactured home&quot; is as defined in Section
+41-1a-102
+.
+(2)
+&quot;Mobile home&quot; is as defined in Section
+41-1a-102
+.
+(3)
+&quot;Transportable factory-built housing unit&quot; means a:
+(a)
+mobile home; or
+(b)
+manufactured home.
+(4)
+&quot;Transportable factory-built housing unit park&quot; means any tract of land on which two or more unit spaces are:
+(a)
+leased;
+(b)
+rented; or
+(c)
+offered for:
+(i)
+lease; or
+(ii)
+rent.
+(5)
+&quot;Unit space&quot; means a specific area of land within a transportable factory-built housing unit park that is designed to accommodate one transportable factory-built housing unit for residential purposes.
+Enacted by Chapter
+243
+, 2004 General Session</p>
+          </content>
+          <subsection eId="59_2_1502__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Manufactured home&quot; is as defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1502__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Mobile home&quot; is as defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1502__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Transportable factory-built housing unit&quot; means a:</p>
+            </content>
+            <paragraph eId="59_2_1502__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>mobile home; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1502__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>manufactured home.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1502__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Transportable factory-built housing unit park&quot; means any tract of land on which two or more unit spaces are:</p>
+            </content>
+            <paragraph eId="59_2_1502__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>leased;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1502__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>rented; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1502__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>offered for:</p>
+              </content>
+              <subparagraph eId="59_2_1502__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>lease; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1502__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>rent.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1502__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Unit space&quot; means a specific area of land within a transportable factory-built housing unit park that is designed to accommodate one transportable factory-built housing unit for residential purposes.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

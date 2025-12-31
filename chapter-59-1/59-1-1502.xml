@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1502"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1502"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1502/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1502/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1502/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1502/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1502">
+          <num>59-1-1502</num>
+          <heading>Specie legal tender is legal tender in the state -- Person may not compel another person to tender or accept specie legal tender -- Court or congressional action to authorize gold or silver coin or bullion as legal tender.</heading>
+          <content>
+            <p>Effective 5/1/2024
+59-1-1502.
+Specie legal tender is legal tender in the state -- Person may not compel another person to tender or accept specie legal tender -- Court or congressional action to authorize gold or silver coin or bullion as legal tender.
+(1)
+Specie legal tender is legal tender in the state.
+(2)
+Except as expressly provided by contract, a person may not compel any other person to tender or accept specie legal tender.
+(3)
+Gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, is considered to be specie legal tender and is legal tender in the state if:
+(a)
+a court of competent jurisdiction issues a final, unappealable judgment or order determining that the state may recognize the gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, as legal tender in the state; or
+(b)
+Congress enacts legislation that:
+(i)
+expressly provides that the gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, is legal tender in the state; or
+(ii)
+expressly allows the state to recognize the gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, as legal tender in the state.
+(4)
+A central bank digital currency, as defined in Section
+70A-1a-201
+, is not specie legal tender and is not legal tender in the state.
+Amended by Chapter
+129
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_1_1502__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Specie legal tender is legal tender in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1502__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as expressly provided by contract, a person may not compel any other person to tender or accept specie legal tender.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1502__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, is considered to be specie legal tender and is legal tender in the state if:</p>
+            </content>
+            <paragraph eId="59_1_1502__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a court of competent jurisdiction issues a final, unappealable judgment or order determining that the state may recognize the gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, as legal tender in the state; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1502__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Congress enacts legislation that:</p>
+              </content>
+              <subparagraph eId="59_1_1502__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>expressly provides that the gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, is legal tender in the state; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1502__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>expressly allows the state to recognize the gold or silver coin or bullion, other than gold or silver coin that is issued by the United States, as legal tender in the state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1502__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A central bank digital currency, as defined in Section , is not specie legal tender and is not legal tender in the state.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

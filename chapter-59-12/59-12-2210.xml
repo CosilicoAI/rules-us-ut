@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2210"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2210/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2210/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2210">
+          <num>59-12-2210</num>
+          <heading>Seller or certified service provider reliance on commission information.</heading>
+          <content>
+            <p>59-12-2210.
+Seller or certified service provider reliance on commission information.
+A seller or certified service provider is not liable for failing to collect a sales and use tax at a tax rate imposed under this part if the seller's or certified service provider's failure to collect the sales and use tax is as a result of the seller's or certified service provider's reliance on incorrect data provided by the commission in a database created by the commission:
+(1)
+containing tax rates, boundaries, or local taxing jurisdiction assignments; or
+(2)
+indicating the taxability of tangible personal property, a product transferred electronically, or a service.
+Enacted by Chapter
+263
+, 2010 General Session</p>
+          </content>
+          <subsection eId="59_12_2210__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>containing tax rates, boundaries, or local taxing jurisdiction assignments; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2210__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>indicating the taxability of tangible personal property, a product transferred electronically, or a service.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-210"/>
+          <FRBRuri value="/us-ut/act/code/59-12-210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-210/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-210/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_210">
+          <num>59-12-210</num>
+          <heading>Commission to provide data to counties.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-12-210.
+Commission to provide data to counties.
+(1)
+As used in this section, &quot;qualifying jurisdiction&quot; means the same as that term is defined in Section
+59-1-403
+.
+(2)
+(a)
+The commission shall provide to each qualifying jurisdiction the sales and use tax collection data necessary to verify that sales and use tax revenues collected by the commission are distributed to each qualifying jurisdiction in accordance with Sections
+59-12-211
+through
+59-12-215
+.
+(b)
+The data described in Subsection
+(2)
+(a) shall include the commission's reports of seller sales, sales and use tax distribution reports, and a breakdown of local revenues.
+(3)
+(a)
+In addition to the access to information provided in Subsection
+(1)
+and Section
+59-12-109
+, the commission shall provide a qualifying jurisdiction with copies of returns and other information required by this chapter relating to a tax under this chapter.
+(b)
+The information described in Subsection
+(3)
+(a) is available only in official matters and must be requested in writing by the chief executive officer or the chief executive officer's designee.
+(c)
+The request described in Subsection
+(3)
+(b) shall specifically indicate the information being sought and how the information will be used.
+(d)
+Information received pursuant to the request described in Subsection
+(3)
+(b) shall be:
+(i)
+classified as private or protected under Section
+63G-2-302
+or
+63G-2-305
+; and
+(ii)
+subject to the confidentiality provisions of Section
+59-1-403
+.
+Amended by Chapter
+367
+, 2021 General Session
+Amended by Chapter
+367
+, 2021 General Session, (Coordination Clause)
+Amended by Chapter
+414
+, 2021 General Session
+Amended by Chapter
+29
+, 2020 General Session, (Coordination Clause)</p>
+          </content>
+          <subsection eId="59_12_210__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;qualifying jurisdiction&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_210__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_210__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall provide to each qualifying jurisdiction the sales and use tax collection data necessary to verify that sales and use tax revenues collected by the commission are distributed to each qualifying jurisdiction in accordance with Sections through .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_210__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The data described in Subsection (a) shall include the commission's reports of seller sales, sales and use tax distribution reports, and a breakdown of local revenues.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_210__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_210__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the access to information provided in Subsection and Section , the commission shall provide a qualifying jurisdiction with copies of returns and other information required by this chapter relating to a tax under this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_210__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The information described in Subsection (a) is available only in official matters and must be requested in writing by the chief executive officer or the chief executive officer's designee.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_210__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The request described in Subsection (b) shall specifically indicate the information being sought and how the information will be used.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_210__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Information received pursuant to the request described in Subsection (b) shall be:</p>
+              </content>
+              <subparagraph eId="59_12_210__subsec_3__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>classified as private or protected under Section or ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_210__subsec_3__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>subject to the confidentiality provisions of Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

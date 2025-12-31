@@ -1,0 +1,393 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-202"/>
+          <FRBRuri value="/us-ut/act/code/59-13-202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-202/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-202/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-202/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-202/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_202">
+          <num>59-13-202</num>
+          <heading>Refund of tax for agricultural uses on individual income and corporate franchise and income tax returns -- Application for permit for refund -- Division of Finance to pay claims -- Rules permitted to enforce part -- Penalties -- Revenue and Taxation Interim Committee study.</heading>
+          <content>
+            <p>Effective 3/24/2022
+59-13-202.
+Refund of tax for agricultural uses on individual income and corporate franchise and income tax returns -- Application for permit for refund -- Division of Finance to pay claims -- Rules permitted to enforce part -- Penalties -- Revenue and Taxation Interim Committee study.
+(1)
+As used in this section:
+(a)
+(i)
+Except at provided in Subsection
+(1)(a)(ii)
+, &quot;claimant&quot; means a resident or nonresident person.
+(ii)
+&quot;Claimant&quot; does not include an estate or trust.
+(b)
+&quot;Estate&quot; means a nonresident estate or a resident estate.
+(c)
+&quot;Refundable tax credit&quot; or &quot;tax credit&quot; means a tax credit that a claimant, estate, or trust may claim:
+(i)
+as provided by statute; and
+(ii)
+regardless of whether, for the taxable year for which the claimant, estate, or trust claims the tax credit, the claimant, estate, or trust has a tax liability under:
+(A)
+Chapter 7, Corporate Franchise and Income Taxes
+; or
+(B)
+Chapter 10, Individual Income Tax Act
+.
+(d)
+&quot;Trust&quot; means a nonresident trust or a resident trust.
+(2)
+Any claimant, estate, or trust that purchases and uses any motor fuel within the state for the purpose of operating or propelling stationary farm engines and self-propelled farm machinery used for nonhighway agricultural uses, and that has paid the tax on the motor fuel as provided by this part, is entitled to a refund of the tax subject to the conditions and limitations provided under this part.
+(3)
+(a)
+A claimant, estate, or trust desiring a nonhighway agricultural use refund under this part shall claim the refund as a refundable tax credit on the tax return the claimant, estate, or trust files under:
+(i)
+Chapter 7, Corporate Franchise and Income Taxes
+; or
+(ii)
+Chapter 10, Individual Income Tax Act
+.
+(b)
+A claimant, estate, or trust not subject to filing a tax return described in Subsection
+(3)(a)
+shall obtain a permit and file claims on a calendar year basis.
+(c)
+Any claimant, estate, or trust claiming a refundable tax credit under this section is required to furnish any or all of the information outlined in this section upon request of the commission.
+(d)
+A refundable tax credit under this section is allowed only on purchases on which tax is paid during the taxable year covered by the tax return.
+(4)
+In order to obtain a permit for a refund of motor fuel tax paid, an application shall be filed containing:
+(a)
+the name of the claimant, estate, or trust;
+(b)
+the claimant's, estate's, or trust's address;
+(c)
+location and number of acres owned and operated, location and number of acres rented and operated, the latter of which shall be verified by a signed statement from the legal owner;
+(d)
+number of acres planted to each crop, type of soil, and whether irrigated or dry; and
+(e)
+make, size, and type of fuel used and power rating of each piece of equipment using fuel.  If the claimant, estate, or trust is an operator of self-propelled or tractor-pulled farm machinery with which the claimant, estate, or trust works for hire doing custom jobs for other farmers, the application shall include information the commission requires and shall all be contained in, and be considered part of, the original application.  The claimant, estate, or trust shall also file with the application a certificate from the county assessor showing each piece of equipment using fuel.  This original application and all information contained in it constitutes a permanent file with the commission in the name of the claimant, estate, or trust.
+(5)
+A claimant, estate, or trust claiming the right to a refund of motor fuel tax paid shall file a claim with the commission by April 15 of each year for the refund for the previous calendar year.  The claim shall state the name and address of the claimant, estate, or trust, the number of gallons of motor fuel purchased for nonhighway agricultural uses, and the amount paid for the motor fuel.  The claimant, estate, or trust shall retain the original invoice to support the claim.  No more than one claim for a tax refund may be filed annually by each user of motor fuel purchased for nonhighway agricultural uses.
+(6)
+Upon commission approval of the claim for a refund, the Division of Finance shall pay the amount found due to the claimant, estate, or trust.  The total amount of claims for refunds shall be paid from motor fuel taxes.
+(7)
+The commission may refuse to accept as evidence of purchase or payment any instruments that show alteration or that fail to indicate the quantity of the purchase, the price of the motor fuel, a statement that the motor fuel is purchased for purposes other than transportation, and the date of purchase and delivery.  If the commission is not satisfied with the evidence submitted in connection with the claim, the commission may reject the claim or require additional evidence.
+(8)
+A claimant, estate, or trust aggrieved by the decision of the commission with respect to a refundable tax credit or refund may file a request for agency action, requesting a hearing before the commission.
+(9)
+A claimant, estate, or trust that makes any false claim, report, or statement, as claimant, estate, trust, agent, or creditor, with intent to defraud or secure a refund to which the claimant, estate, or trust is not entitled, is subject to the criminal penalties provided under Section
+59-1-401
+, and the commission shall initiate the filing of a complaint for alleged violations of this part.  In addition to these penalties, the claimant, estate, or trust may not receive any refund as a claimant, estate, or trust or as a creditor of a claimant, estate, or trust for refund for a period of five years.
+(10)
+(a)
+In accordance with any rules prescribed by the commission under Subsection
+(10)(b)
+, the Division of Finance shall transfer at least annually from the Transportation Fund into the Income Tax Fund an amount equal to the amount of the refund claimed under this section.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules providing procedures for:
+(i)
+making a refund to a claimant, estate, or trust as required by Subsection
+(3)(a)(i)
+;
+(ii)
+making a transfer from the Transportation Fund into the Income Tax Fund as required by Subsection
+(10)(a)
+; or
+(iii)
+enforcing this part.
+(11)
+(a)
+On or before November 30, 2017, and every three years after 2017, the Revenue and Taxation Interim Committee shall review the tax credit provided by this section and make recommendations concerning whether the tax credit should be continued, modified, or repealed.
+(b)
+In conducting the review required by Subsection
+(11)(a)
+, the Revenue and Taxation Interim Committee shall:
+(i)
+schedule time on at least one committee agenda to conduct the review;
+(ii)
+invite state agencies, individuals, and organizations concerned with the credit under review to provide testimony;
+(iii)
+ensure that the recommendations described in this section include an evaluation of:
+(A)
+the cost of the tax credit to the state;
+(B)
+the purpose and effectiveness of the tax credit; and
+(C)
+the extent to which the state benefits from the tax credit; and
+(iv)
+undertake other review efforts as determined by the chairs of the Revenue and Taxation Interim Committee.
+Amended by Chapter
+456
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_13_202__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_13_202__subsec_1__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_13_202__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except at provided in Subsection , &quot;claimant&quot; means a resident or nonresident person.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Claimant&quot; does not include an estate or trust.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Estate&quot; means a nonresident estate or a resident estate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Refundable tax credit&quot; or &quot;tax credit&quot; means a tax credit that a claimant, estate, or trust may claim:</p>
+              </content>
+              <subparagraph eId="59_13_202__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>as provided by statute; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>regardless of whether, for the taxable year for which the claimant, estate, or trust claims the tax credit, the claimant, estate, or trust has a tax liability under:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Trust&quot; means a nonresident trust or a resident trust.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_202__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any claimant, estate, or trust that purchases and uses any motor fuel within the state for the purpose of operating or propelling stationary farm engines and self-propelled farm machinery used for nonhighway agricultural uses, and that has paid the tax on the motor fuel as provided by this part, is entitled to a refund of the tax subject to the conditions and limitations provided under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_202__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_13_202__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A claimant, estate, or trust desiring a nonhighway agricultural use refund under this part shall claim the refund as a refundable tax credit on the tax return the claimant, estate, or trust files under:</p>
+              </content>
+              <subparagraph eId="59_13_202__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A claimant, estate, or trust not subject to filing a tax return described in Subsection shall obtain a permit and file claims on a calendar year basis.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Any claimant, estate, or trust claiming a refundable tax credit under this section is required to furnish any or all of the information outlined in this section upon request of the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A refundable tax credit under this section is allowed only on purchases on which tax is paid during the taxable year covered by the tax return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_202__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In order to obtain a permit for a refund of motor fuel tax paid, an application shall be filed containing:</p>
+            </content>
+            <paragraph eId="59_13_202__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the name of the claimant, estate, or trust;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the claimant's, estate's, or trust's address;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>location and number of acres owned and operated, location and number of acres rented and operated, the latter of which shall be verified by a signed statement from the legal owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>number of acres planted to each crop, type of soil, and whether irrigated or dry; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>make, size, and type of fuel used and power rating of each piece of equipment using fuel.  If the claimant, estate, or trust is an operator of self-propelled or tractor-pulled farm machinery with which the claimant, estate, or trust works for hire doing custom jobs for other farmers, the application shall include information the commission requires and shall all be contained in, and be considered part of, the original application.  The claimant, estate, or trust shall also file with the application a certificate from the county assessor showing each piece of equipment using fuel.  This original application and all information contained in it constitutes a permanent file with the commission in the name of the claimant, estate, or trust.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_202__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A claimant, estate, or trust claiming the right to a refund of motor fuel tax paid shall file a claim with the commission by April 15 of each year for the refund for the previous calendar year.  The claim shall state the name and address of the claimant, estate, or trust, the number of gallons of motor fuel purchased for nonhighway agricultural uses, and the amount paid for the motor fuel.  The claimant, estate, or trust shall retain the original invoice to support the claim.  No more than one claim for a tax refund may be filed annually by each user of motor fuel purchased for nonhighway agricultural uses.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_202__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Upon commission approval of the claim for a refund, the Division of Finance shall pay the amount found due to the claimant, estate, or trust.  The total amount of claims for refunds shall be paid from motor fuel taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_202__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The commission may refuse to accept as evidence of purchase or payment any instruments that show alteration or that fail to indicate the quantity of the purchase, the price of the motor fuel, a statement that the motor fuel is purchased for purposes other than transportation, and the date of purchase and delivery.  If the commission is not satisfied with the evidence submitted in connection with the claim, the commission may reject the claim or require additional evidence.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_202__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>A claimant, estate, or trust aggrieved by the decision of the commission with respect to a refundable tax credit or refund may file a request for agency action, requesting a hearing before the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_202__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>A claimant, estate, or trust that makes any false claim, report, or statement, as claimant, estate, trust, agent, or creditor, with intent to defraud or secure a refund to which the claimant, estate, or trust is not entitled, is subject to the criminal penalties provided under Section , and the commission shall initiate the filing of a complaint for alleged violations of this part.  In addition to these penalties, the claimant, estate, or trust may not receive any refund as a claimant, estate, or trust or as a creditor of a claimant, estate, or trust for refund for a period of five years.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_202__subsec_10">
+            <num>(10)</num>
+            <paragraph eId="59_13_202__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with any rules prescribed by the commission under Subsection , the Division of Finance shall transfer at least annually from the Transportation Fund into the Income Tax Fund an amount equal to the amount of the refund claimed under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may make rules providing procedures for:</p>
+              </content>
+              <subparagraph eId="59_13_202__subsec_10__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>making a refund to a claimant, estate, or trust as required by Subsection ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_10__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>making a transfer from the Transportation Fund into the Income Tax Fund as required by Subsection ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_10__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>enforcing this part.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_202__subsec_11">
+            <num>(11)</num>
+            <paragraph eId="59_13_202__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>On or before November 30, 2017, and every three years after 2017, the Revenue and Taxation Interim Committee shall review the tax credit provided by this section and make recommendations concerning whether the tax credit should be continued, modified, or repealed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_202__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In conducting the review required by Subsection , the Revenue and Taxation Interim Committee shall:</p>
+              </content>
+              <subparagraph eId="59_13_202__subsec_11__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>schedule time on at least one committee agenda to conduct the review;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_11__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>invite state agencies, individuals, and organizations concerned with the credit under review to provide testimony;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_11__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>ensure that the recommendations described in this section include an evaluation of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_202__subsec_11__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>undertake other review efforts as determined by the chairs of the Revenue and Taxation Interim Committee.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,324 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-539"/>
+          <FRBRuri value="/us-ut/act/code/59-10-539"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-539/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-539/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-539/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-539/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_539">
+          <num>59-10-539</num>
+          <heading>Penalties and interest.</heading>
+          <content>
+            <p>59-10-539.
+Penalties and interest.
+(1)
+(a)
+In case of failure to file an income tax return and pay the tax required under this chapter on or before the date prescribed for paying the tax, including extensions, unless it is shown that the failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on the return a penalty as provided in Section
+59-1-401
+.
+(b)
+For purposes of Subsection
+(1)(a)
+, the amount of tax required to be shown on a return shall be reduced by:
+(i)
+the amount of any part of the tax that is paid on or before the date prescribed for payment of the tax; and
+(ii)
+the amount of any credit against the tax that may be claimed upon the return.
+(2)
+If any part of any deficiency in a tax imposed by this chapter is due to negligence or intentional disregard of rules, but without intent to defraud, a penalty shall be assessed, collected, and paid as provided in Section
+59-1-401
+in the same manner as if the deficiency were an underpayment.
+(3)
+(a)
+If any part of a deficiency in a tax imposed by this chapter is due to fraud, there shall be added to the tax a penalty as provided in Section
+59-1-401
+.
+(b)
+The amount described in Subsection
+(3)(a)
+shall be in lieu of any other penalty imposed by Subsection
+(1)
+or
+(2)
+.
+(4)
+(a)
+If any employer, without intent to evade or defeat any tax imposed by this chapter or the payment of any tax imposed by this chapter, fails to make a return and pay a tax withheld by the employer at the time required under Section
+59-10-402
+, the employer shall be liable for the tax and shall pay the tax together with interest at the rate and in the manner prescribed in Section
+59-1-402
+.
+(b)
+The penalty provided in Subsection
+(1)
+and interest may not be charged to or collected from the employee by the employer.
+(c)
+The commission has the same rights and powers for the collection of a tax, interest, and penalty against an employer described in this section as are prescribed by this chapter for the collection of tax against an individual taxpayer.
+(5)
+(a)
+Any person required to collect, truthfully account for, and pay over the tax imposed by this chapter who willfully fails to collect the tax or truthfully account for and pay over the tax or willfully attempts in any manner to evade or default the tax or the payment of the tax, shall, in addition to other penalties provided by law, be liable for a penalty as provided in Section
+59-1-401
+.
+(b)
+A penalty described in Subsection
+(1)
+or
+(2)
+may not be imposed for any offense to which Subsection
+(5)(a)
+applies.
+(6)
+In case of each failure to file a statement of a payment to another person, required under authority of Section
+59-10-406
+, relating to information at source, including the duplicate statement of tax withheld on wages, on the date prescribed for filing the statement, including extensions, unless it is shown that the failure is due to reasonable cause and not to willful neglect, there shall, upon notice and demand by the commission and in the same manner as tax, be paid by the person that fails to file the statement, a penalty as provided in Section
+59-1-401
+.
+(7)
+(a)
+Except as provided in Subsection
+(7)(b)
+or
+(c)
+, a person is subject to a penalty as provided in Section
+59-1-401
+if the person fails to do one or more of the following as required by rules prescribed by the commission under this chapter:
+(i)
+to include the person's identifying number in any return, statement, or other document;
+(ii)
+to furnish the person's identifying number to another person; or
+(iii)
+to include on any return, statement, or other document made with respect to another person the identifying number of the other person.
+(b)
+A person is not subject to a penalty under Subsection
+(7)(a)
+if it is shown that the person's failure to do an act described in Subsection
+(7)(a)
+is due to reasonable cause.
+(c)
+If a person fails to include the person's own identification number in any return, statement, or other document, a penalty under Subsection
+(7)(a)
+may not be imposed unless the person fails to supply the person's identification number to the commission within 30 days after the commission requests the identification number.
+(8)
+In addition to the penalties required by this section, there shall be added to a tax due interest payable at the rate and in the manner prescribed in Section
+59-1-402
+for underpayments.
+(9)
+The penalties and interest required by this section shall be:
+(a)
+paid upon notice and demand by the commission in accordance with Section
+59-1-1411
+; and
+(b)
+assessed, collected, and paid in accordance with
+Chapter 1, Part 14, Assessment, Collections, and Refunds Act
+.
+(10)
+A reference in this chapter to income tax or tax imposed by this chapter is considered to include the penalties and interest provided by this section.
+(11)
+For purposes of Subsections
+(2)
+and
+(3)
+, the amount shown as the tax by the taxpayer upon the taxpayer's return shall be taken into account in determining the amount of the deficiency only if the return is filed on or before the last day prescribed for filing of the return, including extensions.
+Amended by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_10_539__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_539__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In case of failure to file an income tax return and pay the tax required under this chapter on or before the date prescribed for paying the tax, including extensions, unless it is shown that the failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on the return a penalty as provided in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , the amount of tax required to be shown on a return shall be reduced by:</p>
+              </content>
+              <subparagraph eId="59_10_539__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of any part of the tax that is paid on or before the date prescribed for payment of the tax; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_539__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the amount of any credit against the tax that may be claimed upon the return.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_539__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If any part of any deficiency in a tax imposed by this chapter is due to negligence or intentional disregard of rules, but without intent to defraud, a penalty shall be assessed, collected, and paid as provided in Section in the same manner as if the deficiency were an underpayment.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_539__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_539__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If any part of a deficiency in a tax imposed by this chapter is due to fraud, there shall be added to the tax a penalty as provided in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount described in Subsection shall be in lieu of any other penalty imposed by Subsection or .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_539__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_10_539__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If any employer, without intent to evade or defeat any tax imposed by this chapter or the payment of any tax imposed by this chapter, fails to make a return and pay a tax withheld by the employer at the time required under Section , the employer shall be liable for the tax and shall pay the tax together with interest at the rate and in the manner prescribed in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The penalty provided in Subsection and interest may not be charged to or collected from the employee by the employer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission has the same rights and powers for the collection of a tax, interest, and penalty against an employer described in this section as are prescribed by this chapter for the collection of tax against an individual taxpayer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_539__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_10_539__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any person required to collect, truthfully account for, and pay over the tax imposed by this chapter who willfully fails to collect the tax or truthfully account for and pay over the tax or willfully attempts in any manner to evade or default the tax or the payment of the tax, shall, in addition to other penalties provided by law, be liable for a penalty as provided in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A penalty described in Subsection or may not be imposed for any offense to which Subsection applies.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_539__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>In case of each failure to file a statement of a payment to another person, required under authority of Section , relating to information at source, including the duplicate statement of tax withheld on wages, on the date prescribed for filing the statement, including extensions, unless it is shown that the failure is due to reasonable cause and not to willful neglect, there shall, upon notice and demand by the commission and in the same manner as tax, be paid by the person that fails to file the statement, a penalty as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_539__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_10_539__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection or , a person is subject to a penalty as provided in Section if the person fails to do one or more of the following as required by rules prescribed by the commission under this chapter:</p>
+              </content>
+              <subparagraph eId="59_10_539__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>to include the person's identifying number in any return, statement, or other document;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_539__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>to furnish the person's identifying number to another person; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_539__subsec_7__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>to include on any return, statement, or other document made with respect to another person the identifying number of the other person.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A person is not subject to a penalty under Subsection if it is shown that the person's failure to do an act described in Subsection is due to reasonable cause.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If a person fails to include the person's own identification number in any return, statement, or other document, a penalty under Subsection may not be imposed unless the person fails to supply the person's identification number to the commission within 30 days after the commission requests the identification number.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_539__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>In addition to the penalties required by this section, there shall be added to a tax due interest payable at the rate and in the manner prescribed in Section for underpayments.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_539__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The penalties and interest required by this section shall be:</p>
+            </content>
+            <paragraph eId="59_10_539__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>paid upon notice and demand by the commission in accordance with Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_539__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>assessed, collected, and paid in accordance with .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_539__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>A reference in this chapter to income tax or tax imposed by this chapter is considered to include the penalties and interest provided by this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_539__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>For purposes of Subsections and , the amount shown as the tax by the taxpayer upon the taxpayer's return shall be taken into account in determining the amount of the deficiency only if the return is filed on or before the last day prescribed for filing of the return, including extensions.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

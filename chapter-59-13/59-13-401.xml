@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-401"/>
+          <FRBRuri value="/us-ut/act/code/59-13-401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-401/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-401/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_401">
+          <num>59-13-401</num>
+          <heading>Aviation fuel tax -- Rate.</heading>
+          <content>
+            <p>59-13-401.
+Aviation fuel tax -- Rate.
+(1)
+A tax is imposed upon aviation fuel at the rates provided in this section.
+(2)
+Except as provided by Subsection
+(3)
+, the tax on aviation fuel shall be 9 cents per gallon.
+(3)
+Aviation fuel purchased for use by a federally certificated air carrier is subject to a tax of:
+(a)
+4 cents per gallon on aviation fuel purchased other than at an international airport:
+(i)
+located within a county of the first class; and
+(ii)
+that has a United States customs office on its premises; or
+(b)
+2.5 cents per gallon on aviation fuel purchased at an international airport:
+(i)
+located within a county of the first class; and
+(ii)
+that has a United States customs office on its premises.
+Amended by Chapter
+222
+, 2009 General Session
+Amended by Chapter
+358
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_13_401__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A tax is imposed upon aviation fuel at the rates provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_401__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided by Subsection , the tax on aviation fuel shall be 9 cents per gallon.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_401__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Aviation fuel purchased for use by a federally certificated air carrier is subject to a tax of:</p>
+            </content>
+            <paragraph eId="59_13_401__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>4 cents per gallon on aviation fuel purchased other than at an international airport:</p>
+              </content>
+              <subparagraph eId="59_13_401__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>located within a county of the first class; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_401__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>that has a United States customs office on its premises; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_401__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>2.5 cents per gallon on aviation fuel purchased at an international airport:</p>
+              </content>
+              <subparagraph eId="59_13_401__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>located within a county of the first class; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_401__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>that has a United States customs office on its premises.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

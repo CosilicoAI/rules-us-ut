@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-128"/>
+          <FRBRuri value="/us-ut/act/code/59-12-128"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-128/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-128/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-128/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-128/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_128">
+          <num>59-12-128</num>
+          <heading>Amnesty.</heading>
+          <content>
+            <p>Effective 1/1/2021
+59-12-128.
+Amnesty.
+(1)
+As used in this section, &quot;amnesty&quot; means that a seller is not required to pay the following amounts that the seller would otherwise be required to pay:
+(a)
+a tax, fee, or charge under:
+(i)
+Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act
+;
+(ii)
+Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act
+;
+(iii)
+Section
+19-6-714
+;
+(iv)
+Section
+19-6-805
+;
+(v)
+Chapter 26, Multi-Channel Video or Audio Service Tax Act
+;
+(vi)
+Title 69, Chapter 2, Part 4, Prepaid Wireless Telecommunications Service Charges
+; or
+(vii)
+this chapter;
+(b)
+a penalty on a tax, fee, or charge described in Subsection
+(1)(a)
+; or
+(c)
+interest on a tax, fee, or charge described in Subsection
+(1)(a)
+.
+(2)
+(a)
+Except as provided in Subsections
+(2)(b)
+and
+(3)
+and subject to Subsections
+(4)
+and
+(5)
+, the commission shall grant a seller amnesty if the seller:
+(i)
+obtains a license under Section
+59-12-106
+; and
+(ii)
+is registered under the agreement.
+(b)
+The commission is not required to grant a seller amnesty under this section beginning 12 months after the date the state becomes a full member under the agreement.
+(3)
+A seller may not receive amnesty under this section for a tax, fee, or charge:
+(a)
+the seller collects;
+(b)
+the seller remits to the commission;
+(c)
+that the seller is required to remit to the commission on the seller's purchase; or
+(d)
+arising from a transaction that occurs within a time period that is under audit by the commission if:
+(i)
+the seller receives notice of the commencement of the audit prior to obtaining a license under Section
+59-12-106
+; and
+(ii)
+(A)
+the audit described in Subsection
+(3)(d)(i)
+is not complete; or
+(B)
+the seller has not exhausted all administrative and judicial remedies in connection with the audit described in Subsection
+(3)(d)(i)
+.
+(4)
+(a)
+Except as provided in Subsection
+(4)(b)
+, amnesty the commission grants to a seller under this section:
+(i)
+applies to the time period during which the seller is not licensed under Section
+59-12-106
+; and
+(ii)
+remains in effect if, for a period of three years, the seller:
+(A)
+remains registered under the agreement;
+(B)
+collects a tax, fee, or charge on a transaction subject to a tax, fee, or charge described in Subsection
+(1)(a)
+; and
+(C)
+remits to the commission the taxes, fees, and charges the seller collects in accordance with Subsection
+(4)(a)(ii)(B)
+.
+(b)
+The commission may not grant a seller amnesty under this section if, with respect to a tax, fee, or charge for which the seller would otherwise be granted amnesty under this section, the seller commits:
+(i)
+fraud; or
+(ii)
+an intentional misrepresentation of a material fact.
+(5)
+(a)
+If a seller does not meet a requirement of Subsection
+(4)(a)(ii)
+, the commission shall require the seller to pay the amounts described in Subsection
+(1)
+that the seller would have otherwise been required to pay.
+(b)
+Notwithstanding Section
+59-1-1410
+, for purposes of requiring a seller to pay an amount in accordance with Subsection
+(5)(a)
+, the time period for the commission to make an assessment under Section
+59-1-1410
+is extended for a time period beginning on the date the seller does not meet a requirement of Subsection
+(4)(a)(ii)
+and ends three years after that date.
+Amended by Chapter
+294
+, 2020 General Session</p>
+          </content>
+          <subsection eId="59_12_128__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;amnesty&quot; means that a seller is not required to pay the following amounts that the seller would otherwise be required to pay:</p>
+            </content>
+            <paragraph eId="59_12_128__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a tax, fee, or charge under:</p>
+              </content>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_1__para_a__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>this chapter;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a penalty on a tax, fee, or charge described in Subsection ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>interest on a tax, fee, or charge described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_128__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_128__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsections and and subject to Subsections and , the commission shall grant a seller amnesty if the seller:</p>
+              </content>
+              <subparagraph eId="59_12_128__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>obtains a license under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is registered under the agreement.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission is not required to grant a seller amnesty under this section beginning 12 months after the date the state becomes a full member under the agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_128__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A seller may not receive amnesty under this section for a tax, fee, or charge:</p>
+            </content>
+            <paragraph eId="59_12_128__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the seller collects;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the seller remits to the commission;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>that the seller is required to remit to the commission on the seller's purchase; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>arising from a transaction that occurs within a time period that is under audit by the commission if:</p>
+              </content>
+              <subparagraph eId="59_12_128__subsec_3__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the seller receives notice of the commencement of the audit prior to obtaining a license under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_3__para_d__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_128__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_128__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , amnesty the commission grants to a seller under this section:</p>
+              </content>
+              <subparagraph eId="59_12_128__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>applies to the time period during which the seller is not licensed under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>remains in effect if, for a period of three years, the seller:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may not grant a seller amnesty under this section if, with respect to a tax, fee, or charge for which the seller would otherwise be granted amnesty under this section, the seller commits:</p>
+              </content>
+              <subparagraph eId="59_12_128__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>fraud; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_128__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an intentional misrepresentation of a material fact.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_128__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_12_128__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a seller does not meet a requirement of Subsection , the commission shall require the seller to pay the amounts described in Subsection that the seller would have otherwise been required to pay.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_128__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding Section , for purposes of requiring a seller to pay an amount in accordance with Subsection , the time period for the commission to make an assessment under Section is extended for a time period beginning on the date the seller does not meet a requirement of Subsection and ends three years after that date.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

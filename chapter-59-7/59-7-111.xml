@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-111"/>
+          <FRBRuri value="/us-ut/act/code/59-7-111"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-111/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-111/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-111/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-111/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_111">
+          <num>59-7-111</num>
+          <heading>Safe harbor lease provisions.</heading>
+          <content>
+            <p>59-7-111.
+Safe harbor lease provisions.
+(1)
+(a)
+For purchasers or lessors of safe harbor leases, the following additions shall be made to unadjusted income:
+(i)
+interest expense; and
+(ii)
+depreciation claimed on safe harbor lease property.
+(b)
+For purchasers or lessors of safe harbor leases, the following subtractions shall be made from unadjusted income:
+(i)
+rental income; and
+(ii)
+amortization of the purchase price of tax benefits.
+(2)
+(a)
+For sellers or lessees of safe harbor leases the following additions shall be made from unadjusted income:
+(i)
+the amount of gain on the sale of federal tax benefits; and
+(ii)
+rental expense on safe harbor lease property.
+(b)
+For sellers or lessees of safe harbor leases the following subtractions shall be made to unadjusted income:
+(i)
+interest income; and
+(ii)
+depreciation on safe harbor lease property.
+Repealed and Re-enacted by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_111__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_7_111__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purchasers or lessors of safe harbor leases, the following additions shall be made to unadjusted income:</p>
+              </content>
+              <subparagraph eId="59_7_111__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>interest expense; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_111__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>depreciation claimed on safe harbor lease property.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_111__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purchasers or lessors of safe harbor leases, the following subtractions shall be made from unadjusted income:</p>
+              </content>
+              <subparagraph eId="59_7_111__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>rental income; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_111__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>amortization of the purchase price of tax benefits.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_111__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_111__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For sellers or lessees of safe harbor leases the following additions shall be made from unadjusted income:</p>
+              </content>
+              <subparagraph eId="59_7_111__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of gain on the sale of federal tax benefits; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_111__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>rental expense on safe harbor lease property.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_111__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For sellers or lessees of safe harbor leases the following subtractions shall be made to unadjusted income:</p>
+              </content>
+              <subparagraph eId="59_7_111__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>interest income; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_111__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>depreciation on safe harbor lease property.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

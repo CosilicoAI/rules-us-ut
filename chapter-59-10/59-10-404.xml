@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-404"/>
+          <FRBRuri value="/us-ut/act/code/59-10-404"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-404/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-404/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-404/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-404/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_404">
+          <num>59-10-404</num>
+          <heading>Extension of withholding to payments other than wages.</heading>
+          <content>
+            <p>59-10-404.
+Extension of withholding to payments other than wages.
+(1)
+For purposes of this part, any supplemental unemployment compensation benefit paid to an individual, and any payment of an annuity to an individual, if at the time the payment is made a request that such annuity be subject to withholding under this part is in effect, shall be treated as if it were a payment of wages by an employer to an employee for a payroll period.
+(2)
+For purposes of Subsection
+(1)
+, &quot;supplemental unemployment compensation benefits&quot; means amounts that are paid to an employee pursuant to a plan to which the employer is a party, because of an employee's involuntary separation from employment, whether or not such separation is temporary, resulting directly from a reduction in force, the discontinuance of a plant or operation, or other similar conditions, but only to the extent such benefits are includable in the employee's gross income.
+(3)
+For purposes of this part, any unemployment compensation benefit paid to an individual pursuant to
+Title 35A, Chapter 4, Employment Security Act
+, may be subject to withholding as provided in Section
+35A-4-407
+.
+(4)
+For purposes of this section, &quot;annuity&quot; means any amount paid to an individual as a pension or annuity, but only to the extent that the amount is includable in the gross income of such individual.
+(5)
+A request that an annuity be subject to withholding under this part shall be made by the payee in writing to the person making the annuity payments.  The request may be terminated by furnishing to the person making the payments a written statement of termination which shall be treated as a withholding exemption certificate for purposes of Section
+59-10-403
+.
+Amended by Chapter
+375
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_10_404__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For purposes of this part, any supplemental unemployment compensation benefit paid to an individual, and any payment of an annuity to an individual, if at the time the payment is made a request that such annuity be subject to withholding under this part is in effect, shall be treated as if it were a payment of wages by an employer to an employee for a payroll period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_404__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of Subsection , &quot;supplemental unemployment compensation benefits&quot; means amounts that are paid to an employee pursuant to a plan to which the employer is a party, because of an employee's involuntary separation from employment, whether or not such separation is temporary, resulting directly from a reduction in force, the discontinuance of a plant or operation, or other similar conditions, but only to the extent such benefits are includable in the employee's gross income.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_404__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this part, any unemployment compensation benefit paid to an individual pursuant to , may be subject to withholding as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_404__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For purposes of this section, &quot;annuity&quot; means any amount paid to an individual as a pension or annuity, but only to the extent that the amount is includable in the gross income of such individual.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_404__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A request that an annuity be subject to withholding under this part shall be made by the payee in writing to the person making the annuity payments.  The request may be terminated by furnishing to the person making the payments a written statement of termination which shall be treated as a withholding exemption certificate for purposes of Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

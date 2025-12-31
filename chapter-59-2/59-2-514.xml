@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-514"/>
+          <FRBRuri value="/us-ut/act/code/59-2-514"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-514/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-514/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-514/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-514/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_514">
+          <num>59-2-514</num>
+          <heading>State Farmland Evaluation Advisory Committee -- Membership -- Duties.</heading>
+          <content>
+            <p>59-2-514.
+State Farmland Evaluation Advisory Committee -- Membership -- Duties.
+(1)
+There is created a State Farmland Evaluation Advisory Committee consisting of five members appointed as follows:
+(a)
+one member appointed by the commission who shall be chairman of the committee;
+(b)
+one member appointed by the president of Utah State University;
+(c)
+one member appointed by the state Department of Agriculture and Food;
+(d)
+one member appointed by the state County Assessors' Association; and
+(e)
+one member actively engaged in farming or ranching appointed by the other members of the committee.
+(2)
+The committee shall meet at the call of the chairman to review the several classifications of land in agricultural use in the various areas of the state and recommend a range of values for each of the classifications based upon productive capabilities of the land when devoted to agricultural uses.  The recommendations shall be submitted to the commission prior to October 2 of each year.
+Amended by Chapter
+82
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_2_514__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is created a State Farmland Evaluation Advisory Committee consisting of five members appointed as follows:</p>
+            </content>
+            <paragraph eId="59_2_514__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>one member appointed by the commission who shall be chairman of the committee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_514__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>one member appointed by the president of Utah State University;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_514__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>one member appointed by the state Department of Agriculture and Food;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_514__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>one member appointed by the state County Assessors' Association; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_514__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>one member actively engaged in farming or ranching appointed by the other members of the committee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_514__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The committee shall meet at the call of the chairman to review the several classifications of land in agricultural use in the various areas of the state and recommend a range of values for each of the classifications based upon productive capabilities of the land when devoted to agricultural uses.  The recommendations shall be submitted to the commission prior to October 2 of each year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

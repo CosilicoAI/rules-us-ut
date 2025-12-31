@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-314"/>
+          <FRBRuri value="/us-ut/act/code/59-13-314"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-314/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-314/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-314/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-314/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_314">
+          <num>59-13-314</num>
+          <heading>Special fuel user permit required before registration of vehicle.</heading>
+          <content>
+            <p>59-13-314.
+Special fuel user permit required before registration of vehicle.
+Before registering any motor vehicle which is operated by special fuels, the registered owner or lessee of the vehicle shall obtain a valid special fuel user permit for the current year if required under Section
+59-13-303
+.
+Amended by Chapter
+153
+, 2008 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

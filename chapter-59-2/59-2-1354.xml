@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1354"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1354"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1354/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1354/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1354/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1354/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1354">
+          <num>59-2-1354</num>
+          <heading>Notice of intention to foreclose -- Service of notice.</heading>
+          <content>
+            <p>59-2-1354.
+Notice of intention to foreclose -- Service of notice.
+Before the commencement of any action, 30 days' written notice of intention to do so shall be given to the owner, if known, by enclosing the notice in an envelope plainly addressed to the owner at the owner's post office address, as shown on the last assessment roll of the county in which the real estate is located, postage prepaid.  If the post office address of any owner does not appear on the assessment roll, notice shall be addressed to the owner at the general delivery at the post office in the city, town, or precinct where the real estate is located, postage prepaid.  Service of the notice is complete when deposited in the United States mail.
+Amended by Chapter
+9
+, 2001 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

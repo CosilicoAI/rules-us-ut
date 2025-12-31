@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-803"/>
+          <FRBRuri value="/us-ut/act/code/59-2-803"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-803/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-803/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-803/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-803/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_803">
+          <num>59-2-803</num>
+          <heading>Statement transmitted by county auditors to governing bodies -- Contents of statement.</heading>
+          <content>
+            <p>Effective 1/1/2016
+59-2-803.
+Statement transmitted by county auditors to governing bodies -- Contents of statement.
+(1)
+The county auditor shall transmit to the governing bodies of taxing entities in which the property is located, or to which any of the value is apportioned, a statement of the valuation of all property as fixed and apportioned by the commission and reported under Section
+59-2-802
+.
+(2)
+The statement under Subsection
+(1)
+shall contain the aggregate amount of taxable value placed in dispute in accordance with Section
+59-2-1007
+.
+(3)
+The statement shall be transmitted at the same time and in the same manner as the statement is transmitted under Section
+59-2-924
+.
+Amended by Chapter
+139
+, 2015 General Session</p>
+          </content>
+          <subsection eId="59_2_803__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The county auditor shall transmit to the governing bodies of taxing entities in which the property is located, or to which any of the value is apportioned, a statement of the valuation of all property as fixed and apportioned by the commission and reported under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_803__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The statement under Subsection shall contain the aggregate amount of taxable value placed in dispute in accordance with Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_803__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The statement shall be transmitted at the same time and in the same manner as the statement is transmitted under Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

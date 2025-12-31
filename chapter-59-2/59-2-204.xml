@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-204"/>
+          <FRBRuri value="/us-ut/act/code/59-2-204"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-204/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-204/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-204/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-204/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_204">
+          <num>59-2-204</num>
+          <heading>Record of assessment of public utility and air travel companies -- Review by county assessor.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-2-204.
+Record of assessment of public utility and air travel companies -- Review by county assessor.
+(1)
+Each year, the commission shall prepare a record of assessment of the following companies:
+(a)
+public utility companies;
+(b)
+airlines;
+(c)
+air charter services; and
+(d)
+air contract services.
+(2)
+The record of assessment under Subsection (1) shall include:
+(a)
+the name of each person engaged in business within the state in a company described in Subsection (1);
+(b)
+for each company described in Subsection (1), the total value of all of the company's tangible properties subject to assessment by the commission; and
+(c)
+any other information as determined by the commission.
+(3)
+At the request of a county assessor, the commission shall provide to the county assessor:
+(a)
+the record of assessment described in Subsection (1); and
+(b)
+the information upon which the assessments and apportionments contained in the record of assessment are made.
+Amended by Chapter
+269
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_204__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each year, the commission shall prepare a record of assessment of the following companies:</p>
+            </content>
+            <paragraph eId="59_2_204__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>public utility companies;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_204__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>airlines;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_204__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>air charter services; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_204__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>air contract services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_204__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The record of assessment under Subsection (1) shall include:</p>
+            </content>
+            <paragraph eId="59_2_204__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the name of each person engaged in business within the state in a company described in Subsection (1);</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_204__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for each company described in Subsection (1), the total value of all of the company's tangible properties subject to assessment by the commission; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_204__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>any other information as determined by the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_204__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>At the request of a county assessor, the commission shall provide to the county assessor:</p>
+            </content>
+            <paragraph eId="59_2_204__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the record of assessment described in Subsection (1); and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_204__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the information upon which the assessments and apportionments contained in the record of assessment are made.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1308"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1308"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1308/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1308/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1308/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1308/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1308">
+          <num>59-10-1308</num>
+          <heading>Children's organ transplants contribution -- Credit to Kurt Oscarson Children's Organ Transplant Account.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-10-1308.
+Children's organ transplants contribution -- Credit to Kurt Oscarson Children's Organ Transplant Account.
+(1)
+Except as provided in Section
+59-10-1304
+, a resident or nonresident individual that files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution to the Kurt Oscarson Children's Organ Transplant Account created by Section
+26B-1-311
+.
+(2)
+The commission shall:
+(a)
+determine annually the total amount of contributions designated in accordance with this section; and
+(b)
+credit the amount described in Subsection
+(2)(a)
+to the Kurt Oscarson Children's Organ Transplant Account created by Section
+26B-1-311
+.
+Amended by Chapter
+329
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_10_1308__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Section , a resident or nonresident individual that files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution to the Kurt Oscarson Children's Organ Transplant Account created by Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1308__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall:</p>
+            </content>
+            <paragraph eId="59_10_1308__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>determine annually the total amount of contributions designated in accordance with this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1308__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>credit the amount described in Subsection to the Kurt Oscarson Children's Organ Transplant Account created by Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

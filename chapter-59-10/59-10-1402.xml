@@ -1,0 +1,674 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1402"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1402"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1402/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1402/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1402/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1402/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1402">
+          <num>59-10-1402</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-10-1402.
+Definitions.
+As used in this part:
+(1)
+&quot;Addition, subtraction, or adjustment&quot; means:
+(a)
+for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, under
+Chapter 7, Corporate Franchise and Income Taxes
+:
+(i)
+an addition to unadjusted income described in Section
+59-7-105
+; or
+(ii)
+a subtraction from unadjusted income described in Section
+59-7-106
+;
+(b)
+for a pass-through entity taxpayer that is classified as an individual, partnership, or S corporation for federal income tax purposes:
+(i)
+an addition to or subtraction from adjusted gross income described in Section
+59-10-114
+; or
+(ii)
+an adjustment to adjusted gross income described in Section
+59-10-115
+; or
+(c)
+for a pass-through entity taxpayer that is classified as an estate or a trust for federal income tax purposes:
+(i)
+an addition to or subtraction from unadjusted income described in Section
+59-10-202
+; or
+(ii)
+an adjustment to unadjusted income described in Section
+59-10-209.1
+.
+(2)
+&quot;Business income&quot; means income arising from transactions and activity in the regular course of a pass-through entity's trade or business and includes income from tangible and intangible property if the acquisition, management, and disposition of the property constitutes integral parts of the pass-through entity's regular trade or business operations.
+(3)
+&quot;C corporation&quot; means the same as that term is defined in Section 1361, Internal Revenue Code.
+(4)
+&quot;Commercial domicile&quot; means the principal place from which the trade or business of a business entity is directed or managed.
+(5)
+&quot;Dependent beneficiary&quot; means an individual who:
+(a)
+is claimed as a dependent under Section 151, Internal Revenue Code, on another person's federal income tax return; and
+(b)
+is a beneficiary of a trust that is a pass-through entity.
+(6)
+&quot;Derived from or connected with Utah sources&quot; means:
+(a)
+if a pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, derived from or connected with Utah sources in accordance with
+Chapter 7, Part 3, Allocation and Apportionment of Income - Utah UDITPA Provisions
+; or
+(b)
+if a pass-through entity or pass-through entity taxpayer is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, derived from or connected with Utah sources in accordance with Sections
+59-10-117
+and
+59-10-118
+.
+(7)
+(a)
+&quot;Final pass-through entity taxpayer&quot; means a pass-through entity taxpayer who is a resident or nonresident individual.
+(b)
+&quot;Final pass-through entity taxpayer&quot; does not include:
+(i)
+a resident or nonresident business entity; or
+(ii)
+a resident or nonresident estate or trust.
+(8)
+&quot;Nonbusiness income&quot; means all income of a pass-through entity other than business income.
+(9)
+&quot;Nonresident business entity&quot; means a business entity that does not have its commercial domicile in this state.
+(10)
+&quot;Nonresident pass-through entity taxpayer&quot; means a pass-through entity taxpayer that is a:
+(a)
+nonresident individual; or
+(b)
+nonresident business entity.
+(11)
+&quot;Pass-through entity&quot; means a business entity that is:
+(a)
+the following if classified as a partnership for federal income tax purposes:
+(i)
+a general partnership;
+(ii)
+a limited liability company;
+(iii)
+a limited liability partnership; or
+(iv)
+a limited partnership;
+(b)
+an S corporation;
+(c)
+an estate or trust with respect to which the estate's or trust's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-through entity taxpayers; or
+(d)
+a business entity similar to Subsections
+(11)(a)
+through
+(c)
+:
+(i)
+with respect to which the business entity's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-through entity taxpayers; and
+(ii)
+as defined by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(12)
+&quot;Pass-through entity taxpayer&quot; means a resident or nonresident individual, a resident or nonresident business entity, or a resident or nonresident estate or trust:
+(a)
+that is:
+(i)
+for a general partnership, a partner;
+(ii)
+for a limited liability company, a member;
+(iii)
+for a limited liability partnership, a partner;
+(iv)
+for a limited partnership, a partner;
+(v)
+for an S corporation, a shareholder;
+(vi)
+for an estate or trust described in Subsection(11)(c), a beneficiary; or
+(vii)
+for a business entity described in Subsection(11)(d), a member, partner, shareholder, or other title designated by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+; and
+(b)
+to which the income, gain, loss, deduction, or credit of a pass-through entity is passed through.
+(13)
+&quot;Resident business entity&quot; means a business entity that is not a nonresident business entity.
+(14)
+&quot;Resident pass-through entity taxpayer&quot; means a pass-through entity taxpayer that is a:
+(a)
+resident individual; or
+(b)
+resident business entity.
+(15)
+&quot;Return&quot; means a return that a pass-through entity taxpayer files:
+(a)
+for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, under
+Chapter 7, Corporate Franchise and Income Taxes
+; or
+(b)
+for a pass-through entity taxpayer that is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, under this chapter.
+(16)
+&quot;S corporation&quot; means the same as that term is defined in Section 1361, Internal Revenue Code.
+(17)
+&quot;Share of income, gain, loss, deduction, or credit of a pass-through entity&quot; means:
+(a)
+for a pass-through entity except for a pass-through entity that is an S corporation:
+(i)
+for a resident pass-through entity taxpayer, the resident pass-through entity taxpayer's distributive share of income, gain, loss, deduction, or credit of the pass-through entity as determined under Section 704 et seq., Internal Revenue Code; and
+(ii)
+for a nonresident pass-through entity taxpayer, the nonresident pass-through entity taxpayer's distributive share of income, gain, loss, deduction, or credit of the pass-through entity:
+(A)
+as determined under Section 704 et seq., Internal Revenue Code; and
+(B)
+derived from or connected with Utah sources; or
+(b)
+for an S corporation:
+(i)
+for a resident pass-through entity taxpayer, the resident pass-through entity taxpayer's pro rata share of income, gain, loss, deduction, or credit of the S corporation, as determined under Sec. 1366 et seq., Internal Revenue Code; or
+(ii)
+for a nonresident pass-through entity taxpayer, the nonresident pass-through entity taxpayer's pro rata share of income, gain, loss, deduction, or credit of the S corporation:
+(A)
+as determined under Section 1366 et seq., Internal Revenue Code; and
+(B)
+derived from or connected with Utah sources.
+(18)
+&quot;Statement of dependent beneficiary income&quot; means a statement:
+(a)
+signed by the person who claims a dependent beneficiary as a dependent under Section 151, Internal Revenue Code, on the person's federal income tax return for the taxable year;
+(b)
+attesting that the dependent is a dependent beneficiary; and
+(c)
+indicating that the person expects that the dependent beneficiary's adjusted gross income for the taxable year will not exceed the basic standard deduction for the dependent beneficiary, as calculated under Section 63, Internal Revenue Code, for that taxable year.
+(19)
+&quot;Voluntary taxable income&quot; means the sum of a pass-through entity's income that is:
+(a)
+attributed to a final pass-through entity taxpayer who is a resident individual unless the income is taxed by another state of the United States, the District of Columbia, or possession of the United States; and
+(b)
+(i)
+business income and nonbusiness income that is derived from or connected with Utah sources; and
+(ii)
+attributed to a final pass-through entity taxpayer who is a nonresident individual.
+Amended by Chapter
+470
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_10_1402__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Addition, subtraction, or adjustment&quot; means:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, under :</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an addition to unadjusted income described in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a subtraction from unadjusted income described in Section ;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a pass-through entity taxpayer that is classified as an individual, partnership, or S corporation for federal income tax purposes:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an addition to or subtraction from adjusted gross income described in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an adjustment to adjusted gross income described in Section ; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for a pass-through entity taxpayer that is classified as an estate or a trust for federal income tax purposes:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an addition to or subtraction from unadjusted income described in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an adjustment to unadjusted income described in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Business income&quot; means income arising from transactions and activity in the regular course of a pass-through entity's trade or business and includes income from tangible and intangible property if the acquisition, management, and disposition of the property constitutes integral parts of the pass-through entity's regular trade or business operations.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;C corporation&quot; means the same as that term is defined in Section 1361, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Commercial domicile&quot; means the principal place from which the trade or business of a business entity is directed or managed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Dependent beneficiary&quot; means an individual who:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is claimed as a dependent under Section 151, Internal Revenue Code, on another person's federal income tax return; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>is a beneficiary of a trust that is a pass-through entity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Derived from or connected with Utah sources&quot; means:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if a pass-through entity taxpayer is classified as a C corporation for federal income tax purposes, derived from or connected with Utah sources in accordance with ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if a pass-through entity or pass-through entity taxpayer is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, derived from or connected with Utah sources in accordance with Sections and .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_10_1402__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Final pass-through entity taxpayer&quot; means a pass-through entity taxpayer who is a resident or nonresident individual.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Final pass-through entity taxpayer&quot; does not include:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_7__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a resident or nonresident business entity; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_7__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a resident or nonresident estate or trust.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Nonbusiness income&quot; means all income of a pass-through entity other than business income.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>&quot;Nonresident business entity&quot; means a business entity that does not have its commercial domicile in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>&quot;Nonresident pass-through entity taxpayer&quot; means a pass-through entity taxpayer that is a:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>nonresident individual; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>nonresident business entity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Pass-through entity&quot; means a business entity that is:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the following if classified as a partnership for federal income tax purposes:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_11__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a general partnership;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_11__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a limited liability company;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_11__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a limited liability partnership; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_11__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a limited partnership;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>an S corporation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an estate or trust with respect to which the estate's or trust's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-through entity taxpayers; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a business entity similar to Subsections through :</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_11__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>with respect to which the business entity's income, gain, loss, deduction, or credit is divided among and passed through to one or more pass-through entity taxpayers; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_11__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>as defined by the commission by rule made in accordance with .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>&quot;Pass-through entity taxpayer&quot; means a resident or nonresident individual, a resident or nonresident business entity, or a resident or nonresident estate or trust:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that is:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a general partnership, a partner;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a limited liability company, a member;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>for a limited liability partnership, a partner;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>for a limited partnership, a partner;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>for an S corporation, a shareholder;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>for an estate or trust described in Subsection(11)(c), a beneficiary; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_12__para_a__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>for a business entity described in Subsection(11)(d), a member, partner, shareholder, or other title designated by the commission by rule made in accordance with ; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to which the income, gain, loss, deduction, or credit of a pass-through entity is passed through.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>&quot;Resident business entity&quot; means a business entity that is not a nonresident business entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>&quot;Resident pass-through entity taxpayer&quot; means a pass-through entity taxpayer that is a:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_14__para_a">
+              <num>(a)</num>
+              <content>
+                <p>resident individual; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_14__para_b">
+              <num>(b)</num>
+              <content>
+                <p>resident business entity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>&quot;Return&quot; means a return that a pass-through entity taxpayer files:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a pass-through entity taxpayer that is classified as a C corporation for federal income tax purposes, under ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a pass-through entity taxpayer that is classified as an estate, individual, partnership, S corporation, or a trust for federal income tax purposes, under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>&quot;S corporation&quot; means the same as that term is defined in Section 1361, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>&quot;Share of income, gain, loss, deduction, or credit of a pass-through entity&quot; means:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_17__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a pass-through entity except for a pass-through entity that is an S corporation:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_17__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a resident pass-through entity taxpayer, the resident pass-through entity taxpayer's distributive share of income, gain, loss, deduction, or credit of the pass-through entity as determined under Section 704 et seq., Internal Revenue Code; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_17__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a nonresident pass-through entity taxpayer, the nonresident pass-through entity taxpayer's distributive share of income, gain, loss, deduction, or credit of the pass-through entity:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_17__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for an S corporation:</p>
+              </content>
+              <subparagraph eId="59_10_1402__subsec_17__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a resident pass-through entity taxpayer, the resident pass-through entity taxpayer's pro rata share of income, gain, loss, deduction, or credit of the S corporation, as determined under Sec. 1366 et seq., Internal Revenue Code; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_17__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a nonresident pass-through entity taxpayer, the nonresident pass-through entity taxpayer's pro rata share of income, gain, loss, deduction, or credit of the S corporation:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>&quot;Statement of dependent beneficiary income&quot; means a statement:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_18__para_a">
+              <num>(a)</num>
+              <content>
+                <p>signed by the person who claims a dependent beneficiary as a dependent under Section 151, Internal Revenue Code, on the person's federal income tax return for the taxable year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_18__para_b">
+              <num>(b)</num>
+              <content>
+                <p>attesting that the dependent is a dependent beneficiary; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_18__para_c">
+              <num>(c)</num>
+              <content>
+                <p>indicating that the person expects that the dependent beneficiary's adjusted gross income for the taxable year will not exceed the basic standard deduction for the dependent beneficiary, as calculated under Section 63, Internal Revenue Code, for that taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1402__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>&quot;Voluntary taxable income&quot; means the sum of a pass-through entity's income that is:</p>
+            </content>
+            <paragraph eId="59_10_1402__subsec_19__para_a">
+              <num>(a)</num>
+              <content>
+                <p>attributed to a final pass-through entity taxpayer who is a resident individual unless the income is taxed by another state of the United States, the District of Columbia, or possession of the United States; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1402__subsec_19__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_10_1402__subsec_19__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>business income and nonbusiness income that is derived from or connected with Utah sources; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1402__subsec_19__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>attributed to a final pass-through entity taxpayer who is a nonresident individual.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

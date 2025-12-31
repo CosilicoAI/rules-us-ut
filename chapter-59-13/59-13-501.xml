@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-501"/>
+          <FRBRuri value="/us-ut/act/code/59-13-501"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-501/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-501/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-501/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-501/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_501">
+          <num>59-13-501</num>
+          <heading>Interstate fuel tax agreements by commission -- Contents of agreement -- Rulemaking power -- Legal remedies -- Conflicts.</heading>
+          <content>
+            <p>59-13-501.
+Interstate fuel tax agreements by commission -- Contents of agreement -- Rulemaking power -- Legal remedies -- Conflicts.
+(1)
+The commission may enter into cooperative agreements with other states for the exchange of information and auditing of users of motor fuel and special fuels used in fleets of motor vehicles operated or intended to operate interstate.  Any agreement, arrangement, declaration, or amendment is not effective until stated in writing and filed with the commission.
+(2)
+Any agreement may provide for:
+(a)
+determining the base state for users;
+(b)
+users' records requirements;
+(c)
+audit procedures;
+(d)
+exchange of information;
+(e)
+persons eligible for tax licensing;
+(f)
+defining qualified motor vehicles;
+(g)
+determining if bonding is required;
+(h)
+specifying reporting requirements and periods including defining uniform penalty and interest rates for late reporting;
+(i)
+determining methods for collecting and forwarding of motor fuel and special fuel taxes and penalties to another jurisdiction; and
+(j)
+any other provisions designed to facilitate the administration of the agreement.
+(3)
+The commission may, as required by the terms of an agreement, forward to officers of another state any information in the commission's possession relative to the manufacture, receipts, sale, use, transportation, or shipment of motor fuel or special fuel by any person. The commission may disclose the location of officers, motor vehicles, and other real and personal property of users of motor fuel or special fuel to officers of another state.
+(4)
+Any agreement may provide for each state to audit the records of persons based in the state, to determine if the motor fuel or special fuel taxes due each state are properly reported and paid.  Each state shall forward the findings of the audits performed on persons based in the state to each state in which the person has taxable use of motor fuels and special fuels.  For persons not based in this state and who have taxable use of motor fuels or special fuels in this state, the commission may serve the audit findings received from another state, in the form of an assessment, on the person as if the audit were conducted by the commission.
+(5)
+Any agreement entered into pursuant to this section does not preclude the commission from auditing the records of any person covered by the provisions of this chapter.
+(6)
+The legal remedies for any person served with an order or assessment under this section are as prescribed in this chapter.
+(7)
+If the commission enters into any agreement under the authority of this section, and the provisions established in the agreement are in conflict with any rules promulgated by the commission, the agreement provisions prevail.
+Enacted by Chapter
+75
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_13_501__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission may enter into cooperative agreements with other states for the exchange of information and auditing of users of motor fuel and special fuels used in fleets of motor vehicles operated or intended to operate interstate.  Any agreement, arrangement, declaration, or amendment is not effective until stated in writing and filed with the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_501__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any agreement may provide for:</p>
+            </content>
+            <paragraph eId="59_13_501__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>determining the base state for users;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>users' records requirements;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>audit procedures;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>exchange of information;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>persons eligible for tax licensing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>defining qualified motor vehicles;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>determining if bonding is required;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>specifying reporting requirements and periods including defining uniform penalty and interest rates for late reporting;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>determining methods for collecting and forwarding of motor fuel and special fuel taxes and penalties to another jurisdiction; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_501__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>any other provisions designed to facilitate the administration of the agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_501__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission may, as required by the terms of an agreement, forward to officers of another state any information in the commission's possession relative to the manufacture, receipts, sale, use, transportation, or shipment of motor fuel or special fuel by any person. The commission may disclose the location of officers, motor vehicles, and other real and personal property of users of motor fuel or special fuel to officers of another state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_501__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any agreement may provide for each state to audit the records of persons based in the state, to determine if the motor fuel or special fuel taxes due each state are properly reported and paid.  Each state shall forward the findings of the audits performed on persons based in the state to each state in which the person has taxable use of motor fuels and special fuels.  For persons not based in this state and who have taxable use of motor fuels or special fuels in this state, the commission may serve the audit findings received from another state, in the form of an assessment, on the person as if the audit were conducted by the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_501__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any agreement entered into pursuant to this section does not preclude the commission from auditing the records of any person covered by the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_501__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The legal remedies for any person served with an order or assessment under this section are as prescribed in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_501__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>If the commission enters into any agreement under the authority of this section, and the provisions established in the agreement are in conflict with any rules promulgated by the commission, the agreement provisions prevail.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

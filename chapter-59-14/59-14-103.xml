@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-103"/>
+          <FRBRuri value="/us-ut/act/code/59-14-103"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-103/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-103/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-103/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-103/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_103">
+          <num>59-14-103</num>
+          <heading>Waiver or reduction of penalty.</heading>
+          <content>
+            <p>59-14-103.
+Waiver or reduction of penalty.
+The commission may, upon making a record of its actions, and upon reasonable cause shown, waive, reduce, or compromise any of the penalties or interest imposed under:
+(1)
+Subsection
+59-14-212(4)(b)(ii)
+;
+(2)
+Subsection
+59-14-214(5)(b)(ii)
+;
+(3)
+Subsection
+59-14-407(5)(b)(ii)
+;
+(4)
+Subsection
+59-14-606(7)(b)(ii)
+; or
+(5)
+Subsection
+59-14-608(1)(d)
+.
+Enacted by Chapter
+164
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_14_103__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subsection ;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_103__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsection ;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_103__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subsection ;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_103__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Subsection ; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_103__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-407"/>
+          <FRBRuri value="/us-ut/act/code/59-14-407"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-407/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-407/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-407/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-407/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_407">
+          <num>59-14-407</num>
+          <heading>Reporting of manufacturer name.</heading>
+          <content>
+            <p>59-14-407.
+Reporting of manufacturer name.
+(1)
+As used in this section:
+(a)
+&quot;Cigarette&quot; has the same meaning as defined in Section
+59-22-202
+.
+(b)
+&quot;Tobacco product manufacturer&quot; has the same meaning as defined in Section
+59-22-202
+.
+(2)
+Any manufacturer, distributor, wholesaler, or retail dealer who under Section
+59-14-205
+affixes a stamp to an individual package or container of cigarettes manufactured or sold by a tobacco product manufacturer required to place funds into escrow under Section
+59-22-203
+shall  report quarterly to the commission:
+(a)
+the quantity of cigarettes in the package or container; and
+(b)
+the name of the manufacturer of the cigarettes.
+(3)
+Any manufacturer, distributor, wholesaler, retail dealer, or other person who is required to pay the tax levied under
+Part 3, Tobacco Products
+, on a tobacco product defined as a cigarette under Section
+59-22-202
+and manufactured or sold by a tobacco product manufacturer required to place funds into escrow under Section
+59-22-203
+shall report quarterly to the commission:
+(a)
+the quantity of cigarettes upon which the tax is levied; and
+(b)
+the name of the manufacturer of each cigarette.
+(4)
+The reports under Subsections
+(2)
+and
+(3)
+shall be made no later than quarterly on or before the last day of the month following each calendar quarterly period pursuant to rules established by the commission in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(5)
+A person required to file a report under this section who fails to timely file the report, or who provides false or misleading information on, or in relation to, the report:
+(a)
+is guilty of a class B misdemeanor; and
+(b)
+is subject to:
+(i)
+revocation or suspension of a license under
+Part 2, Cigarettes
+, and
+Part 3, Tobacco Products
+; and
+(ii)
+a civil penalty, imposed by the commission, in an amount that does not exceed the greater of:
+(A)
+500% of the retail value of the cigarettes and tobacco products for which an accurate report was not filed; or
+(B)
+$5,000.
+Amended by Chapter
+164
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_14_407__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_14_407__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Cigarette&quot; has the same meaning as defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_407__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Tobacco product manufacturer&quot; has the same meaning as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_407__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any manufacturer, distributor, wholesaler, or retail dealer who under Section affixes a stamp to an individual package or container of cigarettes manufactured or sold by a tobacco product manufacturer required to place funds into escrow under Section shall  report quarterly to the commission:</p>
+            </content>
+            <paragraph eId="59_14_407__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the quantity of cigarettes in the package or container; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_407__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the name of the manufacturer of the cigarettes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_407__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any manufacturer, distributor, wholesaler, retail dealer, or other person who is required to pay the tax levied under , on a tobacco product defined as a cigarette under Section and manufactured or sold by a tobacco product manufacturer required to place funds into escrow under Section shall report quarterly to the commission:</p>
+            </content>
+            <paragraph eId="59_14_407__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the quantity of cigarettes upon which the tax is levied; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_407__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the name of the manufacturer of each cigarette.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_407__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The reports under Subsections and shall be made no later than quarterly on or before the last day of the month following each calendar quarterly period pursuant to rules established by the commission in accordance with .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_407__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A person required to file a report under this section who fails to timely file the report, or who provides false or misleading information on, or in relation to, the report:</p>
+            </content>
+            <paragraph eId="59_14_407__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is guilty of a class B misdemeanor; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_407__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>is subject to:</p>
+              </content>
+              <subparagraph eId="59_14_407__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>revocation or suspension of a license under , and ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_407__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a civil penalty, imposed by the commission, in an amount that does not exceed the greater of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

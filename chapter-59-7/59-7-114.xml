@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-114"/>
+          <FRBRuri value="/us-ut/act/code/59-7-114"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-114/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-114/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-114/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-114/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_114">
+          <num>59-7-114</num>
+          <heading>Section 338, Internal Revenue Code -- Elections.</heading>
+          <content>
+            <p>59-7-114.
+Section 338, Internal Revenue Code -- Elections.
+(1)
+Transactions for which an election has been made or considered to be made for federal purposes under Section 338, Internal Revenue Code, shall be treated as provided in this section.  An election is not available for state purposes unless an election is made or considered to be made for federal purposes.
+(2)
+If an election is made or considered to be made for federal purposes under Section 338, Internal Revenue Code, other than under Subsection 338(h)(10):
+(a)
+the target corporation shall file a separate entity one-day tax return for state purposes, as is required for federal purposes, and shall include in such return the gain or loss on the deemed sale of assets in its adjusted income;
+(b)
+the gain or loss on the deemed sale of assets shall be apportioned to this state using the apportionment fraction of the target corporation calculated on a separate entity basis for the most recent preceding taxable year consisting of 180 days or more; and
+(c)
+the due date of the one-day return shall be the same as the due date of the return which includes the taxable period of the target corporation which immediately precedes the one-day return.
+(3)
+If an election is made for federal purposes under Subsection 338(h)(10), Internal Revenue Code, the following shall apply:
+(a)
+if the target corporation is a member of a unitary group immediately preceding the acquisition date, the target corporation shall be included in a combined return to the extent of its income through the acquisition date, and the gain or loss on the deemed sale of assets shall be included in the combined income of the unitary group;
+(b)
+if the target corporation is not a member of a unitary group immediately preceding the acquisition date, the target corporation shall file a short period return for the period ending on the acquisition date and shall include in such return the gain or loss on the deemed sale of assets in its adjusted income; and
+(c)
+any gain or loss which is not recognized for federal purposes on stock sold or exchanged by a member of a selling consolidated group as defined in Section 338, Internal Revenue Code, may not be included in the adjusted income of the selling corporation.
+(4)
+There is a rebuttable presumption that the gain or loss on the deemed sale of assets constitutes business income.
+(5)
+The new basis of the target corporation's assets shall be determined under Section 338, Internal Revenue Code.
+(6)
+The target corporation shall be treated as a new corporation as of the day after the acquisition date.
+(7)
+The commission may prescribe such rules as necessary to provide for the equitable treatment of any transaction subject to Section 338, Internal Revenue Code.
+Amended by Chapter
+9
+, 2001 General Session</p>
+          </content>
+          <subsection eId="59_7_114__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Transactions for which an election has been made or considered to be made for federal purposes under Section 338, Internal Revenue Code, shall be treated as provided in this section.  An election is not available for state purposes unless an election is made or considered to be made for federal purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_114__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If an election is made or considered to be made for federal purposes under Section 338, Internal Revenue Code, other than under Subsection 338(h)(10):</p>
+            </content>
+            <paragraph eId="59_7_114__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the target corporation shall file a separate entity one-day tax return for state purposes, as is required for federal purposes, and shall include in such return the gain or loss on the deemed sale of assets in its adjusted income;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_114__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the gain or loss on the deemed sale of assets shall be apportioned to this state using the apportionment fraction of the target corporation calculated on a separate entity basis for the most recent preceding taxable year consisting of 180 days or more; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_114__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the due date of the one-day return shall be the same as the due date of the return which includes the taxable period of the target corporation which immediately precedes the one-day return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_114__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If an election is made for federal purposes under Subsection 338(h)(10), Internal Revenue Code, the following shall apply:</p>
+            </content>
+            <paragraph eId="59_7_114__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if the target corporation is a member of a unitary group immediately preceding the acquisition date, the target corporation shall be included in a combined return to the extent of its income through the acquisition date, and the gain or loss on the deemed sale of assets shall be included in the combined income of the unitary group;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_114__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the target corporation is not a member of a unitary group immediately preceding the acquisition date, the target corporation shall file a short period return for the period ending on the acquisition date and shall include in such return the gain or loss on the deemed sale of assets in its adjusted income; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_114__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>any gain or loss which is not recognized for federal purposes on stock sold or exchanged by a member of a selling consolidated group as defined in Section 338, Internal Revenue Code, may not be included in the adjusted income of the selling corporation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_114__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>There is a rebuttable presumption that the gain or loss on the deemed sale of assets constitutes business income.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_114__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The new basis of the target corporation's assets shall be determined under Section 338, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_114__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The target corporation shall be treated as a new corporation as of the day after the acquisition date.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_114__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The commission may prescribe such rules as necessary to provide for the equitable treatment of any transaction subject to Section 338, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

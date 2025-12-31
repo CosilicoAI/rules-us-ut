@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-701"/>
+          <FRBRuri value="/us-ut/act/code/59-7-701"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-701/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-701/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-701/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-701/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_701">
+          <num>59-7-701</num>
+          <heading>Taxation of S corporations.</heading>
+          <content>
+            <p>Effective 5/10/2016
+59-7-701.
+Taxation of S corporations.
+(1)
+Except as provided in Section
+59-7-102
+and subject to the other provisions of this part, beginning on July 1, 1994, and ending on the last day of the taxable year that begins on or after January 1, 2012, but begins on or before December 31, 2012, an S corporation is subject to taxation in the same manner as that S corporation is taxed under Subchapter S - Tax Treatment of S Corporations and Their Shareholders, Sec. 1361 et seq., Internal Revenue Code.
+(2)
+An S corporation is taxed at the tax rate provided in Section
+59-7-104
+.
+(3)
+The business income and nonbusiness income of an S corporation is subject to
+Part 3, Allocation and Apportionment of Income - Utah UDITPA Provisions
+.
+(4)
+An S corporation having income derived from or connected with Utah sources shall make a return in accordance with Sections
+59-10-507
+and
+59-10-514
+.
+(5)
+An S corporation shall make payments of estimated tax as required by Section
+59-7-504
+.
+(6)
+An S corporation is subject to
+Chapter 10, Part 14, Pass-Through Entities and Pass-Through Entity Taxpayers Act
+.
+(7)
+A pass-through entity taxpayer as defined in Section
+59-10-1402
+of an S corporation is subject to
+Chapter 10, Part 14, Pass-Through Entities and Pass-Through Entity Taxpayers Act
+.
+(8)
+Provisions under this chapter governing the following apply to an S corporation:
+(a)
+an assessment;
+(b)
+a penalty;
+(c)
+a refund; or
+(d)
+a record required for an S corporation.
+Amended by Chapter
+87
+, 2016 General Session
+Amended by Chapter
+135
+, 2016 General Session
+Amended by Chapter
+222
+, 2016 General Session</p>
+          </content>
+          <subsection eId="59_7_701__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Section and subject to the other provisions of this part, beginning on July 1, 1994, and ending on the last day of the taxable year that begins on or after January 1, 2012, but begins on or before December 31, 2012, an S corporation is subject to taxation in the same manner as that S corporation is taxed under Subchapter S - Tax Treatment of S Corporations and Their Shareholders, Sec. 1361 et seq., Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An S corporation is taxed at the tax rate provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The business income and nonbusiness income of an S corporation is subject to .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An S corporation having income derived from or connected with Utah sources shall make a return in accordance with Sections and .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An S corporation shall make payments of estimated tax as required by Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>An S corporation is subject to .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A pass-through entity taxpayer as defined in Section of an S corporation is subject to .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_701__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Provisions under this chapter governing the following apply to an S corporation:</p>
+            </content>
+            <paragraph eId="59_7_701__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an assessment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_701__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a penalty;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_701__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a refund; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_701__subsec_8__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a record required for an S corporation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

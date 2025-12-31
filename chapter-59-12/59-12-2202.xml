@@ -1,0 +1,518 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2202"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2202/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2202/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2202/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2202/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2202">
+          <num>59-12-2202</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-12-2202.
+Definitions.
+As used in this part:
+(1)
+&quot;Airline&quot; means the same as that term is defined in Section
+59-2-102
+.
+(2)
+&quot;Airport facility&quot; means the same as that term is defined in Section
+59-12-602
+.
+(3)
+&quot;Airport of regional significance&quot; means an airport identified by the Federal Aviation Administration in the most current National Plan of Integrated Airport Systems or an update to the National Plan of Integrated Airport Systems.
+(4)
+&quot;Annexation&quot; means an annexation to:
+(a)
+a county under Title
+17, Chapter 61, Part 2
+, Consolidation of Counties, or Part 3, County Annexation; or
+(b)
+a city or town under Title
+10, Chapter 2, Part 4
+, Annexation.
+(5)
+&quot;Annexing area&quot; means an area that is annexed into a county, city, or town.
+(6)
+&quot;Class A road&quot; means the same as that term is described in Section
+72-3-102
+.
+(7)
+&quot;Class B road&quot; means the same as that term is described in Section
+72-3-103
+.
+(8)
+&quot;Class C road&quot; means the same as that term is described in Section
+72-3-104
+.
+(9)
+&quot;Class D road&quot; means the same as that term is described in Section
+72-3-105
+.
+(10)
+&quot;Council of governments&quot; means the same as that term is defined in Section
+72-2-117.5
+.
+(11)
+&quot;Eligible political subdivision&quot; means a political subdivision that:
+(a)
+provides public transit services;
+(b)
+is not a public transit district; and
+(c)
+is not annexed into a public transit district.
+(12)
+&quot;Fixed guideway&quot; means the same as that term is defined in Section
+59-12-102
+.
+(13)
+&quot;Large public transit district&quot; means the same as that term is defined in Section
+17B-2a-802
+.
+(14)
+&quot;Major collector highway&quot; means the same as that term is defined in Section
+72-4-102.5
+.
+(15)
+&quot;Metropolitan planning organization&quot; means the same as that term is defined in Section
+72-1-208.5
+.
+(16)
+&quot;Minor arterial highway&quot; means the same as that term is defined in Section
+72-4-102.5
+.
+(17)
+&quot;Minor collector road&quot; means the same as that term is defined in Section
+72-4-102.5
+.
+(18)
+&quot;Principal arterial highway&quot; means the same as that term is defined in Section
+72-4-102.5
+.
+(19)
+&quot;Public transit&quot; means the same as that term is defined in Section
+17B-2a-802
+.
+(20)
+&quot;Public transit district&quot; means the same as that term is defined in Section
+17B-2a-802
+.
+(21)
+&quot;Public transit innovation grant&quot; means the same as that term is defined in Section
+72-2-401
+.
+(22)
+&quot;Public transit provider&quot; means a public transit district or an eligible political subdivision.
+(23)
+&quot;Public transit service&quot; means a service provided as part of public transit.
+(24)
+&quot;Regionally significant transportation facility&quot; means:
+(a)
+in a county of the first or second class:
+(i)
+a principal arterial highway;
+(ii)
+a minor arterial highway;
+(iii)
+a fixed guideway that:
+(A)
+extends across two or more cities or unincorporated areas; or
+(B)
+is an extension to an existing fixed guideway; or
+(iv)
+an airport of regional significance; or
+(b)
+in a county of the second class that is not part of a large public transit district, or in a county of the third, fourth, fifth, or sixth class:
+(i)
+a principal arterial highway;
+(ii)
+a minor arterial highway;
+(iii)
+a major collector highway;
+(iv)
+a minor collector road; or
+(v)
+an airport of regional significance.
+(25)
+&quot;State highway&quot; means a highway designated as a state highway under Title
+72, Chapter 4
+, Designation of State Highways Act.
+(26)
+(a)
+Subject to Subsection
+(26)(b)
+, &quot;system for public transit&quot; means the same as the term &quot;public transit&quot; is defined in Section
+17B-2a-802
+.
+(b)
+&quot;System for public transit&quot; includes:
+(i)
+the following costs related to public transit:
+(A)
+maintenance costs; or
+(B)
+operating costs;
+(ii)
+a fixed guideway;
+(iii)
+a park and ride facility;
+(iv)
+a passenger station or passenger terminal;
+(v)
+a right-of-way for public transit; or
+(vi)
+the following that serve a public transit facility:
+(A)
+a maintenance facility;
+(B)
+a platform;
+(C)
+a repair facility;
+(D)
+a roadway;
+(E)
+a storage facility;
+(F)
+a utility line; or
+(G)
+a facility or item similar to those described in Subsections
+(26)(b)(vi)(A)
+through
+(F)
+.
+Amended by Chapter
+17
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_12_2202__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Airline&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Airport facility&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Airport of regional significance&quot; means an airport identified by the Federal Aviation Administration in the most current National Plan of Integrated Airport Systems or an update to the National Plan of Integrated Airport Systems.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Annexation&quot; means an annexation to:</p>
+            </content>
+            <paragraph eId="59_12_2202__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a county under Title , Consolidation of Counties, or Part 3, County Annexation; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2202__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a city or town under Title , Annexation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Annexing area&quot; means an area that is annexed into a county, city, or town.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Class A road&quot; means the same as that term is described in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Class B road&quot; means the same as that term is described in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Class C road&quot; means the same as that term is described in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>&quot;Class D road&quot; means the same as that term is described in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>&quot;Council of governments&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Eligible political subdivision&quot; means a political subdivision that:</p>
+            </content>
+            <paragraph eId="59_12_2202__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>provides public transit services;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2202__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>is not a public transit district; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2202__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is not annexed into a public transit district.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>&quot;Fixed guideway&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>&quot;Large public transit district&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>&quot;Major collector highway&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>&quot;Metropolitan planning organization&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>&quot;Minor arterial highway&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>&quot;Minor collector road&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>&quot;Principal arterial highway&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>&quot;Public transit&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>&quot;Public transit district&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>&quot;Public transit innovation grant&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>&quot;Public transit provider&quot; means a public transit district or an eligible political subdivision.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>&quot;Public transit service&quot; means a service provided as part of public transit.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>&quot;Regionally significant transportation facility&quot; means:</p>
+            </content>
+            <paragraph eId="59_12_2202__subsec_24__para_a">
+              <num>(a)</num>
+              <content>
+                <p>in a county of the first or second class:</p>
+              </content>
+              <subparagraph eId="59_12_2202__subsec_24__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a principal arterial highway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a minor arterial highway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a fixed guideway that:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>an airport of regional significance; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2202__subsec_24__para_b">
+              <num>(b)</num>
+              <content>
+                <p>in a county of the second class that is not part of a large public transit district, or in a county of the third, fourth, fifth, or sixth class:</p>
+              </content>
+              <subparagraph eId="59_12_2202__subsec_24__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a principal arterial highway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a minor arterial highway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a major collector highway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a minor collector road; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_24__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>an airport of regional significance.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>&quot;State highway&quot; means a highway designated as a state highway under Title , Designation of State Highways Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2202__subsec_26">
+            <num>(26)</num>
+            <paragraph eId="59_12_2202__subsec_26__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , &quot;system for public transit&quot; means the same as the term &quot;public transit&quot; is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2202__subsec_26__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;System for public transit&quot; includes:</p>
+              </content>
+              <subparagraph eId="59_12_2202__subsec_26__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the following costs related to public transit:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_26__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a fixed guideway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_26__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a park and ride facility;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_26__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a passenger station or passenger terminal;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_26__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a right-of-way for public transit; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2202__subsec_26__para_b__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>the following that serve a public transit facility:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

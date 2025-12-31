@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1103"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1103"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1103/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1103/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1103/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1103/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1103">
+          <num>59-10-1103</num>
+          <heading>Tax credit for pass-through entity taxpayer.</heading>
+          <content>
+            <p>Effective 3/23/2022
+59-10-1103.
+Tax credit for pass-through entity taxpayer.
+(1)
+As used in this section:
+(a)
+&quot;Pass-through entity&quot; means the same as that term is defined in Section
+59-10-1402
+.
+(b)
+&quot;Pass-through entity taxpayer&quot; means the same as that term is defined in Section
+59-10-1402
+.
+(2)
+A pass-through entity taxpayer may claim a refundable tax credit against the tax otherwise due under this chapter if that pass-through entity taxpayer is a:
+(a)
+claimant;
+(b)
+estate; or
+(c)
+trust.
+(3)
+The tax credit described in Subsection
+(2)
+is equal to the amount paid or withheld by the pass-through entity on behalf of the pass-through entity taxpayer described in Subsection
+(2)
+in accordance with Section
+59-10-1403.2
+, other than a tax described in Subsection
+59-10-1403.2(2)
+.
+(4)
+A pass-through entity taxpayer may not claim a tax credit under this section for an amount for which the pass-through entity taxpayer claims a tax credit under Section
+59-7-614.4
+.
+Amended by Chapter
+238
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1103__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1103__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Pass-through entity&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1103__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Pass-through entity taxpayer&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1103__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A pass-through entity taxpayer may claim a refundable tax credit against the tax otherwise due under this chapter if that pass-through entity taxpayer is a:</p>
+            </content>
+            <paragraph eId="59_10_1103__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>claimant;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1103__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>estate; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1103__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>trust.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1103__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax credit described in Subsection is equal to the amount paid or withheld by the pass-through entity on behalf of the pass-through entity taxpayer described in Subsection in accordance with Section , other than a tax described in Subsection .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1103__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A pass-through entity taxpayer may not claim a tax credit under this section for an amount for which the pass-through entity taxpayer claims a tax credit under Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1311"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1311"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1311/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1311/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1311/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1311/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1311">
+          <num>59-10-1311</num>
+          <heading>Election Campaign Fund contribution -- Transfer from General Fund -- Form and procedure.</heading>
+          <content>
+            <p>59-10-1311.
+Election Campaign Fund contribution -- Transfer from General Fund -- Form and procedure.
+(1)
+(a)
+A resident or nonresident individual, other than a nonresident alien, may designate on the resident or nonresident individual's individual income tax return a contribution of $2 to the Election Campaign Fund created by Section
+59-10-1312
+, if the resident or nonresident individual:
+(i)
+has a liability under this chapter for a taxable year of $2 or more; and
+(ii)
+files a return under this chapter.
+(b)
+The commission shall transfer $2 from the General Fund to the Election Campaign Fund for each contribution made on an individual income tax return under this Subsection
+(1)
+.
+(c)
+The transfer described in Subsection
+(1)(b)
+shall be made from revenue generated from state sales and use tax revenues collected in accordance with
+Chapter 12, Sales and Use Tax Act
+.
+(2)
+(a)
+A contribution under Subsection
+(1)
+may be made with respect to any taxable year at the time a resident or nonresident individual files a return for that taxable year.
+(b)
+The commission shall include the contribution allowed by this section:
+(i)
+on a return under this chapter; and
+(ii)
+for any political party as defined by Section
+20A-1-102
+that has qualified as a political party in the first six months of the calendar year for which the return is prepared.
+(c)
+The commission shall place a political party described in Subsection
+(2)(b)
+on a return described in Subsection
+(2)(b)
+in alphabetical order.
+(d)
+The commission shall include on a return described in Subsection
+(2)(b)
+:
+(i)
+the option for a resident or nonresident individual to indicate that no contribution is to be made to any political party; and
+(ii)
+a statement that a contribution a resident or nonresident individual, other than a nonresident alien, makes under this section may not:
+(A)
+increase the resident or nonresident individual's tax liability under this chapter; or
+(B)
+reduce the resident or nonresident individual's refund under this chapter.
+Renumbered and Amended by Chapter
+389
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_10_1311__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_1311__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A resident or nonresident individual, other than a nonresident alien, may designate on the resident or nonresident individual's individual income tax return a contribution of $2 to the Election Campaign Fund created by Section , if the resident or nonresident individual:</p>
+              </content>
+              <subparagraph eId="59_10_1311__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>has a liability under this chapter for a taxable year of $2 or more; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1311__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>files a return under this chapter.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1311__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall transfer $2 from the General Fund to the Election Campaign Fund for each contribution made on an individual income tax return under this Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1311__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The transfer described in Subsection shall be made from revenue generated from state sales and use tax revenues collected in accordance with .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1311__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_1311__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A contribution under Subsection may be made with respect to any taxable year at the time a resident or nonresident individual files a return for that taxable year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1311__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall include the contribution allowed by this section:</p>
+              </content>
+              <subparagraph eId="59_10_1311__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on a return under this chapter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1311__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for any political party as defined by Section that has qualified as a political party in the first six months of the calendar year for which the return is prepared.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1311__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission shall place a political party described in Subsection on a return described in Subsection in alphabetical order.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1311__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission shall include on a return described in Subsection :</p>
+              </content>
+              <subparagraph eId="59_10_1311__subsec_2__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the option for a resident or nonresident individual to indicate that no contribution is to be made to any political party; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1311__subsec_2__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a statement that a contribution a resident or nonresident individual, other than a nonresident alien, makes under this section may not:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

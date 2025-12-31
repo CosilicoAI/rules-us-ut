@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-510"/>
+          <FRBRuri value="/us-ut/act/code/59-7-510"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-510/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-510/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-510/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-510/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_510">
+          <num>59-7-510</num>
+          <heading>Deficiency -- Interest.</heading>
+          <content>
+            <p>59-7-510.
+Deficiency -- Interest.
+Interest upon the amount determined as a deficiency shall be assessed at the same time as the deficiency, shall be paid upon notice and demand from the commission, and shall be collected as a part of the tax at the rate and in the manner prescribed in Section
+59-1-402
+.
+Amended by Chapter
+1
+, 1993 Special Session 2
+Amended by Chapter
+1
+, 1993 Special Session 2</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

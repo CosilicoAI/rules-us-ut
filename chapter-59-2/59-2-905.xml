@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-905"/>
+          <FRBRuri value="/us-ut/act/code/59-2-905"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-905/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-905/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-905/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-905/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_905">
+          <num>59-2-905</num>
+          <heading>Legislature to set minimum rate of levy for state's contribution to minimum school program -- Matters to be considered -- Commission to transmit rate to auditors -- Acknowledgment of receipt.</heading>
+          <content>
+            <p>59-2-905.
+Legislature to set minimum rate of levy for state's contribution to minimum school program -- Matters to be considered -- Commission to transmit rate to auditors -- Acknowledgment of receipt.
+The Legislature shall set the minimum rate of levy on each dollar of taxable value of  taxable property so that it will raise sufficient supplementary revenue to pay the state's contribution to the cost of the minimum school program for that year.  The Legislature shall take into consideration the estimated tax delinquency for the current year, and shall be conservative in its estimate of revenue to assure ample funds for the state's contribution to the cost of the minimum school program.  The commission shall immediately transmit to the county auditor of each county and to the state auditor a statement of the rate.  The county auditor shall, upon receipt, give the commission written acknowledgment of receipt.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

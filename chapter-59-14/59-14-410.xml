@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-410"/>
+          <FRBRuri value="/us-ut/act/code/59-14-410"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-410/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-410/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-410/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-410/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_410">
+          <num>59-14-410</num>
+          <heading>Action for collection of tax -- Action for refund or credit of tax.</heading>
+          <content>
+            <p>59-14-410.
+Action for collection of tax -- Action for refund or credit of tax.
+(1)
+(a)
+Except as provided in Subsections
+(2)
+through
+(5)
+, the commission shall assess a tax under this chapter within three years after a taxpayer files a return.
+(b)
+Except as provided in Subsections
+(2)
+through
+(5)
+, if the commission does not assess a tax under this chapter within the three-year period provided in Subsection
+(1)(a)
+, the commission may not commence a proceeding to collect the tax.
+(2)
+The commission may assess a tax at any time if a taxpayer:
+(a)
+files a false or fraudulent return with intent to evade; or
+(b)
+does not file a return.
+(3)
+The commission may extend the period to make an assessment or to commence a proceeding to collect the tax under this chapter if:
+(a)
+the three-year period under Subsection
+(1)
+has not expired; and
+(b)
+the commission and the taxpayer sign a written agreement:
+(i)
+authorizing the extension; and
+(ii)
+providing for the length of the extension.
+(4)
+If the commission delays an audit at the request of a taxpayer, the commission may make an assessment as provided in Subsection
+(5)
+if:
+(a)
+the taxpayer subsequently refuses to agree to an extension request by the commission; and
+(b)
+the three-year period under Subsection
+(1)
+expires before the commission completes the audit.
+(5)
+An assessment under Subsection
+(4)
+shall be:
+(a)
+for the time period for which the commission could not make an assessment because of the expiration of the three-year period; and
+(b)
+in an amount equal to the difference between:
+(i)
+the commission's estimate of the amount of tax the taxpayer would have been assessed for the time period described in Subsection
+(5)(a)
+; and
+(ii)
+the amount of tax the taxpayer actually paid for the time period described in Subsection
+(5)(a)
+.
+(6)
+(a)
+Except as provided in Subsection
+(6)(b)
+, the commission may not make a credit or refund unless the taxpayer files a claim with the commission within three years of the date of overpayment.
+(b)
+The commission shall extend the period for a taxpayer to file a claim under Subsection
+(6)(a)
+if:
+(i)
+the three-year period under Subsection
+(6)(a)
+has not expired; and
+(ii)
+the commission and the taxpayer sign a written agreement:
+(A)
+authorizing the extension; and
+(B)
+providing for the length of the extension.
+Enacted by Chapter
+6
+, 2007 General Session</p>
+          </content>
+          <subsection eId="59_14_410__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_14_410__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsections through , the commission shall assess a tax under this chapter within three years after a taxpayer files a return.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_410__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in Subsections through , if the commission does not assess a tax under this chapter within the three-year period provided in Subsection , the commission may not commence a proceeding to collect the tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_410__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission may assess a tax at any time if a taxpayer:</p>
+            </content>
+            <paragraph eId="59_14_410__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>files a false or fraudulent return with intent to evade; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_410__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>does not file a return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_410__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission may extend the period to make an assessment or to commence a proceeding to collect the tax under this chapter if:</p>
+            </content>
+            <paragraph eId="59_14_410__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the three-year period under Subsection has not expired; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_410__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the commission and the taxpayer sign a written agreement:</p>
+              </content>
+              <subparagraph eId="59_14_410__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>authorizing the extension; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_410__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>providing for the length of the extension.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_410__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the commission delays an audit at the request of a taxpayer, the commission may make an assessment as provided in Subsection if:</p>
+            </content>
+            <paragraph eId="59_14_410__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the taxpayer subsequently refuses to agree to an extension request by the commission; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_410__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the three-year period under Subsection expires before the commission completes the audit.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_410__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An assessment under Subsection shall be:</p>
+            </content>
+            <paragraph eId="59_14_410__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for the time period for which the commission could not make an assessment because of the expiration of the three-year period; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_410__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>in an amount equal to the difference between:</p>
+              </content>
+              <subparagraph eId="59_14_410__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the commission's estimate of the amount of tax the taxpayer would have been assessed for the time period described in Subsection ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_410__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the amount of tax the taxpayer actually paid for the time period described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_410__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_14_410__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , the commission may not make a credit or refund unless the taxpayer files a claim with the commission within three years of the date of overpayment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_410__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall extend the period for a taxpayer to file a claim under Subsection if:</p>
+              </content>
+              <subparagraph eId="59_14_410__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the three-year period under Subsection has not expired; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_410__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the commission and the taxpayer sign a written agreement:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

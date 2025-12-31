@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-502"/>
+          <FRBRuri value="/us-ut/act/code/59-13-502"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-502/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-502/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-502/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-502/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_502">
+          <num>59-13-502</num>
+          <heading>Interstate fuel tax agreements -- Compliance procedures.</heading>
+          <content>
+            <p>59-13-502.
+Interstate fuel tax agreements -- Compliance procedures.
+(1)
+After the commission's membership in an agreement provided for under Section
+59-13-501
+becomes effective, a taxpayer shall, for vehicles powered by special fuel qualifying under the agreement, be required to pay the special fuel tax at the rate established under
+Part 3, Special Fuel
+, in accordance with the provisions of the agreement.
+(2)
+Any taxpayer who has vehicles, qualifying under an agreement entered into under this part, which operate on motor fuel as defined under Section
+59-13-102
+, shall account for and pay tax on fuel used in those vehicles at the rate established under
+Part 2, Motor Fuel
+, in accordance with the agreement, and receive credit for taxes paid under
+Part 2, Motor Fuel
+, on purchases as provided for in the agreement.
+(3)
+The statutory notice procedures of this chapter, penalty provisions of Section
+59-1-401
+, and adjudicative procedures in
+Title 63G, Chapter 4, Administrative Procedures Act
+, are applicable to this part.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_13_502__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>After the commission's membership in an agreement provided for under Section becomes effective, a taxpayer shall, for vehicles powered by special fuel qualifying under the agreement, be required to pay the special fuel tax at the rate established under , in accordance with the provisions of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_502__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any taxpayer who has vehicles, qualifying under an agreement entered into under this part, which operate on motor fuel as defined under Section , shall account for and pay tax on fuel used in those vehicles at the rate established under , in accordance with the agreement, and receive credit for taxes paid under , on purchases as provided for in the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_502__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The statutory notice procedures of this chapter, penalty provisions of Section , and adjudicative procedures in , are applicable to this part.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

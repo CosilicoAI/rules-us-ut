@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-302"/>
+          <FRBRuri value="/us-ut/act/code/59-12-302"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-302/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-302/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-302/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-302/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_302">
+          <num>59-12-302</num>
+          <heading>Collection of tax -- Administrative charge.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-12-302.
+Collection of tax -- Administrative charge.
+(1)
+Except as provided in Subsections
+(2)
+,
+(3)
+, and
+(4)
+, the tax authorized under this part shall be administered, collected, enforced, and interpreted in accordance with:
+(a)
+the same procedures used to administer, collect, enforce, and interpret the tax under:
+(i)
+Part 1, Tax Collection
+; or
+(ii)
+Part 2, Local Sales and Use Tax Act
+; and
+(b)
+Chapter 1, General Taxation Policies
+.
+(2)
+The location of a transaction shall be determined in accordance with Sections
+59-12-211
+through
+59-12-215
+.
+(3)
+A tax under this part is not subject to Section
+59-12-107.1
+or
+59-12-123
+or Subsections
+59-12-205(2)
+and (4) through (6).
+(4)
+A county auditor may make referrals to the commission to assist the commission in determining whether to require an audit of any person that is required to remit a tax authorized under this part.
+(5)
+The commission:
+(a)
+shall distribute the revenue collected from the tax to the county within which the revenue was collected; and
+(b)
+shall retain and deposit an administrative charge in accordance with Section
+59-1-306
+from revenue the commission collects from a tax under this part.
+Amended by Chapter
+290
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_12_302__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsections , , and , the tax authorized under this part shall be administered, collected, enforced, and interpreted in accordance with:</p>
+            </content>
+            <paragraph eId="59_12_302__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the same procedures used to administer, collect, enforce, and interpret the tax under:</p>
+              </content>
+              <subparagraph eId="59_12_302__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_302__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_302__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_302__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The location of a transaction shall be determined in accordance with Sections through .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_302__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A tax under this part is not subject to Section or or Subsections and (4) through (6).</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_302__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A county auditor may make referrals to the commission to assist the commission in determining whether to require an audit of any person that is required to remit a tax authorized under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_302__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission:</p>
+            </content>
+            <paragraph eId="59_12_302__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>shall distribute the revenue collected from the tax to the county within which the revenue was collected; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_302__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>shall retain and deposit an administrative charge in accordance with Section from revenue the commission collects from a tax under this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

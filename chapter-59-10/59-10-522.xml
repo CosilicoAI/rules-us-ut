@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-522"/>
+          <FRBRuri value="/us-ut/act/code/59-10-522"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-522/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-522/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-522/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-522/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_522">
+          <num>59-10-522</num>
+          <heading>Extension of time for paying tax.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-522.
+Extension of time for paying tax.
+(1)
+(a)
+For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer shall receive an extension of time for the payment of the amount determined as the tax of the taxpayer, or any part of that amount, for the time period that ends on the last day of the extension to pay the taxpayer's federal income tax.
+(b)
+(i)
+For a taxable year beginning on or after January 1, 2020, the commission, except as otherwise provided by this chapter, may extend the time for payment of the amount shown, or required to be shown, on any return required under authority of this chapter (or any installment thereof), for a reasonable period not to exceed six months from the date fixed for payment thereof.
+(ii)
+The extension may exceed six months in the cases of taxpayers who are outside the states of the union and the District of Columbia.
+(2)
+(a)
+Under rules prescribed by the commission, the time for payment of the amount determined as a deficiency may be extended for a period not to exceed 18 months from the date fixed for payment of the deficiency, and, in exceptional cases, for a further period not to exceed 12 months.
+(b)
+An extension under this subsection may be granted only where it is shown to the satisfaction of the commission that the payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer.
+(c)
+No extension may be granted if the deficiency is due to negligence, to intentional disregard of rules, or to fraud with intent to evade tax.
+(3)
+An extension of time for payment of any portion of a claim for an unpaid tax under this chapter, allowed in bankruptcy or receivership proceedings, may be had in the same manner and subject to the same provisions and limitations as provided in Subsection
+(2)
+.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_522__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_522__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer shall receive an extension of time for the payment of the amount determined as the tax of the taxpayer, or any part of that amount, for the time period that ends on the last day of the extension to pay the taxpayer's federal income tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_522__subsec_1__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_10_522__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>For a taxable year beginning on or after January 1, 2020, the commission, except as otherwise provided by this chapter, may extend the time for payment of the amount shown, or required to be shown, on any return required under authority of this chapter (or any installment thereof), for a reasonable period not to exceed six months from the date fixed for payment thereof.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_522__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The extension may exceed six months in the cases of taxpayers who are outside the states of the union and the District of Columbia.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_522__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_522__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Under rules prescribed by the commission, the time for payment of the amount determined as a deficiency may be extended for a period not to exceed 18 months from the date fixed for payment of the deficiency, and, in exceptional cases, for a further period not to exceed 12 months.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_522__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An extension under this subsection may be granted only where it is shown to the satisfaction of the commission that the payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_522__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>No extension may be granted if the deficiency is due to negligence, to intentional disregard of rules, or to fraud with intent to evade tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_522__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An extension of time for payment of any portion of a claim for an unpaid tax under this chapter, allowed in bankruptcy or receivership proceedings, may be had in the same manner and subject to the same provisions and limitations as provided in Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

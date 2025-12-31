@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-802"/>
+          <FRBRuri value="/us-ut/act/code/59-2-802"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-802/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-802/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-802/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-802/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_802">
+          <num>59-2-802</num>
+          <heading>Statement of commission transmitted to county auditors -- Contents of statement -- Duties of auditors -- Change of assessment prohibited.</heading>
+          <content>
+            <p>Effective 1/1/2016
+59-2-802.
+Statement of commission transmitted to county auditors -- Contents of statement -- Duties of auditors -- Change of assessment prohibited.
+(1)
+The commission shall, before June 8, annually transmit to the county auditor of each county to which an apportionment has been made a statement showing:
+(a)
+the property assessed;
+(b)
+the value of the property, as fixed and apportioned to the tax areas; and
+(c)
+the aggregate amount of taxable value placed in dispute in accordance with Section
+59-2-1007
+.
+(2)
+The county auditor shall enter the:
+(a)
+statement on the county assessment roll or book; and
+(b)
+amount of the assessment apportioned to the county in the column of the assessment book or roll which shows for the county the total taxable value of all property.
+(3)
+A county board of equalization may not change any assessment fixed by the commission.
+Amended by Chapter
+139
+, 2015 General Session</p>
+          </content>
+          <subsection eId="59_2_802__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall, before June 8, annually transmit to the county auditor of each county to which an apportionment has been made a statement showing:</p>
+            </content>
+            <paragraph eId="59_2_802__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the property assessed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_802__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the value of the property, as fixed and apportioned to the tax areas; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_802__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the aggregate amount of taxable value placed in dispute in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_802__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The county auditor shall enter the:</p>
+            </content>
+            <paragraph eId="59_2_802__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>statement on the county assessment roll or book; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_802__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>amount of the assessment apportioned to the county in the column of the assessment book or roll which shows for the county the total taxable value of all property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_802__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A county board of equalization may not change any assessment fixed by the commission.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

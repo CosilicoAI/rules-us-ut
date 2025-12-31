@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-922"/>
+          <FRBRuri value="/us-ut/act/code/59-2-922"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-922/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-922/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-922/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-922/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_922">
+          <num>59-2-922</num>
+          <heading>Replacement resolution for greater tax rate.</heading>
+          <content>
+            <p>59-2-922.
+Replacement resolution for greater tax rate.
+Except as provided in Section
+59-2-921
+, if, after a taxing entity approves an initial tax rate, the taxing entity determines that a greater tax rate is required, the taxing entity shall adopt a replacement resolution after the taxing entity meets the notice and public hearing requirements of Section
+59-2-919
+to the extent required by Section
+59-2-919
+.
+Amended by Chapter
+204
+, 2009 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

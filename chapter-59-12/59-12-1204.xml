@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-1204"/>
+          <FRBRuri value="/us-ut/act/code/59-12-1204"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-1204/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-1204/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-1204/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-1204/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_1204">
+          <num>59-12-1204</num>
+          <heading>Purchaser relief from liability.</heading>
+          <content>
+            <p>59-12-1204.
+Purchaser relief from liability.
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+, a purchaser is relieved from a penalty under Section
+59-1-401
+for failure to pay a tax due under this part or an underpayment if:
+(i)
+the purchaser's seller or certified service provider relies on incorrect data provided by the commission:
+(A)
+on a tax rate;
+(B)
+on a boundary;
+(C)
+on a taxing jurisdiction; or
+(D)
+in the taxability matrix the commission provides in accordance with the agreement; or
+(ii)
+the purchaser, regardless of whether the purchaser holds a direct payment permit in accordance with Section
+59-12-107.1
+, relies on incorrect data provided by the commission:
+(A)
+on a tax rate;
+(B)
+on a boundary;
+(C)
+on a taxing jurisdiction; or
+(D)
+in the taxability matrix the commission provides in accordance with the agreement.
+(b)
+For purposes of Subsection
+(1)(a)
+, a purchaser is not relieved from a penalty under Section
+59-1-401
+for failure to pay a tax due under this part or an underpayment if the purchaser's, the purchaser's seller's, or the purchaser's certified service provider's reliance on incorrect data provided by the commission is as a result of conduct that is:
+(i)
+fraudulent;
+(ii)
+intentional; or
+(iii)
+willful.
+(2)
+In addition to the relief from a penalty described in Subsection
+(1)
+, a purchaser is not liable for a tax or interest under Section
+59-1-402
+for failure to pay a tax due under this part or an underpayment if:
+(a)
+the purchaser's seller or certified service provider relies on:
+(i)
+incorrect data provided by the commission:
+(A)
+on a tax rate;
+(B)
+on a boundary; or
+(C)
+on a taxing jurisdiction; or
+(ii)
+an erroneous classification by the commission:
+(A)
+in the taxability matrix the commission provides in accordance with the agreement; and
+(B)
+with respect to a term:
+(I)
+in the library of definitions; and
+(II)
+that is:
+(Aa)
+listed as taxable or exempt;
+(Bb)
+included in or excluded from &quot;sales price&quot;; or
+(Cc)
+included in or excluded from a definition; or
+(b)
+the purchaser, regardless of whether the purchaser holds a direct payment permit in accordance with Section
+59-12-107.1
+, relies on:
+(i)
+incorrect data provided by the commission:
+(A)
+on a tax rate;
+(B)
+on a boundary; or
+(C)
+on a taxing jurisdiction; or
+(ii)
+an erroneous classification by the commission:
+(A)
+in the taxability matrix the commission provides in accordance with the agreement; and
+(B)
+with respect to a term:
+(I)
+in the library of definitions; and
+(II)
+that is:
+(Aa)
+listed as taxable or exempt;
+(Bb)
+included in or excluded from &quot;sales price&quot;; or
+(Cc)
+included in or excluded from a definition.
+Enacted by Chapter
+384
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_12_1204__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_12_1204__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , a purchaser is relieved from a penalty under Section for failure to pay a tax due under this part or an underpayment if:</p>
+              </content>
+              <subparagraph eId="59_12_1204__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the purchaser's seller or certified service provider relies on incorrect data provided by the commission:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_1204__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the purchaser, regardless of whether the purchaser holds a direct payment permit in accordance with Section , relies on incorrect data provided by the commission:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_1204__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , a purchaser is not relieved from a penalty under Section for failure to pay a tax due under this part or an underpayment if the purchaser's, the purchaser's seller's, or the purchaser's certified service provider's reliance on incorrect data provided by the commission is as a result of conduct that is:</p>
+              </content>
+              <subparagraph eId="59_12_1204__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>fraudulent;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_1204__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>intentional; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_1204__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>willful.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_1204__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to the relief from a penalty described in Subsection , a purchaser is not liable for a tax or interest under Section for failure to pay a tax due under this part or an underpayment if:</p>
+            </content>
+            <paragraph eId="59_12_1204__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the purchaser's seller or certified service provider relies on:</p>
+              </content>
+              <subparagraph eId="59_12_1204__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>incorrect data provided by the commission:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_1204__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an erroneous classification by the commission:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_1204__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the purchaser, regardless of whether the purchaser holds a direct payment permit in accordance with Section , relies on:</p>
+              </content>
+              <subparagraph eId="59_12_1204__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>incorrect data provided by the commission:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_1204__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an erroneous classification by the commission:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-606"/>
+          <FRBRuri value="/us-ut/act/code/59-7-606"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-606/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-606/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-606/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-606/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_606">
+          <num>59-7-606</num>
+          <heading>Tax credit -- Items using cleaner burning fuels.</heading>
+          <content>
+            <p>59-7-606.
+Tax credit -- Items using cleaner burning fuels.
+(1)
+As used in this section, &quot;board&quot; means the Air Quality Board created under
+Title 19, Chapter 2, Air Conservation Act
+.
+(2)
+For taxable years beginning on or after January 1, 1992, but prior to January 1, 2003, there is allowed a tax credit against tax otherwise due under this chapter in an amount equal to 10%, up to a maximum of $50, of the total of both the purchase cost and installation services cost of each pellet burning stove, high mass wood stove, and solid fuel burning device purchased and installed that is certified by the federal Environmental Protection Agency in accordance with test procedures prescribed in 40 C.F.R. Sec. 60.534, including purchase cost and installation service cost of natural gas or propane free standing fireplaces or inserts, but not including fireplace logs.
+(3)
+A taxpayer shall provide proof of the purchase of an item for which a tax credit is allowed under this section by:
+(a)
+providing proof to the board in the form the board requires by rule;
+(b)
+receiving a written statement from the board acknowledging receipt of the proof; and
+(c)
+retaining the written statement described in Subsection
+(3)(b)
+.
+(4)
+The tax credit under this section is allowed only:
+(a)
+against any Utah tax owed in the taxable year by the taxpayer; and
+(b)
+for the taxable year in which the item is purchased for which the tax credit is claimed.
+Amended by Chapter
+198
+, 2003 General Session</p>
+          </content>
+          <subsection eId="59_7_606__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;board&quot; means the Air Quality Board created under .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_606__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For taxable years beginning on or after January 1, 1992, but prior to January 1, 2003, there is allowed a tax credit against tax otherwise due under this chapter in an amount equal to 10%, up to a maximum of $50, of the total of both the purchase cost and installation services cost of each pellet burning stove, high mass wood stove, and solid fuel burning device purchased and installed that is certified by the federal Environmental Protection Agency in accordance with test procedures prescribed in 40 C.F.R. Sec. 60.534, including purchase cost and installation service cost of natural gas or propane free standing fireplaces or inserts, but not including fireplace logs.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_606__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A taxpayer shall provide proof of the purchase of an item for which a tax credit is allowed under this section by:</p>
+            </content>
+            <paragraph eId="59_7_606__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>providing proof to the board in the form the board requires by rule;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_606__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>receiving a written statement from the board acknowledging receipt of the proof; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_606__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>retaining the written statement described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_606__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax credit under this section is allowed only:</p>
+            </content>
+            <paragraph eId="59_7_606__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>against any Utah tax owed in the taxable year by the taxpayer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_606__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for the taxable year in which the item is purchased for which the tax credit is claimed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,276 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-105"/>
+          <FRBRuri value="/us-ut/act/code/59-7-105"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-105/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-105/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-105/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-105/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_105">
+          <num>59-7-105</num>
+          <heading>Additions to unadjusted income.</heading>
+          <content>
+            <p>Effective 10/14/2025
+59-7-105.
+Additions to unadjusted income.
+In computing adjusted income the following amounts shall be added to unadjusted income:
+(1)
+interest from bonds, notes, and other evidences of indebtedness issued by any state of the United States, including any agency and instrumentality of a state of the United States;
+(2)
+the amount of any deduction taken on a corporation's federal return for taxes paid by a corporation:
+(a)
+to Utah for taxes imposed by this chapter; and
+(b)
+to another state of the United States, a foreign country, a United States possession, or the Commonwealth of Puerto Rico for taxes imposed for the privilege of doing business, or exercising its corporate franchise, including income, franchise, corporate stock and business and occupation taxes;
+(3)
+the safe harbor lease adjustment required under Subsections
+59-7-111(1)(a)
+and
+(2)(a)
+;
+(4)
+capital losses that have been deducted on a Utah corporate return in previous years;
+(5)
+any deduction on the federal return that has been previously deducted on the Utah return;
+(6)
+charitable contributions, to the extent deducted on the federal return when determining federal taxable income;
+(7)
+the amount of gain or loss determined under Section
+59-7-114
+relating to a target corporation under Section 338, Internal Revenue Code, unless such gain or loss has already been included in the unadjusted income of the target corporation;
+(8)
+the amount of gain or loss determined under Section
+59-7-115
+relating to corporations treated for federal purposes as having disposed of its assets under Section 336(e), Internal Revenue Code, unless such gain or loss has already been included in the unadjusted income of the target corporation;
+(9)
+adjustments to gains, losses, depreciation expense, amortization expense, and similar items due to a difference between basis for federal purposes and basis as computed under Section
+59-7-107
+;
+(10)
+the amount withdrawn under Title
+53H, Chapter 10
+, Utah Education Savings, from the account of a corporation that is an account owner as defined in Section
+53H-10-101
+, for the taxable year for which the amount is withdrawn, if that amount withdrawn from the account of the corporation that is the account owner:
+(a)
+is not expended for:
+(i)
+higher education costs as defined in Section
+53H-10-201
+; or
+(ii)
+a payment or distribution that qualifies as an exception to the additional tax for distributions not used for educational expenses provided in Sections 529(c) and 530(d), Internal Revenue Code; and
+(b)
+is subtracted by the corporation:
+(i)
+that is the account owner; and
+(ii)
+in accordance with Subsection
+59-7-106(1)(r)
+;
+(11)
+the amount of the deduction for dividends paid, as defined in Section 561, Internal Revenue Code, that is allowed under Section 857(b)(2)(B), Internal Revenue Code, in computing the taxable income of a captive real estate investment trust, if that captive real estate investment trust is subject to federal income taxation; and
+(12)
+any deduction on a return filed under this chapter for a royalty or other expense that a corporation pays to an entity related by common ownership for the use of an intangible asset where the intangible asset is owned by the entity related by common ownership unless the corporation can demonstrate to the satisfaction of the commission or a court on judicial review in accordance with Section
+59-1-602
+or
+Title 63G, Chapter 4, Part 4, Judicial Review
+, that:
+(a)
+for the same taxable year, the entity related by common ownership is subject to income taxes on the royalty or other expense:
+(i)
+under this chapter;
+(ii)
+under the laws of another state; or
+(iii)
+by a foreign government that has in force an income tax treaty with the United States; or
+(b)
+if Subsection
+(12)(a)
+does not apply, the corporation paying the royalty or other expenses never owned the intangible asset.
+Amended by Chapter
+9
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_7_105__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>interest from bonds, notes, and other evidences of indebtedness issued by any state of the United States, including any agency and instrumentality of a state of the United States;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the amount of any deduction taken on a corporation's federal return for taxes paid by a corporation:</p>
+            </content>
+            <paragraph eId="59_7_105__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to Utah for taxes imposed by this chapter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_105__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to another state of the United States, a foreign country, a United States possession, or the Commonwealth of Puerto Rico for taxes imposed for the privilege of doing business, or exercising its corporate franchise, including income, franchise, corporate stock and business and occupation taxes;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_105__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>the safe harbor lease adjustment required under Subsections and ;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>capital losses that have been deducted on a Utah corporate return in previous years;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>any deduction on the federal return that has been previously deducted on the Utah return;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>charitable contributions, to the extent deducted on the federal return when determining federal taxable income;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>the amount of gain or loss determined under Section relating to a target corporation under Section 338, Internal Revenue Code, unless such gain or loss has already been included in the unadjusted income of the target corporation;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>the amount of gain or loss determined under Section relating to corporations treated for federal purposes as having disposed of its assets under Section 336(e), Internal Revenue Code, unless such gain or loss has already been included in the unadjusted income of the target corporation;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>adjustments to gains, losses, depreciation expense, amortization expense, and similar items due to a difference between basis for federal purposes and basis as computed under Section ;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>the amount withdrawn under Title , Utah Education Savings, from the account of a corporation that is an account owner as defined in Section , for the taxable year for which the amount is withdrawn, if that amount withdrawn from the account of the corporation that is the account owner:</p>
+            </content>
+            <paragraph eId="59_7_105__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is not expended for:</p>
+              </content>
+              <subparagraph eId="59_7_105__subsec_10__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>higher education costs as defined in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_105__subsec_10__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a payment or distribution that qualifies as an exception to the additional tax for distributions not used for educational expenses provided in Sections 529(c) and 530(d), Internal Revenue Code; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_105__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>is subtracted by the corporation:</p>
+              </content>
+              <subparagraph eId="59_7_105__subsec_10__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>that is the account owner; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_105__subsec_10__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in accordance with Subsection ;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_105__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>the amount of the deduction for dividends paid, as defined in Section 561, Internal Revenue Code, that is allowed under Section 857(b)(2)(B), Internal Revenue Code, in computing the taxable income of a captive real estate investment trust, if that captive real estate investment trust is subject to federal income taxation; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_105__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>any deduction on a return filed under this chapter for a royalty or other expense that a corporation pays to an entity related by common ownership for the use of an intangible asset where the intangible asset is owned by the entity related by common ownership unless the corporation can demonstrate to the satisfaction of the commission or a court on judicial review in accordance with Section or , that:</p>
+            </content>
+            <paragraph eId="59_7_105__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for the same taxable year, the entity related by common ownership is subject to income taxes on the royalty or other expense:</p>
+              </content>
+              <subparagraph eId="59_7_105__subsec_12__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>under this chapter;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_105__subsec_12__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>under the laws of another state; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_105__subsec_12__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>by a foreign government that has in force an income tax treaty with the United States; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_105__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if Subsection does not apply, the corporation paying the royalty or other expenses never owned the intangible asset.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

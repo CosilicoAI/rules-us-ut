@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-211"/>
+          <FRBRuri value="/us-ut/act/code/59-1-211"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-211/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-211/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-211/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-211/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_211">
+          <num>59-1-211</num>
+          <heading>Uniform system of accounts.</heading>
+          <content>
+            <p>59-1-211.
+Uniform system of accounts.
+(1)
+The commission shall establish a uniform system of accounts and when established it shall be followed by all taxing entities within the state.
+(2)
+The commission may make rules directly relating to the administration of a uniform system of accounts and shall periodically publish these rules and distribute them to all taxing entities.
+(3)
+The commission shall certify a list of all taxing entities that do not comply with the laws and rules pertaining to uniform accounts to the county attorney of the county in which the entity is located.  The county attorney shall immediately notify the official or officials charged by law with complying with them.  If the official or officials fail to so comply within 60 days after receipt of the notice, the county attorney shall commence proceedings in district court in mandamus to require performance.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_1_211__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall establish a uniform system of accounts and when established it shall be followed by all taxing entities within the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_211__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission may make rules directly relating to the administration of a uniform system of accounts and shall periodically publish these rules and distribute them to all taxing entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_211__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall certify a list of all taxing entities that do not comply with the laws and rules pertaining to uniform accounts to the county attorney of the county in which the entity is located.  The county attorney shall immediately notify the official or officials charged by law with complying with them.  If the official or officials fail to so comply within 60 days after receipt of the notice, the county attorney shall commence proceedings in district court in mandamus to require performance.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-115"/>
+          <FRBRuri value="/us-ut/act/code/59-10-115"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-115/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-115/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-115/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-115/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_115">
+          <num>59-10-115</num>
+          <heading>Adjustments to adjusted gross income.</heading>
+          <content>
+            <p>Effective 5/10/2016
+59-10-115.
+Adjustments to adjusted gross income.
+(1)
+As used in this section:
+(a)
+&quot;Net foreign source taxable income&quot; means:
+(i)
+the amount calculated on line 17 of Internal Revenue Code Form 1116, Foreign Tax Credit; or
+(ii)
+if, for purposes of federal individual income taxes, the amount calculated on line 17 of Form 1116 is reported on a line other than line 17 of Form 1116, the amount on a line of a federal individual income tax form designated by the commission as being substantially similar to line 17 of the 2015 version of Form 1116.
+(b)
+&quot;Pass-through entity taxpayer&quot; means the same as that term is defined in Section
+59-10-1402
+.
+(2)
+The commission shall allow an adjustment to adjusted gross income of a resident or nonresident individual if the resident or nonresident individual would otherwise:
+(a)
+receive a double tax benefit under this part; or
+(b)
+suffer a double tax detriment under this part.
+(3)
+(a)
+For a pass-through entity taxpayer generating taxable income primarily from establishments classified in Code Section 33242, Metal Tank (Heavy Gauge) Manufacturing, of the 2002 or 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, an adjustment described in Subsection
+(2)
+includes net foreign source taxable income generated from Metal Tank (Heavy Gauge) Manufacturing establishments.
+(b)
+The adjustment described in Subsection
+(3)(a)
+applies to a taxable year beginning on or after January 1, 2017.
+(4)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules:
+(a)
+making the designation described in Subsection
+(1)(a)(ii)
+, if necessary; and
+(b)
+allowing for the adjustment to adjusted gross income required by Subsection
+(2)
+.
+Amended by Chapter
+374
+, 2016 General Session</p>
+          </content>
+          <subsection eId="59_10_115__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_115__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Net foreign source taxable income&quot; means:</p>
+              </content>
+              <subparagraph eId="59_10_115__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount calculated on line 17 of Internal Revenue Code Form 1116, Foreign Tax Credit; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_115__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if, for purposes of federal individual income taxes, the amount calculated on line 17 of Form 1116 is reported on a line other than line 17 of Form 1116, the amount on a line of a federal individual income tax form designated by the commission as being substantially similar to line 17 of the 2015 version of Form 1116.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_115__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Pass-through entity taxpayer&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_115__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall allow an adjustment to adjusted gross income of a resident or nonresident individual if the resident or nonresident individual would otherwise:</p>
+            </content>
+            <paragraph eId="59_10_115__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>receive a double tax benefit under this part; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_115__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>suffer a double tax detriment under this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_115__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_115__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For a pass-through entity taxpayer generating taxable income primarily from establishments classified in Code Section 33242, Metal Tank (Heavy Gauge) Manufacturing, of the 2002 or 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, an adjustment described in Subsection includes net foreign source taxable income generated from Metal Tank (Heavy Gauge) Manufacturing establishments.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_115__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The adjustment described in Subsection applies to a taxable year beginning on or after January 1, 2017.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_115__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In accordance with , the commission may make rules:</p>
+            </content>
+            <paragraph eId="59_10_115__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>making the designation described in Subsection , if necessary; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_115__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>allowing for the adjustment to adjusted gross income required by Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

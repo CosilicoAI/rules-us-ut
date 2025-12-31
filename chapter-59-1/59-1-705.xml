@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-705"/>
+          <FRBRuri value="/us-ut/act/code/59-1-705"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-705/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-705/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-705/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-705/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_705">
+          <num>59-1-705</num>
+          <heading>Payment and collection of penalties, interest, and other liabilities.</heading>
+          <content>
+            <p>59-1-705.
+Payment and collection of penalties, interest, and other liabilities.
+The penalties, interest, and other liabilities imposed by the provisions of
+Title 59, Revenue and Taxation
+, shall be paid by the taxpayer upon notice and demand by the commission, and shall be assessed and collected in the same manner as taxes.  Except as otherwise provided, any reference in
+Title 59, Revenue and Taxation
+, to &quot;tax&quot; includes penalties, interest, and other liabilities.
+Renumbered and Amended by Chapter
+3
+, 1987 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

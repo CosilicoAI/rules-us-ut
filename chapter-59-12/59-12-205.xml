@@ -1,0 +1,636 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-205"/>
+          <FRBRuri value="/us-ut/act/code/59-12-205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-205/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-205/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_205">
+          <num>59-12-205</num>
+          <heading>Superseded 1/1/2026</heading>
+          <content>
+            <p>Effective 7/1/2025
+Superseded 1/1/2026
+59-12-205.
+Ordinances to conform with statutory amendments -- Distribution of tax revenue -- Determination of population.
+(1)
+To maintain in effect sales and use tax ordinances adopted pursuant to Section
+59-12-204
+, a county, city, or town shall adopt amendments to the county's, city's, or town's sales and use tax ordinances:
+(a)
+within 30 days of the day on which the state makes an amendment to an applicable provision of Part 1, Tax Collection; and
+(b)
+as required to conform to the amendments to Part 1, Tax Collection.
+(2)
+(a)
+Except as provided in Subsections
+(3)
+, (4), and (5) and subject to Subsection
+(6)
+:
+(i)
+50% of each dollar collected from the sales and use tax authorized by this part shall be distributed to each county, city, and town on the basis of the percentage that the population of the county, city, or town bears to the total population of all counties, cities, and towns in the state; and
+(ii)
+(A)
+except as provided in Subsections
+(2)(a)(ii)(B)
+, (C), and (D), 50% of each dollar collected from the sales and use tax authorized by this part shall be distributed to each county, city, and town on the basis of the location of the transaction as determined under Sections
+59-12-211
+through
+59-12-215
+;
+(B)
+50% of each dollar collected from the sales and use tax authorized by this part within a project area described in a project area plan adopted by the military installation development authority under Title 63H, Chapter 1, Military Installation Development Authority Act, shall be distributed to the military installation development authority created in Section
+63H-1-201
+;
+(C)
+beginning July 1, 2024, 20% of each dollar collected from the sales and use tax authorized by this part within a project area under Title 11, Chapter 58, Utah Inland Port Authority Act, shall be distributed to the Utah Inland Port Authority, created in Section
+11-58-201
+; and
+(D)
+50% of each dollar collected from the sales and use tax authorized by this part within the lake authority boundary, as defined in Section
+11-65-101
+, shall be distributed to the Utah Lake Authority, created in Section
+11-65-201
+, beginning the next full calendar quarter following the creation of the Utah Lake Authority.
+(b)
+Subsection
+(2)(a)(ii)(C)
+does not apply to sales and use tax revenue collected before July 1, 2022.
+(3)
+Beginning no sooner than January 1, 2026, and before application of Subsections
+(2)
+,
+(4)
+, (5), and (6), and except as provided in Subsections
+(8)
+and (9), and as described in Section
+63N-3-610.1
+, beginning the first day of a calendar quarter after the year set in the proposal and after the sales and use tax boundary for a convention center reinvestment zone is established under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act, the commission, at least annually, shall transfer an amount equal to 100% of the sales and use tax increment, as defined in Section
+63N-3-602
+, from the sales and use tax imposed under this part on transactions occurring within an established sales and use tax boundary, as defined in Section
+63N-3-602
+, to the entity specified in the convention center reinvestment zone proposal submitted pursuant to Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act.
+(4)
+(a)
+As used in this Subsection
+(4)
+:
+(i)
+&quot;Eligible county, city, or town&quot; means a county, city, or town that:
+(A)
+for fiscal year 2012-13, received a tax revenue distribution under Subsection
+(4)(b)
+equal to the amount described in Subsection
+(4)(b)(ii)
+; and
+(B)
+does not impose a sales and use tax under Section
+59-12-2103
+on or before July 1, 2016.
+(ii)
+&quot;Minimum tax revenue distribution&quot; means the total amount of tax revenue distributions an eligible county, city, or town received from a tax imposed in accordance with this part for fiscal year 2004-05.
+(b)
+An eligible county, city, or town shall receive a tax revenue distribution for a tax imposed in accordance with this part equal to the greater of:
+(i)
+the payment required by Subsection
+(2)
+; or
+(ii)
+the minimum tax revenue distribution.
+(c)
+For an eligible county, city, or town that qualifies to receive a distribution described in this Subsection
+(4)
+, the commission shall apply the provisions of this Subsection
+(4)
+after the commission applies the provisions of Subsection
+(3)
+.
+(5)
+(a)
+For purposes of this Subsection
+(5)
+:
+(i)
+&quot;Annual local contribution&quot; means the lesser of $275,000 or an amount equal to 2.55% of the participating local government's tax revenue distribution amount under Subsection
+(2)(a)(i)
+for the previous fiscal year.
+(ii)
+&quot;Participating local government&quot; means a county or municipality, as defined in Section
+10-1-104
+, that is not an eligible municipality certified in accordance with Section
+35A-16-404
+.
+(b)
+For revenue collected from the tax authorized by this part that is distributed on or after January 1, 2019, the commission, before making a tax revenue distribution under Subsection
+(2)(a)(i)
+to a participating local government, shall:
+(i)
+adjust a participating local government's tax revenue distribution under Subsection
+(2)(a)(i)
+by:
+(A)
+subtracting an amount equal to one-twelfth of the annual local contribution for each participating local government from the participating local government's tax revenue distribution; and
+(B)
+if applicable, reducing the amount described in Subsection
+(5)(b)(i)(A)
+by an amount equal to one-twelfth of $250 for each bed that is available at all homeless shelters located within the boundaries of the participating local government, as reported to the commission by the Office of Homeless Services in accordance with Section
+35A-16-405
+; and
+(ii)
+deposit the resulting amount described in Subsection
+(5)(b)(i)
+into the Homeless Shelter Cities Mitigation Restricted Account created in Section
+35A-16-402
+.
+(c)
+For a participating local government that qualifies to receive a distribution described in Subsection
+(4)
+, the commission shall apply the provisions of this Subsection
+(5)
+after the commission applies the provisions of Subsections
+(3)
+and (4).
+(6)
+(a)
+As used in this Subsection
+(6)
+:
+(i)
+&quot;Annual dedicated sand and gravel sales tax revenue&quot; means an amount equal to the total revenue an establishment described in NAICS Code 327320, Ready-Mix Concrete Manufacturing, of the 2022 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, collects and remits under this part for a calendar year.
+(ii)
+&quot;Sand and gravel&quot; means sand, gravel, or a combination of sand and gravel.
+(iii)
+&quot;Sand and gravel extraction site&quot; means a pit, quarry, or deposit that:
+(A)
+contains sand and gravel; and
+(B)
+is assessed by the commission in accordance with Section
+59-2-201
+.
+(iv)
+&quot;Ton&quot; means a short ton of 2,000 pounds.
+(v)
+&quot;Tonnage ratio&quot; means the ratio of:
+(A)
+the total amount of sand and gravel, measured in tons, sold during a calendar year from all sand and gravel extraction sites located within a county, city, or town; to
+(B)
+the total amount of sand and gravel, measured in tons, sold during the same calendar year from sand and gravel extraction sites statewide.
+(b)
+For purposes of calculating the ratio described in Subsection
+(6)(a)(v)
+, the commission shall:
+(i)
+use the gross sales data provided to the commission as part of the commission's property tax valuation process; and
+(ii)
+if a sand and gravel extraction site operates as a unit across municipal or county lines, apportion the reported tonnage among the counties, cities, or towns based on the percentage of the sand and gravel extraction site located in each county, city, or town, as approximated by the commission.
+(c)
+(i)
+Each July, the commission shall distribute from total collections under this part an amount equal to the annual dedicated sand and gravel sales tax revenue for the preceding calendar year to each county, city, or town in the same proportion as the county's, city's, or town's tonnage ratio for the preceding calendar year.
+(ii)
+The commission shall ensure that the revenue distributed under this Subsection
+(6)(c)
+is drawn from each jurisdiction's collections in proportion to the jurisdiction's share of total collections for the preceding 12-month period.
+(d)
+A county, city, or town shall use revenue described in Subsection
+(6)(c)
+for class B or class C roads.
+(7)
+(a)
+Population figures for purposes of this section shall be based on, to the extent not otherwise required by federal law:
+(i)
+the most recent estimate from the Utah Population Committee created in Section
+63C-20-103
+; or
+(ii)
+if the Utah Population Committee estimate is not available for each municipality and unincorporated area, the adjusted sub-county population estimate provided by the Utah Population Committee in accordance with Section
+63C-20-104
+.
+(b)
+The population of a county for purposes of this section shall be determined only from the unincorporated area of the county.
+(8)
+(a)
+As used in Subsections
+(8)
+and
+(9)
+:
+(i)
+&quot;Applicable percentage&quot; means, for a convention center reinvestment zone created under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act, for sales occurring within the qualified development zone described in Subsection
+(8)(a)(ii)
+, 100% of the sales and use tax increment, as that term is defined in Section
+63N-3-602
+, from the sales and use tax:
+(A)
+imposed by a city of the first class in a county of the first class under this part;
+(B)
+imposed by a city of the first class in a county of the first class under Section
+59-12-402.1
+;
+(C)
+imposed by a county of the first class under Section
+59-12-1102
+; and
+(D)
+imposed by a county of the first class under
+Part 22
+, Local Option Sales and Use Taxes for Transportation Act.
+(ii)
+&quot;Qualified development zone&quot; means the sales and use tax boundary of a convention center reinvestment zone created under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act.
+(iii)
+&quot;Qualifying construction materials&quot; means construction materials that are:
+(A)
+delivered to a delivery outlet within a qualified development zone; and
+(B)
+intended to be permanently attached to real property within the qualified development zone.
+(b)
+For a sale of qualifying construction materials, the commission shall distribute the product calculated in Subsection
+(8)(c)
+to a qualified development zone if the seller of the construction materials:
+(i)
+establishes a delivery outlet with the commission within the qualified development zone;
+(ii)
+reports the sales of the construction materials to the delivery outlet described in Subsection
+(8)(b)(i)
+; and
+(iii)
+does not report the sales of the construction materials on a simplified electronic return.
+(c)
+For the purposes of Subsection
+(8)(b)
+, the product is equal to:
+(i)
+the sales price or purchase price of the qualifying construction materials; and
+(ii)
+the applicable percentage.
+(9)
+(a)
+As used in this Subsection
+(9)
+, &quot;Schedule J sale&quot; means a sale reported on State Tax Commission Form TC-62M, Schedule J, or a substantially similar form as designated by the commission.
+(b)
+Revenue generated from the applicable percentage by a Schedule J sale within a qualified development zone shall be distributed into the jurisdiction that would have received the revenue in the absence of the qualified development zone.
+Amended by Chapter
+400
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_12_205__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To maintain in effect sales and use tax ordinances adopted pursuant to Section , a county, city, or town shall adopt amendments to the county's, city's, or town's sales and use tax ordinances:</p>
+            </content>
+            <paragraph eId="59_12_205__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>within 30 days of the day on which the state makes an amendment to an applicable provision of Part 1, Tax Collection; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>as required to conform to the amendments to Part 1, Tax Collection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_205__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsections , (4), and (5) and subject to Subsection :</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>50% of each dollar collected from the sales and use tax authorized by this part shall be distributed to each county, city, and town on the basis of the percentage that the population of the county, city, or town bears to the total population of all counties, cities, and towns in the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Subsection does not apply to sales and use tax revenue collected before July 1, 2022.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Beginning no sooner than January 1, 2026, and before application of Subsections , , (5), and (6), and except as provided in Subsections and (9), and as described in Section , beginning the first day of a calendar quarter after the year set in the proposal and after the sales and use tax boundary for a convention center reinvestment zone is established under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act, the commission, at least annually, shall transfer an amount equal to 100% of the sales and use tax increment, as defined in Section , from the sales and use tax imposed under this part on transactions occurring within an established sales and use tax boundary, as defined in Section , to the entity specified in the convention center reinvestment zone proposal submitted pursuant to Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_205__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_205__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this Subsection :</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Eligible county, city, or town&quot; means a county, city, or town that:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Minimum tax revenue distribution&quot; means the total amount of tax revenue distributions an eligible county, city, or town received from a tax imposed in accordance with this part for fiscal year 2004-05.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An eligible county, city, or town shall receive a tax revenue distribution for a tax imposed in accordance with this part equal to the greater of:</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the payment required by Subsection ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the minimum tax revenue distribution.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For an eligible county, city, or town that qualifies to receive a distribution described in this Subsection , the commission shall apply the provisions of this Subsection after the commission applies the provisions of Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_12_205__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this Subsection :</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Annual local contribution&quot; means the lesser of $275,000 or an amount equal to 2.55% of the participating local government's tax revenue distribution amount under Subsection for the previous fiscal year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Participating local government&quot; means a county or municipality, as defined in Section , that is not an eligible municipality certified in accordance with Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For revenue collected from the tax authorized by this part that is distributed on or after January 1, 2019, the commission, before making a tax revenue distribution under Subsection to a participating local government, shall:</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>adjust a participating local government's tax revenue distribution under Subsection by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>deposit the resulting amount described in Subsection into the Homeless Shelter Cities Mitigation Restricted Account created in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For a participating local government that qualifies to receive a distribution described in Subsection , the commission shall apply the provisions of this Subsection after the commission applies the provisions of Subsections and (4).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_12_205__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this Subsection :</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Annual dedicated sand and gravel sales tax revenue&quot; means an amount equal to the total revenue an establishment described in NAICS Code 327320, Ready-Mix Concrete Manufacturing, of the 2022 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, collects and remits under this part for a calendar year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Sand and gravel&quot; means sand, gravel, or a combination of sand and gravel.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_6__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>&quot;Sand and gravel extraction site&quot; means a pit, quarry, or deposit that:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_6__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>&quot;Ton&quot; means a short ton of 2,000 pounds.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_6__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>&quot;Tonnage ratio&quot; means the ratio of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of calculating the ratio described in Subsection , the commission shall:</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>use the gross sales data provided to the commission as part of the commission's property tax valuation process; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if a sand and gravel extraction site operates as a unit across municipal or county lines, apportion the reported tonnage among the counties, cities, or towns based on the percentage of the sand and gravel extraction site located in each county, city, or town, as approximated by the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_6__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_12_205__subsec_6__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Each July, the commission shall distribute from total collections under this part an amount equal to the annual dedicated sand and gravel sales tax revenue for the preceding calendar year to each county, city, or town in the same proportion as the county's, city's, or town's tonnage ratio for the preceding calendar year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_6__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The commission shall ensure that the revenue distributed under this Subsection is drawn from each jurisdiction's collections in proportion to the jurisdiction's share of total collections for the preceding 12-month period.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A county, city, or town shall use revenue described in Subsection for class B or class C roads.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_12_205__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Population figures for purposes of this section shall be based on, to the extent not otherwise required by federal law:</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the most recent estimate from the Utah Population Committee created in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the Utah Population Committee estimate is not available for each municipality and unincorporated area, the adjusted sub-county population estimate provided by the Utah Population Committee in accordance with Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The population of a county for purposes of this section shall be determined only from the unincorporated area of the county.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_12_205__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in Subsections and :</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_8__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Applicable percentage&quot; means, for a convention center reinvestment zone created under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act, for sales occurring within the qualified development zone described in Subsection , 100% of the sales and use tax increment, as that term is defined in Section , from the sales and use tax:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_8__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Qualified development zone&quot; means the sales and use tax boundary of a convention center reinvestment zone created under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_8__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>&quot;Qualifying construction materials&quot; means construction materials that are:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For a sale of qualifying construction materials, the commission shall distribute the product calculated in Subsection to a qualified development zone if the seller of the construction materials:</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_8__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>establishes a delivery outlet with the commission within the qualified development zone;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_8__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>reports the sales of the construction materials to the delivery outlet described in Subsection ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_8__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>does not report the sales of the construction materials on a simplified electronic return.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For the purposes of Subsection , the product is equal to:</p>
+              </content>
+              <subparagraph eId="59_12_205__subsec_8__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the sales price or purchase price of the qualifying construction materials; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_205__subsec_8__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the applicable percentage.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_205__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_12_205__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this Subsection , &quot;Schedule J sale&quot; means a sale reported on State Tax Commission Form TC-62M, Schedule J, or a substantially similar form as designated by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_205__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Revenue generated from the applicable percentage by a Schedule J sale within a qualified development zone shall be distributed into the jurisdiction that would have received the revenue in the absence of the qualified development zone.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

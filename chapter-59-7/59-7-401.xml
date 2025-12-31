@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-401"/>
+          <FRBRuri value="/us-ut/act/code/59-7-401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-401/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-401/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_401">
+          <num>59-7-401</num>
+          <heading>Determining threshold level of business activity for corporations organized or incorporated outside of the United States.</heading>
+          <content>
+            <p>59-7-401.
+Determining threshold level of business activity for corporations organized or incorporated outside of the United States.
+(1)
+Except as provided in Subsection
+(2)
+, in determining whether a corporation is a foreign operating company or has met the threshold level of business activity, business activity within and without the United States shall be measured by means of the factors ordinarily applicable under Sections
+59-7-312
+through
+59-7-319
+.
+(2)
+(a)
+Any taxpayer who would ordinarily be required to apportion business income in accordance with
+Part 3, Allocation and Apportionment of Income - Utah UDITPA Provisions
+, shall use a two-factor formula of property and payroll.
+(b)
+The results of the property and payroll factor computation shall be divided by two, or by one if either the property or payroll factor has a denominator of zero.
+Amended by Chapter
+225
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_7_401__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , in determining whether a corporation is a foreign operating company or has met the threshold level of business activity, business activity within and without the United States shall be measured by means of the factors ordinarily applicable under Sections through .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_401__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_401__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any taxpayer who would ordinarily be required to apportion business income in accordance with , shall use a two-factor formula of property and payroll.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_401__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The results of the property and payroll factor computation shall be divided by two, or by one if either the property or payroll factor has a denominator of zero.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1362"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1362"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1362/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1362/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1362/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1362/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1362">
+          <num>59-2-1362</num>
+          <heading>Certified copy of tax sale record prima facie evidence of regularity.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1362.
+Certified copy of tax sale record prima facie evidence of regularity.
+(1)
+A copy of the record of any tax sale duly certified by the official custodian of the record at the time of the certificate under the seal of office as a true copy of the entry in the official record showing the sale is prima facie evidence of the facts shown in the record.
+(2)
+The regularity of all proceedings connected with the assessment, valuation, notice, equalization, levies, tax notices, advertisement, and sale of property described in the record is presumed, and the burden of showing any irregularity in any of the proceedings resulting in the sale of property for the nonpayment of delinquent taxes and tax notice charges shall be on the person who asserts it.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1362__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A copy of the record of any tax sale duly certified by the official custodian of the record at the time of the certificate under the seal of office as a true copy of the entry in the official record showing the sale is prima facie evidence of the facts shown in the record.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1362__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The regularity of all proceedings connected with the assessment, valuation, notice, equalization, levies, tax notices, advertisement, and sale of property described in the record is presumed, and the burden of showing any irregularity in any of the proceedings resulting in the sale of property for the nonpayment of delinquent taxes and tax notice charges shall be on the person who asserts it.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-809"/>
+          <FRBRuri value="/us-ut/act/code/59-1-809"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-809/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-809/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-809/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-809/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_809">
+          <num>59-1-809</num>
+          <heading>Commission authority related to the Multistate Tax Commission and governmental entities.</heading>
+          <content>
+            <p>Effective 7/1/2014
+59-1-809.
+Commission authority related to the Multistate Tax Commission and governmental entities.
+The commission may furnish to the Multistate Tax Commission, a taxing official of another state, the District of Columbia, or the United States or its territories, any information contained in:
+(1)
+a tax return or report, a related schedule, or a document filed pursuant to the tax laws of this state; or
+(2)
+the report of an audit or investigation made with respect to a tax return or report, a related schedule, or a document described in Subsection
+(1)
+.
+Amended by Chapter
+54
+, 2014 General Session</p>
+          </content>
+          <subsection eId="59_1_809__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>a tax return or report, a related schedule, or a document filed pursuant to the tax laws of this state; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_809__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the report of an audit or investigation made with respect to a tax return or report, a related schedule, or a document described in Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

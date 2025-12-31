@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-211.1"/>
+          <FRBRuri value="/us-ut/act/code/59-12-211.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-211.1/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-211.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-211.1/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-211.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_211_1">
+          <num>59-12-211.1</num>
+          <heading>Location of a transaction that is subject to a use tax.</heading>
+          <content>
+            <p>Effective 1/1/2019
+59-12-211.1.
+Location of a transaction that is subject to a use tax.
+(1)
+Subject to Subsection
+(2)
+, a person that is required by Subsection
+59-12-107(2)(f)
+to pay a use tax on a transaction shall report the location of that transaction at the person's location.
+(2)
+For purposes of Subsection
+(1)
+, if a person has more than one location in this state, the person shall report the location of the transaction at the location at which tangible personal property, a product transferred electronically, or a service is received.
+Amended by Chapter
+6
+, 2018 Special Session 2</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

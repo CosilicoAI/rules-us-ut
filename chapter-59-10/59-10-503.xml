@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-503"/>
+          <FRBRuri value="/us-ut/act/code/59-10-503"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-503/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-503/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-503/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-503/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_503">
+          <num>59-10-503</num>
+          <heading>Returns by husband and wife.</heading>
+          <content>
+            <p>59-10-503.
+Returns by husband and wife.
+(1)
+A husband and wife may make a single return jointly with respect to the tax imposed by this chapter even though one of the spouses has neither gross income nor deductions, except as follows:
+(a)
+No joint return shall be made if the husband and wife are not permitted to file a joint return for federal income tax purposes.
+(b)
+If the federal income tax liability of husband or wife is determined on a separate return for federal income tax purposes, the income tax liability of each spouse shall be determined on a separate return under this chapter.
+(c)
+If the federal income tax liabilities of husband and wife, other than a husband and wife described in Subsection
+(1)(b)
+, are determined on a joint federal return, they shall file a joint return under this chapter and their tax liability shall be joint and several.
+(d)
+If neither spouse is required to file a federal income tax return and either or both are required to file an income tax return under this chapter, they may elect to file separate or joint returns and their tax liability shall be several or joint and several, in accordance with the election made.
+(2)
+If either husband or wife is a resident and the other is a nonresident, they shall file separate income tax returns in this state on such forms as may be required by the commission, in which event their tax liability shall be several.  They may elect to determine their joint taxable income as if both were residents, in which event their tax liability shall be joint and several.
+Amended by Chapter
+324
+, 2010 General Session</p>
+          </content>
+          <subsection eId="59_10_503__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A husband and wife may make a single return jointly with respect to the tax imposed by this chapter even though one of the spouses has neither gross income nor deductions, except as follows:</p>
+            </content>
+            <paragraph eId="59_10_503__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>No joint return shall be made if the husband and wife are not permitted to file a joint return for federal income tax purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_503__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the federal income tax liability of husband or wife is determined on a separate return for federal income tax purposes, the income tax liability of each spouse shall be determined on a separate return under this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_503__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If the federal income tax liabilities of husband and wife, other than a husband and wife described in Subsection , are determined on a joint federal return, they shall file a joint return under this chapter and their tax liability shall be joint and several.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_503__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If neither spouse is required to file a federal income tax return and either or both are required to file an income tax return under this chapter, they may elect to file separate or joint returns and their tax liability shall be several or joint and several, in accordance with the election made.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_503__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If either husband or wife is a resident and the other is a nonresident, they shall file separate income tax returns in this state on such forms as may be required by the commission, in which event their tax liability shall be several.  They may elect to determine their joint taxable income as if both were residents, in which event their tax liability shall be joint and several.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

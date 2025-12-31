@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-214"/>
+          <FRBRuri value="/us-ut/act/code/59-1-214"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-214/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-214/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-214/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-214/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_214">
+          <num>59-1-214</num>
+          <heading>Reporting on federal tax law changes expected to result in a material increase in state income tax revenue.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-1-214.
+Reporting on federal tax law changes expected to result in a material increase in state income tax revenue.
+(1)
+As used in this section:
+(a)
+&quot;Federal tax law change&quot; means any modification to the Internal Revenue Code approved by Congress.
+(b)
+&quot;Material increase in state income tax revenue&quot; means a net increase in revenue the state is expected to receive from the income taxes imposed under this title for a fiscal year, as compared to the latest consensus revenue estimates adopted by the Executive Appropriations Committee, that is equal to or greater than .5% of the revenue the state received from the income taxes imposed under this title for the preceding fiscal year.
+(c)
+&quot;Specified entities&quot; means the commission, the Office of the Legislative Fiscal Analyst, and the Governor's Office of Planning and Budget.
+(2)
+The specified entities shall annually determine by consensus whether federal tax law changes will likely result in a material increase in state income tax revenue for:
+(a)
+the next fiscal year; and
+(b)
+the first taxable year in which the federal tax law change takes effect.
+(3)
+In determining whether federal tax law changes will likely result in a material increase in state income tax revenue under Subsection
+(2)
+, the specified entities may consider:
+(a)
+federal tax law changes enacted in any taxable year;
+(b)
+legislative action to increase or offset increases in state income tax revenue; and
+(c)
+any other factors the specified entities determine to be relevant.
+(4)
+(a)
+The commission shall submit to the Revenue and Taxation Interim Committee an electronic report on or before October 1 of each year in which the specified entities predict a material increase in state income tax revenue by consensus under Subsection
+(2)
+.
+(b)
+The report described in Subsection
+(4)
+(a) shall include:
+(i)
+a description of each federal tax law change expected to result in a material increase in state income tax revenue for the next fiscal year; and
+(ii)
+an estimate of the amount of the material increase in state income tax revenue that the state is expected to receive for the next fiscal year as a result of the federal tax law changes described under Subsection
+(4)(b)(i)
+, based on consensus between the specified entities.
+(5)
+Upon receiving the report described in Subsection
+(4)
+(a), the Revenue and Taxation Interim Committee shall:
+(a)
+review the information provided in the report; and
+(b)
+if the Revenue and Taxation Interim Committee decides to recommend legislative action to the Legislature in order to negate the material increase in state income tax revenue predicted for the next fiscal year, prepare legislation for consideration in the next annual general session.
+(6)
+(a)
+If the commission submits a report under Subsection
+(4)
+, the specified entities shall, following the Legislature's next annual general session, determine by consensus whether legislative action taken during the annual general session negates the specified entities' initial prediction of a material increase in state income tax revenue for the next fiscal year.
+(b)
+(i)
+If the specified entities determine by consensus under Subsection
+(6)(a)
+that legislative action taken during the annual general session does not negate the specified entities' initial prediction of a material increase in state income tax revenue for the next fiscal year, the commission shall submit to the Division of Finance an electronic report on or before the June 1 following the annual general session.
+(ii)
+The report described in this Subsection
+(6)(b)
+shall include the information required by Subsection
+(4)(b)(ii)
+.
+Enacted by Chapter
+225
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_1_214__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_1_214__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Federal tax law change&quot; means any modification to the Internal Revenue Code approved by Congress.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Material increase in state income tax revenue&quot; means a net increase in revenue the state is expected to receive from the income taxes imposed under this title for a fiscal year, as compared to the latest consensus revenue estimates adopted by the Executive Appropriations Committee, that is equal to or greater than .5% of the revenue the state received from the income taxes imposed under this title for the preceding fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Specified entities&quot; means the commission, the Office of the Legislative Fiscal Analyst, and the Governor's Office of Planning and Budget.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_214__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The specified entities shall annually determine by consensus whether federal tax law changes will likely result in a material increase in state income tax revenue for:</p>
+            </content>
+            <paragraph eId="59_1_214__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the next fiscal year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the first taxable year in which the federal tax law change takes effect.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_214__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In determining whether federal tax law changes will likely result in a material increase in state income tax revenue under Subsection , the specified entities may consider:</p>
+            </content>
+            <paragraph eId="59_1_214__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>federal tax law changes enacted in any taxable year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>legislative action to increase or offset increases in state income tax revenue; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>any other factors the specified entities determine to be relevant.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_214__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_1_214__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall submit to the Revenue and Taxation Interim Committee an electronic report on or before October 1 of each year in which the specified entities predict a material increase in state income tax revenue by consensus under Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The report described in Subsection (a) shall include:</p>
+              </content>
+              <subparagraph eId="59_1_214__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a description of each federal tax law change expected to result in a material increase in state income tax revenue for the next fiscal year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_214__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an estimate of the amount of the material increase in state income tax revenue that the state is expected to receive for the next fiscal year as a result of the federal tax law changes described under Subsection , based on consensus between the specified entities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_214__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Upon receiving the report described in Subsection (a), the Revenue and Taxation Interim Committee shall:</p>
+            </content>
+            <paragraph eId="59_1_214__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>review the information provided in the report; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the Revenue and Taxation Interim Committee decides to recommend legislative action to the Legislature in order to negate the material increase in state income tax revenue predicted for the next fiscal year, prepare legislation for consideration in the next annual general session.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_214__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_1_214__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the commission submits a report under Subsection , the specified entities shall, following the Legislature's next annual general session, determine by consensus whether legislative action taken during the annual general session negates the specified entities' initial prediction of a material increase in state income tax revenue for the next fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_214__subsec_6__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_1_214__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If the specified entities determine by consensus under Subsection that legislative action taken during the annual general session does not negate the specified entities' initial prediction of a material increase in state income tax revenue for the next fiscal year, the commission shall submit to the Division of Finance an electronic report on or before the June 1 following the annual general session.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_214__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The report described in this Subsection shall include the information required by Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1319"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1319"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1319/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1319/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1319/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1319/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1319">
+          <num>59-10-1319</num>
+          <heading>Contribution to Clean Air Fund.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-10-1319.
+Contribution to Clean Air Fund.
+(1)
+(a)
+There is created an expendable special revenue fund known as the &quot;Clean Air Fund.&quot;
+(b)
+The fund shall consist of all amounts deposited into the fund in accordance with Subsection
+(2)
+.
+(2)
+(a)
+Except as provided in Section
+59-10-1304
+, for a taxable year beginning on or after January 1, 2017, a resident or nonresident individual who files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution as provided in this section to be:
+(i)
+deposited into the Clean Air Fund; and
+(ii)
+expended as provided in Subsection
+(3)
+.
+(b)
+The fund shall also consist of amounts deposited into the fund through:
+(i)
+private contributions; and
+(ii)
+donations or grants from public or private entities.
+(3)
+(a)
+At least once each year, the commission shall disburse from the Clean Air Fund all money deposited into the fund since the last disbursement.
+(b)
+The commission shall disburse money under Subsection
+(3)(a)
+to the Division of Air Quality for the purpose of:
+(i)
+providing money for grants to individuals or organizations in the state to fund activities intended to improve air quality in the state;
+(ii)
+enhancing programs designed to educate the public about the importance of air quality to the health, well-being, and livelihood of individuals in the state; and
+(iii)
+pay the costs of issuing or reordering Clean Air Support special group license plate decals.
+Amended by Chapter
+33
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_10_1319__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_1319__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created an expendable special revenue fund known as the &quot;Clean Air Fund.&quot;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1319__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The fund shall consist of all amounts deposited into the fund in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1319__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_1319__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Section , for a taxable year beginning on or after January 1, 2017, a resident or nonresident individual who files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution as provided in this section to be:</p>
+              </content>
+              <subparagraph eId="59_10_1319__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>deposited into the Clean Air Fund; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1319__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>expended as provided in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1319__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The fund shall also consist of amounts deposited into the fund through:</p>
+              </content>
+              <subparagraph eId="59_10_1319__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>private contributions; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1319__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>donations or grants from public or private entities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1319__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_1319__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>At least once each year, the commission shall disburse from the Clean Air Fund all money deposited into the fund since the last disbursement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1319__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall disburse money under Subsection to the Division of Air Quality for the purpose of:</p>
+              </content>
+              <subparagraph eId="59_10_1319__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>providing money for grants to individuals or organizations in the state to fund activities intended to improve air quality in the state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1319__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>enhancing programs designed to educate the public about the importance of air quality to the health, well-being, and livelihood of individuals in the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1319__subsec_3__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>pay the costs of issuing or reordering Clean Air Support special group license plate decals.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

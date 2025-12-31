@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-119"/>
+          <FRBRuri value="/us-ut/act/code/59-10-119"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-119/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-119/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-119/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-119/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_119">
+          <num>59-10-119</num>
+          <heading>Returns by husband and wife if husband or wife is a nonresident.</heading>
+          <content>
+            <p>59-10-119.
+Returns by husband and wife if husband or wife is a nonresident.
+(1)
+If the adjusted gross income of a husband and wife who are both nonresidents of this state is reported or determined on separate federal individual income tax returns, the husband's and wife's state taxable incomes in this state shall be separately determined.
+(2)
+If the adjusted gross income of a husband and wife who are both nonresidents of this state is reported or determined on a joint federal individual income tax return, the husband's and wife's tax shall be reported or determined in this state on a joint return.
+(3)
+(a)
+If one spouse is a nonresident of this state and the other spouse is a resident of this state, separate taxes shall be determined on each spouse's separate state taxable incomes on forms prescribed by the commission.
+(b)
+Notwithstanding Subsection
+(3)(a)
+, a husband and wife may elect to be considered to be residents of this state for purposes of determining state taxable income for a taxable year.
+(c)
+If one spouse who is a nonresident of this state and the other spouse who is a resident of this state file a joint federal income tax return, but determine state taxable income separately, the spouses shall compute their taxable incomes in this state as if their adjusted gross incomes had been determined separately.
+Amended by Chapter
+389
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_10_119__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the adjusted gross income of a husband and wife who are both nonresidents of this state is reported or determined on separate federal individual income tax returns, the husband's and wife's state taxable incomes in this state shall be separately determined.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_119__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the adjusted gross income of a husband and wife who are both nonresidents of this state is reported or determined on a joint federal individual income tax return, the husband's and wife's tax shall be reported or determined in this state on a joint return.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_119__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_119__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If one spouse is a nonresident of this state and the other spouse is a resident of this state, separate taxes shall be determined on each spouse's separate state taxable incomes on forms prescribed by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_119__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding Subsection , a husband and wife may elect to be considered to be residents of this state for purposes of determining state taxable income for a taxable year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_119__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If one spouse who is a nonresident of this state and the other spouse who is a resident of this state file a joint federal income tax return, but determine state taxable income separately, the spouses shall compute their taxable incomes in this state as if their adjusted gross incomes had been determined separately.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

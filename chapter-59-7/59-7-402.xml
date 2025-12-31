@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-402"/>
+          <FRBRuri value="/us-ut/act/code/59-7-402"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-402/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-402/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-402/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-402/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_402">
+          <num>59-7-402</num>
+          <heading>Water's edge combined report.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-7-402.
+Water's edge combined report.
+(1)
+Except as provided in Section
+59-7-403
+, if any corporation listed in Subsection
+59-7-101(40)(a)
+is doing business in Utah, the unitary group shall file a water's edge combined report.
+(2)
+(a)
+A group of corporations that are not otherwise a unitary group may elect to file a water's edge combined report if each member of the group is:
+(i)
+doing business in Utah;
+(ii)
+part of the same affiliated group; and
+(iii)
+qualified, under Section 1501, Internal Revenue Code, to file a federal consolidated return.
+(b)
+Each corporation within the affiliated group that is doing business in Utah must consent to filing a combined report.  If an affiliated group elects to file a combined report, each corporation within the affiliated group that is doing business in Utah must file a combined report.
+(c)
+Corporations that elect to file a water's edge combined report under this section may not thereafter elect to file a separate return without the consent of the commission.
+Amended by Chapter
+368
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_7_402__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Section , if any corporation listed in Subsection is doing business in Utah, the unitary group shall file a water's edge combined report.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_402__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_402__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A group of corporations that are not otherwise a unitary group may elect to file a water's edge combined report if each member of the group is:</p>
+              </content>
+              <subparagraph eId="59_7_402__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>doing business in Utah;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_402__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>part of the same affiliated group; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_402__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>qualified, under Section 1501, Internal Revenue Code, to file a federal consolidated return.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_402__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Each corporation within the affiliated group that is doing business in Utah must consent to filing a combined report.  If an affiliated group elects to file a combined report, each corporation within the affiliated group that is doing business in Utah must file a combined report.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_402__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Corporations that elect to file a water's edge combined report under this section may not thereafter elect to file a separate return without the consent of the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

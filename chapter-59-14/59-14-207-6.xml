@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-207.6"/>
+          <FRBRuri value="/us-ut/act/code/59-14-207.6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-207.6/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-207.6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-207.6/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-207.6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_207_6">
+          <num>59-14-207.6</num>
+          <heading>Unstamped cigarettes.</heading>
+          <content>
+            <p>59-14-207.6.
+Unstamped cigarettes.
+(1)
+A person who ships unstamped cigarette packages into the state, other than to a licensed manufacturer, importer, distributor, or retailer who is authorized to affix stamps, shall first file with the commission a notice of shipment.
+(2)
+Subsection
+(1)
+does not apply to a common or contract carrier that is transporting cigarettes through this state to another location under a proper bill of lading or freight bill, which states the quantity, source, and destination of the cigarettes.
+Enacted by Chapter
+217
+, 2004 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1002"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1002"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1002/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1002/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1002/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1002/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1002">
+          <num>59-1-1002</num>
+          <heading>Audit interviews.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-1-1002.
+Audit interviews.
+(1)
+During any audit interview, the commission shall:
+(a)
+require reasonable scheduling of its audit interviews;
+(b)
+permit recording of audit interviews;
+(c)
+explain its audit and collection process before the first interview; and
+(d)
+allow a taxpayer to be represented at an interview by an attorney or other representative with power of attorney.
+(2)
+The commission may not require a taxpayer to bring an attorney or other representative to interviews.
+Amended by Chapter
+302
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_1_1002__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>During any audit interview, the commission shall:</p>
+            </content>
+            <paragraph eId="59_1_1002__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>require reasonable scheduling of its audit interviews;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1002__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>permit recording of audit interviews;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1002__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>explain its audit and collection process before the first interview; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1002__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>allow a taxpayer to be represented at an interview by an attorney or other representative with power of attorney.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1002__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission may not require a taxpayer to bring an attorney or other representative to interviews.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

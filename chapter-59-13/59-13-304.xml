@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-304"/>
+          <FRBRuri value="/us-ut/act/code/59-13-304"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-304/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-304/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-304/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-304/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_304">
+          <num>59-13-304</num>
+          <heading>Inspection of clean fuel vehicles.</heading>
+          <content>
+            <p>59-13-304.
+Inspection of clean fuel vehicles.
+(1)
+The commission may require each clean fuel vehicle to be inspected for safe operation.
+(2)
+Each clean fuel vehicle shall be equipped with an approved and properly installed carburetion system if it is powered by a fuel that is gaseous at standard atmospheric conditions.
+Amended by Chapter
+153
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_13_304__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission may require each clean fuel vehicle to be inspected for safe operation.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_304__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each clean fuel vehicle shall be equipped with an approved and properly installed carburetion system if it is powered by a fuel that is gaseous at standard atmospheric conditions.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

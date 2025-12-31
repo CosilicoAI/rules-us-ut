@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1306"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1306"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1306/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1306/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1306/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1306/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1306">
+          <num>59-1-1306</num>
+          <heading>Material advisor disclosure of reportable transactions.</heading>
+          <content>
+            <p>59-1-1306.
+Material advisor disclosure of reportable transactions.
+(1)
+(a)
+A material advisor shall disclose a reportable transaction to the commission on a form provided by the commission.
+(b)
+The disclosure described in Subsection
+(1)(a)
+:
+(i)
+shall include information:
+(A)
+identifying and describing the transaction; and
+(B)
+describing any potential tax benefits expected to result from the transaction; and
+(ii)
+may include information other than the information described in Subsection
+(1)(b)(i)
+as required by the commission.
+(2)
+If a material advisor described in Subsection
+(1)
+is required to file a return disclosing a reportable transaction under Section 6111, Internal Revenue Code, the material advisor shall provide the commission a copy of that return.
+(3)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission shall make rules prescribing:
+(a)
+the date a:
+(i)
+disclosure required by Subsection
+(1)
+shall be filed with the commission; and
+(ii)
+copy of a return required by Subsection
+(2)
+shall be filed with the commission;
+(b)
+that only one person may be required to meet the requirements of Subsection
+(1)
+or
+(2)
+if two or more persons would otherwise be required to meet the requirements of Subsection
+(1)
+or
+(2)
+; and
+(c)
+exemptions from Subsection
+(1)
+or
+(2)
+.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_1_1306__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_1_1306__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A material advisor shall disclose a reportable transaction to the commission on a form provided by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1306__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The disclosure described in Subsection :</p>
+              </content>
+              <subparagraph eId="59_1_1306__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>shall include information:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1306__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>may include information other than the information described in Subsection as required by the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1306__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a material advisor described in Subsection is required to file a return disclosing a reportable transaction under Section 6111, Internal Revenue Code, the material advisor shall provide the commission a copy of that return.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1306__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In accordance with , the commission shall make rules prescribing:</p>
+            </content>
+            <paragraph eId="59_1_1306__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the date a:</p>
+              </content>
+              <subparagraph eId="59_1_1306__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>disclosure required by Subsection shall be filed with the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1306__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>copy of a return required by Subsection shall be filed with the commission;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1306__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>that only one person may be required to meet the requirements of Subsection or if two or more persons would otherwise be required to meet the requirements of Subsection or ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1306__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>exemptions from Subsection or .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

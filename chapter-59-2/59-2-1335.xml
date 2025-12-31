@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1335"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1335"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1335/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1335/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1335/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1335/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1335">
+          <num>59-2-1335</num>
+          <heading>Abbreviations permitted in proceedings.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1335.
+Abbreviations permitted in proceedings.
+(1)
+(a)
+In all proceedings relating to assessment, levy, or collection of taxes or relating to the listing or collection of tax notice charges, the subjection of any property to a charge for taxes of any nature or for tax notice charges, or the advertisement and sale of any property for taxes or tax notice charges, the following initial letters, abbreviations, symbols, and figures may be used.
+(b)
+The meaning of the initial letters, abbreviations, symbols, and figures is shown by the word or words placed opposite the initial letters, abbreviations, symbols, and figures:
+a., ac.
+................................................................................................................................ acre, acres
+add.
+... ................................................................................................................................... addition
+ave.
+........................................................................................................................................ avenue
+beg.
+................................................................................................................................... beginning
+blk.
+........................................................................................................................................... block
+bet.
+....................................................................................................................................... between
+bdy., bdrs.
+....................................................................................................... boundary, boundaries
+ch., chs.
+........................................................................................................................ chain, chains
+com.
+.............................................................................................................................. commencing
+cont.
+.................................................................................................................................. containing
+deg. or degree symbol
+.............................................................................................. degree, degrees
+dist.
+...................................................................................................................................... distance
+E.
+............................................................................................................................................... east
+E'ly
+........................................................................................................................................ easterly
+ft.
+....................................................................................................................................... foot, feet
+frac.
+................................................................................................................................... fractional
+in., ins.
+........................................................................................................................... inch, inches
+lk., lks.
+.............................................................................................................................. link, links
+lt., lts.
+.................................................................................................................................... lot, lots
+m., min., or '
+............................................................................................................ minute, minutes
+m. or l.
+.......................................................................................................................... more or less
+N.
+............................................................................................................................................ north
+NE.
+..................................................................................................................................... northeast
+NE'ly.
+........................................................................................................................... northeasterly
+N'ly.
+.................................................................................................................................... northerly
+NW.
+................................................................................................................................... northwest
+NW'ly.
+........................................................................................................................ northwesterly
+pt.
+............................................................................................................................................. point
+1/4 sec.
+...................................................................................................................... quarter section
+r., rs.
+............................................................................................................................. range, ranges
+rd., rds.
+................................................................................................................................ rod, rods
+R. of W.
+....................................................................................................................... right-of-way
+s. or &quot;
+....................................................................................................................... second, seconds
+S.
+........................................................................................................................................... south
+SE.
+...................................................................................................................................... southeast
+SE'ly.
+........................................................................................................................... southeasterly
+S'ly.
+.................................................................................................................................... southerly
+st.
+............................................................................................................................................ street
+sub.
+................................................................................................................................. subdivision
+S.L.M.
+................................................................................................................ Salt Lake Meridian
+SW.
+................................................................................................................................... southwest
+t., tp., tps.
+......................................................................................................... township, townships
+th.
+........................................................................................................................................... thence
+U.S. sur.
+............................................................................................................ United State Survey
+U.S.M.
+....................................................................................................... Uintah Special Meridian
+W.
+............................................................................................................................................. west
+W'ly.
+..................................................................................................................................... westerly
+(2)
+Where the name of any railroad or railroad company is commonly referred to by the initial letters of the word constituting the name of the railroad, the initial letters may be used as an abbreviation for the full name of the railroad or railroad company in all cases where the name is used in the description of property.
+(3)
+(a)
+Commonly accepted initial letters, abbreviations, symbols, and figures having local significance may be used.
+(b)
+Any initial letters, abbreviations, symbols, and figures shall first be approved by the commission.
+(c)
+A written or printed explanation of initial letters, abbreviations, symbols, and figures shall appear in each assessment roll in which they are used and shall be published with each separate advertisement and sale for taxes or tax notice charges in which they are used.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1335__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1335__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In all proceedings relating to assessment, levy, or collection of taxes or relating to the listing or collection of tax notice charges, the subjection of any property to a charge for taxes of any nature or for tax notice charges, or the advertisement and sale of any property for taxes or tax notice charges, the following initial letters, abbreviations, symbols, and figures may be used.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1335__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The meaning of the initial letters, abbreviations, symbols, and figures is shown by the word or words placed opposite the initial letters, abbreviations, symbols, and figures: a., ac. ................................................................................................................................ acre, acres add. ... ................................................................................................................................... addition ave. ........................................................................................................................................ avenue beg. ................................................................................................................................... beginning blk. ........................................................................................................................................... block bet. ....................................................................................................................................... between bdy., bdrs. ....................................................................................................... boundary, boundaries ch., chs. ........................................................................................................................ chain, chains com. .............................................................................................................................. commencing cont. .................................................................................................................................. containing deg. or degree symbol .............................................................................................. degree, degrees dist. ...................................................................................................................................... distance E. ......................................................................</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1335__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Where the name of any railroad or railroad company is commonly referred to by the initial letters of the word constituting the name of the railroad, the initial letters may be used as an abbreviation for the full name of the railroad or railroad company in all cases where the name is used in the description of property.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1335__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1335__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Commonly accepted initial letters, abbreviations, symbols, and figures having local significance may be used.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1335__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any initial letters, abbreviations, symbols, and figures shall first be approved by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1335__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A written or printed explanation of initial letters, abbreviations, symbols, and figures shall appear in each assessment roll in which they are used and shall be published with each separate advertisement and sale for taxes or tax notice charges in which they are used.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

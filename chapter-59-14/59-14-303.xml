@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-303"/>
+          <FRBRuri value="/us-ut/act/code/59-14-303"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-303/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-303/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-303/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-303/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_303">
+          <num>59-14-303</num>
+          <heading>Remittance of tax -- Returns -- Invoice required -- Filing requirements -- Reports -- Exceptions -- Penalties -- Overpayments.</heading>
+          <content>
+            <p>59-14-303.
+Remittance of tax -- Returns -- Invoice required -- Filing requirements -- Reports -- Exceptions -- Penalties -- Overpayments.
+(1)
+The taxes imposed on all tobacco products shall be remitted to the commission together with quarterly returns as prescribed by the commission.  These returns shall be due and payable to the commission quarterly on or before the last day of the month following each calendar quarterly period.
+(2)
+Every manufacturer, wholesaler, retailer, or any other person selling tobacco products to persons other than ultimate consumers shall furnish with each sale an itemized invoice showing the seller's name and address, the name and address of the purchaser, the date of sale, the name and price of the product, and the discount, if any.  A notation should be made that the price includes or does not include the tax.  Copies of this invoice shall be retained by the seller and the purchaser and shall be available for inspection by the commission or its agent for a period of three years following the sale.
+(3)
+(a)
+A consumer who purchases untaxed products subject to the tax imposed by this part for use or other consumption, shall file with the commission, on forms prescribed by the commission, a statement showing the quantity and description of the products and pay the tax imposed by this part on those products.
+(b)
+The statement described in Subsection
+(3)(a)
+shall be filed and the tax paid on or before the last day of the month immediately following the month during which the tobacco products were purchased.
+(c)
+A consumer shall maintain records necessary to determine the amount of tax the consumer is liable to pay under this part for a period of three years following the date the return required by this part was filed.
+(4)
+No report is required from tourists who import any products taxed by this part if the products are for their own use or consumption while in this state.
+(5)
+In addition to the tax required by this part, a person shall pay a penalty as provided in Section
+59-1-401
+, plus interest at the rate and in the manner prescribed in Section
+59-1-402
+, if a person subject to this section fails to:
+(a)
+pay the tax prescribed by this part;
+(b)
+pay the tax on time; or
+(c)
+file a return required by this part.
+(6)
+An overpayment of a tax imposed by this part shall accrue interest at the rate and in the manner prescribed in Section
+59-1-402
+.
+Amended by Chapter
+6
+, 2007 General Session</p>
+          </content>
+          <subsection eId="59_14_303__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The taxes imposed on all tobacco products shall be remitted to the commission together with quarterly returns as prescribed by the commission.  These returns shall be due and payable to the commission quarterly on or before the last day of the month following each calendar quarterly period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_303__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Every manufacturer, wholesaler, retailer, or any other person selling tobacco products to persons other than ultimate consumers shall furnish with each sale an itemized invoice showing the seller's name and address, the name and address of the purchaser, the date of sale, the name and price of the product, and the discount, if any.  A notation should be made that the price includes or does not include the tax.  Copies of this invoice shall be retained by the seller and the purchaser and shall be available for inspection by the commission or its agent for a period of three years following the sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_303__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_14_303__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A consumer who purchases untaxed products subject to the tax imposed by this part for use or other consumption, shall file with the commission, on forms prescribed by the commission, a statement showing the quantity and description of the products and pay the tax imposed by this part on those products.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_303__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The statement described in Subsection shall be filed and the tax paid on or before the last day of the month immediately following the month during which the tobacco products were purchased.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_303__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A consumer shall maintain records necessary to determine the amount of tax the consumer is liable to pay under this part for a period of three years following the date the return required by this part was filed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_303__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>No report is required from tourists who import any products taxed by this part if the products are for their own use or consumption while in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_303__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In addition to the tax required by this part, a person shall pay a penalty as provided in Section , plus interest at the rate and in the manner prescribed in Section , if a person subject to this section fails to:</p>
+            </content>
+            <paragraph eId="59_14_303__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>pay the tax prescribed by this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_303__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>pay the tax on time; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_303__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>file a return required by this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_303__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>An overpayment of a tax imposed by this part shall accrue interest at the rate and in the manner prescribed in Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-901"/>
+          <FRBRuri value="/us-ut/act/code/59-2-901"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-901/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-901/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-901/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-901/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_901">
+          <num>59-2-901</num>
+          <heading>Determination of rate by commission -- Transmittal to county and state auditors.</heading>
+          <content>
+            <p>59-2-901.
+Determination of rate by commission -- Transmittal to county and state auditors.
+Before June 22 of each year the commission shall determine the rate of state tax to be levied and collected upon the taxable value of all property in the state sufficient to raise the amount of revenue specified by the Legislature for general state purposes.  That rate may not exceed .00048 per dollar of taxable value of taxable property in the state.  The commission shall transmit to the county auditor of each county and to the state auditor a statement of that rate. The county auditor shall, upon receipt, give the commission written acknowledgment of receipt.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

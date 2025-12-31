@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-326"/>
+          <FRBRuri value="/us-ut/act/code/59-2-326"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-326/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-326/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-326/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-326/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_326">
+          <num>59-2-326</num>
+          <heading>Assessment roll delivered to county treasurer.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-2-326.
+Assessment roll delivered to county treasurer.
+Before November 1, the county auditor must deliver the corrected assessment roll to the county treasurer, together with a signed statement subscribed by the county auditor in a form substantially as follows:
+I, ____ county auditor of the county of ____, do swear that I received the accompanying assessment roll of the taxable property of the county from the assessor, and that I have corrected it and made it conform to the requirements of the county board of equalization and commission, that I have reckoned the respective sums due as taxes and have added up the columns of valuations, taxes, and acreage as required by law.
+Amended by Chapter
+302
+, 2025 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

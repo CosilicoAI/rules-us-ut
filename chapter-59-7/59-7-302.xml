@@ -1,0 +1,591 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-302"/>
+          <FRBRuri value="/us-ut/act/code/59-7-302"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-302/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-302/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-302/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-302/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_302">
+          <num>59-7-302</num>
+          <heading>Definitions -- Determination of taxpayer status.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-7-302.
+Definitions -- Determination of taxpayer status.
+(1)
+As used in this part, unless the context otherwise requires:
+(a)
+&quot;Aircraft type&quot; means a particular model of aircraft as designated by the manufacturer of the aircraft.
+(b)
+&quot;Airline&quot; means the same as that term is defined in Section
+59-2-102
+.
+(c)
+&quot;Airline revenue ton miles&quot; means, for an airline, the total revenue ton miles during the airline's tax period.
+(d)
+&quot;Business income&quot; means income that:
+(i)
+is apportionable under the United States Constitution and is not allocated under the laws of this state, including income arising from:
+(A)
+a transaction or activity in the regular course of the taxpayer's trade or business; and
+(B)
+tangible and intangible property, if the acquisition, management, employment, development, or disposition of the property is or was related to the operation of the taxpayer's trade or business; or
+(ii)
+would be allocable to this state under the United States Constitution, but is apportioned rather than allocated in accordance with the laws of this state.
+(e)
+&quot;Commercial domicile&quot; means the principal place from which the trade or business of the taxpayer is directed or managed.
+(f)
+&quot;Compensation&quot; means wages, salaries, commissions, and any other form of remuneration paid to employees for personal services.
+(g)
+&quot;Excluded NAICS code&quot; means a NAICS code of the 2017 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, within:
+(i)
+NAICS Code 211120, Crude Petroleum Extraction;
+(ii)
+NAICS Industry Group 2121, Coal Mining;
+(iii)
+NAICS Industry Group 2212, Natural Gas Distribution;
+(iv)
+NAICS Subsector 311, Food Manufacturing;
+(v)
+NAICS Industry Group 3121, Beverage Manufacturing;
+(vi)
+NAICS Code 327310, Cement Manufacturing;
+(vii)
+NAICS Subsector 482, Rail Transportation;
+(viii)
+NAICS Code 512110, Motion Picture and Video Production;
+(ix)
+NAICS Subsection 515, Broadcasting (except Internet); or
+(x)
+NAICS Code 522110, Commercial Banking.
+(h)
+(i)
+Except as provided in Subsection
+(1)(h)(ii)
+, &quot;mobile flight equipment&quot; means the same as that term is defined in Section
+59-2-102
+.
+(ii)
+&quot;Mobile flight equipment&quot; does not include:
+(A)
+a spare engine; or
+(B)
+tangible personal property described in Subsection
+59-2-102(26)
+owned by an air charter service or an air contract service.
+(i)
+&quot;Nonbusiness income&quot; means all income other than business income.
+(j)
+&quot;Optional apportionment taxpayer&quot; means a taxpayer described in Subsection
+(3)
+.
+(k)
+&quot;Phased-in sales factor weighted taxpayer&quot; means a taxpayer that:
+(i)
+is not a sales factor weighted taxpayer;
+(ii)
+does not meet the definition of an optional apportionment taxpayer; or
+(iii)
+for a taxable year beginning on or after January 1, 2020:
+(A)
+meets the definition of an optional apportionment taxpayer; and
+(B)
+apportioned business income using the method described in Subsection
+59-7-311(4)
+during the previous taxable year.
+(l)
+&quot;Revenue ton miles&quot; is determined in accordance with 14 C.F.R. Part 241.
+(m)
+&quot;Sales&quot; means all gross receipts of the taxpayer not allocated under Sections
+59-7-306
+through
+59-7-310
+.
+(n)
+&quot;Sales factor weighted taxpayer&quot; means a taxpayer described in Subsection
+(2)
+.
+(o)
+&quot;State&quot; means any state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any foreign country or political subdivision thereof.
+(p)
+&quot;Transportation revenue&quot; means revenue an airline earns from:
+(i)
+transporting a passenger or cargo; or
+(ii)
+from miscellaneous sales of merchandise as part of providing transportation services.
+(q)
+&quot;Utah revenue ton miles&quot; means, for an airline, the total revenue ton miles within the borders of this state:
+(i)
+during the airline's tax period; and
+(ii)
+from flight stages that originate or terminate in this state.
+(2)
+(a)
+A taxpayer is a sales factor weighted taxpayer if the taxpayer apportioned business income using the method described in Subsection
+59-7-311(2)
+during the previous taxable year or if, regardless of the number of economic activities the taxpayer performs, the taxpayer generates greater than 50% of the taxpayer's total sales everywhere from economic activities that are classified in a NAICS code of the 2002 or 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, other than:
+(i)
+a NAICS code within NAICS Sector 21, Mining;
+(ii)
+a NAICS code within NAICS Industry Group 2212, Natural Gas Distribution;
+(iii)
+a NAICS code within NAICS Sector 31-33, Manufacturing, except:
+(A)
+NAICS Industry Group 3254, Pharmaceutical and Medicine Manufacturing;
+(B)
+NAICS Industry Group 3333, Commercial and Service Industry Machinery Manufacturing;
+(C)
+NAICS Subsector 334, Computer and Electronic Product Manufacturing; and
+(D)
+NAICS Code 336111, Automobile Manufacturing;
+(iv)
+a NAICS code within NAICS Sector 48-49, Transportation and Warehousing;
+(v)
+a NAICS code within NAICS Sector 51, Information, except NAICS Subsector 519, Other Information Services; or
+(vi)
+a NAICS code within NAICS Sector 52, Finance and Insurance.
+(b)
+A taxpayer shall determine if the taxpayer is a sales factor weighted taxpayer each year before the due date for filing the taxpayer's return under this chapter for the taxable year, including extensions.
+(c)
+For purposes of making the determination required by Subsection
+(2)(a)
+, total sales everywhere include only the total sales everywhere:
+(i)
+as determined in accordance with this part; and
+(ii)
+made during the taxable year for which a taxpayer makes the determination required by Subsection
+(2)(a)
+.
+(3)
+(a)
+A taxpayer is an optional apportionment taxpayer if the average calculated in accordance with Subsection
+(3)(b)
+is greater than .50.
+(b)
+To calculate the average described in Subsection
+(3)(a)
+, a taxpayer shall:
+(i)
+calculate the following two fractions:
+(A)
+the property factor fraction as described in Subsection
+59-7-312(3)
+; and
+(B)
+the payroll factor fraction as described in Subsection
+59-7-315(3)
+;
+(ii)
+add together the fractions described in Subsection
+(3)(b)(i)
+; and
+(iii)
+divide the sum calculated in Subsection
+(3)(b)(ii)
+:
+(A)
+except as provided in Subsection
+(3)(b)(iii)(B)
+, by two; or
+(B)
+if either the property factor fraction or the payroll factor fraction has a denominator of zero or is excluded in accordance with Subsection
+59-7-312(3)(b)
+or
+59-7-315(3)(b)
+, by one.
+(c)
+A taxpayer shall determine if the taxpayer is an optional apportionment taxpayer before the due date for filing the taxpayer's return under this chapter for the taxable year, including extensions.
+(4)
+A taxpayer that files a return as a unitary group for a taxable year is considered to be a unitary group for that taxable year.
+(5)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may define the term &quot;economic activity&quot; consistent with the use of the term &quot;activity&quot; in the 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget.
+Amended by Chapter
+234
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_7_302__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this part, unless the context otherwise requires:</p>
+            </content>
+            <paragraph eId="59_7_302__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Aircraft type&quot; means a particular model of aircraft as designated by the manufacturer of the aircraft.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Airline&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Airline revenue ton miles&quot; means, for an airline, the total revenue ton miles during the airline's tax period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Business income&quot; means income that:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is apportionable under the United States Constitution and is not allocated under the laws of this state, including income arising from:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>would be allocable to this state under the United States Constitution, but is apportioned rather than allocated in accordance with the laws of this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Commercial domicile&quot; means the principal place from which the trade or business of the taxpayer is directed or managed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Compensation&quot; means wages, salaries, commissions, and any other form of remuneration paid to employees for personal services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Excluded NAICS code&quot; means a NAICS code of the 2017 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, within:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>NAICS Code 211120, Crude Petroleum Extraction;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>NAICS Industry Group 2121, Coal Mining;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>NAICS Industry Group 2212, Natural Gas Distribution;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>NAICS Subsector 311, Food Manufacturing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>NAICS Industry Group 3121, Beverage Manufacturing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>NAICS Code 327310, Cement Manufacturing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>NAICS Subsector 482, Rail Transportation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>NAICS Code 512110, Motion Picture and Video Production;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_ix">
+                <num>(ix)</num>
+                <content>
+                  <p>NAICS Subsection 515, Broadcasting (except Internet); or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_g__subpara_x">
+                <num>(x)</num>
+                <content>
+                  <p>NAICS Code 522110, Commercial Banking.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_h">
+              <num>(h)</num>
+              <subparagraph eId="59_7_302__subsec_1__para_h__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection , &quot;mobile flight equipment&quot; means the same as that term is defined in Section .</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_h__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Mobile flight equipment&quot; does not include:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;Nonbusiness income&quot; means all income other than business income.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;Optional apportionment taxpayer&quot; means a taxpayer described in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>&quot;Phased-in sales factor weighted taxpayer&quot; means a taxpayer that:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_1__para_k__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is not a sales factor weighted taxpayer;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_k__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>does not meet the definition of an optional apportionment taxpayer; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_k__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>for a taxable year beginning on or after January 1, 2020:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>&quot;Revenue ton miles&quot; is determined in accordance with 14 C.F.R. Part 241.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>&quot;Sales&quot; means all gross receipts of the taxpayer not allocated under Sections through .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>&quot;Sales factor weighted taxpayer&quot; means a taxpayer described in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_o">
+              <num>(o)</num>
+              <content>
+                <p>&quot;State&quot; means any state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any foreign country or political subdivision thereof.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_p">
+              <num>(p)</num>
+              <content>
+                <p>&quot;Transportation revenue&quot; means revenue an airline earns from:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_1__para_p__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>transporting a passenger or cargo; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_p__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>from miscellaneous sales of merchandise as part of providing transportation services.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_1__para_q">
+              <num>(q)</num>
+              <content>
+                <p>&quot;Utah revenue ton miles&quot; means, for an airline, the total revenue ton miles within the borders of this state:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_1__para_q__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>during the airline's tax period; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_1__para_q__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>from flight stages that originate or terminate in this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_302__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_302__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer is a sales factor weighted taxpayer if the taxpayer apportioned business income using the method described in Subsection during the previous taxable year or if, regardless of the number of economic activities the taxpayer performs, the taxpayer generates greater than 50% of the taxpayer's total sales everywhere from economic activities that are classified in a NAICS code of the 2002 or 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget, other than:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a NAICS code within NAICS Sector 21, Mining;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a NAICS code within NAICS Industry Group 2212, Natural Gas Distribution;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a NAICS code within NAICS Sector 31-33, Manufacturing, except:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_2__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a NAICS code within NAICS Sector 48-49, Transportation and Warehousing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_2__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a NAICS code within NAICS Sector 51, Information, except NAICS Subsector 519, Other Information Services; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_2__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>a NAICS code within NAICS Sector 52, Finance and Insurance.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer shall determine if the taxpayer is a sales factor weighted taxpayer each year before the due date for filing the taxpayer's return under this chapter for the taxable year, including extensions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of making the determination required by Subsection , total sales everywhere include only the total sales everywhere:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>as determined in accordance with this part; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>made during the taxable year for which a taxpayer makes the determination required by Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_302__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_7_302__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer is an optional apportionment taxpayer if the average calculated in accordance with Subsection is greater than .50.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>To calculate the average described in Subsection , a taxpayer shall:</p>
+              </content>
+              <subparagraph eId="59_7_302__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>calculate the following two fractions:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>add together the fractions described in Subsection ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_302__subsec_3__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>divide the sum calculated in Subsection :</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_302__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A taxpayer shall determine if the taxpayer is an optional apportionment taxpayer before the due date for filing the taxpayer's return under this chapter for the taxable year, including extensions.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_302__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A taxpayer that files a return as a unitary group for a taxable year is considered to be a unitary group for that taxable year.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_302__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In accordance with , the commission may define the term &quot;economic activity&quot; consistent with the use of the term &quot;activity&quot; in the 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

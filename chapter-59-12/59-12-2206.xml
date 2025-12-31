@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2206"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2206/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2206/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2206">
+          <num>59-12-2206</num>
+          <heading>Administration, collection, and enforcement of a sales and use tax under this part -- Transmission of revenue monthly by electronic funds transfer -- Transfer of revenue to a public transit district or eligible political subdivision.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-12-2206.
+Administration, collection, and enforcement of a sales and use tax under this part -- Transmission of revenue monthly by electronic funds transfer -- Transfer of revenue to a public transit district or eligible political subdivision.
+(1)
+Except as provided in Subsection
+(2)
+, the commission shall administer, collect, and enforce a sales and use tax imposed under this part.
+(2)
+The commission shall administer, collect, and enforce a sales and use tax imposed under this part in accordance with:
+(a)
+the same procedures used to administer, collect, and enforce a tax under:
+(i)
+Part 1, Tax Collection
+; or
+(ii)
+Part 2, Local Sales and Use Tax Act
+; and
+(b)
+Chapter 1, General Taxation Policies
+.
+(3)
+A sales and use tax under this part is not subject to Subsections
+59-12-205(2)
+and (4) through (6).
+(4)
+Subject to Section
+59-12-2207
+and except as provided in Subsections
+(5)
+and
+(6)
+or another provision of this part, the state treasurer shall transmit revenue collected within a county, city, or town from a sales and use tax under this part to the county, city, or town legislative body monthly by electronic funds transfer.
+(5)
+Beginning no sooner than January 1, 2026, and subject to Section
+59-12-205
+, before transmitting revenue as described in Subsection
+(4)
+, and before application of Subsection
+(6)
+, and as described in Section
+63N-3-610.1
+, beginning the first day of a calendar quarter after the year set in the proposal and after the sales and use tax boundary for a convention center reinvestment zone is established under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act, the commission, at least annually, shall transfer an amount equal to 100% of the sales and use tax increment, as that term is defined in Section
+63N-3-602
+, from a sales and use tax on transactions occurring within an established sales and use tax boundary, as that term is defined in Section
+63N-3-602
+, to a convention center public infrastructure district created in accordance with Section
+17D-4-202.1
+for sales and use taxes imposed by a county of the first class pursuant to:
+(a)
+Section
+59-12-2213
+;
+(b)
+Section
+59-12-2214
+;
+(c)
+Section
+59-12-2217
+;
+(d)
+Section
+59-12-2219
+; and
+(e)
+Section
+59-12-2220
+.
+(6)
+(a)
+Subject to Section
+59-12-2207
+, and except as provided in Subsection
+(6)(b)
+, the state treasurer shall transfer revenue collected within a county, city, or town from a sales and use tax under this part directly to a public transit district organized under
+Title 17B, Chapter 2a, Part 8, Public Transit District Act
+, or an eligible political subdivision as defined in Section
+59-12-2202
+, if the county, city, or town legislative body:
+(i)
+provides written notice to the commission and the state treasurer requesting the transfer; and
+(ii)
+designates the public transit district or eligible political subdivision to which the county, city, or town legislative body requests the state treasurer to transfer the revenue.
+(b)
+The commission shall transmit a portion of the revenue collected within a county, city, or town from a sales and use tax under this part that would be transferred to a public transit district or an eligible political subdivision under Subsection
+(6)(a)
+to the county, city, or town to fund public transit fixed guideway safety oversight under Section
+72-1-214
+if the county, city, or town legislative body:
+(i)
+provides written notice to the commission and the state treasurer requesting the transfer; and
+(ii)
+specifies the amount of revenue required to be transmitted to the county, city, or town.
+Amended by Chapter
+400
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_12_2206__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , the commission shall administer, collect, and enforce a sales and use tax imposed under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2206__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall administer, collect, and enforce a sales and use tax imposed under this part in accordance with:</p>
+            </content>
+            <paragraph eId="59_12_2206__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the same procedures used to administer, collect, and enforce a tax under:</p>
+              </content>
+              <subparagraph eId="59_12_2206__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2206__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2206__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2206__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A sales and use tax under this part is not subject to Subsections and (4) through (6).</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2206__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Subject to Section and except as provided in Subsections and or another provision of this part, the state treasurer shall transmit revenue collected within a county, city, or town from a sales and use tax under this part to the county, city, or town legislative body monthly by electronic funds transfer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2206__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Beginning no sooner than January 1, 2026, and subject to Section , before transmitting revenue as described in Subsection , and before application of Subsection , and as described in Section , beginning the first day of a calendar quarter after the year set in the proposal and after the sales and use tax boundary for a convention center reinvestment zone is established under Title 63N, Chapter 3, Part 6, Housing and Transit Reinvestment Zone Act, the commission, at least annually, shall transfer an amount equal to 100% of the sales and use tax increment, as that term is defined in Section , from a sales and use tax on transactions occurring within an established sales and use tax boundary, as that term is defined in Section , to a convention center public infrastructure district created in accordance with Section for sales and use taxes imposed by a county of the first class pursuant to:</p>
+            </content>
+            <paragraph eId="59_12_2206__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2206__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2206__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2206__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2206__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2206__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_12_2206__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Section , and except as provided in Subsection , the state treasurer shall transfer revenue collected within a county, city, or town from a sales and use tax under this part directly to a public transit district organized under , or an eligible political subdivision as defined in Section , if the county, city, or town legislative body:</p>
+              </content>
+              <subparagraph eId="59_12_2206__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>provides written notice to the commission and the state treasurer requesting the transfer; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2206__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>designates the public transit district or eligible political subdivision to which the county, city, or town legislative body requests the state treasurer to transfer the revenue.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2206__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall transmit a portion of the revenue collected within a county, city, or town from a sales and use tax under this part that would be transferred to a public transit district or an eligible political subdivision under Subsection to the county, city, or town to fund public transit fixed guideway safety oversight under Section if the county, city, or town legislative body:</p>
+              </content>
+              <subparagraph eId="59_12_2206__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>provides written notice to the commission and the state treasurer requesting the transfer; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2206__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>specifies the amount of revenue required to be transmitted to the county, city, or town.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

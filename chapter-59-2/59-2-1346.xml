@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1346"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1346"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1346/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1346/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1346/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1346/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1346">
+          <num>59-2-1346</num>
+          <heading>Redemption -- Time allowed.</heading>
+          <content>
+            <p>Effective 5/4/2022
+59-2-1346.
+Redemption -- Time allowed.
+(1)
+Property may be redeemed on behalf of the record owner by any person at any time before the tax sale which shall be held in May or June as provided in Section
+59-2-1351
+following the lapse of four years from the date the property tax or tax notice charges became delinquent.
+(2)
+A person may redeem property by paying to the county treasurer all delinquent taxes, tax notice charges, interest, penalties, and administrative costs that have accrued on the property.
+(3)
+(a)
+Subject to Subsection
+(3)(d)
+, a person may redeem a subdivided lot by paying the county treasurer the subdivided lot's proportional share of the delinquent taxes, tax notice charges, interest, penalties, and administrative costs accrued on the base parcel, calculated in accordance with Subsection
+(3)(b)
+.
+(b)
+The county treasurer shall calculate the amount described in Subsection
+(3)(a)
+by comparing:
+(i)
+the amount of the value of the base parcel as described in Subsection
+(3)(b)(ii)
+that is attributable to the property that comprises the subdivided lot as the property existed on January 1 of the year in which the delinquent property taxes on the base parcel were assessed or tax notice charges on the base parcel were listed; and
+(ii)
+the value of the base parcel as it existed on January 1 of the year in which the delinquent property taxes on the base parcel were assessed or tax notice charges on the base parcel were listed.
+(c)
+If the county treasurer does not have sufficient information to calculate the amount described in Subsection
+(3)(b)(i)
+, upon request from the county treasurer, the county assessor shall provide the county treasurer any information necessary to calculate the amount described in Subsection
+(3)(b)(i)
+.
+(d)
+A person may redeem a subdivided lot under this Subsection
+(3)
+only if the record owner of the subdivided lot is a bona fide purchaser.
+(4)
+(a)
+At any time before the expiration of the period of redemption, the county treasurer shall accept and credit on account for the redemption of property, payments in amounts of not less than $10, except for the final payment, which may be in any amount.
+(b)
+For the purpose of computing the amount required for redemption and for the purpose of distributing the payments received on account, all payments, except payments described in Subsection
+(4)(c)
+, shall be applied in the following order:
+(i)
+against the interest and administrative costs accrued on the delinquent tax for the last year included in the delinquent account at the time of payment;
+(ii)
+against the penalty charged on the delinquent tax for the last year included in the delinquent account at the time of payment;
+(iii)
+against the delinquent tax for the last year included in the delinquent account at the time of payment;
+(iv)
+against the interest and administrative costs accrued on the delinquent tax for the next to last year included in the delinquent account at the time of payment; and
+(v)
+so on until the full amount of the delinquent taxes, tax notice charges, penalties, administrative costs, and interest on the unpaid balances are paid within the period of redemption.
+(c)
+For a payment received through a levy on an income tax overpayment or refund in accordance with
+Title 63A, Chapter 3, Part 3, Accounts Receivable Collection
+, the payment shall be applied in the following order:
+(i)
+against the penalty charged on the delinquent tax for the earliest year included in the delinquent account at the time of payment;
+(ii)
+against the interest and administrative costs accrued on the delinquent tax for the earliest year included in the delinquent account at the time of payment;
+(iii)
+against the delinquent tax for the earliest year included in the delinquent account at the time of payment;
+(iv)
+against the penalty charged on the delinquent tax for the next earliest year included in the delinquent account at the time of payment; and
+(v)
+so on until:
+(A)
+the full amount of the delinquent taxes, tax notice charges, penalties, administrative costs, and interest on the unpaid balances are paid; or
+(B)
+the amount of the income tax overpayment or refund is exhausted.
+Amended by Chapter
+261
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_2_1346__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Property may be redeemed on behalf of the record owner by any person at any time before the tax sale which shall be held in May or June as provided in Section following the lapse of four years from the date the property tax or tax notice charges became delinquent.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1346__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person may redeem property by paying to the county treasurer all delinquent taxes, tax notice charges, interest, penalties, and administrative costs that have accrued on the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1346__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1346__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , a person may redeem a subdivided lot by paying the county treasurer the subdivided lot's proportional share of the delinquent taxes, tax notice charges, interest, penalties, and administrative costs accrued on the base parcel, calculated in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1346__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The county treasurer shall calculate the amount described in Subsection by comparing:</p>
+              </content>
+              <subparagraph eId="59_2_1346__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of the value of the base parcel as described in Subsection that is attributable to the property that comprises the subdivided lot as the property existed on January 1 of the year in which the delinquent property taxes on the base parcel were assessed or tax notice charges on the base parcel were listed; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the value of the base parcel as it existed on January 1 of the year in which the delinquent property taxes on the base parcel were assessed or tax notice charges on the base parcel were listed.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1346__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If the county treasurer does not have sufficient information to calculate the amount described in Subsection , upon request from the county treasurer, the county assessor shall provide the county treasurer any information necessary to calculate the amount described in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1346__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A person may redeem a subdivided lot under this Subsection only if the record owner of the subdivided lot is a bona fide purchaser.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1346__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_1346__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>At any time before the expiration of the period of redemption, the county treasurer shall accept and credit on account for the redemption of property, payments in amounts of not less than $10, except for the final payment, which may be in any amount.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1346__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of computing the amount required for redemption and for the purpose of distributing the payments received on account, all payments, except payments described in Subsection , shall be applied in the following order:</p>
+              </content>
+              <subparagraph eId="59_2_1346__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>against the interest and administrative costs accrued on the delinquent tax for the last year included in the delinquent account at the time of payment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>against the penalty charged on the delinquent tax for the last year included in the delinquent account at the time of payment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>against the delinquent tax for the last year included in the delinquent account at the time of payment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>against the interest and administrative costs accrued on the delinquent tax for the next to last year included in the delinquent account at the time of payment; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>so on until the full amount of the delinquent taxes, tax notice charges, penalties, administrative costs, and interest on the unpaid balances are paid within the period of redemption.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1346__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For a payment received through a levy on an income tax overpayment or refund in accordance with , the payment shall be applied in the following order:</p>
+              </content>
+              <subparagraph eId="59_2_1346__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>against the penalty charged on the delinquent tax for the earliest year included in the delinquent account at the time of payment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>against the interest and administrative costs accrued on the delinquent tax for the earliest year included in the delinquent account at the time of payment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>against the delinquent tax for the earliest year included in the delinquent account at the time of payment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_c__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>against the penalty charged on the delinquent tax for the next earliest year included in the delinquent account at the time of payment; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1346__subsec_4__para_c__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>so on until:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

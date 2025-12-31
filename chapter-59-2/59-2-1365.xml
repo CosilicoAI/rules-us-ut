@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1365"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1365"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1365/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1365/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1365/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1365/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1365">
+          <num>59-2-1365</num>
+          <heading>Payment to taxing entities by county treasurer -- Investment of proceeds -- Transfer and receipt of money between taxing entities.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1365.
+Payment to taxing entities by county treasurer -- Investment of proceeds -- Transfer and receipt of money between taxing entities.
+(1)
+Except as provided in Subsections
+(3)
+and
+(4)
+, the county treasurer shall pay to the treasurer of each taxing entity and each tax notice charge entity in the county on or before the tenth day of each month:
+(a)
+all money that the county treasurer received during the preceding month that is due to the entity; and
+(b)
+each entity's proportionate share of money the county treasurer received during the preceding month for:
+(i)
+delinquent taxes and tax notice charges;
+(ii)
+interest;
+(iii)
+penalties; and
+(iv)
+costs on all tax sales and redemptions.
+(2)
+Except as provided in Subsections
+(3)
+and
+(4)
+, the county treasurer shall:
+(a)
+adopt an appropriate procedure to account for the transfer and receipt of money between taxing entities and tax notice charge entities;
+(b)
+make a final annual settlement on March 31 with each taxing entity and tax notice charge entity, including providing the entity a written statement for the most recent calendar year of the amount of:
+(i)
+total taxes and tax notice charges charged;
+(ii)
+current taxes and tax notice charges collected;
+(iii)
+treasurer's relief;
+(iv)
+redemptions;
+(v)
+penalties;
+(vi)
+interest;
+(vii)
+in lieu fee collections on motor vehicles; and
+(viii)
+miscellaneous collections;
+(c)
+invest the money it receives under Subsection
+(1)
+; and
+(d)
+pay annually to each taxing entity and tax notice charge entity in the county the interest earned on the invested money under Subsection
+(2)(c)
+:
+(i)
+on or before March 31; and
+(ii)
+apportioned according to the proportion that the:
+(A)
+taxing entity's tax receipts bear to the total tax receipts received by the county treasurer; and
+(B)
+tax notice charge entity's tax notice charge receipts bear to the total tax notice charge receipts that the county treasurer receives.
+(3)
+Notwithstanding Subsections
+(1)
+and
+(2)
+, a county may:
+(a)
+negotiate with a taxing entity or tax notice charge entity a procedure other than the procedure provided in Subsection
+(2)(a)
+to account for the transfer and receipt of money between the county and the taxing entity or tax notice charge entity; and
+(b)
+establish a date other than the tenth day of each month for the county treasurer to make payments required under Subsection
+(1)
+.
+(4)
+This section does not invalidate an existing contract between a county and a taxing entity or tax notice charge entity relating to the apportionment and payment of money or interest.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1365__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsections and , the county treasurer shall pay to the treasurer of each taxing entity and each tax notice charge entity in the county on or before the tenth day of each month:</p>
+            </content>
+            <paragraph eId="59_2_1365__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>all money that the county treasurer received during the preceding month that is due to the entity; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1365__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>each entity's proportionate share of money the county treasurer received during the preceding month for:</p>
+              </content>
+              <subparagraph eId="59_2_1365__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>delinquent taxes and tax notice charges;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>interest;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>penalties; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_1__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>costs on all tax sales and redemptions.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1365__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in Subsections and , the county treasurer shall:</p>
+            </content>
+            <paragraph eId="59_2_1365__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>adopt an appropriate procedure to account for the transfer and receipt of money between taxing entities and tax notice charge entities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1365__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>make a final annual settlement on March 31 with each taxing entity and tax notice charge entity, including providing the entity a written statement for the most recent calendar year of the amount of:</p>
+              </content>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>total taxes and tax notice charges charged;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>current taxes and tax notice charges collected;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>treasurer's relief;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>redemptions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>penalties;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>interest;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>in lieu fee collections on motor vehicles; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_b__subpara_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>miscellaneous collections;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1365__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>invest the money it receives under Subsection ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1365__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>pay annually to each taxing entity and tax notice charge entity in the county the interest earned on the invested money under Subsection :</p>
+              </content>
+              <subparagraph eId="59_2_1365__subsec_2__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on or before March 31; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1365__subsec_2__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>apportioned according to the proportion that the:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1365__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding Subsections and , a county may:</p>
+            </content>
+            <paragraph eId="59_2_1365__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>negotiate with a taxing entity or tax notice charge entity a procedure other than the procedure provided in Subsection to account for the transfer and receipt of money between the county and the taxing entity or tax notice charge entity; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1365__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>establish a date other than the tenth day of each month for the county treasurer to make payments required under Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1365__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>This section does not invalidate an existing contract between a county and a taxing entity or tax notice charge entity relating to the apportionment and payment of money or interest.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

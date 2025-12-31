@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-544"/>
+          <FRBRuri value="/us-ut/act/code/59-10-544"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-544/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-544/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-544/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-544/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_544">
+          <num>59-10-544</num>
+          <heading>General powers and duties of the commission -- Deposit, distribution, or credit of revenues -- Refund reverts to state under certain circumstances.</heading>
+          <content>
+            <p>Effective 3/24/2022
+59-10-544.
+General powers and duties of the commission -- Deposit, distribution, or credit of revenues -- Refund reverts to state under certain circumstances.
+(1)
+(a)
+The commission shall administer and enforce a tax imposed under this chapter for which purpose it may divide the state into districts in each of which a branch office of the commission may be maintained.
+(b)
+A county may not be divided in forming a district.
+(2)
+(a)
+The commission shall deposit at least quarterly all revenue collected or received by the commission under this chapter with the state treasurer.
+(b)
+Subject to Sections
+59-10-529
+and
+59-10-531
+, the commission shall distribute and credit, at least quarterly and based on a pro rata share of Income Tax Fund and Uniform School Fund appropriations for the current fiscal year, the revenue described in Subsection
+(2)(a)
+to:
+(i)
+the Income Tax Fund; and
+(ii)
+the Uniform School Fund in accordance with Section
+53F-9-201.1
+.
+(c)
+The commission may credit to or draw from the Income Tax Fund and the Uniform School Fund:
+(i)
+annually to adjust for differences between estimates and actual amounts; or
+(ii)
+in the proportion described in Subsection
+(2)(b)
+to issue a refund.
+(d)
+If a refund the commission makes is not claimed within two years from the date the commission issues the refund:
+(i)
+the refund reverts to the state to be credited to the Income Tax Fund; and
+(ii)
+no further claim may be made on the commission for the amount of the refund.
+Amended by Chapter
+456
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_544__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_544__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall administer and enforce a tax imposed under this chapter for which purpose it may divide the state into districts in each of which a branch office of the commission may be maintained.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_544__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county may not be divided in forming a district.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_544__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_544__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall deposit at least quarterly all revenue collected or received by the commission under this chapter with the state treasurer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_544__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to Sections and , the commission shall distribute and credit, at least quarterly and based on a pro rata share of Income Tax Fund and Uniform School Fund appropriations for the current fiscal year, the revenue described in Subsection to:</p>
+              </content>
+              <subparagraph eId="59_10_544__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the Income Tax Fund; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_544__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the Uniform School Fund in accordance with Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_544__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission may credit to or draw from the Income Tax Fund and the Uniform School Fund:</p>
+              </content>
+              <subparagraph eId="59_10_544__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>annually to adjust for differences between estimates and actual amounts; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_544__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in the proportion described in Subsection to issue a refund.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_544__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If a refund the commission makes is not claimed within two years from the date the commission issues the refund:</p>
+              </content>
+              <subparagraph eId="59_10_544__subsec_2__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the refund reverts to the state to be credited to the Income Tax Fund; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_544__subsec_2__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>no further claim may be made on the commission for the amount of the refund.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

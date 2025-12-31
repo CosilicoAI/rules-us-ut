@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-320"/>
+          <FRBRuri value="/us-ut/act/code/59-7-320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-320/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-320/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_320">
+          <num>59-7-320</num>
+          <heading>Equitable adjustment of standard allocation or apportionment.</heading>
+          <content>
+            <p>59-7-320.
+Equitable adjustment of standard allocation or apportionment.
+Notwithstanding any other provision of this part, if the allocation and apportionment provisions of this part do not fairly represent the extent of the taxpayer's business activity in this state, the taxpayer may petition for or the commission may require, in respect to all or any part of the taxpayer's business activity, if reasonable:
+(1)
+separate accounting;
+(2)
+the exclusion of any one or more of the factors;
+(3)
+the inclusion of one or more additional factors which will fairly represent the taxpayer's business activity in this state; or
+(4)
+the employment of any other method to effectuate an equitable allocation and apportionment of the taxpayer's income.
+Amended by Chapter
+225
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_7_320__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>separate accounting;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_320__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the exclusion of any one or more of the factors;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_320__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>the inclusion of one or more additional factors which will fairly represent the taxpayer's business activity in this state; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_320__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>the employment of any other method to effectuate an equitable allocation and apportionment of the taxpayer's income.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

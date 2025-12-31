@@ -1,0 +1,419 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-301"/>
+          <FRBRuri value="/us-ut/act/code/59-12-301"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-301/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-301/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-301/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-301/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_301">
+          <num>59-12-301</num>
+          <heading>Transient room tax -- Rate -- Expenditure of revenues -- Enactment or repeal of tax -- Tax rate change -- Effective date -- Notice requirements.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-12-301.
+Transient room tax -- Rate -- Expenditure of revenues -- Enactment or repeal of tax -- Tax rate change -- Effective date -- Notice requirements.
+(1)
+(a)
+A county legislative body may impose a tax on charges for the accommodations and services described in Subsection
+59-12-103(1)(i)
+at a rate of not to exceed:
+(i)
+4.25% beginning on or after October 1, 2006; and
+(ii)
+for counties of the second, third, fourth, fifth, or sixth class, 4.5% beginning on or after July 1, 2025.
+(b)
+Subject to Subsection
+(2)
+, the revenues raised from the tax imposed under Subsection
+(1)(a)
+shall be used for the purposes listed in Section
+17-78-702
+.
+(c)
+The tax imposed under Subsection
+(1)(a)
+shall be in addition to the tax imposed under
+Part 6, Tourism, Recreation, Cultural, Convention, and Airport Facilities Tax Act
+.
+(2)
+(a)
+If a county legislative body of a county of the first class imposes a tax under this section, beginning on July 1, 2007, and ending on June 30, 2027, each year the first 15% of the revenues collected from the tax authorized by Subsection
+(1)(a)
+within that county shall be:
+(i)
+deposited into the Transient Room Tax Fund created by Section
+63N-3-403
+; and
+(ii)
+expended as provided in Section
+63N-3-403
+.
+(b)
+If a county legislative body of a county of the first class imposes a tax under this section, beginning on July 1, 2027, and ending on June 30, 2047, each year the first 7.5% of the revenues collected from the tax authorized by Subsection
+(1)(a)
+within that county shall be:
+(i)
+deposited into the Transient Room Tax Fund created by Section
+63N-3-403
+; and
+(ii)
+expended as provided in Section
+63N-3-403
+.
+(3)
+Subject to Subsection
+(4)
+, a county legislative body:
+(a)
+may increase or decrease the tax authorized under this part; and
+(b)
+shall regulate the tax authorized under this part by ordinance.
+(4)
+(a)
+For purposes of this Subsection
+(4)
+:
+(i)
+&quot;Annexation&quot; means an annexation to a county under Title
+17, Chapter 61, Part 2
+, Consolidation of Counties, or Part 3, County Annexation.
+(ii)
+&quot;Annexing area&quot; means an area that is annexed into a county.
+(b)
+(i)
+Except as provided in Subsection
+(4)(c)
+, if, on or after July 1, 2004, a county enacts or repeals a tax or changes the rate of a tax under this part, the enactment, repeal, or change shall take effect:
+(A)
+on the first day of a calendar quarter; and
+(B)
+after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection
+(4)(b)(ii)
+from the county.
+(ii)
+The notice described in Subsection
+(4)(b)(i)(B)
+shall state:
+(A)
+that the county will enact or repeal a tax or change the rate of a tax under this part;
+(B)
+the statutory authority for the tax described in Subsection
+(4)(b)(ii)(A)
+;
+(C)
+the effective date of the tax described in Subsection
+(4)(b)(ii)(A)
+; and
+(D)
+if the county enacts the tax or changes the rate of the tax described in Subsection
+(4)(b)(ii)(A)
+, the rate of the tax.
+(c)
+(i)
+Notwithstanding Subsection
+(4)(b)(i)
+, for a transaction described in Subsection
+(4)(c)(iii)
+, the enactment of a tax or a tax rate increase shall take effect on the first day of the first billing period:
+(A)
+that begins after the effective date of the enactment of the tax or the tax rate increase; and
+(B)
+if the billing period for the transaction begins before the effective date of the enactment of the tax or the tax rate increase imposed under this section.
+(ii)
+Notwithstanding Subsection
+(4)(b)(i)
+, for a transaction described in Subsection
+(4)(c)(iii)
+, the repeal of a tax or a tax rate decrease shall take effect on the first day of the last billing period:
+(A)
+that began before the effective date of the repeal of the tax or the tax rate decrease; and
+(B)
+if the billing period for the transaction begins before the effective date of the repeal of the tax or the tax rate decrease imposed under this section.
+(iii)
+Subsections
+(4)(c)(i)
+and
+(ii)
+apply to transactions subject to a tax under Subsection
+59-12-103(1)(i)
+.
+(d)
+(i)
+Except as provided in Subsection
+(4)(e)
+, if, for an annexation that occurs on or after July 1, 2004, the annexation will result in the enactment, repeal, or a change in the rate of a tax under this part for an annexing area, the enactment, repeal, or change shall take effect:
+(A)
+on the first day of a calendar quarter; and
+(B)
+after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection
+(4)(d)(ii)
+from the county that annexes the annexing area.
+(ii)
+The notice described in Subsection
+(4)(d)(i)(B)
+shall state:
+(A)
+that the annexation described in Subsection
+(4)(d)(i)
+will result in an enactment, repeal, or change in the rate of a tax under this part for the annexing area;
+(B)
+the statutory authority for the tax described in Subsection
+(4)(d)(ii)(A)
+;
+(C)
+the effective date of the tax described in Subsection
+(4)(d)(ii)(A)
+; and
+(D)
+if the county enacts the tax or changes the rate of the tax described in Subsection
+(4)(d)(ii)(A)
+, the rate of the tax.
+(e)
+(i)
+Notwithstanding Subsection
+(4)(d)(i)
+, for a transaction described in Subsection
+(4)(e)(iii)
+, the enactment of a tax or a tax rate increase shall take effect on the first day of the first billing period:
+(A)
+that begins after the effective date of the enactment of the tax or the tax rate increase; and
+(B)
+if the billing period for the transaction begins before the effective date of the enactment of the tax or the tax rate increase imposed under this section.
+(ii)
+Notwithstanding Subsection
+(4)(d)(i)
+, for a transaction described in Subsection
+(4)(e)(iii)
+, the repeal of a tax or a tax rate decrease shall take effect on the first day of the last billing period:
+(A)
+that began before the effective date of the repeal of the tax or the tax rate decrease; and
+(B)
+if the billing period for the transaction begins before the effective date of the repeal of the tax or the tax rate decrease imposed under this section.
+(iii)
+Subsections
+(4)(e)(i)
+and
+(ii)
+apply to transactions subject to a tax under Subsection
+59-12-103(1)(i)
+.
+Amended by Chapter
+17
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_12_301__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_12_301__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A county legislative body may impose a tax on charges for the accommodations and services described in Subsection at a rate of not to exceed:</p>
+              </content>
+              <subparagraph eId="59_12_301__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>4.25% beginning on or after October 1, 2006; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for counties of the second, third, fourth, fifth, or sixth class, 4.5% beginning on or after July 1, 2025.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Subject to Subsection , the revenues raised from the tax imposed under Subsection shall be used for the purposes listed in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The tax imposed under Subsection shall be in addition to the tax imposed under .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_301__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_301__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a county legislative body of a county of the first class imposes a tax under this section, beginning on July 1, 2007, and ending on June 30, 2027, each year the first 15% of the revenues collected from the tax authorized by Subsection within that county shall be:</p>
+              </content>
+              <subparagraph eId="59_12_301__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>deposited into the Transient Room Tax Fund created by Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>expended as provided in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a county legislative body of a county of the first class imposes a tax under this section, beginning on July 1, 2027, and ending on June 30, 2047, each year the first 7.5% of the revenues collected from the tax authorized by Subsection within that county shall be:</p>
+              </content>
+              <subparagraph eId="59_12_301__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>deposited into the Transient Room Tax Fund created by Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>expended as provided in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_301__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to Subsection , a county legislative body:</p>
+            </content>
+            <paragraph eId="59_12_301__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>may increase or decrease the tax authorized under this part; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>shall regulate the tax authorized under this part by ordinance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_301__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_301__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this Subsection :</p>
+              </content>
+              <subparagraph eId="59_12_301__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Annexation&quot; means an annexation to a county under Title , Consolidation of Counties, or Part 3, County Annexation.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Annexing area&quot; means an area that is annexed into a county.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_4__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_12_301__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection , if, on or after July 1, 2004, a county enacts or repeals a tax or changes the rate of a tax under this part, the enactment, repeal, or change shall take effect:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The notice described in Subsection shall state:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_4__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_12_301__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Notwithstanding Subsection , for a transaction described in Subsection , the enactment of a tax or a tax rate increase shall take effect on the first day of the first billing period:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Notwithstanding Subsection , for a transaction described in Subsection , the repeal of a tax or a tax rate decrease shall take effect on the first day of the last billing period:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>Subsections and apply to transactions subject to a tax under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_4__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_12_301__subsec_4__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection , if, for an annexation that occurs on or after July 1, 2004, the annexation will result in the enactment, repeal, or a change in the rate of a tax under this part for an annexing area, the enactment, repeal, or change shall take effect:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The notice described in Subsection shall state:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_301__subsec_4__para_e">
+              <num>(e)</num>
+              <subparagraph eId="59_12_301__subsec_4__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Notwithstanding Subsection , for a transaction described in Subsection , the enactment of a tax or a tax rate increase shall take effect on the first day of the first billing period:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Notwithstanding Subsection , for a transaction described in Subsection , the repeal of a tax or a tax rate decrease shall take effect on the first day of the last billing period:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_301__subsec_4__para_e__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>Subsections and apply to transactions subject to a tax under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,379 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1602"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1602"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1602/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1602/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1602/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1602/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1602">
+          <num>59-2-1602</num>
+          <heading>Superseded 1/1/2026</heading>
+          <content>
+            <p>Effective 5/4/2022
+Superseded 1/1/2026
+59-2-1602.
+Property Tax Valuation Fund -- Statewide levy -- Additional county levy.
+(1)
+(a)
+There is created a custodial fund known as the &quot;Property Tax Valuation Fund.&quot;
+(b)
+The fund consists of:
+(i)
+deposits made and penalties received under Subsection
+(3)
+; and
+(ii)
+interest on money deposited into the fund.
+(c)
+Deposits, penalties, and interest described in Subsection
+(1)(b)
+shall be disbursed and used as provided in Section
+59-2-1603
+.
+(2)
+(a)
+Each county shall annually impose a multicounty assessing and collecting levy as provided in this Subsection
+(2)
+.
+(b)
+The tax rate of the multicounty assessing and collecting levy is:
+(i)
+for a calendar year beginning on or after January 1, 2022, and before January 1, 2025,.000015; and
+(ii)
+for a calendar year beginning on or after January 1, 2025, the certified revenue levy.
+(c)
+The state treasurer shall allocate revenue collected from the multicounty assessing and collecting levy as follows:
+(i)
+18% of the revenue collected shall be deposited into the Property Tax Valuation Fund, up to $500,000 annually; and
+(ii)
+after the deposit described in Subsection
+(2)(c)(i)
+, all remaining revenue collected from the multicounty assessing and collecting levy shall be deposited into the Multicounty Appraisal Trust.
+(3)
+(a)
+The multicounty assessing and collecting levy imposed under Subsection
+(2)
+shall be separately stated on the tax notice as a multicounty assessing and collecting levy.
+(b)
+The multicounty assessing and collecting levy is:
+(i)
+exempt from Sections
+17C-1-403
+through
+17C-1-406
+;
+(ii)
+in addition to and exempt from the maximum levies allowable under Section
+59-2-908
+; and
+(iii)
+exempt from the notice and public hearing requirements of Section
+59-2-919
+.
+(c)
+(i)
+Each county shall transmit quarterly to the state treasurer the revenue collected from the multicounty assessing and collecting levy.
+(ii)
+The revenue transmitted under Subsection
+(3)(c)(i)
+shall be transmitted no later than the tenth day of the month following the end of the quarter in which the revenue is collected.
+(iii)
+If revenue transmitted under Subsection
+(3)(c)(i)
+is transmitted after the tenth day of the month following the end of the quarter in which the revenue is collected, the county shall pay an interest penalty at the rate of 10% each year until the revenue is transmitted.
+(d)
+The state treasurer shall allocate the penalties received under this Subsection
+(3)
+in the same manner as revenue is allocated under Subsection
+(2)(c)
+.
+(4)
+(a)
+A county may levy a county additional property tax in accordance with this Subsection
+(4)
+.
+(b)
+The county additional property tax:
+(i)
+shall be separately stated on the tax notice as a county assessing and collecting levy;
+(ii)
+may not be incorporated into the rate of any other levy;
+(iii)
+is exempt from Sections
+17C-1-403
+through
+17C-1-406
+; and
+(iv)
+is in addition to and exempt from the maximum levies allowable under Section
+59-2-908
+.
+(c)
+Revenue collected from the county additional property tax shall be used to:
+(i)
+promote the accurate valuation and uniform assessment levels of property as required by Section
+59-2-103
+;
+(ii)
+promote the efficient administration of the property tax system, including the costs of assessment, collection, and distribution of property taxes;
+(iii)
+fund state mandated actions to meet legislative mandates or judicial or administrative orders that relate to promoting:
+(A)
+the accurate valuation of property; and
+(B)
+the establishment and maintenance of uniform assessment levels within and among counties; and
+(iv)
+establish reappraisal programs that:
+(A)
+are adopted by a resolution or ordinance of the county legislative body; and
+(B)
+conform to rules the commission makes in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+Amended by Chapter
+239
+, 2022 General Session
+Amended by Chapter
+451
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_2_1602__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1602__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There is created a custodial fund known as the &quot;Property Tax Valuation Fund.&quot;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The fund consists of:</p>
+              </content>
+              <subparagraph eId="59_2_1602__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>deposits made and penalties received under Subsection ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>interest on money deposited into the fund.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Deposits, penalties, and interest described in Subsection shall be disbursed and used as provided in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1602__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1602__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each county shall annually impose a multicounty assessing and collecting levy as provided in this Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax rate of the multicounty assessing and collecting levy is:</p>
+              </content>
+              <subparagraph eId="59_2_1602__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a calendar year beginning on or after January 1, 2022, and before January 1, 2025,.000015; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a calendar year beginning on or after January 1, 2025, the certified revenue levy.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The state treasurer shall allocate revenue collected from the multicounty assessing and collecting levy as follows:</p>
+              </content>
+              <subparagraph eId="59_2_1602__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>18% of the revenue collected shall be deposited into the Property Tax Valuation Fund, up to $500,000 annually; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>after the deposit described in Subsection , all remaining revenue collected from the multicounty assessing and collecting levy shall be deposited into the Multicounty Appraisal Trust.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1602__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1602__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The multicounty assessing and collecting levy imposed under Subsection shall be separately stated on the tax notice as a multicounty assessing and collecting levy.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The multicounty assessing and collecting levy is:</p>
+              </content>
+              <subparagraph eId="59_2_1602__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>exempt from Sections through ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in addition to and exempt from the maximum levies allowable under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_3__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>exempt from the notice and public hearing requirements of Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_3__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_1602__subsec_3__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Each county shall transmit quarterly to the state treasurer the revenue collected from the multicounty assessing and collecting levy.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_3__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The revenue transmitted under Subsection shall be transmitted no later than the tenth day of the month following the end of the quarter in which the revenue is collected.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_3__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>If revenue transmitted under Subsection is transmitted after the tenth day of the month following the end of the quarter in which the revenue is collected, the county shall pay an interest penalty at the rate of 10% each year until the revenue is transmitted.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The state treasurer shall allocate the penalties received under this Subsection in the same manner as revenue is allocated under Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1602__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_1602__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A county may levy a county additional property tax in accordance with this Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The county additional property tax:</p>
+              </content>
+              <subparagraph eId="59_2_1602__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>shall be separately stated on the tax notice as a county assessing and collecting levy;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>may not be incorporated into the rate of any other levy;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_4__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>is exempt from Sections through ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_4__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>is in addition to and exempt from the maximum levies allowable under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1602__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Revenue collected from the county additional property tax shall be used to:</p>
+              </content>
+              <subparagraph eId="59_2_1602__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>promote the accurate valuation and uniform assessment levels of property as required by Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>promote the efficient administration of the property tax system, including the costs of assessment, collection, and distribution of property taxes;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_4__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>fund state mandated actions to meet legislative mandates or judicial or administrative orders that relate to promoting:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1602__subsec_4__para_c__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>establish reappraisal programs that:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

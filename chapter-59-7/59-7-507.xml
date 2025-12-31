@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-507"/>
+          <FRBRuri value="/us-ut/act/code/59-7-507"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-507/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-507/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-507/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-507/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_507">
+          <num>59-7-507</num>
+          <heading>Payment of tax.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-7-507.
+Payment of tax.
+(1)
+(a)
+If an estimated payment is not made as provided in Section
+59-7-504
+, the amount of tax imposed by this chapter shall be paid no later than the due date of the return described in Subsection
+59-7-505(2)
+.
+(b)
+If a taxpayer needs an extension of time to file a return, as provided in Section
+59-7-505
+or
+59-7-803
+, a taxpayer shall pay, no later than the due date of the return described in Subsection
+59-7-505(2)
+, an amount equal to the lesser of:
+(i)
+the greater of:
+(A)
+90% of the total tax reported on the return for the current taxable year; or
+(B)
+100% of the minimum tax described in Section
+59-7-104
+; or
+(ii)
+100% of the total tax liability for the taxable year immediately preceding the current taxable year.
+(c)
+If payment is not made as provided in Subsection
+(1)(b)
+, the commission shall add an extension penalty as provided in Section
+59-1-401
+, until the tax is paid during the period of extension.
+(2)
+(a)
+For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer shall receive an extension of time for the payment of the amount determined as the tax of the taxpayer, or any part of that amount, for the time period that ends on the last day of the extension to pay the taxpayer's federal income tax.
+(b)
+(i)
+For a taxable year beginning on or after January 1, 2020, at the request of the taxpayer, the commission may extend the time for payment of the amount determined as the tax by the taxpayer, or any part of that amount, for a period not to exceed six months from the date prescribed for the payment of the tax.
+(ii)
+For purposes of Subsection
+(2)(b)(i)
+, the taxpayer shall pay the amount for which the extension is granted on or before the day on which the period of the extension expires.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_7_507__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_7_507__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If an estimated payment is not made as provided in Section , the amount of tax imposed by this chapter shall be paid no later than the due date of the return described in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_507__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a taxpayer needs an extension of time to file a return, as provided in Section or , a taxpayer shall pay, no later than the due date of the return described in Subsection , an amount equal to the lesser of:</p>
+              </content>
+              <subparagraph eId="59_7_507__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the greater of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_507__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>100% of the total tax liability for the taxable year immediately preceding the current taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_507__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If payment is not made as provided in Subsection , the commission shall add an extension penalty as provided in Section , until the tax is paid during the period of extension.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_507__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_507__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer shall receive an extension of time for the payment of the amount determined as the tax of the taxpayer, or any part of that amount, for the time period that ends on the last day of the extension to pay the taxpayer's federal income tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_507__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_7_507__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>For a taxable year beginning on or after January 1, 2020, at the request of the taxpayer, the commission may extend the time for payment of the amount determined as the tax by the taxpayer, or any part of that amount, for a period not to exceed six months from the date prescribed for the payment of the tax.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_507__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>For purposes of Subsection , the taxpayer shall pay the amount for which the extension is granted on or before the day on which the period of the extension expires.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

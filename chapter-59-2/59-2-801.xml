@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-801"/>
+          <FRBRuri value="/us-ut/act/code/59-2-801"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-801/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-801/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-801/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-801/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_801">
+          <num>59-2-801</num>
+          <heading>Apportionment of property assessed by commission.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-2-801.
+Apportionment of property assessed by commission.
+(1)
+As used in this section:
+(a)
+(i)
+Except as provided in Subsection (1)(a)(ii), &quot;designated tax area&quot; means a tax area created by the overlapping boundaries of only the following taxing entities:
+(A)
+a county; and
+(B)
+a school district.
+(ii)
+&quot;Designated tax area&quot; includes a tax area created by the overlapping boundaries of the taxing entities described in Subsection (1)(a)(i) and:
+(A)
+a city or town if the boundaries of the school district under Subsection (1)(a)(i) and the boundaries of the city or town are identical; or
+(B)
+a special service district if the boundaries of the school district under Subsection (1)(a)(i) are located entirely within the special service district.
+(b)
+&quot;Ground hours&quot; means the total number of hours during the calendar year immediately preceding the January 1 described in Section
+59-2-103
+that aircraft owned or operated by the following are on the ground:
+(i)
+an air charter service;
+(ii)
+an air contract service; or
+(iii)
+an airline.
+(2)
+Before May 25 of each year, the commission shall apportion to each tax area the total assessment of all of the property the commission assesses as provided in Subsections (2)(a) through (e).
+(a)
+(i)
+The commission shall apportion the assessments of the property described in Subsection (2)(a)(ii):
+(A)
+to each tax area through which the public utility or company described in Subsection (2)(a)(ii) operates; and
+(B)
+in proportion to the property's value in each tax area.
+(ii)
+Subsection (2)(a)(i) applies to property owned by:
+(A)
+a public utility, except for the rolling stock of a public utility;
+(B)
+a pipeline company;
+(C)
+a power company;
+(D)
+a canal company; or
+(E)
+an irrigation company.
+(b)
+The commission shall apportion the assessments of the rolling stock of a railroad:
+(i)
+to the tax areas through which railroads operate; and
+(ii)
+in the proportion that the length of the main tracks, sidetracks, passing tracks, switches, and tramways of the railroads in each tax area bears to the total length of the main tracks, sidetracks, passing tracks, switches, and tramways in the state.
+(c)
+The commission shall apportion the assessments of the property of a car company to:
+(i)
+each tax area in which a  railroad is operated; and
+(ii)
+in the proportion that the length of the main tracks, passing tracks, sidetracks, switches, and tramways of all of the railroads in each tax area bears to the total length of the main tracks, passing tracks, sidetracks, switches, and tramways of all of the railroads in the state.
+(d)
+(i)
+The commission shall apportion the assessments of the property described in Subsection (2)(d)(ii) to each tax area in which the property is located.
+(ii)
+Subsection (2)(d)(i) applies to the following property:
+(A)
+mines;
+(B)
+mining claims; or
+(C)
+mining property.
+(e)
+(i)
+The commission shall apportion the assessments of the property described in Subsection (2)(e)(ii) to:
+(A)
+each designated tax area; and
+(B)
+in the proportion that the ground hours in each designated tax area bear to the total ground hours in the state.
+(ii)
+Subsection (2)(e)(i) applies to the mobile flight equipment owned or operated by an:
+(A)
+air charter service;
+(B)
+air contract service; or
+(C)
+airline.
+(3)
+(a)
+(i)
+(A)
+State-assessed commercial vehicles that weigh 14,001 pounds or more shall be taxed at a statewide average rate which is calculated from the overall county average tax rates from the preceding year, exclusive of the property subject to the statewide uniform fee, weighted by lane miles of principal routes in each county.
+(B)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall adopt rules to define &quot;principal routes.&quot;
+(ii)
+State-assessed commercial vehicles that weigh 14,000 pounds or less are subject to the uniform fee provided in Section
+59-2-405.1
+.
+(b)
+The combined revenue from all state-assessed commercial vehicles shall be apportioned to the counties based on:
+(i)
+40% by the percentage of lane miles of principal routes within each county as determined by the commission; and
+(ii)
+60% by the percentage of total state-assessed vehicles having business situs in each county.
+(c)
+At least quarterly, the commission shall apportion the total taxes paid on state-assessed commercial vehicles to the counties.
+(d)
+Each county shall apportion its share of the revenues under this Subsection (3) to the taxing entities within its  boundaries in the same proportion as the assessments of other:
+(i)
+real property;
+(ii)
+tangible personal property; and
+(iii)
+property assessed by the commission.
+Amended by Chapter
+234
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_801__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_2_801__subsec_1__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_2_801__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection (1)(a)(ii), &quot;designated tax area&quot; means a tax area created by the overlapping boundaries of only the following taxing entities:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Designated tax area&quot; includes a tax area created by the overlapping boundaries of the taxing entities described in Subsection (1)(a)(i) and:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Ground hours&quot; means the total number of hours during the calendar year immediately preceding the January 1 described in Section that aircraft owned or operated by the following are on the ground:</p>
+              </content>
+              <subparagraph eId="59_2_801__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an air charter service;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an air contract service; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>an airline.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_801__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Before May 25 of each year, the commission shall apportion to each tax area the total assessment of all of the property the commission assesses as provided in Subsections (2)(a) through (e).</p>
+            </content>
+            <paragraph eId="59_2_801__subsec_2__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_2_801__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The commission shall apportion the assessments of the property described in Subsection (2)(a)(ii):</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Subsection (2)(a)(i) applies to property owned by:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall apportion the assessments of the rolling stock of a railroad:</p>
+              </content>
+              <subparagraph eId="59_2_801__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>to the tax areas through which railroads operate; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in the proportion that the length of the main tracks, sidetracks, passing tracks, switches, and tramways of the railroads in each tax area bears to the total length of the main tracks, sidetracks, passing tracks, switches, and tramways in the state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission shall apportion the assessments of the property of a car company to:</p>
+              </content>
+              <subparagraph eId="59_2_801__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>each tax area in which a  railroad is operated; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in the proportion that the length of the main tracks, passing tracks, sidetracks, switches, and tramways of all of the railroads in each tax area bears to the total length of the main tracks, passing tracks, sidetracks, switches, and tramways of all of the railroads in the state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_2__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_2_801__subsec_2__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The commission shall apportion the assessments of the property described in Subsection (2)(d)(ii) to each tax area in which the property is located.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_2__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Subsection (2)(d)(i) applies to the following property:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_2__para_e">
+              <num>(e)</num>
+              <subparagraph eId="59_2_801__subsec_2__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The commission shall apportion the assessments of the property described in Subsection (2)(e)(ii) to:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_2__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Subsection (2)(e)(i) applies to the mobile flight equipment owned or operated by an:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_801__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_801__subsec_3__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_2_801__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>State-assessed commercial vehicles that weigh 14,000 pounds or less are subject to the uniform fee provided in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The combined revenue from all state-assessed commercial vehicles shall be apportioned to the counties based on:</p>
+              </content>
+              <subparagraph eId="59_2_801__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>40% by the percentage of lane miles of principal routes within each county as determined by the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>60% by the percentage of total state-assessed vehicles having business situs in each county.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>At least quarterly, the commission shall apportion the total taxes paid on state-assessed commercial vehicles to the counties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_801__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Each county shall apportion its share of the revenues under this Subsection (3) to the taxing entities within its  boundaries in the same proportion as the assessments of other:</p>
+              </content>
+              <subparagraph eId="59_2_801__subsec_3__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>real property;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_3__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>tangible personal property; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_801__subsec_3__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>property assessed by the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

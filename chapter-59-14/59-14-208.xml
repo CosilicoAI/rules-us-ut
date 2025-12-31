@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-208"/>
+          <FRBRuri value="/us-ut/act/code/59-14-208"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-208/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-208/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-208/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-208/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_208">
+          <num>59-14-208</num>
+          <heading>Rules for stamping and packaging procedures -- Penalty.</heading>
+          <content>
+            <p>59-14-208.
+Rules for stamping and packaging procedures -- Penalty.
+(1)
+The commission may by rule provide for the method of breaking packages, the forms and kinds of containers, and the method of affixing or cancelling stamps.  These rules shall allow for the enforcement of payment by inspection.
+(2)
+A person is guilty of a class B misdemeanor who:
+(a)
+engages in or permits any practice which is prohibited by law and makes it difficult to enforce the provisions of this chapter by inspection;
+(b)
+refuses to allow full inspection of his premises by any peace officer or of any agent of the commission upon demand; or
+(c)
+hinders or in any way delays or prevents inspection when the demand is made.
+Amended by Chapter
+305
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_14_208__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission may by rule provide for the method of breaking packages, the forms and kinds of containers, and the method of affixing or cancelling stamps.  These rules shall allow for the enforcement of payment by inspection.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_208__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person is guilty of a class B misdemeanor who:</p>
+            </content>
+            <paragraph eId="59_14_208__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>engages in or permits any practice which is prohibited by law and makes it difficult to enforce the provisions of this chapter by inspection;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_208__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>refuses to allow full inspection of his premises by any peace officer or of any agent of the commission upon demand; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_208__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>hinders or in any way delays or prevents inspection when the demand is made.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

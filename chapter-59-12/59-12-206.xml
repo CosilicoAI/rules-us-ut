@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-206"/>
+          <FRBRuri value="/us-ut/act/code/59-12-206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-206/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-206/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_206">
+          <num>59-12-206</num>
+          <heading>Collection of taxes by commission -- Administrative charge.</heading>
+          <content>
+            <p>59-12-206.
+Collection of taxes by commission -- Administrative charge.
+(1)
+The commission shall transmit the sales and use tax revenues the commission collects in accordance with a contract with any county, city, or town monthly by electronic funds transfer.
+(2)
+The commission shall retain and deposit an administrative charge in accordance with Section
+59-1-306
+from revenues the commission collects from a tax under this part.
+Amended by Chapter
+309
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_12_206__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall transmit the sales and use tax revenues the commission collects in accordance with a contract with any county, city, or town monthly by electronic funds transfer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_206__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall retain and deposit an administrative charge in accordance with Section from revenues the commission collects from a tax under this part.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-209"/>
+          <FRBRuri value="/us-ut/act/code/59-14-209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-209/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-209/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_209">
+          <num>59-14-209</num>
+          <heading>Penalty for willful violation -- Counterfeit cigarettes.</heading>
+          <content>
+            <p>59-14-209.
+Penalty for willful violation -- Counterfeit cigarettes.
+(1)
+A person is guilty of a third degree felony if the person:
+(a)
+knowingly, or with intent to defraud the state violates Subsection
+59-14-211(4)
+;
+(b)
+knowingly or willfully removes or otherwise prepares any adhesive stamp with the intent to use or cause to be used after it has already been used;
+(c)
+knowingly or willfully buys, sells, offers for sale, or gives away any washed or restored stamp to any person;
+(d)
+knowingly or willfully uses or has in his possession any washed or restored stamp that has been removed from the package or container to which it had been previously affixed;
+(e)
+reuses any stamp that has already been used to pay a tax provided in this chapter, in order to indicate that person's payment of any tax; or
+(f)
+buys, sells, or offers for sale or has in his possession any counterfeit stamp.
+(2)
+In addition to any other provision of law, the sale or possession for sale of counterfeit cigarettes, as they are defined in Section
+59-14-102
+, by a manufacturer, importer, distributor, or retailer shall result:
+(a)
+in the seizure by the commission or law enforcement agency of the manufacturer's, importer's, distributor's, or retailer's:
+(i)
+counterfeit cigarettes; and
+(ii)
+any personal property used in direct connection with the sale or possession for sale of counterfeit cigarettes; and
+(b)
+the forfeiture of the seized assets to the state.
+Amended by Chapter
+217
+, 2004 General Session</p>
+          </content>
+          <subsection eId="59_14_209__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person is guilty of a third degree felony if the person:</p>
+            </content>
+            <paragraph eId="59_14_209__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>knowingly, or with intent to defraud the state violates Subsection ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_209__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>knowingly or willfully removes or otherwise prepares any adhesive stamp with the intent to use or cause to be used after it has already been used;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_209__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>knowingly or willfully buys, sells, offers for sale, or gives away any washed or restored stamp to any person;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_209__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>knowingly or willfully uses or has in his possession any washed or restored stamp that has been removed from the package or container to which it had been previously affixed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_209__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>reuses any stamp that has already been used to pay a tax provided in this chapter, in order to indicate that person's payment of any tax; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_209__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>buys, sells, or offers for sale or has in his possession any counterfeit stamp.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_209__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to any other provision of law, the sale or possession for sale of counterfeit cigarettes, as they are defined in Section , by a manufacturer, importer, distributor, or retailer shall result:</p>
+            </content>
+            <paragraph eId="59_14_209__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>in the seizure by the commission or law enforcement agency of the manufacturer's, importer's, distributor's, or retailer's:</p>
+              </content>
+              <subparagraph eId="59_14_209__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>counterfeit cigarettes; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_209__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>any personal property used in direct connection with the sale or possession for sale of counterfeit cigarettes; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_209__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the forfeiture of the seized assets to the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

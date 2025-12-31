@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-103"/>
+          <FRBRuri value="/us-ut/act/code/59-1-103"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-103/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-103/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-103/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-103/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_103">
+          <num>59-1-103</num>
+          <heading>Income Tax Surplus Restricted Account.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-1-103.
+Income Tax Surplus Restricted Account.
+(1)
+As used in this section:
+(a)
+&quot;Account&quot; means the Income Tax Surplus Restricted Account created in Subsection
+(2)
+.
+(b)
+&quot;Material increase in state income tax revenue&quot; means the same as that term is defined in Section
+59-1-214
+.
+(2)
+There is created within the Income Tax Fund a restricted account known as the &quot;Income Tax Surplus Restricted Account.&quot;
+(3)
+The account shall be funded by the revenue deposited into the account in accordance with Subsection (5).
+(4)
+(a)
+The account shall earn interest.
+(b)
+The interest described in Subsection (4)(a) shall be deposited into the account.
+(5)
+After receiving from the commission an electronic report under Subsection
+59-1-214(6)(b)
+indicating the likelihood of a material increase in state income tax revenue, the Division of Finance shall, at the end of the fiscal year for which the material increase in state income tax revenue is expected, deposit into the account an amount of income tax revenue that is equal to the estimate of the amount of the material increase in state income tax revenue specified in the report.
+(6)
+Upon appropriation, the money in the account may be used for the purposes specified by the Legislature in accordance with Utah Constitution, Article X, Section 1.
+Enacted by Chapter
+225
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_1_103__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_1_103__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Account&quot; means the Income Tax Surplus Restricted Account created in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_103__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Material increase in state income tax revenue&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_103__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There is created within the Income Tax Fund a restricted account known as the &quot;Income Tax Surplus Restricted Account.&quot;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_103__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The account shall be funded by the revenue deposited into the account in accordance with Subsection (5).</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_103__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_1_103__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The account shall earn interest.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_103__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The interest described in Subsection (4)(a) shall be deposited into the account.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_103__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>After receiving from the commission an electronic report under Subsection indicating the likelihood of a material increase in state income tax revenue, the Division of Finance shall, at the end of the fiscal year for which the material increase in state income tax revenue is expected, deposit into the account an amount of income tax revenue that is equal to the estimate of the amount of the material increase in state income tax revenue specified in the report.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_103__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Upon appropriation, the money in the account may be used for the purposes specified by the Legislature in accordance with Utah Constitution, Article X, Section 1.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

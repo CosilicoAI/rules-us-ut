@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-305"/>
+          <FRBRuri value="/us-ut/act/code/59-13-305"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-305/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-305/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-305/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-305/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_305">
+          <num>59-13-305</num>
+          <heading>User report required -- Contents of report -- Signature -- Penalties -- Exemptions from requirements -- Change of exemption status -- Duty to notify commission.</heading>
+          <content>
+            <p>59-13-305.
+User report required -- Contents of report -- Signature -- Penalties -- Exemptions from requirements -- Change of exemption status -- Duty to notify commission.
+(1)
+Unless exempted by Subsection
+(5)
+, each user shall file with the commission, on or before the last day of the month following the end of a reporting period, a report on forms prescribed by the commission showing:
+(a)
+the amount of fuel purchased and the amount of fuel used during the preceding reporting period by that user in the state; and
+(b)
+any other information the commission may require to carry out the purposes of this part.
+(2)
+The report shall be signed by the user or a responsible representative.  This signature need not be notarized, but when signed is considered to have been made under oath.
+(3)
+A penalty is imposed under Section
+59-1-401
+for failure to file reports as provided in this section for each report not filed, regardless of the imposition of other penalties under this part.
+(4)
+(a)
+Each user that has a registered special fuel-powered motor vehicle other than a qualified motor vehicle and has facilities for bulk storage of special fuels shall declare special fuel tax liability for any nonqualified motor vehicle on the user report required by Subsection
+(1)
+.
+(b)
+Credit shall be given on the report for any special fuel taxes paid on purchases for any nonqualified vehicle.  Purchase records must be maintained to substantiate the amount of any credit claimed.
+(5)
+(a)
+The following users are exempt from the filing requirements of Subsections
+(1)
+and
+(2)
+for the motor vehicles specified:
+(i)
+a user who purchases a special fuel user trip permit for all of its operations for qualified vehicles for the reporting period, except a user having a special fuel user permit under Subsection
+59-13-303(1)(a)
+;
+(ii)
+a user that has a registered special fuel-powered motor vehicle other than a qualified motor vehicle and does not have facilities for bulk storage of special fuels;
+(iii)
+a user of special fuel, for which the tax imposed by this chapter has already been paid; or
+(iv)
+a user that has a motor vehicle powered by special fuel for which the tax is paid under an interstate fuel tax agreement under Section
+59-13-502
+.
+(b)
+(i)
+The exemption under Subsection
+(5)(a)(iii)
+applies only when the user retains records verifying that all special fuel purchases for the exempt vehicle were taxed as required under this part.
+(ii)
+The commission may at the time of application or renewal of a special fuel user permit under Section
+59-13-303
+require that the user certify:
+(A)
+that the user qualifies for an exemption under Subsection
+(5)(a)(iii)
+; and
+(B)
+whether the user has facilities for bulk storage of special fuel.
+Amended by Chapter
+198
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_13_305__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Unless exempted by Subsection , each user shall file with the commission, on or before the last day of the month following the end of a reporting period, a report on forms prescribed by the commission showing:</p>
+            </content>
+            <paragraph eId="59_13_305__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the amount of fuel purchased and the amount of fuel used during the preceding reporting period by that user in the state; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_305__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>any other information the commission may require to carry out the purposes of this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_305__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The report shall be signed by the user or a responsible representative.  This signature need not be notarized, but when signed is considered to have been made under oath.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_305__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A penalty is imposed under Section for failure to file reports as provided in this section for each report not filed, regardless of the imposition of other penalties under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_305__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_13_305__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each user that has a registered special fuel-powered motor vehicle other than a qualified motor vehicle and has facilities for bulk storage of special fuels shall declare special fuel tax liability for any nonqualified motor vehicle on the user report required by Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_305__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Credit shall be given on the report for any special fuel taxes paid on purchases for any nonqualified vehicle.  Purchase records must be maintained to substantiate the amount of any credit claimed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_305__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_13_305__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The following users are exempt from the filing requirements of Subsections and for the motor vehicles specified:</p>
+              </content>
+              <subparagraph eId="59_13_305__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a user who purchases a special fuel user trip permit for all of its operations for qualified vehicles for the reporting period, except a user having a special fuel user permit under Subsection ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_305__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a user that has a registered special fuel-powered motor vehicle other than a qualified motor vehicle and does not have facilities for bulk storage of special fuels;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_305__subsec_5__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a user of special fuel, for which the tax imposed by this chapter has already been paid; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_305__subsec_5__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a user that has a motor vehicle powered by special fuel for which the tax is paid under an interstate fuel tax agreement under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_305__subsec_5__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_13_305__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The exemption under Subsection applies only when the user retains records verifying that all special fuel purchases for the exempt vehicle were taxed as required under this part.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_305__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The commission may at the time of application or renewal of a special fuel user permit under Section require that the user certify:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

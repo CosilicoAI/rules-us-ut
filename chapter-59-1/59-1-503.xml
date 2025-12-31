@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-503"/>
+          <FRBRuri value="/us-ut/act/code/59-1-503"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-503/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-503/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-503/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-503/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_503">
+          <num>59-1-503</num>
+          <heading>Assessment and payment of deficiency.</heading>
+          <content>
+            <p>59-1-503.
+Assessment and payment of deficiency.
+(1)
+Following a redetermination of a deficiency by the commission, the entire amount redetermined as the deficiency by the decision of the commission, which has become final, shall be assessed and shall be paid within 30 days from the date the notice and demand is sent from the commission.
+(2)
+If the taxpayer does not file a petition with the commission within the time prescribed for filing the petition, the deficiency, notice of which has been sent to the taxpayer, shall be assessed, and shall be paid within 30 days from the date the notice and demand is sent from the commission.
+Amended by Chapter
+9
+, 2001 General Session</p>
+          </content>
+          <subsection eId="59_1_503__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Following a redetermination of a deficiency by the commission, the entire amount redetermined as the deficiency by the decision of the commission, which has become final, shall be assessed and shall be paid within 30 days from the date the notice and demand is sent from the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_503__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the taxpayer does not file a petition with the commission within the time prescribed for filing the petition, the deficiency, notice of which has been sent to the taxpayer, shall be assessed, and shall be paid within 30 days from the date the notice and demand is sent from the commission.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

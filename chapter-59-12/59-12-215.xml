@@ -1,0 +1,466 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-215"/>
+          <FRBRuri value="/us-ut/act/code/59-12-215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-215/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-215/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_215">
+          <num>59-12-215</num>
+          <heading>Location of transaction involving telecommunications service or other related service.</heading>
+          <content>
+            <p>59-12-215.
+Location of transaction involving telecommunications service or other related service.
+(1)
+As used in this section:
+(a)
+&quot;Air-to-ground radiotelephone service&quot; means a radio service:
+(i)
+as defined in 47 C.F.R. Sec. 22.99; and
+(ii)
+for which a common carrier is authorized to offer and provide radio telecommunications service:
+(A)
+for hire; and
+(B)
+to a subscriber in an aircraft.
+(b)
+&quot;Call-by-call basis&quot; means a method of charging for telecommunications service that is measured by individual calls.
+(c)
+&quot;Communications channel&quot; means a physical or virtual path of communications over which a signal is transmitted between or among customer channel termination points.
+(d)
+(i)
+Subject to Subsection
+(1)(d)(ii)
+, &quot;customer&quot; means:
+(A)
+a person that is obligated under a contract with a telecommunications service provider to pay for telecommunications service received under the contract; or
+(B)
+if the end user is not the person described in Subsection
+(1)(d)(i)(A)
+, the end user of telecommunications service.
+(ii)
+&quot;Customer&quot; does not include a reseller:
+(A)
+of telecommunications service; or
+(B)
+for mobile telecommunications service, of a serving carrier under an agreement to serve a customer outside the home service provider's licensed service area.
+(e)
+&quot;Customer channel termination point&quot; means the location where a customer:
+(i)
+inputs communications; or
+(ii)
+receives communications.
+(f)
+&quot;End user&quot; means:
+(i)
+an individual who uses a telecommunications service; or
+(ii)
+for a telecommunications service provided to a person who is not an individual, an individual who uses a telecommunications service on behalf of the person who is provided the telecommunications service.
+(g)
+&quot;Home service provider&quot; is as defined in the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.
+(h)
+&quot;Service address&quot; means:
+(i)
+regardless of where a call is billed or paid, the location of the telecommunications equipment:
+(A)
+to which a customer's call is charged; and
+(B)
+from which the call:
+(I)
+originates; or
+(II)
+terminates;
+(ii)
+if the location described in Subsection
+(1)(h)(i)
+is not known, the location of the origination point of the signal of the telecommunications service first identified by:
+(A)
+the telecommunications system of the telecommunications service provider; or
+(B)
+if the system used to transport the signal of the telecommunications service is not a system of the telecommunications service provider, information received by the telecommunications service provider from the telecommunications service provider's telecommunications service provider; or
+(iii)
+if the locations described in Subsections
+(1)(h)(i)
+and
+(ii)
+are not known, the location of a customer's place of primary use.
+(2)
+Except as provided in Subsection
+(4)
+, the location of a sale of a telecommunications service sold on a call-by-call basis is:
+(a)
+the location at which the call originates and terminates; or
+(b)
+the location at which:
+(i)
+the call:
+(A)
+originates; or
+(B)
+terminates; and
+(ii)
+the service address is located.
+(3)
+Except as provided in Subsection
+(4)
+, the location of a sale of a telecommunications service sold on a basis other than a call-by-call basis is the customer's place of primary use.
+(4)
+Notwithstanding Subsection
+(2)
+or
+(3)
+:
+(a)
+the location of a sale of a mobile telecommunications service, other than an air-to-ground radiotelephone service or a prepaid calling service, is the location required by the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.;
+(b)
+the location of a sale of a postpaid calling service is the origination point of the telecommunications signal as first identified by:
+(i)
+the seller's telecommunications system; or
+(ii)
+if the system used to transport the telecommunications signal is not that of the seller, information received by the seller from the seller's telephone service provider;
+(c)
+the location of a sale of a prepaid calling service is the location determined under Section
+59-12-211
+; and
+(d)
+(i)
+subject to Subsection
+(4)(d)(ii)
+, the location of a sale of a prepaid wireless calling service is the location determined under Section
+59-12-211
+; and
+(ii)
+for purposes of Subsection
+(4)(d)(i)
+, the location of a transaction determined under Subsection
+59-12-211(6)
+is considered to include the location associated with the mobile telephone number.
+(5)
+The location of a sale of a private communication service is:
+(a)
+if all of the customer channel termination points are located entirely within one county, city, or town, the location of the sale is the county, city, or town in which all of the customer channel termination points are located;
+(b)
+if a charge for a service related to a customer channel termination point is separately stated, the location of the sale is the location in which the customer channel termination point is located;
+(c)
+if a charge for service for a segment of a channel between two customer channel termination points located in different counties, cities, or towns is separately stated, the location of the sale is each county, city, or town:
+(i)
+in which the customer channel termination points are located; and
+(ii)
+in equal proportions; and
+(d)
+if a charge for service for a segment of a channel located in more than one county, city, or town is not separately stated, the location of the sale is:
+(i)
+each county, city, or town in which a segment of the channel is located; and
+(ii)
+in proportion to the percentage of customer channel termination points in each county, city, or town compared to the total customer channel termination points in all counties, cities, and towns.
+(6)
+The location of a sale of Internet access service is the customer's place of primary use.
+(7)
+The location of a sale of an ancillary service is the customer's place of primary use.
+Amended by Chapter
+203
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_12_215__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_12_215__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Air-to-ground radiotelephone service&quot; means a radio service:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>as defined in 47 C.F.R. Sec. 22.99; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for which a common carrier is authorized to offer and provide radio telecommunications service:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Call-by-call basis&quot; means a method of charging for telecommunications service that is measured by individual calls.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Communications channel&quot; means a physical or virtual path of communications over which a signal is transmitted between or among customer channel termination points.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_12_215__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsection , &quot;customer&quot; means:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Customer&quot; does not include a reseller:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Customer channel termination point&quot; means the location where a customer:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_1__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>inputs communications; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_1__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>receives communications.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;End user&quot; means:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_1__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an individual who uses a telecommunications service; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_1__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a telecommunications service provided to a person who is not an individual, an individual who uses a telecommunications service on behalf of the person who is provided the telecommunications service.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Home service provider&quot; is as defined in the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;Service address&quot; means:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_1__para_h__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>regardless of where a call is billed or paid, the location of the telecommunications equipment:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_1__para_h__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the location described in Subsection is not known, the location of the origination point of the signal of the telecommunications service first identified by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_1__para_h__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>if the locations described in Subsections and are not known, the location of a customer's place of primary use.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_215__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in Subsection , the location of a sale of a telecommunications service sold on a call-by-call basis is:</p>
+            </content>
+            <paragraph eId="59_12_215__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the location at which the call originates and terminates; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the location at which:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the call:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the service address is located.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_215__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Except as provided in Subsection , the location of a sale of a telecommunications service sold on a basis other than a call-by-call basis is the customer's place of primary use.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_215__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding Subsection or :</p>
+            </content>
+            <paragraph eId="59_12_215__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the location of a sale of a mobile telecommunications service, other than an air-to-ground radiotelephone service or a prepaid calling service, is the location required by the Mobile Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the location of a sale of a postpaid calling service is the origination point of the telecommunications signal as first identified by:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the seller's telecommunications system; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the system used to transport the telecommunications signal is not that of the seller, information received by the seller from the seller's telephone service provider;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the location of a sale of a prepaid calling service is the location determined under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_4__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_12_215__subsec_4__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>subject to Subsection , the location of a sale of a prepaid wireless calling service is the location determined under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_4__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for purposes of Subsection , the location of a transaction determined under Subsection is considered to include the location associated with the mobile telephone number.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_215__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The location of a sale of a private communication service is:</p>
+            </content>
+            <paragraph eId="59_12_215__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if all of the customer channel termination points are located entirely within one county, city, or town, the location of the sale is the county, city, or town in which all of the customer channel termination points are located;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if a charge for a service related to a customer channel termination point is separately stated, the location of the sale is the location in which the customer channel termination point is located;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>if a charge for service for a segment of a channel between two customer channel termination points located in different counties, cities, or towns is separately stated, the location of the sale is each county, city, or town:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_5__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>in which the customer channel termination points are located; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_5__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in equal proportions; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_215__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>if a charge for service for a segment of a channel located in more than one county, city, or town is not separately stated, the location of the sale is:</p>
+              </content>
+              <subparagraph eId="59_12_215__subsec_5__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>each county, city, or town in which a segment of the channel is located; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_215__subsec_5__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in proportion to the percentage of customer channel termination points in each county, city, or town compared to the total customer channel termination points in all counties, cities, and towns.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_215__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The location of a sale of Internet access service is the customer's place of primary use.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_215__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The location of a sale of an ancillary service is the customer's place of primary use.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

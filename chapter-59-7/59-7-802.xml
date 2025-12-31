@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-802"/>
+          <FRBRuri value="/us-ut/act/code/59-7-802"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-802/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-802/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-802/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-802/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_802">
+          <num>59-7-802</num>
+          <heading>Taxation of unrelated business income.</heading>
+          <content>
+            <p>59-7-802.
+Taxation of unrelated business income.
+(1)
+An organization which is exempt from taxation as provided in Subsection
+59-7-102(1)
+or Section
+59-10-126
+shall be subject to the tax imposed by this part on its Utah unrelated business income.
+(2)
+Utah unrelated business income shall be taxed at the rate provided in Section
+59-7-104
+except that the minimum tax does not apply to organizations subject to the tax under this part.
+Amended by Chapter
+311
+, 1995 General Session</p>
+          </content>
+          <subsection eId="59_7_802__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An organization which is exempt from taxation as provided in Subsection or Section shall be subject to the tax imposed by this part on its Utah unrelated business income.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_802__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Utah unrelated business income shall be taxed at the rate provided in Section except that the minimum tax does not apply to organizations subject to the tax under this part.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

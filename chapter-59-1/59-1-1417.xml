@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1417"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1417"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1417/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1417/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1417/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1417/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1417">
+          <num>59-1-1417</num>
+          <heading>Burden of proof -- Statutory construction.</heading>
+          <content>
+            <p>59-1-1417.
+Burden of proof -- Statutory construction.
+(1)
+In a proceeding before the commission, the burden of proof is on the petitioner except for determining the following, in which the burden of proof is on the commission:
+(a)
+whether the petitioner committed fraud with intent to evade a tax, fee, or charge;
+(b)
+whether the petitioner is obligated as the transferee of property of the person that originally owes a liability or a preceding transferee, but not to show that the person that originally owes a liability is obligated for the liability; and
+(c)
+whether the petitioner is liable for an increase in a deficiency if the increase is asserted initially after a notice of deficiency is mailed in accordance with Section
+59-1-1405
+and a petition under
+Part 5, Petitions for Redetermination of Deficiencies
+, is filed, unless the increase in the deficiency is the result of a change or correction of federal taxable income:
+(i)
+required to be reported; and
+(ii)
+of which the commission has no notice at the time the commission mails the notice of deficiency.
+(2)
+Regardless of whether a taxpayer has paid or remitted a tax, fee, or charge, the commission or a court considering a case involving the tax, fee, or charge shall:
+(a)
+construe a statute imposing the tax, fee, or charge strictly in favor of the taxpayer; and
+(b)
+construe a statute providing an exemption from or credit against the tax, fee, or charge strictly against the taxpayer.
+Amended by Chapter
+424
+, 2012 General Session</p>
+          </content>
+          <subsection eId="59_1_1417__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In a proceeding before the commission, the burden of proof is on the petitioner except for determining the following, in which the burden of proof is on the commission:</p>
+            </content>
+            <paragraph eId="59_1_1417__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>whether the petitioner committed fraud with intent to evade a tax, fee, or charge;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1417__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>whether the petitioner is obligated as the transferee of property of the person that originally owes a liability or a preceding transferee, but not to show that the person that originally owes a liability is obligated for the liability; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1417__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>whether the petitioner is liable for an increase in a deficiency if the increase is asserted initially after a notice of deficiency is mailed in accordance with Section and a petition under , is filed, unless the increase in the deficiency is the result of a change or correction of federal taxable income:</p>
+              </content>
+              <subparagraph eId="59_1_1417__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>required to be reported; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1417__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>of which the commission has no notice at the time the commission mails the notice of deficiency.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1417__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Regardless of whether a taxpayer has paid or remitted a tax, fee, or charge, the commission or a court considering a case involving the tax, fee, or charge shall:</p>
+            </content>
+            <paragraph eId="59_1_1417__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>construe a statute imposing the tax, fee, or charge strictly in favor of the taxpayer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1417__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>construe a statute providing an exemption from or credit against the tax, fee, or charge strictly against the taxpayer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

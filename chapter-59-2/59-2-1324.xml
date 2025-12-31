@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1324"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1324"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1324/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1324/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1324/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1324/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1324">
+          <num>59-2-1324</num>
+          <heading>Taxes and tax notice charges to be paid before distribution of estate of a deceased person.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1324.
+Taxes and tax notice charges to be paid before distribution of estate of a deceased person.
+(1)
+The district court shall require every administrator or executor to pay out of the funds of the estate all taxes and tax notice charges due from the estate.
+(2)
+No order or decree for the distribution of any property of any decedent among the heirs or devisees may be made until all taxes and tax notice charges against the estate are paid.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1324__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The district court shall require every administrator or executor to pay out of the funds of the estate all taxes and tax notice charges due from the estate.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1324__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>No order or decree for the distribution of any property of any decedent among the heirs or devisees may be made until all taxes and tax notice charges against the estate are paid.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

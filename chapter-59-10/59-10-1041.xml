@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1041"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1041"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1041/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1041/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1041/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1041/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1041">
+          <num>59-10-1041</num>
+          <heading>Nonrefundable tax credit for a donation to the Carson Smith Opportunity Scholarship Program.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-10-1041.
+Nonrefundable tax credit for a donation to the Carson Smith Opportunity Scholarship Program.
+(1)
+Except as provided in Subsection (3), a claimant, estate, or trust that makes a donation to the Carson Smith Opportunity Scholarship Program established in Section
+53E-7-402
+may claim a nonrefundable tax credit equal to 100% of the amount stated on a tax credit certificate issued in accordance with Section
+53E-7-407
+.
+(2)
+If the amount of a tax credit listed on the tax credit certificate exceeds a claimant's, estate's, or trust's tax liability under this chapter for a taxable year, the claimant, estate, or trust:
+(a)
+may carry forward the amount of the tax credit exceeding the liability for a period that does not exceed the next three taxable years; and
+(b)
+may carry back the amount of the tax credit that exceeds the claimant's, estate's, or trust's tax liability to the previous taxable year.
+(3)
+A claimant, estate, or trust may not claim a credit described in Subsection (1) to the extent the claimant, estate, or trust claims a donation described in Subsection (1) as an itemized deduction on the claimant's, estate's, or trust's federal individual income tax return for that taxable year.
+Amended by Chapter
+466
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_10_1041__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection (3), a claimant, estate, or trust that makes a donation to the Carson Smith Opportunity Scholarship Program established in Section may claim a nonrefundable tax credit equal to 100% of the amount stated on a tax credit certificate issued in accordance with Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1041__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the amount of a tax credit listed on the tax credit certificate exceeds a claimant's, estate's, or trust's tax liability under this chapter for a taxable year, the claimant, estate, or trust:</p>
+            </content>
+            <paragraph eId="59_10_1041__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>may carry forward the amount of the tax credit exceeding the liability for a period that does not exceed the next three taxable years; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1041__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>may carry back the amount of the tax credit that exceeds the claimant's, estate's, or trust's tax liability to the previous taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1041__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A claimant, estate, or trust may not claim a credit described in Subsection (1) to the extent the claimant, estate, or trust claims a donation described in Subsection (1) as an itemized deduction on the claimant's, estate's, or trust's federal individual income tax return for that taxable year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

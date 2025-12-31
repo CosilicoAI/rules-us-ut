@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1114"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1114"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1114/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1114/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1114/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1114/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1114">
+          <num>59-10-1114</num>
+          <heading>Refundable adoption expense tax credit.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-10-1114.
+Refundable adoption expense tax credit.
+(1)
+As used in this section:
+(a)
+&quot;Adoption expense&quot; means the same as that term is defined in Section
+59-10-1046
+.
+(b)
+&quot;Domestic adoption&quot; means the same as that term is defined in Section
+59-10-1046
+.
+(c)
+&quot;Qualifying child&quot; means the same as that term is defined in Section
+59-10-1046
+.
+(d)
+&quot;Qualifying claimant&quot; means a claimant:
+(i)
+whose adjusted gross income is:
+(A)
+for a claimant who files a federal income tax return jointly with the claimant's spouse, less than $55,000; and
+(B)
+for a claimant who files a federal income tax return other than jointly, less than $27,500;
+(ii)
+who did not, and if the claimant is married, whose spouse did not, receive state or federal assistance during the taxable year in which the adoption is finalized; and
+(iii)
+who applies for and receives a certification described in Section
+35A-1-111
+from the Department of Workforce Services.
+(e)
+&quot;State or federal assistance&quot; means the same as that term is defined in Section
+59-10-1046
+.
+(2)
+(a)
+Subject to Section
+59-10-1102.1
+and other provisions of this Subsection
+(2)
+, a qualifying claimant is eligible to claim a refundable tax credit equal to the lesser of:
+(i)
+$3,500; or
+(ii)
+the amount of the qualifying claimant's adoption expenses.
+(b)
+A qualifying claimant who claims the tax credit described in Subsection
+(2)(a)
+shall claim the tax credit for the taxable year in which the adoption is finalized.
+(3)
+A qualifying claimant may not claim a credit under this section to the extent that the qualifying claimant claims a federal tax credit under 26 U.S.C. Sec. 23 for the same adoption expense.
+(4)
+A qualifying claimant who is married may claim a tax credit under this section only if the qualifying claimant and the qualifying claimant's spouse file a joint federal income tax return.
+Enacted by Chapter
+460
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_10_1114__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1114__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Adoption expense&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1114__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Domestic adoption&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1114__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Qualifying child&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1114__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Qualifying claimant&quot; means a claimant:</p>
+              </content>
+              <subparagraph eId="59_10_1114__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>whose adjusted gross income is:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1114__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>who did not, and if the claimant is married, whose spouse did not, receive state or federal assistance during the taxable year in which the adoption is finalized; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1114__subsec_1__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>who applies for and receives a certification described in Section from the Department of Workforce Services.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1114__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;State or federal assistance&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1114__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_1114__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Section and other provisions of this Subsection , a qualifying claimant is eligible to claim a refundable tax credit equal to the lesser of:</p>
+              </content>
+              <subparagraph eId="59_10_1114__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>$3,500; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1114__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the amount of the qualifying claimant's adoption expenses.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1114__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A qualifying claimant who claims the tax credit described in Subsection shall claim the tax credit for the taxable year in which the adoption is finalized.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1114__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A qualifying claimant may not claim a credit under this section to the extent that the qualifying claimant claims a federal tax credit under 26 U.S.C. Sec. 23 for the same adoption expense.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1114__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A qualifying claimant who is married may claim a tax credit under this section only if the qualifying claimant and the qualifying claimant's spouse file a joint federal income tax return.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

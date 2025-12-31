@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-215"/>
+          <FRBRuri value="/us-ut/act/code/59-14-215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-215/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-215/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_215">
+          <num>59-14-215</num>
+          <heading>Transitional inventory tax on cigarettes -- Penalties and interest for failure to comply -- Credit or refund for outdated, unaffixed stamps.</heading>
+          <content>
+            <p>59-14-215.
+Transitional inventory tax on cigarettes -- Penalties and interest for failure to comply -- Credit or refund for outdated, unaffixed stamps.
+(1)
+In addition to the tax described in Section
+59-14-204
+, there is imposed, beginning on July 1, 2010, an inventory tax on all cigarettes subject to the tax described in Section
+59-14-204
+, upon the sale, use, storage, or distribution of those cigarettes in the state, as follows:
+(a)
+the tax imposed in this section applies only to cigarettes sold, used, stored, or distributed in the state on or after July 1, 2010:
+(i)
+that have a stamp that reflects that the tax paid on those cigarettes was paid at the tax rate imposed under Section
+59-14-204
+that was applicable on June 30, 2010; and
+(ii)
+for which the tax imposed in this section has not been paid; and
+(b)
+the tax imposed in this section is equal to the difference between:
+(i)
+the tax imposed on those cigarettes under Section
+59-14-204
+, beginning on July 1, 2010; and
+(ii)
+the tax imposed on those cigarettes under Section
+59-14-204
+on or before June 30, 2010.
+(2)
+Except as otherwise provided under this chapter, the tax imposed under this section shall be paid by any person who is the manufacturer, jobber, importer, distributor, wholesaler, or retailer.
+(3)
+A person described in Subsection
+(2)
+shall remit the tax imposed in this section, on a return prescribed by the commission, on or before July 31, 2010.
+(4)
+Failure of a person to comply with the requirements of this section subjects the person to the penalties and interest described in Sections
+59-1-401
+and
+59-1-402
+.
+(5)
+The commission may not waive the interest or penalties imposed on a person for failure to comply with the requirements of this section.
+(6)
+(a)
+Beginning on July 1, 2010, it is unlawful to affix a stamp to cigarettes that reflects payment of the tax imposed under Section
+59-14-204
+at the rate that was applicable on or before June 30, 2010.
+(b)
+A person who violates Subsection
+(6)(a)
+may be required by the commission to pay as part of the tax, and in addition to any other penalty provided in this chapter, a penalty of $25 for each offense, to be assessed and collected by the commission in accordance with
+Chapter 1, Part 14, Assessment, Collections, and Refunds Act
+.
+(c)
+A person who, on or after July 1, 2010, possesses tax stamps described in Subsection
+(6)(a)
+may return the stamps to the commission for a credit or refund.
+Amended by Chapter
+407
+, 2010 General Session, (Coordination Clause)
+Enacted by Chapter
+415
+, 2010 General Session</p>
+          </content>
+          <subsection eId="59_14_215__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In addition to the tax described in Section , there is imposed, beginning on July 1, 2010, an inventory tax on all cigarettes subject to the tax described in Section , upon the sale, use, storage, or distribution of those cigarettes in the state, as follows:</p>
+            </content>
+            <paragraph eId="59_14_215__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the tax imposed in this section applies only to cigarettes sold, used, stored, or distributed in the state on or after July 1, 2010:</p>
+              </content>
+              <subparagraph eId="59_14_215__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>that have a stamp that reflects that the tax paid on those cigarettes was paid at the tax rate imposed under Section that was applicable on June 30, 2010; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_215__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for which the tax imposed in this section has not been paid; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_215__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the tax imposed in this section is equal to the difference between:</p>
+              </content>
+              <subparagraph eId="59_14_215__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the tax imposed on those cigarettes under Section , beginning on July 1, 2010; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_215__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the tax imposed on those cigarettes under Section on or before June 30, 2010.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_215__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as otherwise provided under this chapter, the tax imposed under this section shall be paid by any person who is the manufacturer, jobber, importer, distributor, wholesaler, or retailer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_215__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person described in Subsection shall remit the tax imposed in this section, on a return prescribed by the commission, on or before July 31, 2010.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_215__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Failure of a person to comply with the requirements of this section subjects the person to the penalties and interest described in Sections and .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_215__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission may not waive the interest or penalties imposed on a person for failure to comply with the requirements of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_215__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_14_215__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Beginning on July 1, 2010, it is unlawful to affix a stamp to cigarettes that reflects payment of the tax imposed under Section at the rate that was applicable on or before June 30, 2010.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_215__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A person who violates Subsection may be required by the commission to pay as part of the tax, and in addition to any other penalty provided in this chapter, a penalty of $25 for each offense, to be assessed and collected by the commission in accordance with .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_215__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who, on or after July 1, 2010, possesses tax stamps described in Subsection may return the stamps to the commission for a credit or refund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

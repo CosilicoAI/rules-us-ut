@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1001"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1001"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1001/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1001/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1001/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1001/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1001">
+          <num>59-1-1001</num>
+          <heading>Statement of taxpayer rights.</heading>
+          <content>
+            <p>59-1-1001.
+Statement of taxpayer rights.
+(1)
+The commission shall prepare written information in clear, nontechnical language of the taxpayer's rights and obligations and of the commission's procedures for appeal, refund claims, and collections.
+(2)
+When the commission contacts a taxpayer in writing about the determination or collection of any tax, the commission shall notify the taxpayer of the availability of a written statement of the taxpayer's rights and obligations and of the commission's procedures for appeal, refund claims, and collections.  If a taxpayer requests this information, the commission shall provide it to the taxpayer free of charge.
+(3)
+In notices to taxpayers of taxes and penalties due, the commission shall notify the taxpayer of the procedure to follow in order to request detailed information concerning the additional taxes, tax penalties, or interest.
+Enacted by Chapter
+35
+, 1991 General Session</p>
+          </content>
+          <subsection eId="59_1_1001__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall prepare written information in clear, nontechnical language of the taxpayer's rights and obligations and of the commission's procedures for appeal, refund claims, and collections.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1001__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the commission contacts a taxpayer in writing about the determination or collection of any tax, the commission shall notify the taxpayer of the availability of a written statement of the taxpayer's rights and obligations and of the commission's procedures for appeal, refund claims, and collections.  If a taxpayer requests this information, the commission shall provide it to the taxpayer free of charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1001__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In notices to taxpayers of taxes and penalties due, the commission shall notify the taxpayer of the procedure to follow in order to request detailed information concerning the additional taxes, tax penalties, or interest.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

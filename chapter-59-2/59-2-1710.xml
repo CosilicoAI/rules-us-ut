@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1710"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1710"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1710/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1710/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1710/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1710/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1710">
+          <num>59-2-1710</num>
+          <heading>Acquisition of land by governmental entity -- Requirements -- Rollback tax -- One-time in lieu fee payment -- Passage of title.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-1710.
+Acquisition of land by governmental entity -- Requirements -- Rollback tax -- One-time in lieu fee payment -- Passage of title.
+(1)
+For purposes of this section, &quot;governmental entity&quot; means:
+(a)
+the United States;
+(b)
+the state;
+(c)
+a political subdivision of the state, including a county, city, town, school district, special district, or special service district; or
+(d)
+an entity created by the state or the United States, including an agency, board, bureau, commission, committee, department, division, institution, instrumentality, or office.
+(2)
+(a)
+Except as provided in Subsections
+(3)
+and
+(4)
+, land acquired by a governmental entity is subject to the rollback tax imposed by this part if:
+(i)
+before the governmental entity acquires the land, the land is assessed under this part; and
+(ii)
+after the governmental entity acquires the land, the land does not meet the requirements of Section
+59-2-1703
+for assessment under this part.
+(b)
+A person dedicating a public right-of-way to a governmental entity shall pay the rollback tax imposed by this part if:
+(i)
+a portion of the public right-of-way is located within a subdivision as defined in Section
+10-20-102
+; or
+(ii)
+in exchange for the dedication, the person dedicating the public right-of-way receives money or other consideration.
+(3)
+(a)
+Except as provided in Subsection
+(4)
+, land acquired by a governmental entity is not subject to the rollback tax imposed by this part, but is subject to a one-time in lieu fee payment as provided in Subsection
+(3)(b)
+, if:
+(i)
+the governmental entity acquires the land by eminent domain;
+(ii)
+(A)
+the land is under the threat or imminence of eminent domain proceedings; and
+(B)
+the governmental entity provides written notice of the proceedings to the owner; or
+(iii)
+the land is donated to the governmental entity.
+(b)
+(i)
+If a governmental entity acquires land under Subsection
+(3)(a)(iii)
+, the governmental entity shall make a one-time in lieu fee payment:
+(A)
+to the county treasurer of the county in which the land is located; and
+(B)
+in an amount equal to the amount of rollback tax calculated under Section
+59-2-1705
+.
+(ii)
+A governmental entity that acquires land under Subsection
+(3)(a)(i)
+or
+(ii)
+shall make a one-time in lieu fee payment to the county treasurer of the county in which the land is located:
+(A)
+if the land remaining after the acquisition by the governmental entity meets the requirements of Section
+59-2-1703
+, in an amount equal to the rollback tax under Section
+59-2-1705
+on the land acquired by the governmental entity; or
+(B)
+if the land remaining after the acquisition by the governmental entity is less than one acre, in an amount equal to the rollback tax under Section
+59-2-1705
+on the land acquired by the governmental entity and the land remaining after the acquisition by the governmental entity.
+(c)
+The county treasurer shall pay 100% of the in lieu fee payment collected under this section to the county, which the county shall deposit and use in accordance with Section
+17-41-602
+.
+(4)
+(a)
+This Subsection
+(4)
+applies only to a governmental entity that is the state or a political subdivision of the state as described in Subsections
+(1)(b)
+and
+(c)
+.
+(b)
+Land acquired by a governmental entity described in Subsection
+(4)(a)
+is not subject to the rollback tax imposed by this part.
+(c)
+Notwithstanding Subsection
+(4)(b)
+, a governmental entity described in Subsection
+(4)(a)
+may not, within five years after the day on which the governmental entity acquires land, sell the land to a private entity unless the governmental entity makes a one-time in lieu fee payment:
+(i)
+to the county treasurer of the county in which the land is located;
+(ii)
+in an amount equal to the rollback tax under Section
+59-2-1705
+on the land acquired by the governmental entity at the time of acquisition; and
+(iii)
+before selling the land to the private entity.
+(5)
+If a governmental entity acquires land subject to assessment under this part, title to the land may not pass to the governmental entity until any tax, one-time in lieu fee payment, and applicable interest due under this part are paid to the county treasurer.
+Amended by Chapter
+17
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_2_1710__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For purposes of this section, &quot;governmental entity&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_1710__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a political subdivision of the state, including a county, city, town, school district, special district, or special service district; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>an entity created by the state or the United States, including an agency, board, bureau, commission, committee, department, division, institution, instrumentality, or office.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1710__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1710__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsections and , land acquired by a governmental entity is subject to the rollback tax imposed by this part if:</p>
+              </content>
+              <subparagraph eId="59_2_1710__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>before the governmental entity acquires the land, the land is assessed under this part; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>after the governmental entity acquires the land, the land does not meet the requirements of Section for assessment under this part.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A person dedicating a public right-of-way to a governmental entity shall pay the rollback tax imposed by this part if:</p>
+              </content>
+              <subparagraph eId="59_2_1710__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a portion of the public right-of-way is located within a subdivision as defined in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in exchange for the dedication, the person dedicating the public right-of-way receives money or other consideration.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1710__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1710__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , land acquired by a governmental entity is not subject to the rollback tax imposed by this part, but is subject to a one-time in lieu fee payment as provided in Subsection , if:</p>
+              </content>
+              <subparagraph eId="59_2_1710__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the governmental entity acquires the land by eminent domain;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_3__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the land is donated to the governmental entity.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_3__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_1710__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If a governmental entity acquires land under Subsection , the governmental entity shall make a one-time in lieu fee payment:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A governmental entity that acquires land under Subsection or shall make a one-time in lieu fee payment to the county treasurer of the county in which the land is located:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The county treasurer shall pay 100% of the in lieu fee payment collected under this section to the county, which the county shall deposit and use in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1710__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_1710__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>This Subsection applies only to a governmental entity that is the state or a political subdivision of the state as described in Subsections and .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Land acquired by a governmental entity described in Subsection is not subject to the rollback tax imposed by this part.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1710__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding Subsection , a governmental entity described in Subsection may not, within five years after the day on which the governmental entity acquires land, sell the land to a private entity unless the governmental entity makes a one-time in lieu fee payment:</p>
+              </content>
+              <subparagraph eId="59_2_1710__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>to the county treasurer of the county in which the land is located;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in an amount equal to the rollback tax under Section on the land acquired by the governmental entity at the time of acquisition; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1710__subsec_4__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>before selling the land to the private entity.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1710__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If a governmental entity acquires land subject to assessment under this part, title to the land may not pass to the governmental entity until any tax, one-time in lieu fee payment, and applicable interest due under this part are paid to the county treasurer.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

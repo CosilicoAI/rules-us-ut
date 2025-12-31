@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1313"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1313"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1313/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1313/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1313/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1313/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1313">
+          <num>59-10-1313</num>
+          <heading>Contribution to a Utah Educational Savings Plan account.</heading>
+          <content>
+            <p>Effective 10/14/2025
+59-10-1313.
+Contribution to a Utah Educational Savings Plan account.
+(1)
+(a)
+If a resident or nonresident individual is owed an individual income tax refund for the taxable year, the individual may designate on the resident or nonresident individual's income tax return a contribution to a Utah Educational Savings Plan account established under Title
+53H, Chapter 10
+, Utah Education Savings, as provided in this part.
+(b)
+If a resident or nonresident individual is not owed an individual income tax refund for the taxable year, the individual may not designate on the resident or nonresident's individual income tax return a contribution to a Utah Educational Savings Plan account.
+(2)
+(a)
+The commission shall send the contribution to the Utah Educational Savings Plan along with the following information:
+(i)
+the amount of the individual income tax refund; and
+(ii)
+the taxpayer's:
+(A)
+name;
+(B)
+social security number or taxpayer identification number; and
+(C)
+address.
+(b)
+The commission shall provide the taxpayer's telephone number and number of dependents claimed, as requested, to the Utah Educational Savings Plan.
+(c)
+If a contribution to a Utah Educational Savings Plan account is designated in a single individual income tax return filed jointly by a husband and wife, the commission shall send the information described under Subsection
+(2)(a)
+or
+(b)
+for both the husband and wife to the Utah Educational Savings Plan.
+(3)
+(a)
+If the taxpayer owns a Utah Educational Savings Plan account, the Utah Educational Savings Plan shall deposit the contribution into the account.
+(b)
+If the taxpayer owns more than one Utah Educational Savings Plan account, the Utah Educational Savings Plan shall allocate the contribution among the accounts in equal amounts.
+(c)
+(i)
+If the taxpayer does not own a Utah Educational Savings Plan account, the Utah Educational Savings Plan shall send the taxpayer an account agreement.
+(ii)
+If the taxpayer does not sign and return the account agreement by the date specified by the Utah Educational Savings Plan, the Utah Educational Savings Plan shall return the contribution to the taxpayer without any interest or earnings.
+(4)
+For the purpose of determining interest on an overpayment or refund under Section
+59-1-402
+, no interest accrues after the commission sends the contribution to the Utah Educational Savings Plan.
+Amended by Chapter
+9
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_10_1313__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_1313__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a resident or nonresident individual is owed an individual income tax refund for the taxable year, the individual may designate on the resident or nonresident individual's income tax return a contribution to a Utah Educational Savings Plan account established under Title , Utah Education Savings, as provided in this part.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1313__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a resident or nonresident individual is not owed an individual income tax refund for the taxable year, the individual may not designate on the resident or nonresident's individual income tax return a contribution to a Utah Educational Savings Plan account.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1313__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_1313__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall send the contribution to the Utah Educational Savings Plan along with the following information:</p>
+              </content>
+              <subparagraph eId="59_10_1313__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of the individual income tax refund; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1313__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the taxpayer's:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1313__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall provide the taxpayer's telephone number and number of dependents claimed, as requested, to the Utah Educational Savings Plan.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1313__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If a contribution to a Utah Educational Savings Plan account is designated in a single individual income tax return filed jointly by a husband and wife, the commission shall send the information described under Subsection or for both the husband and wife to the Utah Educational Savings Plan.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1313__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_1313__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the taxpayer owns a Utah Educational Savings Plan account, the Utah Educational Savings Plan shall deposit the contribution into the account.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1313__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the taxpayer owns more than one Utah Educational Savings Plan account, the Utah Educational Savings Plan shall allocate the contribution among the accounts in equal amounts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1313__subsec_3__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_10_1313__subsec_3__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If the taxpayer does not own a Utah Educational Savings Plan account, the Utah Educational Savings Plan shall send the taxpayer an account agreement.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1313__subsec_3__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>If the taxpayer does not sign and return the account agreement by the date specified by the Utah Educational Savings Plan, the Utah Educational Savings Plan shall return the contribution to the taxpayer without any interest or earnings.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1313__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For the purpose of determining interest on an overpayment or refund under Section , no interest accrues after the commission sends the contribution to the Utah Educational Savings Plan.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

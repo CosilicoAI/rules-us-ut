@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-613"/>
+          <FRBRuri value="/us-ut/act/code/59-1-613"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-613/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-613/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-613/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-613/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_613">
+          <num>59-1-613</num>
+          <heading>Judicial review -- Mandatory stay of certain commission cases.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-1-613.
+Judicial review -- Mandatory stay of certain commission cases.
+(1)
+Except as provided in Subsection (2) or unless all parties otherwise agree, upon request, the commission shall stay an appeal of the valuation or equalization of real or personal property, if:
+(a)
+a commission decision on the valuation or equalization of real or personal property is under judicial review; and
+(b)
+the commission decision described in Subsection (1)(a) and the pending commission appeal involve the same:
+(i)
+taxpayer;
+(ii)
+legal issue or valuation principle; and
+(iii)
+to a material degree, facts.
+(2)
+Subsection (1) does not apply if:
+(a)
+the commission determines that the case under judicial review is not likely to have a material influence on the outcome of the pending commission appeal; or
+(b)
+the property taxes subject to the pending commission appeal have not been paid in accordance with Section
+59-2-1330
+.
+(3)
+An appeal stayed in accordance with Subsection (1) is stayed until the court issues a final decision after judicial review of the commission decision.
+Amended by Chapter
+258
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_1_613__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection (2) or unless all parties otherwise agree, upon request, the commission shall stay an appeal of the valuation or equalization of real or personal property, if:</p>
+            </content>
+            <paragraph eId="59_1_613__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a commission decision on the valuation or equalization of real or personal property is under judicial review; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_613__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the commission decision described in Subsection (1)(a) and the pending commission appeal involve the same:</p>
+              </content>
+              <subparagraph eId="59_1_613__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>taxpayer;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_613__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>legal issue or valuation principle; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_613__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>to a material degree, facts.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_613__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsection (1) does not apply if:</p>
+            </content>
+            <paragraph eId="59_1_613__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the commission determines that the case under judicial review is not likely to have a material influence on the outcome of the pending commission appeal; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_613__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the property taxes subject to the pending commission appeal have not been paid in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_613__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An appeal stayed in accordance with Subsection (1) is stayed until the court issues a final decision after judicial review of the commission decision.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

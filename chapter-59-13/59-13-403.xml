@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-403"/>
+          <FRBRuri value="/us-ut/act/code/59-13-403"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-403/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-403/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-403/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-403/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_403">
+          <num>59-13-403</num>
+          <heading>Administration and penalties -- Bond requirements.</heading>
+          <content>
+            <p>Effective 5/14/2019
+59-13-403.
+Administration and penalties -- Bond requirements.
+(1)
+All administrative and penalty provisions of
+Part 2, Motor Fuel
+, apply to the administration of
+Part 4, Aviation Fuel
+.
+(2)
+Notwithstanding Subsection
+(1)
+, a distributor is not required to furnish a bond if the distributor:
+(a)
+meets the definition of distributor under Subsection
+59-13-102(7)(d)
+; and
+(b)
+has an average tax liability of $500 or less per month.
+Amended by Chapter
+136
+, 2019 General Session</p>
+          </content>
+          <subsection eId="59_13_403__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All administrative and penalty provisions of , apply to the administration of .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_403__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding Subsection , a distributor is not required to furnish a bond if the distributor:</p>
+            </content>
+            <paragraph eId="59_13_403__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>meets the definition of distributor under Subsection ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_403__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>has an average tax liability of $500 or less per month.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

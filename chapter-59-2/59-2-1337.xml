@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1337"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1337"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1337/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1337/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1337/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1337/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1337">
+          <num>59-2-1337</num>
+          <heading>Pro rata application of ad valorem tax on property taken by eminent domain or by right of entry agreement.</heading>
+          <content>
+            <p>59-2-1337.
+Pro rata application of ad valorem tax on property taken by eminent domain or by right of entry agreement.
+If any property is taken in fee by the state, any of its subdivisions or agencies, or by any private person, or other body pursuant to either:
+(1)
+an exercise of the power of eminent domain; or
+(2)
+by a right of entry agreement executed by reason of the threat or imminence of eminent domain, the ad valorem property tax assessed and collected on the property under this chapter shall be determined on the basis of the relationship which the number of months the property was held by the property owner, prior to the granting by the court of an order of occupancy or the execution of a right of entry agreement, bears to the taxable year.
+Repealed and Re-enacted by Chapter
+3
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_2_1337__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>an exercise of the power of eminent domain; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1337__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>by a right of entry agreement executed by reason of the threat or imminence of eminent domain, the ad valorem property tax assessed and collected on the property under this chapter shall be determined on the basis of the relationship which the number of months the property was held by the property owner, prior to the granting by the court of an order of occupancy or the execution of a right of entry agreement, bears to the taxable year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

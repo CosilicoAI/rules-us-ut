@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1047"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1047"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1047/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1047/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1047/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1047/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1047">
+          <num>59-10-1047</num>
+          <heading>Nonrefundable child tax credit.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-10-1047.
+Nonrefundable child tax credit.
+(1)
+As used in this section:
+(a)
+&quot;Joint filing status&quot; means the same as that term is defined in Section
+59-10-1018
+.
+(b)
+&quot;Head of household filing status&quot; means the same as that term is defined in Section
+59-10-1018
+.
+(c)
+&quot;Married filing separately status&quot; means a married individual who:
+(i)
+does not file a single federal individual income tax return jointly with that married individual's spouse for the taxable year; and
+(ii)
+files a single federal individual income tax return for the taxable year.
+(d)
+&quot;Modified adjusted gross income&quot; means the sum of the following for a claimant or, if the claimant's federal individual income tax return is allowed a joint filing status, the claimant and the claimant's spouse:
+(i)
+adjusted gross income for the taxable year for which a tax credit is claimed under this section;
+(ii)
+any interest income that is not included in adjusted gross income for the taxable year described in Subsection (1)(d)(i); and
+(iii)
+any addition to adjusted gross income required by Section
+59-10-114
+for the taxable year described in Subsection (1)(d)(i).
+(e)
+&quot;Qualifying child&quot; means an individual:
+(i)
+with respect to whom the claimant is allowed to claim a tax credit under Section 24, Internal Revenue Code, on the claimant's federal individual income tax return for the taxable year; and
+(ii)
+who is under six years old on the last day of the claimant's taxable year.
+(f)
+&quot;Single filing status&quot; means a single individual who files a single federal individual income tax return for the taxable year.
+(2)
+Subject to Section
+59-10-1002.2
+, a claimant may claim a nonrefundable tax credit of $1,000 for each qualifying child.
+(3)
+A claimant may not carry forward or carry back the amount of the tax credit that exceeds the claimant's tax liability.
+(4)
+The tax credit allowed by Subsection (2) claimed on a return filed under this part shall be reduced by $.10 for each dollar by which modified adjusted gross income for purposes of the return exceeds:
+(a)
+for a federal individual income tax return that is allowed a married filing separately status, $27,000;
+(b)
+for a federal individual income tax return that is allowed a single filing status or head of household filing status, $43,000; and
+(c)
+for a federal individual income tax return that is allowed a joint filing status, $54,000.
+Amended by Chapter
+407
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_10_1047__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1047__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Joint filing status&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Head of household filing status&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Married filing separately status&quot; means a married individual who:</p>
+              </content>
+              <subparagraph eId="59_10_1047__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>does not file a single federal individual income tax return jointly with that married individual's spouse for the taxable year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1047__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>files a single federal individual income tax return for the taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Modified adjusted gross income&quot; means the sum of the following for a claimant or, if the claimant's federal individual income tax return is allowed a joint filing status, the claimant and the claimant's spouse:</p>
+              </content>
+              <subparagraph eId="59_10_1047__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>adjusted gross income for the taxable year for which a tax credit is claimed under this section;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1047__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>any interest income that is not included in adjusted gross income for the taxable year described in Subsection (1)(d)(i); and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1047__subsec_1__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>any addition to adjusted gross income required by Section for the taxable year described in Subsection (1)(d)(i).</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Qualifying child&quot; means an individual:</p>
+              </content>
+              <subparagraph eId="59_10_1047__subsec_1__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>with respect to whom the claimant is allowed to claim a tax credit under Section 24, Internal Revenue Code, on the claimant's federal individual income tax return for the taxable year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1047__subsec_1__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>who is under six years old on the last day of the claimant's taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Single filing status&quot; means a single individual who files a single federal individual income tax return for the taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1047__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to Section , a claimant may claim a nonrefundable tax credit of $1,000 for each qualifying child.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1047__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A claimant may not carry forward or carry back the amount of the tax credit that exceeds the claimant's tax liability.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1047__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax credit allowed by Subsection (2) claimed on a return filed under this part shall be reduced by $.10 for each dollar by which modified adjusted gross income for purposes of the return exceeds:</p>
+            </content>
+            <paragraph eId="59_10_1047__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a federal individual income tax return that is allowed a married filing separately status, $27,000;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a federal individual income tax return that is allowed a single filing status or head of household filing status, $43,000; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1047__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for a federal individual income tax return that is allowed a joint filing status, $54,000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

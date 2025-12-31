@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-201"/>
+          <FRBRuri value="/us-ut/act/code/59-14-201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-201/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-201/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_201">
+          <num>59-14-201</num>
+          <heading>License -- Application of part -- Fee -- Bond -- Exceptions.</heading>
+          <content>
+            <p>Effective 7/1/2018
+59-14-201.
+License -- Application of part -- Fee -- Bond -- Exceptions.
+(1)
+It is unlawful for any person in this state to manufacture, import, distribute, barter, sell, exchange, or offer cigarettes for sale without first having obtained a license issued by the commission under Section
+59-14-202
+.
+(2)
+Except for the tax rates described in Subsection
+59-14-204(2)
+, this part does not apply to a cigarette produced from a cigarette rolling machine.
+(3)
+(a)
+A license may not be issued for the sale of cigarettes until the applicant has paid a license fee of $30 or a license renewal fee of $20, as appropriate.
+(b)
+The fee for reinstatement of a license that has been revoked, suspended, or allowed to expire is $30.
+(c)
+Notwithstanding Subsections
+(3)(a)
+and
+(b)
+, the commission may not charge a fee for a license under this section for a retailer, as defined in Section
+59-14-102
+.
+(4)
+(a)
+A license may not be issued until the applicant files a bond with the commission.  The commission shall determine the form and the amount of the bond, the minimum amount of which shall be $500.  The bond shall be executed by the applicant as principal, with a corporate surety, payable to the state and conditioned upon the faithful performance of all the requirements of this chapter, including the payment of all taxes, penalties, and other obligations.
+(b)
+An applicant is not required to post a bond if the applicant:
+(i)
+purchases during the license year only products that have the proper state stamp affixed as required by this chapter; and
+(ii)
+files an affidavit with the applicant's application attesting to this fact.
+Amended by Chapter
+231
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_14_201__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is unlawful for any person in this state to manufacture, import, distribute, barter, sell, exchange, or offer cigarettes for sale without first having obtained a license issued by the commission under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_201__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except for the tax rates described in Subsection , this part does not apply to a cigarette produced from a cigarette rolling machine.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_201__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_14_201__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A license may not be issued for the sale of cigarettes until the applicant has paid a license fee of $30 or a license renewal fee of $20, as appropriate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_201__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The fee for reinstatement of a license that has been revoked, suspended, or allowed to expire is $30.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_201__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding Subsections and , the commission may not charge a fee for a license under this section for a retailer, as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_201__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_14_201__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A license may not be issued until the applicant files a bond with the commission.  The commission shall determine the form and the amount of the bond, the minimum amount of which shall be $500.  The bond shall be executed by the applicant as principal, with a corporate surety, payable to the state and conditioned upon the faithful performance of all the requirements of this chapter, including the payment of all taxes, penalties, and other obligations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_201__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An applicant is not required to post a bond if the applicant:</p>
+              </content>
+              <subparagraph eId="59_14_201__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>purchases during the license year only products that have the proper state stamp affixed as required by this chapter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_201__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>files an affidavit with the applicant's application attesting to this fact.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

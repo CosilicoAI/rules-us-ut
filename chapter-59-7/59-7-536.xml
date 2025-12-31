@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-536"/>
+          <FRBRuri value="/us-ut/act/code/59-7-536"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-536/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-536/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-536/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-536/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_536">
+          <num>59-7-536</num>
+          <heading>Relief in case of suspension or forfeiture.</heading>
+          <content>
+            <p>59-7-536.
+Relief in case of suspension or forfeiture.
+(1)
+(a)
+Any corporation which has suffered the suspension or forfeiture referred to in Section
+59-7-534
+may be relieved from that suspension or forfeiture by applying for that relief in writing, paying the tax and the interest and penalties for nonpayment of which the suspension or forfeiture occurred, and paying a reinstatement fee of $100.   If the corporation has done business in this state during the period of such suspension, a tax shall be computed according to this chapter for each year in which the business was done, and the tax shall be added to the delinquency and penalties provided in this section.  If the due date of any return required in this section has not passed, a return need not be filed until that due date.
+(b)
+Application for revivor may be made by any stockholder or creditor of the corporation or by a majority of the surviving trustees or directors, and the same shall be filed with the Division of Corporations and Commercial Code.  Upon payment to the commission of the taxes, penalties, and reinstatement fee provided for in this section, the Division of Corporations and Commercial Code shall issue a certificate of revivor, and the applicant shall be revived.  The revivor shall be without prejudice to any action, defense, or right which has accrued by reason of the original suspension or forfeiture.  The certificate of revivor is prima facie evidence of the revivor.
+(2)
+If any corporation has adopted, subsequent to such suspension or forfeiture, any name so closely resembling the name of the reviving corporation as will tend to deceive, then the reviving corporation is entitled to a certificate of revivor pursuant to the terms of this section only upon adopting a new name, and in such case nothing in this section may be construed as permitting the reviving corporation to carry on any business under its former name.   The reviving corporation may use its former name or may take the new name only upon filing an application for it with the Division of Corporations and Commercial Code, and upon the issuing of a certificate to such corporation by the Division of Corporations and Commercial Code, setting forth the right of such corporation to take such new name or use its former name as the case may be.  The Division of Corporations and Commercial Code may not issue any certificate permitting any corporation to take or use the name of any corporation already organized in this state and which has not suffered a forfeiture, or take or use a name so closely resembling the name of any corporation already organized in this state as will tend to deceive.
+Renumbered and Amended by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_536__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_7_536__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any corporation which has suffered the suspension or forfeiture referred to in Section may be relieved from that suspension or forfeiture by applying for that relief in writing, paying the tax and the interest and penalties for nonpayment of which the suspension or forfeiture occurred, and paying a reinstatement fee of $100.   If the corporation has done business in this state during the period of such suspension, a tax shall be computed according to this chapter for each year in which the business was done, and the tax shall be added to the delinquency and penalties provided in this section.  If the due date of any return required in this section has not passed, a return need not be filed until that due date.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_536__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Application for revivor may be made by any stockholder or creditor of the corporation or by a majority of the surviving trustees or directors, and the same shall be filed with the Division of Corporations and Commercial Code.  Upon payment to the commission of the taxes, penalties, and reinstatement fee provided for in this section, the Division of Corporations and Commercial Code shall issue a certificate of revivor, and the applicant shall be revived.  The revivor shall be without prejudice to any action, defense, or right which has accrued by reason of the original suspension or forfeiture.  The certificate of revivor is prima facie evidence of the revivor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_536__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If any corporation has adopted, subsequent to such suspension or forfeiture, any name so closely resembling the name of the reviving corporation as will tend to deceive, then the reviving corporation is entitled to a certificate of revivor pursuant to the terms of this section only upon adopting a new name, and in such case nothing in this section may be construed as permitting the reviving corporation to carry on any business under its former name.   The reviving corporation may use its former name or may take the new name only upon filing an application for it with the Division of Corporations and Commercial Code, and upon the issuing of a certificate to such corporation by the Division of Corporations and Commercial Code, setting forth the right of such corporation to take such new name or use its former name as the case may be.  The Division of Corporations and Commercial Code may not issue any certificate permitting any corporation to take or use the name of any corporation already organized in this state and which has not suffered a forfeiture, or take or use a name so closely resembling the name of any corporation already organized in this state as will tend to deceive.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

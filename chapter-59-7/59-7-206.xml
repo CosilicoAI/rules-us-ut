@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-206"/>
+          <FRBRuri value="/us-ut/act/code/59-7-206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-206/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-206/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_206">
+          <num>59-7-206</num>
+          <heading>Offsets against tax.</heading>
+          <content>
+            <p>59-7-206.
+Offsets against tax.
+There shall be offset against the tax imposed by  this part for any period the amount of any tax imposed on the taxpayer under Section
+59-7-104
+for the same period.  In the event that taxes, interest, and penalties have been or shall be assessed against, paid by, or collected from a taxpayer under Section
+59-7-201
+, which assessment, payment, or collection should have been made under Section
+59-7-104
+, such taxes, interest, and penalties shall be considered as having been assessed, paid, or collected under Section
+59-7-104
+as of the dates they were made.
+Amended by Chapter
+169
+, 1993 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

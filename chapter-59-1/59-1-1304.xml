@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1304"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1304"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1304/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1304/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1304/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1304/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1304">
+          <num>59-1-1304</num>
+          <heading>Penalty for taxpayer failure to disclose a reportable transaction.</heading>
+          <content>
+            <p>59-1-1304.
+Penalty for taxpayer failure to disclose a reportable transaction.
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+, a taxpayer that fails to disclose a reportable transaction as required by Section
+59-1-1303
+is subject to a penalty of $15,000.
+(b)
+A taxpayer that fails to disclose a listed transaction as required by Section
+59-1-1303
+is subject to a penalty of $30,000.
+(2)
+A penalty imposed by this section is in addition to any other penalty imposed by this title.
+Enacted by Chapter
+237
+, 2006 General Session</p>
+          </content>
+          <subsection eId="59_1_1304__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_1_1304__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , a taxpayer that fails to disclose a reportable transaction as required by Section is subject to a penalty of $15,000.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1304__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer that fails to disclose a listed transaction as required by Section is subject to a penalty of $30,000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1304__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A penalty imposed by this section is in addition to any other penalty imposed by this title.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

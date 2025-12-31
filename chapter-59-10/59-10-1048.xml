@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1048"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1048"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1048/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1048/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1048/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1048/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1048">
+          <num>59-10-1048</num>
+          <heading>Nonrefundable tax credits for employer-provider child care.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-10-1048.
+Nonrefundable tax credits for employer-provider child care.
+(1)
+As used in this section:
+(a)
+&quot;Qualified child care expenditure&quot; means the same as that term is defined in Section
+59-7-627
+.
+(b)
+&quot;Qualified child care facility&quot; means the same as that term is defined in Section
+59-7-627
+.
+(c)
+&quot;Qualified construction expenditure&quot; means the same as that term is defined in Section
+59-7-627
+.
+(d)
+&quot;Qualifying claimant&quot; means a claimant, estate, or trust that:
+(i)
+is an employer; and
+(ii)
+qualifies for and claims the federal employer-provided child care tax credit described in Section 45F, Internal Revenue Code, for the current taxable year.
+(e)
+&quot;Recapture event&quot; means the same as that term is defined in Section
+59-7-627
+.
+(f)
+&quot;Third party provider&quot; means the same as that term is defined in Section
+59-7-627
+.
+(2)
+(a)
+A qualifying claimant may claim a nonrefundable tax credit equal to 20% of the qualified construction expenditures the qualifying claimant incurred during the taxable year.
+(b)
+A qualifying claimant may carry forward, to the next five taxable years, the amount of the qualifying claimant's tax credit described in this Subsection (2) that exceeds the qualifying claimant's income tax liability for the taxable year.
+(3)
+(a)
+(i)
+Subject to Subsection
+(3)(a)(ii)
+, a qualifying claimant may claim a nonrefundable tax credit equal to 10% of the qualified child care expenditures the qualifying claimant incurred during the taxable year.
+(ii)
+A qualifying claimant may claim a tax credit under this Subsection (3) for qualified child care expenditures only if the qualifying claimant claims a tax credit under Subsection (2) for the current taxable year or a previous taxable year.
+(b)
+A qualifying claimant may not carry forward or carry back the tax credit described in this Subsection (3) that exceeds the qualifying claimant's income tax liability for the taxable year.
+(4)
+(a)
+(i)
+If a recapture event happens within two taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 100% of the tax credit a qualifying claimant receives under this section for any taxable year.
+(ii)
+If a recapture event happens more than two taxable years but fewer than three taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 75% of the tax credit a qualifying claimant receives under this section for any taxable year.
+(iii)
+If a recapture event happens more than three taxable years but fewer than four taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 50% of the tax credit a qualifying claimant receives under this section for any taxable year.
+(iv)
+If a recapture event happens more than four taxable years but fewer than five taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 25% of the tax credit a qualifying claimant receives under this section for any taxable year.
+(b)
+A qualifying claimant shall make a payment for a recapture event for the taxable year in which the recapture event occurs.
+Enacted by Chapter
+407
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_10_1048__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1048__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Qualified child care expenditure&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Qualified child care facility&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Qualified construction expenditure&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Qualifying claimant&quot; means a claimant, estate, or trust that:</p>
+              </content>
+              <subparagraph eId="59_10_1048__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is an employer; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1048__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>qualifies for and claims the federal employer-provided child care tax credit described in Section 45F, Internal Revenue Code, for the current taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Recapture event&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Third party provider&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1048__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_1048__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A qualifying claimant may claim a nonrefundable tax credit equal to 20% of the qualified construction expenditures the qualifying claimant incurred during the taxable year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A qualifying claimant may carry forward, to the next five taxable years, the amount of the qualifying claimant's tax credit described in this Subsection (2) that exceeds the qualifying claimant's income tax liability for the taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1048__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_1048__subsec_3__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_1048__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsection , a qualifying claimant may claim a nonrefundable tax credit equal to 10% of the qualified child care expenditures the qualifying claimant incurred during the taxable year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1048__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A qualifying claimant may claim a tax credit under this Subsection (3) for qualified child care expenditures only if the qualifying claimant claims a tax credit under Subsection (2) for the current taxable year or a previous taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A qualifying claimant may not carry forward or carry back the tax credit described in this Subsection (3) that exceeds the qualifying claimant's income tax liability for the taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1048__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_10_1048__subsec_4__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_1048__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If a recapture event happens within two taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 100% of the tax credit a qualifying claimant receives under this section for any taxable year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1048__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>If a recapture event happens more than two taxable years but fewer than three taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 75% of the tax credit a qualifying claimant receives under this section for any taxable year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1048__subsec_4__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>If a recapture event happens more than three taxable years but fewer than four taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 50% of the tax credit a qualifying claimant receives under this section for any taxable year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1048__subsec_4__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>If a recapture event happens more than four taxable years but fewer than five taxable years after the first taxable year in which the qualifying claimant claims a tax credit under this section, a qualifying claimant shall repay 25% of the tax credit a qualifying claimant receives under this section for any taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1048__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A qualifying claimant shall make a payment for a recapture event for the taxable year in which the recapture event occurs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

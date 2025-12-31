@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2003"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2003"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2003/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2003/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2003/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2003/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2003">
+          <num>59-12-2003</num>
+          <heading>Imposition -- Base -- Rate -- Revenue distributed to certain public transit districts.</heading>
+          <content>
+            <p>Effective 5/9/2017
+59-12-2003.
+Imposition -- Base -- Rate -- Revenue distributed to certain public transit districts.
+(1)
+Subject to the other provisions of this section and except as provided in Subsection
+(2)
+or
+(4)
+, beginning on July 1, 2008, the state shall impose a tax under this part on the transactions described in Subsection
+59-12-103(1)
+within a city, town, or the unincorporated area of a county of the first or second class if, on January 1, 2008, there is a public transit district within any portion of that county of the first or second class.
+(2)
+The state may not impose a tax under this part within a county of the first or second class if within all of the cities, towns, and the unincorporated area of the county of the first or second class there is imposed a sales and use tax of:
+(a)
+.30% under Section
+59-12-2213
+;
+(b)
+.30% under Section
+59-12-2215
+; or
+(c)
+.30% under Section
+59-12-2216
+.
+(3)
+(a)
+Subject to Subsection
+(3)(b)
+, if the state imposes a tax under this part, the tax rate imposed within a city, town, or the unincorporated area of a county of the first or second class is a percentage equal to the difference between:
+(i)
+.30%; and
+(ii)
+(A)
+for a city within the county of the first or second class, the highest tax rate imposed within that city under:
+(I)
+Section
+59-12-2213
+;
+(II)
+Section
+59-12-2215
+; or
+(III)
+Section
+59-12-2216
+;
+(B)
+for a town within the county of the first or second class, the highest tax rate imposed within that town under:
+(I)
+Section
+59-12-2213
+;
+(II)
+Section
+59-12-2215
+; or
+(III)
+Section
+59-12-2216
+; or
+(C)
+for the unincorporated area of the county of the first or second class, the highest tax rate imposed within that unincorporated area under:
+(I)
+Section
+59-12-2213
+;
+(II)
+Section
+59-12-2215
+; or
+(III)
+Section
+59-12-2216
+.
+(b)
+For purposes of Subsection
+(3)(a)
+, if for a city, town, or the unincorporated area of a county of the first or second class, the highest tax rate imposed under Section
+59-12-2213
+,
+59-12-2215
+, or
+59-12-2216
+within that city, town, or unincorporated area of the county of the first or second class is .30%, the state may not impose a tax under this part within that city, town, or unincorporated area.
+(4)
+(a)
+The state may not impose a tax under this part on:
+(i)
+the sales and uses described in Section
+59-12-104
+to the extent the sales and uses are exempt from taxation under Section
+59-12-104
+; or
+(ii)
+except as provided in Subsection
+(4)(b)
+, amounts paid or charged for food and food ingredients.
+(b)
+The state shall impose a tax under this part on the purchase price or sales price for amounts paid or charged for food and food ingredients if the food and food ingredients are sold as part of a bundled transaction attributable to food and ingredients and tangible personal property other than food and food ingredients.
+(5)
+For purposes of Subsection
+(1)
+, the location of a transaction shall be determined in accordance with Sections
+59-12-211
+through
+59-12-215
+.
+(6)
+The commission shall distribute the revenues the state collects from the sales and use tax under this part, after subtracting amounts a seller retains in accordance with Section
+59-12-108
+, to the public transit districts within the cities, towns, and unincorporated areas:
+(a)
+within which the state imposes a tax under this part; and
+(b)
+in proportion to the revenues collected from the sales and use tax under this part within each city, town, and unincorporated area within which the state imposes a tax under this part.
+Amended by Chapter
+422
+, 2017 General Session</p>
+          </content>
+          <subsection eId="59_12_2003__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this section and except as provided in Subsection or , beginning on July 1, 2008, the state shall impose a tax under this part on the transactions described in Subsection within a city, town, or the unincorporated area of a county of the first or second class if, on January 1, 2008, there is a public transit district within any portion of that county of the first or second class.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2003__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The state may not impose a tax under this part within a county of the first or second class if within all of the cities, towns, and the unincorporated area of the county of the first or second class there is imposed a sales and use tax of:</p>
+            </content>
+            <paragraph eId="59_12_2003__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>.30% under Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2003__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>.30% under Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2003__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>.30% under Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2003__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_2003__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , if the state imposes a tax under this part, the tax rate imposed within a city, town, or the unincorporated area of a county of the first or second class is a percentage equal to the difference between:</p>
+              </content>
+              <subparagraph eId="59_12_2003__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>.30%; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2003__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2003__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , if for a city, town, or the unincorporated area of a county of the first or second class, the highest tax rate imposed under Section , , or within that city, town, or unincorporated area of the county of the first or second class is .30%, the state may not impose a tax under this part within that city, town, or unincorporated area.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2003__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_2003__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The state may not impose a tax under this part on:</p>
+              </content>
+              <subparagraph eId="59_12_2003__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the sales and uses described in Section to the extent the sales and uses are exempt from taxation under Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2003__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>except as provided in Subsection , amounts paid or charged for food and food ingredients.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2003__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The state shall impose a tax under this part on the purchase price or sales price for amounts paid or charged for food and food ingredients if the food and food ingredients are sold as part of a bundled transaction attributable to food and ingredients and tangible personal property other than food and food ingredients.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2003__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>For purposes of Subsection , the location of a transaction shall be determined in accordance with Sections through .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2003__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The commission shall distribute the revenues the state collects from the sales and use tax under this part, after subtracting amounts a seller retains in accordance with Section , to the public transit districts within the cities, towns, and unincorporated areas:</p>
+            </content>
+            <paragraph eId="59_12_2003__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>within which the state imposes a tax under this part; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2003__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>in proportion to the revenues collected from the sales and use tax under this part within each city, town, and unincorporated area within which the state imposes a tax under this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

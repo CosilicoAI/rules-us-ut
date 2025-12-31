@@ -1,0 +1,535 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-529"/>
+          <FRBRuri value="/us-ut/act/code/59-10-529"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-529/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-529/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-529/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-529/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_529">
+          <num>59-10-529</num>
+          <heading>Overpayment of tax -- Credits -- Refunds.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-10-529.
+Overpayment of tax -- Credits -- Refunds.
+(1)
+If there has been an overpayment of any tax imposed by this chapter, the amount of overpayment is credited as follows:
+(a)
+against an income tax due from a taxpayer;
+(b)
+against:
+(i)
+the amount of a judgment against a taxpayer, including a final judgment or order requiring payment of a fine or of restitution to a victim under
+Title 77, Chapter 38b, Crime Victims Restitution Act
+, obtained through due process of law by an entity of state or local government; or
+(ii)
+subject to Subsection
+(4)(a)(i)
+, a child support obligation that is due or past due, as determined by the Office of Recovery Services in the Department of Health and Human Services and after notice and an opportunity for an adjudicative proceeding, as provided in Subsection
+(4)(a)(iii)
+; or
+(c)
+subject to Subsections
+(3)
+,
+(5)
+,
+(6)
+, and
+(7)
+, as bail to ensure the appearance of a taxpayer before the appropriate authority to resolve an outstanding warrant against the taxpayer for which bail is due, if a court of competent jurisdiction has not approved an alternative form of payment.
+(2)
+If a balance remains after an overpayment is credited in accordance with Subsection
+(1)
+, the balance shall be refunded to the taxpayer.
+(3)
+Bail described in Subsection
+(1)(c)
+may be applied to any fine or forfeiture:
+(a)
+that is due and related to a warrant that is outstanding on or after February 16, 1984; and
+(b)
+in accordance with Subsections
+(5)
+and
+(6)
+.
+(4)
+(a)
+The amount of an overpayment may be credited against an obligation described in Subsection
+(1)(b)(ii)
+if the Office of Recovery Services has sent written notice to the taxpayer's last-known address or the address on file under Section
+26B-9-207
+, stating:
+(i)
+the amount of child support that is due or past due as of the date of the notice or other specified date;
+(ii)
+that any overpayment shall be applied to reduce the amount of due or past-due child support specified in the notice; and
+(iii)
+that the taxpayer may contest the amount of past-due child support specified in the notice by filing a written request for an adjudicative proceeding with the office within 15 days of the notice being sent.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the Office of Recovery Services shall establish rules to implement this Subsection
+(4)
+, including procedures, in accordance with the other provisions of this section, to ensure:
+(i)
+prompt reimbursement to a taxpayer of any amount of an overpayment that was credited against a child support obligation in error; and
+(ii)
+prompt distribution of properly credited funds to the obligee parent.
+(5)
+The amount of an overpayment may be credited against bail described in Subsection
+(1)(c)
+if:
+(a)
+a court has issued a warrant for the arrest of the taxpayer for failure to post bail, appear, or otherwise satisfy the terms of a citation, summons, or court order; and
+(b)
+a notice of intent to apply the overpayment as bail on the issued warrant has been sent to the taxpayer's current address on file with the commission.
+(6)
+(a)
+(i)
+The commission shall deliver an overpayment applied as bail to the court that issued the warrant of arrest.
+(ii)
+The clerk of the court is authorized to endorse the check or commission warrant of payment on behalf of the payees and deposit the money in the court treasury.
+(b)
+(i)
+The court receiving an overpayment applied as bail shall order withdrawal of the warrant for arrest of the taxpayer if:
+(A)
+the case is a case for which a personal appearance of the taxpayer is not required; and
+(B)
+the dollar amount of the overpayment represents the full dollar amount of bail.
+(ii)
+In a case except for a case described in Subsection
+(6)(b)(i)
+:
+(A)
+the court receiving the overpayment applied as bail is not required to order the withdrawal of the warrant of arrest of the taxpayer during the 40-day period; and
+(B)
+the taxpayer may be arrested on the warrant.
+(c)
+(i)
+If a taxpayer fails to respond to the notice required by Subsection
+(5)(b)
+, or to resolve the warrant within 40 days after the notice is sent under Subsection
+(5)(b)
+, the overpayment applied as bail is forfeited.
+(ii)
+A court may issue another warrant or allow the original warrant to remain in force if:
+(A)
+the taxpayer has not complied with an order of the court;
+(B)
+the taxpayer has failed to appear and respond to a criminal charge for which a personal appearance is required; or
+(C)
+the taxpayer has paid partial but not full bail in a case for which a personal appearance is not required.
+(d)
+If the alleged violations named in a warrant are later resolved in favor of the taxpayer, the bail amount shall be remitted to the taxpayer.
+(7)
+The fine and bail forfeiture provisions of this section apply to all warrants, fines, fees, and surcharges issued in cases charging a taxpayer with a felony, a misdemeanor, or an infraction described in this section, which are outstanding on or after February 16, 1984.
+(8)
+If the amount allowed as a credit for tax withheld from a taxpayer exceeds the tax to which the credit relates, the excess is considered an overpayment.
+(9)
+(a)
+Subject to Subsection
+(9)(b)
+, a taxpayer shall claim a credit or refund of an overpayment that is attributable to a net operating loss carry back or carry forward within three years after the day on which the return for the taxable year of the net operating loss is due.
+(b)
+The three-year period described in Subsection
+(9)(a)
+shall be extended by any extension of time provided in statute for filing the return described in Subsection
+(9)(a)
+.
+(10)
+If there is no tax liability for a period in which an amount is paid under this chapter, the amount is an overpayment.
+(11)
+If a tax under this chapter is assessed or collected after the expiration of the applicable period of limitation, that amount is an overpayment.
+(12)
+(a)
+A taxpayer may file a claim for a credit or refund of an overpayment within two years after the day on which a notice of change, notice of correction, or amended return is required to be filed with the commission if the taxpayer is required to:
+(i)
+report a change or correction in income reported on the taxpayer's federal income tax return;
+(ii)
+report a change or correction that is treated in the same manner as if the change or correction were an overpayment for federal income tax purposes; or
+(iii)
+file an amended return with the commission.
+(b)
+If a report or amended return is not filed within 90 days after the day on which the report or amended return is due, interest on any resulting refund or credit ceases to accrue after the 90-day period.
+(c)
+The amount of the credit or refund may not exceed the amount of the reduction in tax attributable to the federal change, correction, or items amended on the taxpayer's amended federal income tax return.
+(d)
+Except as provided in Subsection
+(12)(a)
+, this Subsection
+(12)
+does not affect the amount or the time within which a claim for credit or refund may be filed.
+(13)
+A credit or refund may not be allowed or made if an overpayment is less than $1.
+(14)
+In the case of an overpayment of tax by an employer under
+Part 4, Withholding of Tax
+, an employer shall receive a refund or credit only to the extent that the amount of the overpayment is not deducted and withheld from wages under this chapter.
+(15)
+(a)
+If a taxpayer that is allowed a refund under this chapter dies, the commission may make payment to the personal representative of the taxpayer's estate.
+(b)
+If there is no personal representative of the taxpayer's estate, the commission may make payment to those persons that establish entitlement to inherit the property of the decedent in the proportions established in
+Title 75, Utah Uniform Probate Code
+.
+(16)
+If an overpayment relates to a change in net income described in Subsection
+59-10-536(2)(a)
+, a credit may be allowed or a refund paid any time before the expiration of the period within which a deficiency may be assessed.
+(17)
+An overpayment of a tax imposed by this chapter shall accrue interest at the rate and in the manner prescribed in Section
+59-1-402
+.
+(18)
+A pass-through entity may claim a refund of qualifying excess withholding in accordance with Section
+59-10-1403.3
+in lieu of a pass-though entity taxpayer claiming a tax credit under Section
+59-7-614.4
+or Section
+59-10-1103
+.
+Amended by Chapter
+329
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_10_529__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If there has been an overpayment of any tax imposed by this chapter, the amount of overpayment is credited as follows:</p>
+            </content>
+            <paragraph eId="59_10_529__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>against an income tax due from a taxpayer;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>against:</p>
+              </content>
+              <subparagraph eId="59_10_529__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of a judgment against a taxpayer, including a final judgment or order requiring payment of a fine or of restitution to a victim under , obtained through due process of law by an entity of state or local government; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>subject to Subsection , a child support obligation that is due or past due, as determined by the Office of Recovery Services in the Department of Health and Human Services and after notice and an opportunity for an adjudicative proceeding, as provided in Subsection ; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>subject to Subsections , , , and , as bail to ensure the appearance of a taxpayer before the appropriate authority to resolve an outstanding warrant against the taxpayer for which bail is due, if a court of competent jurisdiction has not approved an alternative form of payment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a balance remains after an overpayment is credited in accordance with Subsection , the balance shall be refunded to the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Bail described in Subsection may be applied to any fine or forfeiture:</p>
+            </content>
+            <paragraph eId="59_10_529__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that is due and related to a warrant that is outstanding on or after February 16, 1984; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>in accordance with Subsections and .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_10_529__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of an overpayment may be credited against an obligation described in Subsection if the Office of Recovery Services has sent written notice to the taxpayer's last-known address or the address on file under Section , stating:</p>
+              </content>
+              <subparagraph eId="59_10_529__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of child support that is due or past due as of the date of the notice or other specified date;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>that any overpayment shall be applied to reduce the amount of due or past-due child support specified in the notice; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_4__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>that the taxpayer may contest the amount of past-due child support specified in the notice by filing a written request for an adjudicative proceeding with the office within 15 days of the notice being sent.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the Office of Recovery Services shall establish rules to implement this Subsection , including procedures, in accordance with the other provisions of this section, to ensure:</p>
+              </content>
+              <subparagraph eId="59_10_529__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>prompt reimbursement to a taxpayer of any amount of an overpayment that was credited against a child support obligation in error; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>prompt distribution of properly credited funds to the obligee parent.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The amount of an overpayment may be credited against bail described in Subsection if:</p>
+            </content>
+            <paragraph eId="59_10_529__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a court has issued a warrant for the arrest of the taxpayer for failure to post bail, appear, or otherwise satisfy the terms of a citation, summons, or court order; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a notice of intent to apply the overpayment as bail on the issued warrant has been sent to the taxpayer's current address on file with the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_10_529__subsec_6__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_529__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The commission shall deliver an overpayment applied as bail to the court that issued the warrant of arrest.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The clerk of the court is authorized to endorse the check or commission warrant of payment on behalf of the payees and deposit the money in the court treasury.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_6__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_10_529__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The court receiving an overpayment applied as bail shall order withdrawal of the warrant for arrest of the taxpayer if:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>In a case except for a case described in Subsection :</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_6__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_10_529__subsec_6__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If a taxpayer fails to respond to the notice required by Subsection , or to resolve the warrant within 40 days after the notice is sent under Subsection , the overpayment applied as bail is forfeited.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_6__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A court may issue another warrant or allow the original warrant to remain in force if:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If the alleged violations named in a warrant are later resolved in favor of the taxpayer, the bail amount shall be remitted to the taxpayer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The fine and bail forfeiture provisions of this section apply to all warrants, fines, fees, and surcharges issued in cases charging a taxpayer with a felony, a misdemeanor, or an infraction described in this section, which are outstanding on or after February 16, 1984.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>If the amount allowed as a credit for tax withheld from a taxpayer exceeds the tax to which the credit relates, the excess is considered an overpayment.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_10_529__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , a taxpayer shall claim a credit or refund of an overpayment that is attributable to a net operating loss carry back or carry forward within three years after the day on which the return for the taxable year of the net operating loss is due.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The three-year period described in Subsection shall be extended by any extension of time provided in statute for filing the return described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>If there is no tax liability for a period in which an amount is paid under this chapter, the amount is an overpayment.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>If a tax under this chapter is assessed or collected after the expiration of the applicable period of limitation, that amount is an overpayment.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_12">
+            <num>(12)</num>
+            <paragraph eId="59_10_529__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer may file a claim for a credit or refund of an overpayment within two years after the day on which a notice of change, notice of correction, or amended return is required to be filed with the commission if the taxpayer is required to:</p>
+              </content>
+              <subparagraph eId="59_10_529__subsec_12__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>report a change or correction in income reported on the taxpayer's federal income tax return;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_12__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>report a change or correction that is treated in the same manner as if the change or correction were an overpayment for federal income tax purposes; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_529__subsec_12__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>file an amended return with the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a report or amended return is not filed within 90 days after the day on which the report or amended return is due, interest on any resulting refund or credit ceases to accrue after the 90-day period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_12__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of the credit or refund may not exceed the amount of the reduction in tax attributable to the federal change, correction, or items amended on the taxpayer's amended federal income tax return.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_12__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in Subsection , this Subsection does not affect the amount or the time within which a claim for credit or refund may be filed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>A credit or refund may not be allowed or made if an overpayment is less than $1.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>In the case of an overpayment of tax by an employer under , an employer shall receive a refund or credit only to the extent that the amount of the overpayment is not deducted and withheld from wages under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_15">
+            <num>(15)</num>
+            <paragraph eId="59_10_529__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a taxpayer that is allowed a refund under this chapter dies, the commission may make payment to the personal representative of the taxpayer's estate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_529__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If there is no personal representative of the taxpayer's estate, the commission may make payment to those persons that establish entitlement to inherit the property of the decedent in the proportions established in .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_529__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>If an overpayment relates to a change in net income described in Subsection , a credit may be allowed or a refund paid any time before the expiration of the period within which a deficiency may be assessed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>An overpayment of a tax imposed by this chapter shall accrue interest at the rate and in the manner prescribed in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_529__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>A pass-through entity may claim a refund of qualifying excess withholding in accordance with Section in lieu of a pass-though entity taxpayer claiming a tax credit under Section or Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

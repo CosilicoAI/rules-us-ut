@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-516"/>
+          <FRBRuri value="/us-ut/act/code/59-2-516"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-516/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-516/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-516/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-516/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_516">
+          <num>59-2-516</num>
+          <heading>Appeal to the county board of equalization.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-2-516.
+Appeal to the county board of equalization.
+(1)
+Notwithstanding Section
+59-2-1004
+and except as provided in Subsection (2), the owner of land may appeal the determination or denial of a county assessor to the county board of equalization within 60 days after the day on which:
+(a)
+the county assessor makes a determination under this part; or
+(b)
+the county assessor's failure to make a determination results in the owner's request being considered denied under this part.
+(2)
+Notwithstanding Subsection (1), the commission shall, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, make rules establishing circumstances under which an appeal may be filed with the county board of equalization no later than 60 days after the deadline for an appeal described in Subsection (1).
+Amended by Chapter
+297
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_516__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding Section and except as provided in Subsection (2), the owner of land may appeal the determination or denial of a county assessor to the county board of equalization within 60 days after the day on which:</p>
+            </content>
+            <paragraph eId="59_2_516__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the county assessor makes a determination under this part; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_516__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the county assessor's failure to make a determination results in the owner's request being considered denied under this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_516__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding Subsection (1), the commission shall, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, make rules establishing circumstances under which an appeal may be filed with the county board of equalization no later than 60 days after the deadline for an appeal described in Subsection (1).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

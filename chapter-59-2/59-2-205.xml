@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-205"/>
+          <FRBRuri value="/us-ut/act/code/59-2-205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-205/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-205/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_205">
+          <num>59-2-205</num>
+          <heading>Record of assessment of mines -- Review by county assessor.</heading>
+          <content>
+            <p>59-2-205.
+Record of assessment of mines -- Review by county assessor.
+(1)
+Each year the commission shall prepare a record of assessment of mines.  The record shall include the following information for all mines subject to assessment by the commission:
+(a)
+the owner of the mine;
+(b)
+the name and description and location of the mine;
+(c)
+the county in which the mine is located;
+(d)
+the value of the mine;
+(e)
+the value of the machinery;
+(f)
+the value of supplies and other personal property;
+(g)
+the value of improvements; and
+(h)
+the value of machinery, property, and surface improvements having a value separate and independent of the mines or mining claims assessed by the commission, and the names of the owners of the machinery, property, or surface improvements, together with any other information determined by the commission.
+(2)
+The record of the assessment and the information upon which the assessments and apportionments are calculated are available for review upon request by a county assessor.
+Enacted by Chapter
+4
+, 1987 General Session</p>
+          </content>
+          <subsection eId="59_2_205__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each year the commission shall prepare a record of assessment of mines.  The record shall include the following information for all mines subject to assessment by the commission:</p>
+            </content>
+            <paragraph eId="59_2_205__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the owner of the mine;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the name and description and location of the mine;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the county in which the mine is located;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>the value of the mine;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>the value of the machinery;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>the value of supplies and other personal property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>the value of improvements; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_205__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>the value of machinery, property, and surface improvements having a value separate and independent of the mines or mining claims assessed by the commission, and the names of the owners of the machinery, property, or surface improvements, together with any other information determined by the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_205__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The record of the assessment and the information upon which the assessments and apportionments are calculated are available for review upon request by a county assessor.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

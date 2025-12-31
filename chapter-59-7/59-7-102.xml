@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-102"/>
+          <FRBRuri value="/us-ut/act/code/59-7-102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-102/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-102/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_102">
+          <num>59-7-102</num>
+          <heading>Exemptions.</heading>
+          <content>
+            <p>Effective 5/9/2017
+59-7-102.
+Exemptions.
+(1)
+Except as provided in this section, the following are exempt from a tax under this chapter:
+(a)
+an organization exempt under Section 501, Internal Revenue Code;
+(b)
+an organization exempt under Section 528, Internal Revenue Code;
+(c)
+an insurance company that is subject to taxation on the insurance company's premiums under
+Chapter 9, Taxation of Admitted Insurers
+, regardless of whether the insurance company has a tax liability under that chapter;
+(d)
+a local building authority as defined in Section
+17D-2-102
+;
+(e)
+a farmers' cooperative;
+(f)
+a public agency, as defined in Section
+11-13-103
+, with respect to or as a result of an ownership interest in:
+(i)
+a project, as defined in Section
+11-13-103
+; or
+(ii)
+facilities providing additional project capacity, as defined in Section
+11-13-103
+;
+(g)
+an insurance company that engages in a transaction that is subject to taxation under Section
+31A-3-301
+or
+31A-3-302
+, regardless of whether the insurance company has a tax liability under that section; or
+(h)
+a captive insurance company that pays a fee under Section
+31A-3-304
+.
+(2)
+A corporation is exempt from a tax under this chapter:
+(a)
+if the corporation is an out-of-state business as defined in Section
+53-2a-1202
+; and
+(b)
+for income earned:
+(i)
+during a disaster period as defined in Section
+53-2a-1202
+; and
+(ii)
+for the purpose of responding to a declared state disaster or emergency as defined in Section
+53-2a-1202
+.
+(3)
+Notwithstanding any other provision in this chapter or
+Chapter 8, Gross Receipts Tax on Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act
+, a person not otherwise subject to the tax imposed by this chapter or
+Chapter 8, Gross Receipts Tax on Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act
+, is not subject to a tax imposed by Section
+59-7-104
+,
+59-7-201
+,
+59-7-701
+, or
+59-8-104
+, because of:
+(a)
+that person's ownership of tangible personal property located at the premises of a printer's facility in this state with which the person has contracted for printing; or
+(b)
+the activities of the person's employees or agents who are:
+(i)
+located solely at the premises of a printer's facility; and
+(ii)
+performing services:
+(A)
+related to:
+(I)
+quality control;
+(II)
+distribution; or
+(III)
+printing services; and
+(B)
+performed by the printer's facility in this state with which the person has contracted for printing.
+(4)
+Notwithstanding Subsection
+(1)
+, an organization, company, authority, farmers' cooperative, or public agency exempt from this chapter under Subsection
+(1)
+is subject to
+Part 8, Unrelated Business Income
+, to the extent provided in
+Part 8, Unrelated Business Income
+.
+(5)
+Notwithstanding Subsection
+(1)(b)
+, to the extent the income of an organization described in Subsection
+(1)(b)
+is taxable for federal tax purposes under Section 528, Internal Revenue Code, the organization's income is also taxable under this chapter.
+Amended by Chapter
+168
+, 2017 General Session</p>
+          </content>
+          <subsection eId="59_7_102__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in this section, the following are exempt from a tax under this chapter:</p>
+            </content>
+            <paragraph eId="59_7_102__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an organization exempt under Section 501, Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>an organization exempt under Section 528, Internal Revenue Code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an insurance company that is subject to taxation on the insurance company's premiums under , regardless of whether the insurance company has a tax liability under that chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a local building authority as defined in Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>a farmers' cooperative;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>a public agency, as defined in Section , with respect to or as a result of an ownership interest in:</p>
+              </content>
+              <subparagraph eId="59_7_102__subsec_1__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a project, as defined in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_102__subsec_1__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>facilities providing additional project capacity, as defined in Section ;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>an insurance company that engages in a transaction that is subject to taxation under Section or , regardless of whether the insurance company has a tax liability under that section; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>a captive insurance company that pays a fee under Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_102__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A corporation is exempt from a tax under this chapter:</p>
+            </content>
+            <paragraph eId="59_7_102__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if the corporation is an out-of-state business as defined in Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for income earned:</p>
+              </content>
+              <subparagraph eId="59_7_102__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>during a disaster period as defined in Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_102__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for the purpose of responding to a declared state disaster or emergency as defined in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_102__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding any other provision in this chapter or , a person not otherwise subject to the tax imposed by this chapter or , is not subject to a tax imposed by Section , , , or , because of:</p>
+            </content>
+            <paragraph eId="59_7_102__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that person's ownership of tangible personal property located at the premises of a printer's facility in this state with which the person has contracted for printing; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_102__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the activities of the person's employees or agents who are:</p>
+              </content>
+              <subparagraph eId="59_7_102__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>located solely at the premises of a printer's facility; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_102__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>performing services:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_102__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding Subsection , an organization, company, authority, farmers' cooperative, or public agency exempt from this chapter under Subsection is subject to , to the extent provided in .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_102__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding Subsection , to the extent the income of an organization described in Subsection is taxable for federal tax purposes under Section 528, Internal Revenue Code, the organization's income is also taxable under this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-209"/>
+          <FRBRuri value="/us-ut/act/code/59-1-209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-209/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-209/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_209">
+          <num>59-1-209</num>
+          <heading>Official seal -- Authenticated copies of records as evidence.</heading>
+          <content>
+            <p>59-1-209.
+Official seal -- Authenticated copies of records as evidence.
+The commission shall adopt an official seal, and shall file an impression and description of the seal with the Division of Archives.  Copies of any records in the possession of the commission may be authenticated with the seal of the commission attested by the signature of the commission's administrative secretary, and when so authenticated shall be received in evidence to the same extent and with the same effect as the originals.
+Enacted by Chapter
+4
+, 1987 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

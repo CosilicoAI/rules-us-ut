@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-805"/>
+          <FRBRuri value="/us-ut/act/code/59-12-805"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-805/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-805/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-805/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-805/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_805">
+          <num>59-12-805</num>
+          <heading>Distribution of money collected from rural city hospital tax.</heading>
+          <content>
+            <p>Effective 5/13/2014
+59-12-805.
+Distribution of money collected from rural city hospital tax.
+(1)
+Except as provided in Subsection
+59-12-804(5)
+and Subsection
+(2)
+, all money collected from a tax under Section
+59-12-804
+shall be distributed quarterly by the city legislative body to rural city hospitals.
+(2)
+If there is more than one rural city hospital in a city, the money collected from a tax under Section
+59-12-804
+shall be distributed as determined by the city legislative body.
+Amended by Chapter
+50
+, 2014 General Session</p>
+          </content>
+          <subsection eId="59_12_805__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection and Subsection , all money collected from a tax under Section shall be distributed quarterly by the city legislative body to rural city hospitals.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_805__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If there is more than one rural city hospital in a city, the money collected from a tax under Section shall be distributed as determined by the city legislative body.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

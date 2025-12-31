@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1412"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1412"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1412/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1412/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1412/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1412/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1412">
+          <num>59-1-1412</num>
+          <heading>Applicability of section -- Delinquent payment -- Notice to third parties.</heading>
+          <content>
+            <p>59-1-1412.
+Applicability of section -- Delinquent payment -- Notice to third parties.
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+, this section applies to a delinquency in the payment of a liability.
+(b)
+This section does not apply to a garnishment.
+(2)
+If a person is delinquent in the payment of a liability, the commission may mail notice of the amount of the delinquency:
+(a)
+to a person that at the time of the receipt of the notice has in that person's possession, under that person's control, or owing to that person:
+(i)
+a credit of the person owing the liability;
+(ii)
+personal property of the person owing the liability; or
+(iii)
+a debt of the person owing the liability; and
+(b)
+in accordance with Section
+59-1-1404
+.
+(3)
+A person to which the commission mails notice in accordance with this section shall, within 10 days after the date the commission mails the notice, advise the commission of the following in the person's possession, under the person's control, or owing to the person:
+(a)
+a credit of the person owing the liability;
+(b)
+personal property of the person owing the liability; or
+(c)
+a debt of the person owing the liability.
+(4)
+A person to which the commission mails notice in accordance with this section may not transfer or make any other disposition of a credit, personal property, or debt described in Subsection
+(3)
+until the sooner of:
+(a)
+the commission consents to the transfer or disposition; or
+(b)
+20 days elapse after the day on which the person provides the commission the information required by Subsection
+(3)
+.
+Enacted by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_1412__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_1_1412__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , this section applies to a delinquency in the payment of a liability.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1412__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This section does not apply to a garnishment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1412__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a person is delinquent in the payment of a liability, the commission may mail notice of the amount of the delinquency:</p>
+            </content>
+            <paragraph eId="59_1_1412__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to a person that at the time of the receipt of the notice has in that person's possession, under that person's control, or owing to that person:</p>
+              </content>
+              <subparagraph eId="59_1_1412__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a credit of the person owing the liability;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1412__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>personal property of the person owing the liability; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1412__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a debt of the person owing the liability; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1412__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1412__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person to which the commission mails notice in accordance with this section shall, within 10 days after the date the commission mails the notice, advise the commission of the following in the person's possession, under the person's control, or owing to the person:</p>
+            </content>
+            <paragraph eId="59_1_1412__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a credit of the person owing the liability;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1412__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>personal property of the person owing the liability; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1412__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a debt of the person owing the liability.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1412__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A person to which the commission mails notice in accordance with this section may not transfer or make any other disposition of a credit, personal property, or debt described in Subsection until the sooner of:</p>
+            </content>
+            <paragraph eId="59_1_1412__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the commission consents to the transfer or disposition; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1412__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>20 days elapse after the day on which the person provides the commission the information required by Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

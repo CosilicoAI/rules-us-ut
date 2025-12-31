@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1002.1"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1002.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1002.1/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1002.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1002.1/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1002.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1002_1">
+          <num>59-10-1002.1</num>
+          <heading>Removal of tax credit from tax return and prohibition on claiming a tax credit -- Conditions for removal and prohibition on claiming a tax credit -- Commission publishing requirements.</heading>
+          <content>
+            <p>Effective 5/10/2016
+59-10-1002.1.
+Removal of tax credit from tax return and prohibition on claiming a tax credit -- Conditions for removal and prohibition on claiming a tax credit -- Commission publishing requirements.
+(1)
+As used in this section, &quot;tax return&quot; means a tax return filed in accordance with this chapter.
+(2)
+Except as provided in Subsection
+(4)
+, beginning two taxable years after the requirements of Subsection
+(3)
+are met:
+(a)
+the commission shall remove a tax credit allowed under this part from each tax return on which the tax credit appears; and
+(b)
+a claimant, estate, or trust filing a tax return may not claim the tax credit.
+(3)
+Except as provided in Subsection
+(4)
+, the commission shall remove a tax credit allowed under this part from a tax return and a claimant, estate, or trust filing a tax return may not claim the tax credit as provided in Subsection
+(2)
+if:
+(a)
+the total amount of the tax credit claimed or carried forward by all claimants, estates, or trusts filing tax returns is less than $10,000 per year for three consecutive taxable years beginning on or after January 1, 2002; and
+(b)
+less than 10 claimants, estates, and trusts per year for the three consecutive taxable years described in Subsection
+(3)(a)
+, file a tax return claiming or carrying forward the tax credit.
+(4)
+This section does not apply to a tax credit under Section
+59-10-1006
+or
+59-10-1027
+.
+(5)
+The commission shall, on or before the November interim meeting of the year after the taxable year in which the requirements of Subsection
+(3)
+are met, report to the Revenue and Taxation Interim Committee by electronic means that in accordance with this section:
+(a)
+the commission is required to remove a tax credit from each tax return on which the tax credit appears; and
+(b)
+a claimant, estate, or trust filing a tax return may not claim the tax credit.
+(6)
+(a)
+Within a 30-day period after making the report required by Subsection
+(5)
+, the commission shall publish a list in accordance with Subsection
+(6)(b)
+stating each tax credit that the commission will remove from a return on which the tax credit appears.
+(b)
+The list shall:
+(i)
+be published on:
+(A)
+the commission's website; and
+(B)
+the public legal notice website in accordance with Section
+45-1-101
+;
+(ii)
+include a statement that:
+(A)
+the commission is required to remove the tax credit from each return on which the tax credit appears; and
+(B)
+the tax credit may not be claimed on a return;
+(iii)
+state the taxable year for which the removal described in Subsection
+(6)(a)
+takes effect; and
+(iv)
+remain available for viewing and searching until the commission publishes a new list in accordance with this Subsection
+(6)
+.
+Amended by Chapter
+64
+, 2016 General Session
+Amended by Chapter
+135
+, 2016 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

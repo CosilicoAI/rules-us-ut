@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-601"/>
+          <FRBRuri value="/us-ut/act/code/59-14-601"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-601/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-601/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-601/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-601/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_601">
+          <num>59-14-601</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>59-14-601.
+Definitions.
+As used in this part:
+(1)
+&quot;Brand family&quot; means:
+(a)
+all styles of cigarettes sold under the same trademark and differentiated from one another by means of additional modifiers or descriptors, including: &quot;menthol,&quot; &quot;lights,&quot; &quot;kings,&quot; and &quot;100s&quot;; and
+(b)
+any brand name, alone or in conjunction with any other word, trademark, logo, symbol, motto, selling message, recognizable pattern of colors, or any other indicia of product identification identical or similar to, or identifiable with, a previously known brand of cigarettes.
+(2)
+&quot;Cigarette&quot; has the same meaning as in Subsection
+59-22-202(4)
+.
+(3)
+&quot;Commission&quot; means the State Tax Commission as defined in Section
+59-1-101
+.
+(4)
+&quot;Distributor&quot; means a person, wherever residing or located, who purchases nontax-paid cigarettes and stores, sells, or otherwise disposes of the cigarettes.
+(5)
+&quot;Master Settlement Agreement&quot; has the same meaning as in Subsection
+59-22-202(5)
+.
+(6)
+&quot;Nonparticipating manufacturer&quot; means any tobacco product manufacturer that is not a participating manufacturer.
+(7)
+&quot;Participating manufacturer&quot; has the meaning given that term in Section II(jj) of the Master Settlement Agreement and all amendments thereto.
+(8)
+&quot;Stamping agent&quot; means a person that is authorized to affix tax stamps to packages or other containers of cigarettes under Section
+59-14-205
+or any person that is required to pay the tobacco tax imposed pursuant to Section
+59-14-302
+.
+(9)
+&quot;Qualified Escrow Fund&quot; has the same meaning as defined in Subsection
+59-22-202(6)
+.
+(10)
+(a)
+Except as provided in Subsection
+(10)(b)
+, &quot;tobacco product manufacturer&quot; has the same meaning as defined in Subsection
+59-22-202(9)
+.
+(b)
+&quot;Tobacco product manufacturer&quot; does not include a cigarette rolling machine operator as defined in Section
+59-14-102
+.
+(11)
+&quot;Units sold&quot; has the same meaning as defined in Subsection
+59-22-202(10)
+.
+Amended by Chapter
+148
+, 2013 General Session</p>
+          </content>
+          <subsection eId="59_14_601__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Brand family&quot; means:</p>
+            </content>
+            <paragraph eId="59_14_601__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>all styles of cigarettes sold under the same trademark and differentiated from one another by means of additional modifiers or descriptors, including: &quot;menthol,&quot; &quot;lights,&quot; &quot;kings,&quot; and &quot;100s&quot;; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_601__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>any brand name, alone or in conjunction with any other word, trademark, logo, symbol, motto, selling message, recognizable pattern of colors, or any other indicia of product identification identical or similar to, or identifiable with, a previously known brand of cigarettes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_601__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Cigarette&quot; has the same meaning as in Subsection .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Commission&quot; means the State Tax Commission as defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Distributor&quot; means a person, wherever residing or located, who purchases nontax-paid cigarettes and stores, sells, or otherwise disposes of the cigarettes.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Master Settlement Agreement&quot; has the same meaning as in Subsection .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Nonparticipating manufacturer&quot; means any tobacco product manufacturer that is not a participating manufacturer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Participating manufacturer&quot; has the meaning given that term in Section II(jj) of the Master Settlement Agreement and all amendments thereto.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Stamping agent&quot; means a person that is authorized to affix tax stamps to packages or other containers of cigarettes under Section or any person that is required to pay the tobacco tax imposed pursuant to Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>&quot;Qualified Escrow Fund&quot; has the same meaning as defined in Subsection .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_601__subsec_10">
+            <num>(10)</num>
+            <paragraph eId="59_14_601__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , &quot;tobacco product manufacturer&quot; has the same meaning as defined in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_601__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Tobacco product manufacturer&quot; does not include a cigarette rolling machine operator as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_601__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Units sold&quot; has the same meaning as defined in Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

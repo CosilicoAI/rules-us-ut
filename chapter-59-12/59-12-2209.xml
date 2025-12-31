@@ -1,0 +1,328 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2209"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2209/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2209/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2209">
+          <num>59-12-2209</num>
+          <heading>Enactment, repeal, or change in the rate of a sales and use tax under this part -- Annexation -- Notice.</heading>
+          <content>
+            <p>59-12-2209.
+Enactment, repeal, or change in the rate of a sales and use tax under this part -- Annexation -- Notice.
+(1)
+Except as provided in Subsection
+(3)
+or
+(4)
+, if a county, city, or town enacts or repeals a sales and use tax or changes the rate of a sales and use tax under this part, the enactment, repeal, or change shall take effect:
+(a)
+on the first day of a calendar quarter; and
+(b)
+after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection
+(2)
+from the county, city, or town.
+(2)
+The notice described in Subsection
+(1)(b)
+shall state:
+(a)
+that the county, city, or town will enact, repeal, or change the rate of a sales and use tax under this part;
+(b)
+the statutory authority for the sales and use tax described in Subsection
+(2)(a)
+;
+(c)
+the date the enactment, repeal, or change will take effect; and
+(d)
+if the county, city, or town enacts the sales and use tax or changes the rate of the sales and use tax described in Subsection
+(2)(a)
+, the rate of the sales and use tax.
+(3)
+(a)
+If the billing period for a transaction begins before the effective date of the enactment of a sales and use tax or a tax rate increase under this part, the enactment of the sales and use tax or the tax rate increase takes effect on the first day of the first billing period that begins on or after the effective date of the enactment of the sales and use tax or the tax rate increase.
+(b)
+If the billing period for a transaction begins before the effective date of the repeal of a sales and use tax or a tax rate decrease under this part, the repeal of the sales and use tax or the tax rate decrease applies to a billing period if the billing statement for the billing period is rendered on or after the effective date of the repeal of the sales and use tax or the tax rate decrease.
+(4)
+(a)
+If a sales and use tax due under this part on a catalogue sale is computed on the basis of sales and use tax rates published in the catalogue, an enactment, repeal, or change in the rate of a sales and use tax described in Subsection
+(1)
+takes effect:
+(i)
+on the first day of a calendar quarter; and
+(ii)
+beginning 60 days after the effective date of the enactment, repeal, or change in the rate of the sales and use tax under Subsection
+(1)
+.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule define the term &quot;catalogue sale.&quot;
+(5)
+Except as provided in Subsection
+(7)
+or
+(8)
+, if an annexation will result in the enactment, repeal, or change in the rate of a sales and use tax under this part for an annexing area, the enactment, repeal, or change shall take effect:
+(a)
+on the first day of a calendar quarter; and
+(b)
+after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection
+(6)
+from the county, city, or town that annexes the annexing area.
+(6)
+The notice described in Subsection
+(5)
+shall state:
+(a)
+that the annexation described in Subsection
+(5)
+will result in an enactment, repeal, or change in the rate of a sales and use tax under this part for the annexing area;
+(b)
+the statutory authority for the sales and use tax described in Subsection
+(6)(a)
+;
+(c)
+the date the enactment, repeal, or change will take effect; and
+(d)
+if the annexation will result in the enactment or change in the rate of the sales and use tax described in Subsection
+(6)(a)
+, the rate of the sales and use tax.
+(7)
+(a)
+If the billing period for a transaction begins before the effective date of the enactment of a sales and use tax or a tax rate increase under this part, the enactment of the sales and use tax or the tax rate increase takes effect on the first day of the first billing period that begins on or after the effective date of the enactment of the sales and use tax or the tax rate increase.
+(b)
+If the billing period for a transaction begins before the effective date of the repeal of a sales and use tax or a tax rate decrease under this part, the repeal of the sales and use tax or the tax rate decrease applies to a billing period if the billing statement for the billing period is rendered on or after the effective date of the repeal of the sales and use tax or the tax rate decrease.
+(8)
+(a)
+If a sales and use tax due under this part on a catalogue sale is computed on the basis of sales and use tax rates published in the catalogue, an enactment, repeal, or change in the rate of a sales and use tax described in Subsection
+(6)
+takes effect:
+(i)
+on the first day of a calendar quarter; and
+(ii)
+beginning 60 days after the effective date of the enactment, repeal, or change in the rate of the sales and use tax under Subsection
+(6)
+.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule define the term &quot;catalogue sale.&quot;
+Amended by Chapter
+254
+, 2012 General Session</p>
+          </content>
+          <subsection eId="59_12_2209__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection or , if a county, city, or town enacts or repeals a sales and use tax or changes the rate of a sales and use tax under this part, the enactment, repeal, or change shall take effect:</p>
+            </content>
+            <paragraph eId="59_12_2209__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>on the first day of a calendar quarter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection from the county, city, or town.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The notice described in Subsection shall state:</p>
+            </content>
+            <paragraph eId="59_12_2209__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that the county, city, or town will enact, repeal, or change the rate of a sales and use tax under this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the statutory authority for the sales and use tax described in Subsection ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the date the enactment, repeal, or change will take effect; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>if the county, city, or town enacts the sales and use tax or changes the rate of the sales and use tax described in Subsection , the rate of the sales and use tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_2209__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the billing period for a transaction begins before the effective date of the enactment of a sales and use tax or a tax rate increase under this part, the enactment of the sales and use tax or the tax rate increase takes effect on the first day of the first billing period that begins on or after the effective date of the enactment of the sales and use tax or the tax rate increase.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the billing period for a transaction begins before the effective date of the repeal of a sales and use tax or a tax rate decrease under this part, the repeal of the sales and use tax or the tax rate decrease applies to a billing period if the billing statement for the billing period is rendered on or after the effective date of the repeal of the sales and use tax or the tax rate decrease.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_2209__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a sales and use tax due under this part on a catalogue sale is computed on the basis of sales and use tax rates published in the catalogue, an enactment, repeal, or change in the rate of a sales and use tax described in Subsection takes effect:</p>
+              </content>
+              <subparagraph eId="59_12_2209__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on the first day of a calendar quarter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2209__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>beginning 60 days after the effective date of the enactment, repeal, or change in the rate of the sales and use tax under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may by rule define the term &quot;catalogue sale.&quot;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Except as provided in Subsection or , if an annexation will result in the enactment, repeal, or change in the rate of a sales and use tax under this part for an annexing area, the enactment, repeal, or change shall take effect:</p>
+            </content>
+            <paragraph eId="59_12_2209__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>on the first day of a calendar quarter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection from the county, city, or town that annexes the annexing area.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The notice described in Subsection shall state:</p>
+            </content>
+            <paragraph eId="59_12_2209__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that the annexation described in Subsection will result in an enactment, repeal, or change in the rate of a sales and use tax under this part for the annexing area;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the statutory authority for the sales and use tax described in Subsection ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the date the enactment, repeal, or change will take effect; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>if the annexation will result in the enactment or change in the rate of the sales and use tax described in Subsection , the rate of the sales and use tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_12_2209__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the billing period for a transaction begins before the effective date of the enactment of a sales and use tax or a tax rate increase under this part, the enactment of the sales and use tax or the tax rate increase takes effect on the first day of the first billing period that begins on or after the effective date of the enactment of the sales and use tax or the tax rate increase.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the billing period for a transaction begins before the effective date of the repeal of a sales and use tax or a tax rate decrease under this part, the repeal of the sales and use tax or the tax rate decrease applies to a billing period if the billing statement for the billing period is rendered on or after the effective date of the repeal of the sales and use tax or the tax rate decrease.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2209__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_12_2209__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a sales and use tax due under this part on a catalogue sale is computed on the basis of sales and use tax rates published in the catalogue, an enactment, repeal, or change in the rate of a sales and use tax described in Subsection takes effect:</p>
+              </content>
+              <subparagraph eId="59_12_2209__subsec_8__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on the first day of a calendar quarter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2209__subsec_8__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>beginning 60 days after the effective date of the enactment, repeal, or change in the rate of the sales and use tax under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2209__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may by rule define the term &quot;catalogue sale.&quot;</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-206"/>
+          <FRBRuri value="/us-ut/act/code/59-1-206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-206/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-206/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_206">
+          <num>59-1-206</num>
+          <heading>Appointment of staff -- Executive director -- Compensation -- Administrative secretary -- Internal audit unit -- Appeals office staff -- Division directors -- Criminal tax investigators.</heading>
+          <content>
+            <p>Effective 7/1/2021
+59-1-206.
+Appointment of staff -- Executive director -- Compensation -- Administrative secretary -- Internal audit unit -- Appeals office staff -- Division directors -- Criminal tax investigators.
+(1)
+The commission shall appoint the following persons who are qualified, knowledgeable, and experienced in matters relating to their respective positions, exempt under
+Title 63A, Chapter 17, Utah State Personnel Management Act
+, to serve at the pleasure of, and who are directly accountable to, the commission:
+(a)
+in consultation with the governor and with the advice and consent of the Senate, an executive director;
+(b)
+an administrative secretary;
+(c)
+an internal audit unit; and
+(d)
+an appeals staff.
+(2)
+The governor shall establish the executive director's salary within the salary range fixed by the Legislature in
+Title 67, Chapter 22, State Officer Compensation
+.
+(3)
+Division directors shall be appointed by the executive director subject to the approval of the commission.  The division directors are exempt employees under
+Title 63A, Chapter 17, Utah State Personnel Management Act
+.
+(4)
+(a)
+The executive director may with the approval of the commission employ additional staff necessary to perform the duties and responsibilities of the commission.  These employees are subject to
+Title 63A, Chapter 17, Utah State Personnel Management Act
+.
+(b)
+(i)
+The executive director may under Subsection
+(4)(a)
+employ criminal tax investigators to help the commission carry out its duties and responsibilities regarding criminal provisions of the state tax laws.  The executive director may not employ more than eight criminal tax investigators at one time.
+(ii)
+The executive director may designate investigators hired under this Subsection
+(4)(b)
+as special function officers, as defined in Section
+53-13-105
+, to enforce the criminal provisions of the state tax laws.
+(iii)
+Notwithstanding Section
+49-15-201
+, any special function officer designated under this Subsection
+(4)(b)
+may not become or be designated as a member of the Public Safety Retirement Systems.
+(5)
+The internal audit unit shall provide the following:
+(a)
+an examination to determine the honesty and integrity of fiscal affairs, the accuracy and reliability of financial statements and reports, and the adequacy and effectiveness of financial controls to properly record and safeguard the acquisition, custody, and use of public funds;
+(b)
+an examination to determine whether commission administrators have faithfully adhered to commission policies and legislative intent;
+(c)
+an examination to determine whether the operations of the divisions and other units of the commission have been conducted in an efficient and effective manner;
+(d)
+an examination to determine whether the programs administered by the divisions and other units of the commission have been effective in accomplishing intended objectives; and
+(e)
+an examination to determine whether management control and information systems are adequate and effective in assuring that commission programs are administered faithfully, efficiently, and effectively.
+(6)
+The appeals office shall receive and hear appeals to the commission and shall conduct the hearings in compliance with formal written rules approved by the commission.  The commission has final review authority over the appeals.
+Amended by Chapter
+345
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_1_206__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall appoint the following persons who are qualified, knowledgeable, and experienced in matters relating to their respective positions, exempt under , to serve at the pleasure of, and who are directly accountable to, the commission:</p>
+            </content>
+            <paragraph eId="59_1_206__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>in consultation with the governor and with the advice and consent of the Senate, an executive director;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>an administrative secretary;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an internal audit unit; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>an appeals staff.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_206__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The governor shall establish the executive director's salary within the salary range fixed by the Legislature in .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_206__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Division directors shall be appointed by the executive director subject to the approval of the commission.  The division directors are exempt employees under .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_206__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_1_206__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The executive director may with the approval of the commission employ additional staff necessary to perform the duties and responsibilities of the commission.  These employees are subject to .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_4__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_1_206__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The executive director may under Subsection employ criminal tax investigators to help the commission carry out its duties and responsibilities regarding criminal provisions of the state tax laws.  The executive director may not employ more than eight criminal tax investigators at one time.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_206__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The executive director may designate investigators hired under this Subsection as special function officers, as defined in Section , to enforce the criminal provisions of the state tax laws.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_206__subsec_4__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>Notwithstanding Section , any special function officer designated under this Subsection may not become or be designated as a member of the Public Safety Retirement Systems.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_206__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The internal audit unit shall provide the following:</p>
+            </content>
+            <paragraph eId="59_1_206__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an examination to determine the honesty and integrity of fiscal affairs, the accuracy and reliability of financial statements and reports, and the adequacy and effectiveness of financial controls to properly record and safeguard the acquisition, custody, and use of public funds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>an examination to determine whether commission administrators have faithfully adhered to commission policies and legislative intent;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an examination to determine whether the operations of the divisions and other units of the commission have been conducted in an efficient and effective manner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>an examination to determine whether the programs administered by the divisions and other units of the commission have been effective in accomplishing intended objectives; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_206__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>an examination to determine whether management control and information systems are adequate and effective in assuring that commission programs are administered faithfully, efficiently, and effectively.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_206__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The appeals office shall receive and hear appeals to the commission and shall conduct the hearings in compliance with formal written rules approved by the commission.  The commission has final review authority over the appeals.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

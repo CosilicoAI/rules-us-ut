@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-319"/>
+          <FRBRuri value="/us-ut/act/code/59-7-319"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-319/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-319/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-319/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-319/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_319">
+          <num>59-7-319</num>
+          <heading>Circumstances under which a receipt, rent, royalty, or sale is considered to be in this state.</heading>
+          <content>
+            <p>Effective 5/14/2019
+59-7-319.
+Circumstances under which a receipt, rent, royalty, or sale is considered to be in this state.
+(1)
+(a)
+Subject to Subsection
+(1)(b)
+, as used in this section, &quot;regulated investment company&quot; is as defined in Section 851(a), Internal Revenue Code, in effect for the taxable year.
+(b)
+&quot;Regulated investment company&quot; includes a trustee or sponsor of an employee benefit plan that has an account in a regulated investment company.
+(2)
+The following are considered to be in this state:
+(a)
+a rent in connection with:
+(i)
+real property if the real property is in this state; or
+(ii)
+tangible personal property if the tangible personal property is in this state;
+(b)
+a royalty in connection with real property if the real property is in this state;
+(c)
+a sale in connection with real property if the real property is in this state; or
+(d)
+other income in connection with real property or tangible personal property if the real property or tangible personal property is in this state.
+(3)
+(a)
+Subject to Subsection
+(3)(b)
+, a receipt from the performance of a service is considered to be in this state if the purchaser of the service receives a greater benefit of the service in this state than in any other single:
+(i)
+foreign country; or
+(ii)
+state, as defined in Section
+68-3-12.5
+.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule prescribe the circumstances under which a purchaser of a service receives a greater benefit of the service in this state than in any other single:
+(i)
+foreign country; or
+(ii)
+state, as defined in Section
+68-3-12.5
+.
+(4)
+(a)
+Subject to Subsection
+(4)(b)
+, a receipt in connection with intangible property is considered to be in this state if the intangible property is used in this state.
+(b)
+If the intangible property described in Subsection
+(4)(a)
+is used in this state and outside this state, a receipt in connection with the intangible property shall be apportioned to this state in accordance with Subsection
+(4)(c)
+.
+(c)
+For purposes of Subsection
+(4)(b)
+, for a taxable year the percentage of a receipt in connection with intangible property that is considered to be in this state is the percentage of the use of the intangible property that occurs in this state during the taxable year.
+(5)
+(a)
+Notwithstanding Subsections
+(2)
+through
+(4)
+, a sale, other than a sale of tangible personal property, derived, directly or indirectly, from the sale of management, distribution, or administration services to, or on behalf of a regulated investment company, is considered to be in this state:
+(i)
+to the extent that shareholders of the regulated investment company are domiciled in the state; and
+(ii)
+as provided in this Subsection
+(5)
+.
+(b)
+For purposes of Subsection
+(5)(a)
+, the amount of a sale, other than a sale of tangible personal property, that is considered to be in this state is calculated by determining the product of:
+(i)
+the taxpayer's total dollar amount of sales of the services; and
+(ii)
+a fraction, the numerator of which is the average of the sum of the beginning of the year and the end of year balance of shares owned by the investment company shareholders domiciled in this state and the denominator of which is the average of the sum of the beginning of the year and end of year balance of shares owned by the investment company shareholders.
+(c)
+A separate computation shall be made to determine the sales for each investment company.
+(6)
+(a)
+Notwithstanding Subsections
+(2)
+through
+(4)
+and subject to Subsection
+(6)(b)
+, the following sales are considered to be in this state to the extent that customers of a securities brokerage business are domiciled in the state:
+(i)
+a sale, other than a sale of tangible personal property, derived, directly or indirectly, from the sale of a securities brokerage service by a taxpayer if that taxpayer is primarily engaged in providing a service in this state to a regulated investment company; or
+(ii)
+a sale, other than a sale of tangible personal property, derived, directly or indirectly, from the sale of a securities brokerage service by a taxpayer that is an affiliate of a taxpayer that provides a service in this state to a regulated investment company.
+(b)
+For purposes of Subsection
+(6)(a)
+, the amount of a sale, other than a sale of tangible personal property, that is considered to be in this state is calculated by determining the product of:
+(i)
+the taxpayer's total dollar amount of sales of securities brokerage services; and
+(ii)
+a fraction, the numerator of which is the receipts from securities brokerage services from customers of the taxpayer domiciled in this state, and the denominator of which is the receipts from securities brokerage services from all customers of the taxpayer.
+(7)
+Whether sales by an airline, other than sales of tangible personal property, are in this state is determined as provided in this section, subject to the calculation required by Subsection
+59-7-317(2)
+.
+Amended by Chapter
+418
+, 2019 General Session</p>
+          </content>
+          <subsection eId="59_7_319__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_7_319__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , as used in this section, &quot;regulated investment company&quot; is as defined in Section 851(a), Internal Revenue Code, in effect for the taxable year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Regulated investment company&quot; includes a trustee or sponsor of an employee benefit plan that has an account in a regulated investment company.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_319__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The following are considered to be in this state:</p>
+            </content>
+            <paragraph eId="59_7_319__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a rent in connection with:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>real property if the real property is in this state; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>tangible personal property if the tangible personal property is in this state;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a royalty in connection with real property if the real property is in this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a sale in connection with real property if the real property is in this state; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>other income in connection with real property or tangible personal property if the real property or tangible personal property is in this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_319__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_7_319__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , a receipt from the performance of a service is considered to be in this state if the purchaser of the service receives a greater benefit of the service in this state than in any other single:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>foreign country; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>state, as defined in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may by rule prescribe the circumstances under which a purchaser of a service receives a greater benefit of the service in this state than in any other single:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>foreign country; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>state, as defined in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_319__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_7_319__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , a receipt in connection with intangible property is considered to be in this state if the intangible property is used in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the intangible property described in Subsection is used in this state and outside this state, a receipt in connection with the intangible property shall be apportioned to this state in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of Subsection , for a taxable year the percentage of a receipt in connection with intangible property that is considered to be in this state is the percentage of the use of the intangible property that occurs in this state during the taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_319__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_7_319__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding Subsections through , a sale, other than a sale of tangible personal property, derived, directly or indirectly, from the sale of management, distribution, or administration services to, or on behalf of a regulated investment company, is considered to be in this state:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>to the extent that shareholders of the regulated investment company are domiciled in the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>as provided in this Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , the amount of a sale, other than a sale of tangible personal property, that is considered to be in this state is calculated by determining the product of:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the taxpayer's total dollar amount of sales of the services; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a fraction, the numerator of which is the average of the sum of the beginning of the year and the end of year balance of shares owned by the investment company shareholders domiciled in this state and the denominator of which is the average of the sum of the beginning of the year and end of year balance of shares owned by the investment company shareholders.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A separate computation shall be made to determine the sales for each investment company.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_319__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_7_319__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding Subsections through and subject to Subsection , the following sales are considered to be in this state to the extent that customers of a securities brokerage business are domiciled in the state:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a sale, other than a sale of tangible personal property, derived, directly or indirectly, from the sale of a securities brokerage service by a taxpayer if that taxpayer is primarily engaged in providing a service in this state to a regulated investment company; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a sale, other than a sale of tangible personal property, derived, directly or indirectly, from the sale of a securities brokerage service by a taxpayer that is an affiliate of a taxpayer that provides a service in this state to a regulated investment company.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_319__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , the amount of a sale, other than a sale of tangible personal property, that is considered to be in this state is calculated by determining the product of:</p>
+              </content>
+              <subparagraph eId="59_7_319__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the taxpayer's total dollar amount of sales of securities brokerage services; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_319__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a fraction, the numerator of which is the receipts from securities brokerage services from customers of the taxpayer domiciled in this state, and the denominator of which is the receipts from securities brokerage services from all customers of the taxpayer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_319__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Whether sales by an airline, other than sales of tangible personal property, are in this state is determined as provided in this section, subject to the calculation required by Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1403"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1403"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1403/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1403/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1403/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1403/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1403">
+          <num>59-1-1403</num>
+          <heading>Commission to collect a tax, fee, or charge -- Receipt for tax, fee, or charge paid -- Additional remedies -- Collection agents and counsel -- Action by attorney general or county attorney -- Commission rulemaking authority.</heading>
+          <content>
+            <p>59-1-1403.
+Commission to collect a tax, fee, or charge -- Receipt for tax, fee, or charge paid -- Additional remedies -- Collection agents and counsel -- Action by attorney general or county attorney -- Commission rulemaking authority.
+(1)
+Except as otherwise provided in this title, the commission shall collect a tax, fee, or charge.
+(2)
+The commission may designate an agent to collect a tax, fee, or charge.
+(3)
+The commission shall, upon request, give a receipt for a tax, fee, or charge the commission collects.
+(4)
+(a)
+A remedy provided in this part is in addition to other existing remedies.
+(b)
+An action taken by the commission may not be construed to be an election on the part of the state or an officer of the state to pursue a remedy under this part to the exclusion of another remedy.
+(5)
+The commission may:
+(a)
+retain counsel for the purpose of collecting an amount the commission assesses against a person who is not a resident of this state;
+(b)
+establish the compensation of an agent described in Subsection
+(2)
+or counsel described in Subsection
+(5)(a)
+to be paid out of money appropriated or otherwise lawfully available for payment to the agent or counsel; and
+(c)
+require a bond or other security for an agent described in Subsection
+(2)
+or counsel described in Subsection
+(5)(a)
+in a form and amount the commission considers appropriate.
+(6)
+(a)
+The commission shall represent the state in a matter pertaining to the collection of a tax, fee, or charge.
+(b)
+The commission may institute a proceeding to enforce a judgment allowing for the collection of a liability in the district court of a county in which is located a portion of property against which collection is sought.
+(c)
+For purposes of Subsection
+(6)(b)
+, the commission may request that the following assist the commission:
+(i)
+the attorney general; or
+(ii)
+a county attorney.
+(7)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule establish a collection procedure:
+(a)
+in addition to the methods of collecting a liability provided in this title;
+(b)
+that is consistent with this part;
+(c)
+that uses a return, warrant, or other reasonable document or method; and
+(d)
+that is necessary in collecting a liability.
+Enacted by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_1403__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided in this title, the commission shall collect a tax, fee, or charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1403__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission may designate an agent to collect a tax, fee, or charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1403__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall, upon request, give a receipt for a tax, fee, or charge the commission collects.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1403__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_1_1403__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A remedy provided in this part is in addition to other existing remedies.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An action taken by the commission may not be construed to be an election on the part of the state or an officer of the state to pursue a remedy under this part to the exclusion of another remedy.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1403__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission may:</p>
+            </content>
+            <paragraph eId="59_1_1403__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>retain counsel for the purpose of collecting an amount the commission assesses against a person who is not a resident of this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>establish the compensation of an agent described in Subsection or counsel described in Subsection to be paid out of money appropriated or otherwise lawfully available for payment to the agent or counsel; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>require a bond or other security for an agent described in Subsection or counsel described in Subsection in a form and amount the commission considers appropriate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1403__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_1_1403__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall represent the state in a matter pertaining to the collection of a tax, fee, or charge.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may institute a proceeding to enforce a judgment allowing for the collection of a liability in the district court of a county in which is located a portion of property against which collection is sought.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of Subsection , the commission may request that the following assist the commission:</p>
+              </content>
+              <subparagraph eId="59_1_1403__subsec_6__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the attorney general; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1403__subsec_6__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a county attorney.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1403__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>In accordance with , the commission may by rule establish a collection procedure:</p>
+            </content>
+            <paragraph eId="59_1_1403__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>in addition to the methods of collecting a liability provided in this title;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>that is consistent with this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>that uses a return, warrant, or other reasonable document or method; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1403__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>that is necessary in collecting a liability.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
