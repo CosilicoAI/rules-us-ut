@@ -1,0 +1,336 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-202"/>
+          <FRBRuri value="/us-ut/act/code/59-14-202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-202/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-202/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-202/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-202/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_202">
+          <num>59-14-202</num>
+          <heading>Issuance of licenses -- Common carrier licenses -- Contents -- Valid for three years -- Revocation -- Distribution requirements.</heading>
+          <content>
+            <p>59-14-202.
+Issuance of licenses -- Common carrier licenses -- Contents -- Valid for three years -- Revocation -- Distribution requirements.
+(1)
+Cigarette licenses may be issued only to a person owning or operating the place or cigarette vending machine from which the cigarette sales are made.
+(2)
+(a)
+A license is required for each separate place of business.
+(b)
+A licensee shall notify the commission within 30 days in the event that it changes the location of the business.
+(3)
+Applications for a license under this chapter shall be submitted on a form authorized by the commission.  Each application shall state:
+(a)
+the name and address of the applicant;
+(b)
+the address of each place of business where the applicant's business will be conducted within this state; and
+(c)
+any other information the commission may require relevant to license qualification.
+(4)
+A common carrier is not required to obtain more than one license for sales on conveyances operated by that carrier within the state.  All conveyances owned by a common carrier are considered as one place of business for the purpose of this chapter.
+(5)
+No license may be granted, maintained, or renewed:
+(a)
+if any combination of people owning directly or indirectly, in the aggregate, more than 10% of the ownership interests in the applicant:
+(i)
+has been convicted of knowingly:
+(A)
+selling stolen or counterfeit cigarettes;
+(B)
+receiving stolen or counterfeit cigarettes; or
+(C)
+being involved in the smuggling or counterfeiting of cigarettes;
+(ii)
+is a cigarette manufacturer or importer that is not a:
+(A)
+participating manufacturer as defined in subsection II(jj) of the &quot;Master Settlement Agreement&quot;; or
+(B)
+in full compliance with the provisions of this chapter dealing with nonparticipating manufacturers;
+(iii)
+has imported, or caused to be imported, into the United States any cigarette in violation of 19 U.S.C. 1681a; or
+(iv)
+has imported, or caused to be imported into the United States, or manufactured for sale or distribution in the United States any cigarette that does not fully comply with the Federal Cigarette Labeling and Advertising Act, 15 U.S.C. 1331, et. seq.; and
+(b)
+until the applicant:
+(i)
+has paid any delinquent cigarette taxes; and
+(ii)
+has served the period of suspension resulting from any prior revoked license.
+(6)
+Each license shall be numbered, show the residence and place of business of the licensee, and is nontransferable.
+(7)
+(a)
+Each license is in effect for three years from the date of issuance, unless the license is earlier revoked by the commission.
+(b)
+The license expires on the expiration date shown on the license, unless the licensee renews it in accordance with commission rules.
+(c)
+The commission shall by rule establish procedures for the renewal and reinstatement of licenses.
+(8)
+(a)
+In addition to any civil or criminal penalty provided by law, the commission shall, after providing notice and a hearing, revoke the license of any person:
+(i)
+found to have violated this title; or
+(ii)
+who no longer qualifies for licensure under Subsection
+(5)
+.
+(b)
+In the case of a revocation under Subsection
+(8)(a)(i)
+, a license may not be issued to that person within a period of two years after the violation.
+(9)
+A licensee may not barter, sell, exchange, or offer for sale:
+(a)
+cigarettes in an individual package or container that contains less than 20 cigarettes; or
+(b)
+roll-your-own cigarettes in an individual package or container that contains less than 0.6 ounces of tobacco.
+(10)
+(a)
+The commission shall maintain a list that includes the identity of all people licensed under this section.
+(b)
+The list shall:
+(i)
+include the type of license possessed; and
+(ii)
+be updated by the commission at least once per quarter.
+Amended by Chapter
+217
+, 2004 General Session</p>
+          </content>
+          <subsection eId="59_14_202__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Cigarette licenses may be issued only to a person owning or operating the place or cigarette vending machine from which the cigarette sales are made.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_202__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_14_202__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A license is required for each separate place of business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A licensee shall notify the commission within 30 days in the event that it changes the location of the business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_202__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Applications for a license under this chapter shall be submitted on a form authorized by the commission.  Each application shall state:</p>
+            </content>
+            <paragraph eId="59_14_202__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the name and address of the applicant;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the address of each place of business where the applicant's business will be conducted within this state; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>any other information the commission may require relevant to license qualification.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_202__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A common carrier is not required to obtain more than one license for sales on conveyances operated by that carrier within the state.  All conveyances owned by a common carrier are considered as one place of business for the purpose of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_202__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>No license may be granted, maintained, or renewed:</p>
+            </content>
+            <paragraph eId="59_14_202__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if any combination of people owning directly or indirectly, in the aggregate, more than 10% of the ownership interests in the applicant:</p>
+              </content>
+              <subparagraph eId="59_14_202__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>has been convicted of knowingly:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_202__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is a cigarette manufacturer or importer that is not a:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_202__subsec_5__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>has imported, or caused to be imported, into the United States any cigarette in violation of 19 U.S.C. 1681a; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_202__subsec_5__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>has imported, or caused to be imported into the United States, or manufactured for sale or distribution in the United States any cigarette that does not fully comply with the Federal Cigarette Labeling and Advertising Act, 15 U.S.C. 1331, et. seq.; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>until the applicant:</p>
+              </content>
+              <subparagraph eId="59_14_202__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>has paid any delinquent cigarette taxes; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_202__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>has served the period of suspension resulting from any prior revoked license.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_202__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Each license shall be numbered, show the residence and place of business of the licensee, and is nontransferable.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_202__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_14_202__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each license is in effect for three years from the date of issuance, unless the license is earlier revoked by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The license expires on the expiration date shown on the license, unless the licensee renews it in accordance with commission rules.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The commission shall by rule establish procedures for the renewal and reinstatement of licenses.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_202__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_14_202__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to any civil or criminal penalty provided by law, the commission shall, after providing notice and a hearing, revoke the license of any person:</p>
+              </content>
+              <subparagraph eId="59_14_202__subsec_8__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>found to have violated this title; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_202__subsec_8__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>who no longer qualifies for licensure under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In the case of a revocation under Subsection , a license may not be issued to that person within a period of two years after the violation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_202__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>A licensee may not barter, sell, exchange, or offer for sale:</p>
+            </content>
+            <paragraph eId="59_14_202__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>cigarettes in an individual package or container that contains less than 20 cigarettes; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>roll-your-own cigarettes in an individual package or container that contains less than 0.6 ounces of tobacco.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_202__subsec_10">
+            <num>(10)</num>
+            <paragraph eId="59_14_202__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall maintain a list that includes the identity of all people licensed under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_202__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The list shall:</p>
+              </content>
+              <subparagraph eId="59_14_202__subsec_10__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>include the type of license possessed; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_202__subsec_10__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>be updated by the commission at least once per quarter.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

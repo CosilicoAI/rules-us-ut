@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-201"/>
+          <FRBRuri value="/us-ut/act/code/59-10-201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-201/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-201/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_201">
+          <num>59-10-201</num>
+          <heading>Taxation of resident trusts and estates.</heading>
+          <content>
+            <p>Effective 10/14/2025
+59-10-201.
+Taxation of resident trusts and estates.
+(1)
+Except as provided in Subsection
+(2)
+, a tax determined in accordance with the rate prescribed by Subsection
+59-10-104(2)(b)
+is imposed for each taxable year on the state taxable income of each resident estate or trust.
+(2)
+The following are not subject to a tax imposed by this part:
+(a)
+a resident estate or trust that is not required to file a federal income tax return for estates and trusts for the taxable year; or
+(b)
+a resident trust taxed as a corporation.
+(3)
+A resident estate or trust shall be allowed the credit provided in Section
+59-10-1003
+, relating to an income tax imposed by another state, except that the limitation shall be computed by reference to the taxable income of the estate or trust.
+(4)
+The property of the Utah Educational Savings Plan established in Title 53H, Chapter 10 Utah Education Savings, and the Utah Educational Savings Plan's income from operations and investments are exempt from all taxation by the state under this chapter.
+Amended by Chapter
+9
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_10_201__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , a tax determined in accordance with the rate prescribed by Subsection is imposed for each taxable year on the state taxable income of each resident estate or trust.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_201__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The following are not subject to a tax imposed by this part:</p>
+            </content>
+            <paragraph eId="59_10_201__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a resident estate or trust that is not required to file a federal income tax return for estates and trusts for the taxable year; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_201__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a resident trust taxed as a corporation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_201__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A resident estate or trust shall be allowed the credit provided in Section , relating to an income tax imposed by another state, except that the limitation shall be computed by reference to the taxable income of the estate or trust.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_201__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The property of the Utah Educational Savings Plan established in Title 53H, Chapter 10 Utah Education Savings, and the Utah Educational Savings Plan's income from operations and investments are exempt from all taxation by the state under this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

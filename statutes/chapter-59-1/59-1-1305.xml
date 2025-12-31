@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1305"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1305"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1305/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1305/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1305/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1305/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1305">
+          <num>59-1-1305</num>
+          <heading>Penalty for taxpayer underpayment of tax attributable to a reportable transaction.</heading>
+          <content>
+            <p>59-1-1305.
+Penalty for taxpayer underpayment of tax attributable to a reportable transaction.
+(1)
+If the underpayment of a tax by a taxpayer is attributable to a reportable transaction, the taxpayer is subject to a penalty that is equal to the product of:
+(a)
+10%; and
+(b)
+the amount of the tax underpayment attributable to the reportable transaction.
+(2)
+If a taxpayer amends an income tax return to change the tax treatment of a reportable transaction after the day on which the commission contacts the taxpayer regarding the examination of the income tax return, that change in the tax treatment of the reportable transaction contained in the amended income tax return may not be considered in determining a tax underpayment under this section.
+(3)
+A penalty imposed by this section is in addition to any other penalty imposed by this title.
+Enacted by Chapter
+237
+, 2006 General Session</p>
+          </content>
+          <subsection eId="59_1_1305__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the underpayment of a tax by a taxpayer is attributable to a reportable transaction, the taxpayer is subject to a penalty that is equal to the product of:</p>
+            </content>
+            <paragraph eId="59_1_1305__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>10%; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1305__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the amount of the tax underpayment attributable to the reportable transaction.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1305__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a taxpayer amends an income tax return to change the tax treatment of a reportable transaction after the day on which the commission contacts the taxpayer regarding the examination of the income tax return, that change in the tax treatment of the reportable transaction contained in the amended income tax return may not be considered in determining a tax underpayment under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1305__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A penalty imposed by this section is in addition to any other penalty imposed by this title.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,367 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1703"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1703"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1703/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1703/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1703/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1703/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1703">
+          <num>59-2-1703</num>
+          <heading>Qualifications for urban farming assessment.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-2-1703.
+Qualifications for urban farming assessment.
+(1)
+(a)
+For general property tax purposes, land may be assessed on the basis of the value that the land has for agricultural use if the land:
+(i)
+is actively devoted to urban farming;
+(ii)
+is at least one contiguous acre, but less than five acres, in size; and
+(iii)
+(A)
+has been actively devoted to urban farming for at least two successive years immediately preceding the tax year for which the land is assessed under this part; or
+(B)
+was assessed under Part 5, Farmland Assessment Act, for the preceding tax year.
+(b)
+Land that is not actively devoted to urban farming may not be assessed as provided in Subsection (1)(a), even if the land is part of a parcel that includes land actively devoted to urban farming.
+(2)
+(a)
+In determining whether land meets the production requirement in Subsection
+59-2-1702(1)(b)(i)
+, production per acre for a given county or area and a given type of land shall be determined by using the first applicable of the following:
+(i)
+production levels reported in the current publication of Utah Agricultural Statistics;
+(ii)
+current crop budgets developed and published by Utah State University; or
+(iii)
+the highest per acre value used for land assessed under the Farmland Assessment Act for the county in which the property is located.
+(b)
+A county assessor may not assess land actively devoted to urban farming on the basis of the value that the land has for agricultural use under this part unless an owner files documentation with the county assessor:
+(i)
+on a form provided by the county assessor;
+(ii)
+demonstrating to the satisfaction of the county assessor that the land meets:
+(A)
+the production requirement in Subsection
+59-2-1702(1)(b)(i)
+; or
+(B)
+the gross sales requirement in Subsection
+59-2-1702(1)(b)
+(ii); and
+(iii)
+except as provided in Subsection
+59-2-1707
+(2)(c)(i), no later than January 30 of the tax year in which the owner applies for assessment under this part.
+(3)
+Notwithstanding Subsection (1)(a)(ii), a county board of equalization may grant a waiver of the acreage requirements of Subsection (1)(a)(ii):
+(a)
+on appeal by an owner; and
+(b)
+if the owner submits documentation to the county assessor demonstrating to the satisfaction of the county assessor that:
+(i)
+the failure to meet the acreage requirements of Subsection (1)(a)(ii) arose solely as a result of an acquisition by a governmental entity by:
+(A)
+eminent domain; or
+(B)
+the threat or imminence of an eminent domain proceeding;
+(ii)
+the land is actively devoted to urban farming; and
+(iii)
+no change occurs in the ownership of the land.
+(4)
+(a)
+Notwithstanding Subsection (1) and except as provided in Subsection (4)(d), land for urban farming that is intentionally allowed to lay fallow for one or more growing seasons qualifies for assessment under this part if the fallowing is conducted:
+(i)
+during periods of limited water supply;
+(ii)
+as part of a prudent farm management practice, including crop rotation, rotational grazing, or soil water management; or
+(iii)
+to facilitate voluntary participation in a water management or agricultural water optimization program.
+(b)
+If the owner of land assessed under this part fallows the land during any period in a calendar year, the owner may, on or before December 31 of the year in which the land is fallowed, provide to the county assessor written notice that:
+(i)
+identifies the land that was fallowed during any period of the calendar year in which the notice is provided, including the acreage of the fallowed land;
+(ii)
+demonstrates how the fallowed land qualifies under Subsection (4)(a); and
+(iii)
+specifies whether the owner intends to fallow the land during any period in the following calendar year, and, if so, the intended duration of the fallowing period.
+(c)
+(i)
+If a written notice under Subsection (4)(b) indicates that the owner intends to fallow the land during any period in the following calendar year, the county assessor may, within 45 days of receiving the written notice, require the owner to submit to the county assessor a land management plan in a form prescribed by the county assessor that:
+(A)
+identifies the owner's objectives in fallowing the land for the intended duration of the fallowing period;
+(B)
+provides adequate assurances to the county assessor that the fallowed land will become actively devoted to urban farming upon the expiration of the intended fallowing period; and
+(C)
+includes any other information required by the county assessor.
+(ii)
+If the owner submits to the county assessor a land management plan for fallowed land that meets the requirements of Subsection (4)(c)(i), the county assessor may not require the owner to submit a new or additional land management plan for the same land within three years from the day on which the owner submitted the plan.
+(d)
+Fallowed land is withdrawn from this part if:
+(i)
+the county assessor determines that the land does not qualify under Subsection (4)(a);
+(ii)
+the owner fails to return the fallowed land to active urban farming upon the expiration of the intended fallowing period as specified in the written notice; or
+(iii)
+the owner fails to comply with the requirements of Subsection (4)(c), if a land management plan is required.
+(5)
+Notwithstanding Subsection
+(1)
+, land that has been assessed under this part for meeting the gross sales requirement in Subsection
+59-2-1702(1)(b)(ii)
+is not withdrawn from this part solely as a result of failing to meet the requirement of Subsection (1)(a)(iii)(A) if the land met the gross sales requirement in Subsection
+59-2-1702(1)(b)
+(ii) for at least one of the three years immediately preceding the tax year for which the land is being assessed.
+Amended by Chapter
+144
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_1703__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1703__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For general property tax purposes, land may be assessed on the basis of the value that the land has for agricultural use if the land:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is actively devoted to urban farming;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is at least one contiguous acre, but less than five acres, in size; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1703__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Land that is not actively devoted to urban farming may not be assessed as provided in Subsection (1)(a), even if the land is part of a parcel that includes land actively devoted to urban farming.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1703__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1703__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In determining whether land meets the production requirement in Subsection , production per acre for a given county or area and a given type of land shall be determined by using the first applicable of the following:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>production levels reported in the current publication of Utah Agricultural Statistics;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>current crop budgets developed and published by Utah State University; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the highest per acre value used for land assessed under the Farmland Assessment Act for the county in which the property is located.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1703__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county assessor may not assess land actively devoted to urban farming on the basis of the value that the land has for agricultural use under this part unless an owner files documentation with the county assessor:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on a form provided by the county assessor;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>demonstrating to the satisfaction of the county assessor that the land meets:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>except as provided in Subsection (2)(c)(i), no later than January 30 of the tax year in which the owner applies for assessment under this part.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1703__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding Subsection (1)(a)(ii), a county board of equalization may grant a waiver of the acreage requirements of Subsection (1)(a)(ii):</p>
+            </content>
+            <paragraph eId="59_2_1703__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>on appeal by an owner; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1703__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if the owner submits documentation to the county assessor demonstrating to the satisfaction of the county assessor that:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the failure to meet the acreage requirements of Subsection (1)(a)(ii) arose solely as a result of an acquisition by a governmental entity by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the land is actively devoted to urban farming; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_3__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>no change occurs in the ownership of the land.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1703__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_1703__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding Subsection (1) and except as provided in Subsection (4)(d), land for urban farming that is intentionally allowed to lay fallow for one or more growing seasons qualifies for assessment under this part if the fallowing is conducted:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>during periods of limited water supply;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>as part of a prudent farm management practice, including crop rotation, rotational grazing, or soil water management; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>to facilitate voluntary participation in a water management or agricultural water optimization program.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1703__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the owner of land assessed under this part fallows the land during any period in a calendar year, the owner may, on or before December 31 of the year in which the land is fallowed, provide to the county assessor written notice that:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>identifies the land that was fallowed during any period of the calendar year in which the notice is provided, including the acreage of the fallowed land;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>demonstrates how the fallowed land qualifies under Subsection (4)(a); and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>specifies whether the owner intends to fallow the land during any period in the following calendar year, and, if so, the intended duration of the fallowing period.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1703__subsec_4__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_1703__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If a written notice under Subsection (4)(b) indicates that the owner intends to fallow the land during any period in the following calendar year, the county assessor may, within 45 days of receiving the written notice, require the owner to submit to the county assessor a land management plan in a form prescribed by the county assessor that:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>If the owner submits to the county assessor a land management plan for fallowed land that meets the requirements of Subsection (4)(c)(i), the county assessor may not require the owner to submit a new or additional land management plan for the same land within three years from the day on which the owner submitted the plan.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1703__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Fallowed land is withdrawn from this part if:</p>
+              </content>
+              <subparagraph eId="59_2_1703__subsec_4__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the county assessor determines that the land does not qualify under Subsection (4)(a);</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the owner fails to return the fallowed land to active urban farming upon the expiration of the intended fallowing period as specified in the written notice; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1703__subsec_4__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the owner fails to comply with the requirements of Subsection (4)(c), if a land management plan is required.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1703__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding Subsection , land that has been assessed under this part for meeting the gross sales requirement in Subsection is not withdrawn from this part solely as a result of failing to meet the requirement of Subsection (1)(a)(iii)(A) if the land met the gross sales requirement in Subsection (ii) for at least one of the three years immediately preceding the tax year for which the land is being assessed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

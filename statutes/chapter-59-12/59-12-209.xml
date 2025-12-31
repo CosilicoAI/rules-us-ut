@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-209"/>
+          <FRBRuri value="/us-ut/act/code/59-12-209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-209/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-209/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_209">
+          <num>59-12-209</num>
+          <heading>Participation of qualifying jurisdictions in administration and enforcement of certain local sales and use taxes -- Petition for reconsideration relating to the redistribution of certain sales and use tax revenues.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-12-209.
+Participation of qualifying jurisdictions in administration and enforcement of certain local sales and use taxes -- Petition for reconsideration relating to the redistribution of certain sales and use tax revenues.
+(1)
+As used in this section, &quot;qualifying jurisdiction&quot; means the same as that term is defined in Section
+59-1-403
+.
+(2)
+Notwithstanding
+Title 63G, Chapter 4, Administrative Procedures Act
+, a qualifying jurisdiction does not have the right to any of the following, except as specifically allowed by Subsection
+(3)
+and Section
+59-12-210
+:
+(a)
+to inspect, review, or have access to any taxpayer sales and use tax records; or
+(b)
+to be informed of, participate in, intervene in, or appeal from any adjudicative proceeding commenced pursuant to Section
+63G-4-201
+to determine the liability of any taxpayer for sales and use taxes imposed pursuant to this chapter.
+(3)
+(a)
+A qualifying jurisdiction shall have access to records and information on file with the commission, and shall have the right to notice of, and rights to intervene in or to appeal from, a proposed final agency action of the commission as provided in this Subsection
+(3)
+.
+(b)
+If the commission, following a formal adjudicative proceeding commenced pursuant to
+Title 63G, Chapter 4, Administrative Procedures Act
+, proposes to take final agency action that would reduce the amount of sales and use tax liability alleged in the notice of deficiency, the commission shall provide notice of a proposed agency action to each qualifying jurisdiction if the proposed final agency action reduces a tax under this chapter distributable to that qualifying jurisdiction by more than $10,000 below the amount of the tax that would have been distributable to that qualifying jurisdiction had a notice of deficiency, as described in Section
+59-1-1405
+, not been reduced.
+(c)
+A qualifying jurisdiction that receives notice described in Subsection
+(3)(b)
+may designate a representative who shall have the right to review the record of the formal hearing and any other commission records relating to a proposed final agency action subject to the confidentiality provisions of Section
+59-1-403
+.
+(d)
+No later than 10 days after receiving the notice of the commission's proposed final agency action, a qualifying jurisdiction may file a notice of intervention with the commission.
+(e)
+No later than 20 days after filing a notice of intervention, if a qualifying jurisdiction objects to the proposed final agency action, that qualifying jurisdiction may file a petition for reconsideration with the commission and shall serve copies of the petition on the taxpayer and the appropriate division in the commission.
+(f)
+The taxpayer and appropriate division in the commission may each file a response to the petition for reconsideration within 20 days of receipt of the petition for reconsideration.
+(g)
+(i)
+After consideration of the petition for reconsideration and any response, and any additional proceeding the commission considers appropriate, the commission may affirm, modify, or amend its proposed final agency action.
+(ii)
+A taxpayer and any qualifying jurisdiction that has filed a petition for reconsideration may appeal the final agency action.
+(h)
+(i)
+Notwithstanding Subsections
+(3)
+(a) through (g) and subject to Subsection
+(3)(h)
+(ii), the following may file a petition for reconsideration with the commission:
+(A)
+an original recipient political subdivision as defined in Section
+59-12-210.1
+that receives a notice from the commission in accordance with Subsection
+59-12-210.1(2)
+; or
+(B)
+a secondary recipient political subdivision as defined in Section
+59-12-210.1
+that receives a notice from the commission in accordance with Subsection
+59-12-210.1(2)
+.
+(ii)
+An original recipient political subdivision or secondary recipient political subdivision that files a petition for reconsideration with the commission under Subsection
+(3)(h)
+(i) shall file the petition no later than 20 days after the later of:
+(A)
+the date the original recipient political subdivision or secondary recipient political subdivision receives the notice described in Subsection
+(3)(h)
+(i) from the commission; or
+(B)
+the date the commission makes the redistribution as defined in Section
+59-12-210.1
+that is the subject of the notice described in Subsection
+(3)(h)
+(i).
+Amended by Chapter
+367
+, 2021 General Session
+Amended by Chapter
+367
+, 2021 General Session, (Coordination Clause)
+Amended by Chapter
+414
+, 2021 General Session
+Amended by Chapter
+29
+, 2020 General Session, (Coordination Clause)</p>
+          </content>
+          <subsection eId="59_12_209__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;qualifying jurisdiction&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_209__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding , a qualifying jurisdiction does not have the right to any of the following, except as specifically allowed by Subsection and Section :</p>
+            </content>
+            <paragraph eId="59_12_209__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to inspect, review, or have access to any taxpayer sales and use tax records; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to be informed of, participate in, intervene in, or appeal from any adjudicative proceeding commenced pursuant to Section to determine the liability of any taxpayer for sales and use taxes imposed pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_209__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_209__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A qualifying jurisdiction shall have access to records and information on file with the commission, and shall have the right to notice of, and rights to intervene in or to appeal from, a proposed final agency action of the commission as provided in this Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the commission, following a formal adjudicative proceeding commenced pursuant to , proposes to take final agency action that would reduce the amount of sales and use tax liability alleged in the notice of deficiency, the commission shall provide notice of a proposed agency action to each qualifying jurisdiction if the proposed final agency action reduces a tax under this chapter distributable to that qualifying jurisdiction by more than $10,000 below the amount of the tax that would have been distributable to that qualifying jurisdiction had a notice of deficiency, as described in Section , not been reduced.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A qualifying jurisdiction that receives notice described in Subsection may designate a representative who shall have the right to review the record of the formal hearing and any other commission records relating to a proposed final agency action subject to the confidentiality provisions of Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>No later than 10 days after receiving the notice of the commission's proposed final agency action, a qualifying jurisdiction may file a notice of intervention with the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>No later than 20 days after filing a notice of intervention, if a qualifying jurisdiction objects to the proposed final agency action, that qualifying jurisdiction may file a petition for reconsideration with the commission and shall serve copies of the petition on the taxpayer and the appropriate division in the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The taxpayer and appropriate division in the commission may each file a response to the petition for reconsideration within 20 days of receipt of the petition for reconsideration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_g">
+              <num>(g)</num>
+              <subparagraph eId="59_12_209__subsec_3__para_g__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>After consideration of the petition for reconsideration and any response, and any additional proceeding the commission considers appropriate, the commission may affirm, modify, or amend its proposed final agency action.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_209__subsec_3__para_g__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A taxpayer and any qualifying jurisdiction that has filed a petition for reconsideration may appeal the final agency action.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_209__subsec_3__para_h">
+              <num>(h)</num>
+              <subparagraph eId="59_12_209__subsec_3__para_h__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Notwithstanding Subsections (a) through (g) and subject to Subsection (ii), the following may file a petition for reconsideration with the commission:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_209__subsec_3__para_h__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>An original recipient political subdivision or secondary recipient political subdivision that files a petition for reconsideration with the commission under Subsection (i) shall file the petition no later than 20 days after the later of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

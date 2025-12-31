@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-203"/>
+          <FRBRuri value="/us-ut/act/code/59-2-203"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-203/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-203/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-203/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-203/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_203">
+          <num>59-2-203</num>
+          <heading>Record of assessment of railroads and other companies -- Review by county assessor.</heading>
+          <content>
+            <p>59-2-203.
+Record of assessment of railroads and other companies -- Review by county assessor.
+(1)
+Each year the commission shall prepare a record of assessment of railroads and rail car companies.  The record shall include:
+(a)
+the name of the person to whom the property was assessed;
+(b)
+the number of miles in the state;
+(c)
+the number of miles in each county;
+(d)
+the total assessment of that property; and
+(e)
+the amount of the apportionment of the total assessment to each county.
+(2)
+At least quarterly, the commission shall prepare a record of assessment of state-assessed commercial vehicles.
+(3)
+The record of the assessment and the information upon which the assessments and apportionments are made are available for review upon request by a county assessor.
+Amended by Chapter
+360
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_2_203__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each year the commission shall prepare a record of assessment of railroads and rail car companies.  The record shall include:</p>
+            </content>
+            <paragraph eId="59_2_203__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the name of the person to whom the property was assessed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_203__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the number of miles in the state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_203__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the number of miles in each county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_203__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>the total assessment of that property; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_203__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>the amount of the apportionment of the total assessment to each county.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_203__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>At least quarterly, the commission shall prepare a record of assessment of state-assessed commercial vehicles.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_203__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The record of the assessment and the information upon which the assessments and apportionments are made are available for review upon request by a county assessor.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1708"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1708"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1708/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1708/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1708/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1708/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1708">
+          <num>59-2-1708</num>
+          <heading>Change of ownership or legal description.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-2-1708.
+Change of ownership or legal description.
+(1)
+Subject to the other provisions of this section, land assessed under this part may continue to be assessed under this part if the land continues to comply with the requirements of this part, regardless of whether the land continues to have the same owner or legal description.
+(2)
+Notwithstanding Subsection
+(1)
+, land described in Subsection
+(1)
+is subject to the rollback tax as provided in Section
+59-2-1705
+if the land is withdrawn from this part.
+(3)
+Notwithstanding Subsection
+(1)
+, land is withdrawn from this part if:
+(a)
+there is a change in:
+(i)
+the ownership of the land; or
+(ii)
+the legal description of the land; and
+(b)
+after a change described in Subsection
+(3)(a)
+:
+(i)
+the land does not meet the requirements of Section
+59-2-1703
+;
+(ii)
+an owner of the land fails to submit a new application for assessment as provided in Section
+59-2-1707
+within 120 days after the day on which a change described in Subsection
+(3)(a)
+occurs; or
+(iii)
+(A)
+an owner of the land submits the application required by this section; and
+(B)
+the county denies the application upon review.
+(4)
+Within 30 days from the day on which a county receives an application required by this section, the county shall:
+(a)
+review the application for completion; and
+(b)
+approve or deny the application.
+(5)
+Land under an application required by this section is not withdrawn from this part for the period in which the application is under review by the county.
+Amended by Chapter
+337
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_1708__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this section, land assessed under this part may continue to be assessed under this part if the land continues to comply with the requirements of this part, regardless of whether the land continues to have the same owner or legal description.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1708__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding Subsection , land described in Subsection is subject to the rollback tax as provided in Section if the land is withdrawn from this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1708__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding Subsection , land is withdrawn from this part if:</p>
+            </content>
+            <paragraph eId="59_2_1708__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>there is a change in:</p>
+              </content>
+              <subparagraph eId="59_2_1708__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the ownership of the land; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1708__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the legal description of the land; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1708__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>after a change described in Subsection :</p>
+              </content>
+              <subparagraph eId="59_2_1708__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the land does not meet the requirements of Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1708__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an owner of the land fails to submit a new application for assessment as provided in Section within 120 days after the day on which a change described in Subsection occurs; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1708__subsec_3__para_b__subpara_iii">
+                <num>(iii)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1708__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Within 30 days from the day on which a county receives an application required by this section, the county shall:</p>
+            </content>
+            <paragraph eId="59_2_1708__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>review the application for completion; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1708__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>approve or deny the application.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1708__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Land under an application required by this section is not withdrawn from this part for the period in which the application is under review by the county.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

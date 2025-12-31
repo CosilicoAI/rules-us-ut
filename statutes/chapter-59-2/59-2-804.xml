@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-804"/>
+          <FRBRuri value="/us-ut/act/code/59-2-804"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-804/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-804/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-804/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-804/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_804">
+          <num>59-2-804</num>
+          <heading>Interstate allocation of mobile flight equipment.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-2-804.
+Interstate allocation of mobile flight equipment.
+(1)
+As used in this section:
+(a)
+&quot;Aircraft type&quot; means a particular model of aircraft as designated by the manufacturer of the aircraft.
+(b)
+&quot;Airline ground hours calculation&quot; means an amount equal to the product of:
+(i)
+the total number of hours aircraft owned or operated by an airline are on the ground, calculated by aircraft type; and
+(ii)
+the cost percentage.
+(c)
+&quot;Airline revenue ton miles&quot; means, for an airline, the total revenue ton miles during the calendar year that immediately precedes the January 1 described in Section
+59-2-103
+.
+(d)
+&quot;Cost percentage&quot; means a fraction, calculated by aircraft type, the numerator of which is the airline's average cost of the aircraft type and the denominator of which is the airline's average cost of the aircraft type:
+(i)
+owned or operated by the airline; and
+(ii)
+that has the lowest average cost.
+(e)
+&quot;Ground hours factor&quot; means the product of:
+(i)
+a fraction, the numerator of which is the Utah ground hours calculation and the denominator of which is the airline ground hours calculation; and
+(ii)
+.50.
+(f)
+(i)
+Except as provided in Subsection
+(1)(f)(ii)
+, &quot;mobile flight equipment&quot; is as defined in Section
+59-2-102
+.
+(ii)
+&quot;Mobile flight equipment&quot; does not include tangible personal property described in Subsection
+59-2-102(26)
+owned by an:
+(A)
+air charter service; or
+(B)
+air contract service.
+(g)
+&quot;Mobile flight equipment allocation factor&quot; means the sum of:
+(i)
+the ground hours factor; and
+(ii)
+the revenue ton miles factor.
+(h)
+&quot;Revenue ton miles&quot; is determined in accordance with 14 C.F.R. Part 241.
+(i)
+&quot;Revenue ton miles factor&quot; means the product of:
+(i)
+a fraction, the numerator of which is the Utah revenue ton miles and the denominator of which is the airline revenue ton miles; and
+(ii)
+.50.
+(j)
+&quot;Utah ground hours calculation&quot; means an amount equal to the product of:
+(i)
+the total number of hours aircraft owned or operated by an airline are on the ground in this state, calculated by aircraft type; and
+(ii)
+the cost percentage.
+(k)
+&quot;Utah revenue ton miles&quot; means, for an airline, the total revenue ton miles within the borders of this state:
+(i)
+during the calendar year that immediately precedes the January 1 described in Section
+59-2-103
+; and
+(ii)
+from flight stages that originate or terminate in this state.
+(2)
+For purposes of the assessment of an airline's mobile flight equipment by the commission, a portion of the value of the airline's mobile flight equipment shall be allocated to the state by calculating the product of:
+(a)
+the total value of the mobile flight equipment; and
+(b)
+the mobile flight equipment allocation factor.
+Amended by Chapter
+234
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_804__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_2_804__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Aircraft type&quot; means a particular model of aircraft as designated by the manufacturer of the aircraft.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Airline ground hours calculation&quot; means an amount equal to the product of:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the total number of hours aircraft owned or operated by an airline are on the ground, calculated by aircraft type; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the cost percentage.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Airline revenue ton miles&quot; means, for an airline, the total revenue ton miles during the calendar year that immediately precedes the January 1 described in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Cost percentage&quot; means a fraction, calculated by aircraft type, the numerator of which is the airline's average cost of the aircraft type and the denominator of which is the airline's average cost of the aircraft type:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>owned or operated by the airline; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>that has the lowest average cost.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Ground hours factor&quot; means the product of:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a fraction, the numerator of which is the Utah ground hours calculation and the denominator of which is the airline ground hours calculation; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>.50.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_f">
+              <num>(f)</num>
+              <subparagraph eId="59_2_804__subsec_1__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection , &quot;mobile flight equipment&quot; is as defined in Section .</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Mobile flight equipment&quot; does not include tangible personal property described in Subsection owned by an:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Mobile flight equipment allocation factor&quot; means the sum of:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_g__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the ground hours factor; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_g__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the revenue ton miles factor.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;Revenue ton miles&quot; is determined in accordance with 14 C.F.R. Part 241.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;Revenue ton miles factor&quot; means the product of:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_i__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a fraction, the numerator of which is the Utah revenue ton miles and the denominator of which is the airline revenue ton miles; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_i__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>.50.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;Utah ground hours calculation&quot; means an amount equal to the product of:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_j__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the total number of hours aircraft owned or operated by an airline are on the ground in this state, calculated by aircraft type; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_j__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the cost percentage.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>&quot;Utah revenue ton miles&quot; means, for an airline, the total revenue ton miles within the borders of this state:</p>
+              </content>
+              <subparagraph eId="59_2_804__subsec_1__para_k__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>during the calendar year that immediately precedes the January 1 described in Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_804__subsec_1__para_k__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>from flight stages that originate or terminate in this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_804__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of the assessment of an airline's mobile flight equipment by the commission, a portion of the value of the airline's mobile flight equipment shall be allocated to the state by calculating the product of:</p>
+            </content>
+            <paragraph eId="59_2_804__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the total value of the mobile flight equipment; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_804__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the mobile flight equipment allocation factor.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

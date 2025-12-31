@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1102.1"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1102.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1102.1/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1102.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1102.1/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1102.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1102_1">
+          <num>59-10-1102.1</num>
+          <heading>Apportionment of tax credit.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-10-1102.1.
+Apportionment of tax credit.
+A nonresident individual or a part-year resident individual who claims a tax credit in accordance with Section
+59-10-1114
+may claim only an apportioned amount of the tax credit equal to the product of:
+(1)
+the state income tax percentage for the nonresident individual or the state income tax percentage for the part-year resident individual; and
+(2)
+the amount of the tax credit that the nonresident individual or the part-year resident individual would have been allowed to claim but for the apportionment requirement of this section.
+Enacted by Chapter
+460
+, 2023 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

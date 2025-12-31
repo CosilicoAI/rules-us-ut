@@ -1,0 +1,299 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1113"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1113"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1113/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1113/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1113/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1113/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1113">
+          <num>59-10-1113</num>
+          <heading>Refundable tax credit for nonrenewable hydrogen production system.</heading>
+          <content>
+            <p>Effective 5/4/2022
+59-10-1113.
+Refundable tax credit for nonrenewable hydrogen production system.
+(1)
+As used in this section:
+(a)
+&quot;Commercial enterprise&quot; means the same as that term is defined in Section
+59-7-626
+.
+(b)
+&quot;Commercial unit&quot; means the same as that term is defined in Section
+59-7-626
+.
+(c)
+&quot;Hydrogen production system&quot; means the same as that term is defined in Section
+59-7-626
+.
+(d)
+&quot;Office&quot; means the Office of Energy Development created in Section
+79-6-401
+.
+(2)
+(a)
+A claimant, estate, or trust may claim a refundable credit under this section if:
+(i)
+the claimant, estate, or trust owns a hydrogen production system;
+(ii)
+the hydrogen production system is completed and placed in service on or after January 1, 2022;
+(iii)
+the claimant, estate, or trust sells as a commercial enterprise, or supplies for the claimant's, estate's, or trust's own use in commercial units, the hydrogen produced from the hydrogen production system;
+(iv)
+the claimant, estate, or trust has not claimed and will not claim a tax credit under Section
+59-10-1106
+for electricity used to meet the requirements of this section; and
+(v)
+the taxpayer obtains a written certification from the office in accordance with Subsection
+(3)
+.
+(b)
+(i)
+Subject to Subsections
+(2)(b)(ii)
+and
+(iii)
+, a tax credit under this section is equal to the product of:
+(A)
+$0.12; and
+(B)
+the number of kilograms of hydrogen produced during the taxable year.
+(ii)
+A claimant, estate, or trust may not receive a tax credit under this section for more than 5,600 metric tons of hydrogen per taxable year.
+(iii)
+A claimant, estate, or trust is eligible to claim a tax credit under this section for production occurring during a period of 48 months beginning with the month in which the hydrogen production system is placed in commercial service.
+(3)
+(a)
+Before a claimant, estate, or trust may claim a tax credit under this section, the claimant, estate, or trust shall obtain a written certification from the office.
+(b)
+The office shall issue a claimant, estate, or trust a written certification if the office determines that:
+(i)
+the claimant, estate, or trust meets the requirements of this section to receive a tax credit; and
+(ii)
+the hydrogen production system with respect to which the claimant, estate, or trust seeks to claim a tax credit:
+(A)
+has been completely installed; and
+(B)
+is safe, reliable, efficient, and technically feasible to ensure that the hydrogen production system uses the state's nonrenewable energy resources in an appropriate and economic manner.
+(c)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the office may make rules for determining whether a hydrogen production system meets the requirements of Subsection
+(3)(b)(ii)
+.
+(d)
+A claimant, estate, or trust that obtains a written certification from the office shall retain the certification for the same time period a person is required to keep books and records under Section
+59-1-1406
+.
+(e)
+The office shall submit to the commission an electronic list that includes:
+(i)
+the name and identifying information of each claimant, estate, or trust to which the office issues a written certification; and
+(ii)
+for each claimant, estate, or trust:
+(A)
+the amount of the tax credit listed on the written certification; and
+(B)
+the date the hydrogen production system was installed.
+(4)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules to address the certification of a tax credit under this section.
+(5)
+A tax credit under this section is in addition to any tax credits provided under the laws or rules and regulations of the United States.
+Amended by Chapter
+274
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1113__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1113__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Commercial enterprise&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Commercial unit&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Hydrogen production system&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Office&quot; means the Office of Energy Development created in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1113__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_1113__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A claimant, estate, or trust may claim a refundable credit under this section if:</p>
+              </content>
+              <subparagraph eId="59_10_1113__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the claimant, estate, or trust owns a hydrogen production system;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the hydrogen production system is completed and placed in service on or after January 1, 2022;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the claimant, estate, or trust sells as a commercial enterprise, or supplies for the claimant's, estate's, or trust's own use in commercial units, the hydrogen produced from the hydrogen production system;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_2__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>the claimant, estate, or trust has not claimed and will not claim a tax credit under Section for electricity used to meet the requirements of this section; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_2__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>the taxpayer obtains a written certification from the office in accordance with Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_10_1113__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsections and , a tax credit under this section is equal to the product of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A claimant, estate, or trust may not receive a tax credit under this section for more than 5,600 metric tons of hydrogen per taxable year.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>A claimant, estate, or trust is eligible to claim a tax credit under this section for production occurring during a period of 48 months beginning with the month in which the hydrogen production system is placed in commercial service.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1113__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_1113__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Before a claimant, estate, or trust may claim a tax credit under this section, the claimant, estate, or trust shall obtain a written certification from the office.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The office shall issue a claimant, estate, or trust a written certification if the office determines that:</p>
+              </content>
+              <subparagraph eId="59_10_1113__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the claimant, estate, or trust meets the requirements of this section to receive a tax credit; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the hydrogen production system with respect to which the claimant, estate, or trust seeks to claim a tax credit:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In accordance with , the office may make rules for determining whether a hydrogen production system meets the requirements of Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A claimant, estate, or trust that obtains a written certification from the office shall retain the certification for the same time period a person is required to keep books and records under Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1113__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The office shall submit to the commission an electronic list that includes:</p>
+              </content>
+              <subparagraph eId="59_10_1113__subsec_3__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the name and identifying information of each claimant, estate, or trust to which the office issues a written certification; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1113__subsec_3__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for each claimant, estate, or trust:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1113__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In accordance with , the commission may make rules to address the certification of a tax credit under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1113__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A tax credit under this section is in addition to any tax credits provided under the laws or rules and regulations of the United States.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

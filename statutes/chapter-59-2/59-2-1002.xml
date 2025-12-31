@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1002"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1002"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1002/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1002/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1002/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1002/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1002">
+          <num>59-2-1002</num>
+          <heading>Change in assessment -- Force and effect -- Additional assessments -- Notice.</heading>
+          <content>
+            <p>59-2-1002.
+Change in assessment -- Force and effect -- Additional assessments -- Notice.
+(1)
+The county board of equalization shall use all information it may gain from the records of the county or elsewhere in equalizing the assessment of the property in the county or in determining any exemptions.  The board may require the assessor to enter upon the assessment roll any taxable property which has not been assessed and any assessment made has the same force and effect as if made by the assessor before the delivery of the assessment roll to the county treasurer.
+(2)
+During its sessions, the county board of equalization may direct the assessor to:
+(a)
+assess any taxable property which has escaped assessment;
+(b)
+add to the amount, number, or quantity of property when a false or incomplete list has been rendered; and
+(c)
+make and enter new assessments, at the same time cancelling previous entries, when any assessment made by the assessor is considered by the board to be incomplete or incorrect.
+(3)
+The clerk of the board of equalization shall give written notice:
+(a)
+to all interested persons of the day fixed for the investigation of any assessment under consideration by the board at least 30 days before action is taken; and
+(b)
+to the assessor of a valuation adjustment made in accordance with Subsection
+59-2-301.4(2)
+or another adjustment under this section.
+Amended by Chapter
+248
+, 2013 General Session</p>
+          </content>
+          <subsection eId="59_2_1002__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The county board of equalization shall use all information it may gain from the records of the county or elsewhere in equalizing the assessment of the property in the county or in determining any exemptions.  The board may require the assessor to enter upon the assessment roll any taxable property which has not been assessed and any assessment made has the same force and effect as if made by the assessor before the delivery of the assessment roll to the county treasurer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1002__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>During its sessions, the county board of equalization may direct the assessor to:</p>
+            </content>
+            <paragraph eId="59_2_1002__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>assess any taxable property which has escaped assessment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1002__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>add to the amount, number, or quantity of property when a false or incomplete list has been rendered; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1002__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>make and enter new assessments, at the same time cancelling previous entries, when any assessment made by the assessor is considered by the board to be incomplete or incorrect.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1002__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The clerk of the board of equalization shall give written notice:</p>
+            </content>
+            <paragraph eId="59_2_1002__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to all interested persons of the day fixed for the investigation of any assessment under consideration by the board at least 30 days before action is taken; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1002__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to the assessor of a valuation adjustment made in accordance with Subsection or another adjustment under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

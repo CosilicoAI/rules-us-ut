@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-535"/>
+          <FRBRuri value="/us-ut/act/code/59-7-535"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-535/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-535/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-535/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-535/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_535">
+          <num>59-7-535</num>
+          <heading>Doing business after suspension or forfeiture of certain corporate powers, rights, and privileges -- Penalty.</heading>
+          <content>
+            <p>59-7-535.
+Doing business after suspension or forfeiture of certain corporate powers, rights, and privileges -- Penalty.
+(1)
+A person is guilty of a class B misdemeanor if:
+(a)
+the person's corporate powers, rights, and privileges have been suspended in accordance with Section
+59-7-534
+; and
+(b)
+the person:
+(i)
+attempts or purports to exercise any of the rights, privileges, or powers of a suspended domestic corporation; or
+(ii)
+transacts or attempts to transact any intrastate business in this state in behalf of a forfeited foreign corporation.
+(2)
+Jurisdiction of the offense shall be in any county in which any part of an action described in Subsection
+(1)(b)
+occurred.
+(3)
+Any contract made in violation of this section is unenforceable by a corporation or person described in Subsection
+(1)
+.
+Amended by Chapter
+120
+, 2013 General Session</p>
+          </content>
+          <subsection eId="59_7_535__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person is guilty of a class B misdemeanor if:</p>
+            </content>
+            <paragraph eId="59_7_535__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the person's corporate powers, rights, and privileges have been suspended in accordance with Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_535__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the person:</p>
+              </content>
+              <subparagraph eId="59_7_535__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>attempts or purports to exercise any of the rights, privileges, or powers of a suspended domestic corporation; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_535__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>transacts or attempts to transact any intrastate business in this state in behalf of a forfeited foreign corporation.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_535__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Jurisdiction of the offense shall be in any county in which any part of an action described in Subsection occurred.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_535__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any contract made in violation of this section is unenforceable by a corporation or person described in Subsection .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

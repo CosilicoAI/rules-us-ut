@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-611"/>
+          <FRBRuri value="/us-ut/act/code/59-1-611"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-611/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-611/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-611/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-611/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_611">
+          <num>59-1-611</num>
+          <heading>Requirement to post security -- Waiver -- Payment of tax, interest, or penalties after judicial decision -- Interest.</heading>
+          <content>
+            <p>59-1-611.
+Requirement to post security -- Waiver -- Payment of tax, interest, or penalties after judicial decision -- Interest.
+(1)
+As used in this section, &quot;post security&quot; means:
+(a)
+posting with the commission, for the full or a partial amount of the deficiency as determined by the commission:
+(i)
+a letter of credit;
+(ii)
+a bond; or
+(iii)
+other similar financial instrument acceptable to the commission; or
+(b)
+as determined by the commission, depositing with the commission:
+(i)
+the full amount of the deficiency; or
+(ii)
+a partial amount of the deficiency.
+(2)
+Except as provided in Subsection
+(3)
+, a taxpayer that seeks judicial review of a final commission redetermination of a deficiency shall post security with the commission.
+(3)
+The commission shall waive the requirements of Subsection
+(2)
+if a taxpayer establishes:
+(a)
+that the taxpayer has sufficient financial resources to pay the deficiency if the deficiency is upheld in a final unappealable judgment or order by a court of competent jurisdiction; or
+(b)
+as determined by the commission, that collection of the deficiency that is the subject of the appeal is not jeopardized by waiving the requirements of Subsection
+(2)
+.
+(4)
+(a)
+The commission may not unreasonably deny a waiver described in Subsection
+(3)
+.
+(b)
+A taxpayer may seek judicial review of the commission's decision to deny a waiver under Subsection
+(3)
+by the court reviewing the redetermination of the deficiency.
+(5)
+If a taxpayer fails to comply with the requirements of Subsection
+(2)
+, the reviewing court may, in its discretion, dismiss the taxpayer's appeal of the redetermination of the deficiency.
+(6)
+If the commission grants a waiver under Subsection
+(3)
+, the taxpayer shall pay any tax, interest, or penalties:
+(a)
+ordered by a court of competent jurisdiction; and
+(b)
+within a 30-day period beginning on the day on which the order described in Subsection
+(6)(a)
+becomes final.
+(7)
+If a taxpayer posts security with the commission, or the commission grants a waiver in accordance with this section, interest shall accrue on the unpaid taxes that are the subject of the deficiency at the rate and in the manner provided in Section
+59-1-402
+.
+Amended by Chapter
+224
+, 2013 General Session</p>
+          </content>
+          <subsection eId="59_1_611__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;post security&quot; means:</p>
+            </content>
+            <paragraph eId="59_1_611__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>posting with the commission, for the full or a partial amount of the deficiency as determined by the commission:</p>
+              </content>
+              <subparagraph eId="59_1_611__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a letter of credit;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_611__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a bond; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_611__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>other similar financial instrument acceptable to the commission; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_611__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>as determined by the commission, depositing with the commission:</p>
+              </content>
+              <subparagraph eId="59_1_611__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the full amount of the deficiency; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_611__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a partial amount of the deficiency.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_611__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in Subsection , a taxpayer that seeks judicial review of a final commission redetermination of a deficiency shall post security with the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_611__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall waive the requirements of Subsection if a taxpayer establishes:</p>
+            </content>
+            <paragraph eId="59_1_611__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that the taxpayer has sufficient financial resources to pay the deficiency if the deficiency is upheld in a final unappealable judgment or order by a court of competent jurisdiction; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_611__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>as determined by the commission, that collection of the deficiency that is the subject of the appeal is not jeopardized by waiving the requirements of Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_611__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_1_611__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission may not unreasonably deny a waiver described in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_611__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer may seek judicial review of the commission's decision to deny a waiver under Subsection by the court reviewing the redetermination of the deficiency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_611__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If a taxpayer fails to comply with the requirements of Subsection , the reviewing court may, in its discretion, dismiss the taxpayer's appeal of the redetermination of the deficiency.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_611__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If the commission grants a waiver under Subsection , the taxpayer shall pay any tax, interest, or penalties:</p>
+            </content>
+            <paragraph eId="59_1_611__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>ordered by a court of competent jurisdiction; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_611__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>within a 30-day period beginning on the day on which the order described in Subsection becomes final.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_611__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>If a taxpayer posts security with the commission, or the commission grants a waiver in accordance with this section, interest shall accrue on the unpaid taxes that are the subject of the deficiency at the rate and in the manner provided in Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

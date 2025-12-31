@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1043"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1043"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1043/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1043/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1043/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1043/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1043">
+          <num>59-10-1043</num>
+          <heading>Nonrefundable tax credit for military retirement.</heading>
+          <content>
+            <p>Effective 3/23/2022
+59-10-1043.
+Nonrefundable tax credit for military retirement.
+(1)
+As used in this section:
+(a)
+(i)
+&quot;Military retirement pay&quot; means retirement pay, including survivor benefits, that relates to service in the armed forces or the reserve components, as described in 10 U.S.C. Sec. 10101.
+(ii)
+&quot;Military retirement pay&quot; does not include:
+(A)
+Social Security income;
+(B)
+401(k) or IRA distributions; or
+(C)
+income from other sources.
+(b)
+&quot;Survivor benefits&quot; means the retired pay portion of the benefits described in 10 U.S.C. Secs. 1447 through 1455.
+(2)
+Except as provided in Section
+59-10-1002.2
+, a claimant who receives military retirement pay may claim a nonrefundable tax credit against taxes equal to the product of:
+(a)
+the percentage listed in Subsection
+59-10-104(2)
+; and
+(b)
+the amount of military retirement pay that is included in adjusted gross income on the claimant's federal income tax return for the taxable year.
+(3)
+A claimant may not:
+(a)
+carry forward or carry back the amount of a tax credit that exceeds the claimant's tax liability for the taxable year; or
+(b)
+claim a tax credit under this section for a taxable year if a tax credit under Section
+59-10-1019
+is claimed on the claimant's return for the same taxable year.
+Amended by Chapter
+258
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1043__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1043__subsec_1__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_1043__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Military retirement pay&quot; means retirement pay, including survivor benefits, that relates to service in the armed forces or the reserve components, as described in 10 U.S.C. Sec. 10101.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1043__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Military retirement pay&quot; does not include:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1043__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Survivor benefits&quot; means the retired pay portion of the benefits described in 10 U.S.C. Secs. 1447 through 1455.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1043__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in Section , a claimant who receives military retirement pay may claim a nonrefundable tax credit against taxes equal to the product of:</p>
+            </content>
+            <paragraph eId="59_10_1043__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the percentage listed in Subsection ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1043__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the amount of military retirement pay that is included in adjusted gross income on the claimant's federal income tax return for the taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1043__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A claimant may not:</p>
+            </content>
+            <paragraph eId="59_10_1043__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>carry forward or carry back the amount of a tax credit that exceeds the claimant's tax liability for the taxable year; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1043__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>claim a tax credit under this section for a taxable year if a tax credit under Section is claimed on the claimant's return for the same taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

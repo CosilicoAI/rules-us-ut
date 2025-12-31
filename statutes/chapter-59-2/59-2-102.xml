@@ -1,0 +1,1634 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-102"/>
+          <FRBRuri value="/us-ut/act/code/59-2-102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-102/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-102/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_102">
+          <num>59-2-102</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-2-102.
+Definitions.
+As used in this chapter:
+(1)
+(a)
+&quot;Acquisition cost&quot; means any cost required to put an item of tangible personal property into service.
+(b)
+&quot;Acquisition cost&quot; includes:
+(i)
+the purchase price of a new or used item;
+(ii)
+the cost of freight, shipping, loading at origin, unloading at destination, crating, skidding, or any other applicable cost of shipping;
+(iii)
+the cost of installation, engineering, rigging, erection, or assembly, including foundations, pilings, utility connections, or similar costs; and
+(iv)
+sales and use taxes.
+(2)
+&quot;Aerial applicator&quot; means aircraft or rotorcraft used exclusively for the purpose of engaging in dispensing activities directly affecting agriculture or horticulture with an airworthiness certificate from the Federal Aviation Administration certifying the aircraft or rotorcraft's use for agricultural and pest control purposes.
+(3)
+&quot;Air charter service&quot; means an air carrier operation that requires the customer to hire an entire aircraft rather than book passage in whatever capacity is available on a scheduled trip.
+(4)
+&quot;Air contract service&quot; means an air carrier operation available only to customers that engage the services of the carrier through a contractual agreement and excess capacity on any trip and is not available to the public at large.
+(5)
+&quot;Aircraft&quot; means the same as that term is defined in Section
+72-10-102
+.
+(6)
+(a)
+Except as provided in Subsection (6)(b), &quot;airline&quot; means an air carrier that:
+(i)
+operates:
+(A)
+on an interstate route; and
+(B)
+on a scheduled basis; and
+(ii)
+offers to fly one or more passengers or cargo on the basis of available capacity on a regularly scheduled route.
+(b)
+&quot;Airline&quot; does not include an:
+(i)
+air charter service; or
+(ii)
+air contract service.
+(7)
+&quot;Assessment roll&quot; or &quot;assessment book&quot; means a permanent record of the assessment of property as assessed by the county assessor and the commission and may be maintained manually or as a computerized file as a consolidated record or as multiple records by type, classification, or categories.
+(8)
+&quot;Base parcel&quot; means a parcel of property that was legally:
+(a)
+subdivided into two or more lots, parcels, or other divisions of land; or
+(b)
+(i)
+combined with one or more other parcels of property; and
+(ii)
+subdivided into two or more lots, parcels, or other divisions of land.
+(9)
+(a)
+&quot;Certified revenue levy&quot; means a property tax levy that provides an amount of ad valorem property tax revenue equal to the sum of:
+(i)
+the amount of ad valorem property tax revenue to be generated statewide in the previous year from imposing a multicounty assessing and collecting levy, as specified in Section
+59-2-1602
+; and
+(ii)
+the product of:
+(A)
+eligible new growth, as defined in Section
+59-2-924
+; and
+(B)
+the multicounty assessing and collecting levy certified by the commission for the previous year.
+(b)
+For purposes of this Subsection (9), &quot;ad valorem property tax revenue&quot; does not include property tax revenue received by a taxing entity from personal property that is:
+(i)
+assessed by a county assessor in accordance with Part 3, County Assessment; and
+(ii)
+semiconductor manufacturing equipment.
+(c)
+For purposes of calculating the certified revenue levy described in this Subsection (9), the commission shall use:
+(i)
+the taxable value of real property assessed by a county assessor contained on the assessment roll;
+(ii)
+the taxable value of real and personal property assessed by the commission; and
+(iii)
+the taxable year end value of personal property assessed by a county assessor contained on the prior year's assessment roll.
+(10)
+&quot;County-assessed commercial vehicle&quot; means:
+(a)
+any commercial vehicle, trailer, or semitrailer that is not apportioned under Section
+41-1a-301
+and is not operated interstate to transport the vehicle owner's goods or property in furtherance of the owner's commercial enterprise;
+(b)
+any passenger vehicle owned by a business and used by its employees for transportation as a company car or vanpool vehicle; and
+(c)
+vehicles that are:
+(i)
+especially constructed for towing or wrecking, and that are not otherwise used to transport goods, merchandise, or people for compensation;
+(ii)
+used or licensed as taxicabs or limousines;
+(iii)
+used as rental passenger cars, travel trailers, or motor homes;
+(iv)
+used or licensed in this state for use as ambulances or hearses;
+(v)
+especially designed and used for garbage and rubbish collection; or
+(vi)
+used exclusively to transport students or their instructors to or from any private, public, or religious school or school activities.
+(11)
+&quot;Eligible judgment&quot; means a final and unappealable judgment or order under Section
+59-2-1330
+:
+(a)
+that became a final and unappealable judgment or order no more than 14 months before the day on which the notice described in Section
+59-2-919.1
+is required to be provided; and
+(b)
+for which a taxing entity's share of the final and unappealable judgment or order is greater than or equal to the lesser of:
+(i)
+$5,000; or
+(ii)
+2.5% of the total ad valorem property taxes collected by the taxing entity in the previous fiscal year.
+(12)
+(a)
+&quot;Escaped property&quot; means any property, whether personal, land, or any improvements to the property, that is subject to taxation and is:
+(i)
+inadvertently omitted from the tax rolls, assigned to the incorrect parcel, or assessed to the wrong taxpayer by the assessing authority;
+(ii)
+undervalued or omitted from the tax rolls because of the failure of the taxpayer to comply with the reporting requirements of this chapter; or
+(iii)
+undervalued because of errors made by the assessing authority based upon incomplete or erroneous information furnished by the taxpayer.
+(b)
+&quot;Escaped property&quot; does not include property that is undervalued because of the use of a different valuation methodology or because of a different application of the same valuation methodology.
+(13)
+(a)
+&quot;Fair market value&quot; means the amount at which property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of the relevant facts.
+(b)
+For purposes of taxation, &quot;fair market value&quot; shall be determined using the current zoning laws applicable to the property in question, except in cases where there is a reasonable probability of a change in the zoning laws affecting that property in the tax year in question and the change would have an appreciable influence upon the value.
+(14)
+&quot;Geothermal fluid&quot; means water in any form at temperatures greater than 120 degrees centigrade naturally present in a geothermal system.
+(15)
+&quot;Geothermal resource&quot; means:
+(a)
+the natural heat of the earth at temperatures greater than 120 degrees centigrade; and
+(b)
+the energy, in whatever form, including pressure, present in, resulting from, created by, or which may be extracted from that natural heat, directly or through a material medium.
+(16)
+(a)
+&quot;Goodwill&quot; means:
+(i)
+acquired goodwill that is reported as goodwill on the books and records that a taxpayer maintains for financial reporting purposes; or
+(ii)
+the ability of a business to:
+(A)
+generate income that exceeds a normal rate of return on assets and that results from a factor described in Subsection (16)(b); or
+(B)
+obtain an economic or competitive advantage resulting from a factor described in Subsection (16)(b).
+(b)
+The following factors apply to Subsection (16)(a)(ii):
+(i)
+superior management skills;
+(ii)
+reputation;
+(iii)
+customer relationships;
+(iv)
+patronage; or
+(v)
+a factor similar to Subsections (16)(b)(i) through (iv).
+(c)
+&quot;Goodwill&quot; does not include:
+(i)
+the intangible property described in Subsection (20)(a) or (b);
+(ii)
+locational attributes of real property, including:
+(A)
+zoning;
+(B)
+location;
+(C)
+view;
+(D)
+a geographic feature;
+(E)
+an easement;
+(F)
+a covenant;
+(G)
+proximity to raw materials;
+(H)
+the condition of surrounding property; or
+(I)
+proximity to markets;
+(iii)
+value attributable to the identification of an improvement to real property, including:
+(A)
+reputation of the designer, builder, or architect of the improvement;
+(B)
+a name given to, or associated with, the improvement; or
+(C)
+the historic significance of an improvement; or
+(iv)
+the enhancement or assemblage value specifically attributable to the interrelation of the existing tangible property in place working together as a unit.
+(17)
+&quot;Governing body&quot; means:
+(a)
+for a county, city, or town, the legislative body of the county, city, or town;
+(b)
+for a special district under Title 17B, Limited Purpose Local Government Entities - Special Districts, the  special district's board of trustees;
+(c)
+for a school district, the local board of education;
+(d)
+for a special service district under Title 17D, Chapter 1, Special Service District Act:
+(i)
+the legislative body of the county or municipality that created the special service district, to the extent that the county or municipal legislative body has not delegated authority to an administrative control board established under Section
+17D-1-301
+; or
+(ii)
+the administrative control board, to the extent that the county or municipal legislative body has delegated authority to an administrative control board established under Section
+17D-1-301
+; or
+(e)
+for a public infrastructure district under Title 17D, Chapter 4, Public Infrastructure District Act, the public infrastructure district's board of trustees.
+(18)
+&quot;Gross vehicle weight rating&quot; means the maximum gross vehicle weight rating as reported by the manufacturer of the motor vehicle for the vehicle identification number.
+(19)
+(a)
+Except as provided in Subsection (19)(c), &quot;improvement&quot; means a building, structure, fixture, fence, or other item that is permanently attached to land, regardless of whether the title has been acquired to the land, if:
+(i)
+(A)
+attachment to land is essential to the operation or use of the item; and
+(B)
+the manner of attachment to land suggests that the item will remain attached to the land in the same place over the useful life of the item; or
+(ii)
+removal of the item would:
+(A)
+cause substantial damage to the item; or
+(B)
+require substantial alteration or repair of a structure to which the item is attached.
+(b)
+&quot;Improvement&quot; includes:
+(i)
+an accessory to an item described in Subsection (19)(a) if the accessory is:
+(A)
+essential to the operation of the item described in Subsection (19)(a); and
+(B)
+installed solely to serve the operation of the item described in Subsection (19)(a); and
+(ii)
+an item described in Subsection (19)(a) that is temporarily detached from the land for repairs and remains located on the land.
+(c)
+&quot;Improvement&quot; does not include:
+(i)
+an item considered to be personal property pursuant to rules made in accordance with Section
+59-2-107
+;
+(ii)
+a moveable item that is attached to land for stability only or for an obvious temporary purpose;
+(iii)
+(A)
+manufacturing equipment and machinery; or
+(B)
+essential accessories to manufacturing equipment and machinery;
+(iv)
+an item attached to the land in a manner that facilitates removal without substantial damage to the land or the item; or
+(v)
+a transportable factory-built housing unit as defined in Section
+59-2-1502
+if that transportable factory-built housing unit is considered to be personal property under Section
+59-2-1503
+.
+(20)
+&quot;Intangible property&quot; means:
+(a)
+property that is capable of private ownership separate from tangible property, including:
+(i)
+money;
+(ii)
+credits;
+(iii)
+bonds;
+(iv)
+stocks;
+(v)
+representative property;
+(vi)
+franchises;
+(vii)
+licenses;
+(viii)
+trade names;
+(ix)
+copyrights; and
+(x)
+patents;
+(b)
+a low-income housing tax credit;
+(c)
+goodwill; or
+(d)
+a clean or renewable energy tax credit or incentive, including:
+(i)
+a federal renewable energy production tax credit under Section 45, Internal Revenue Code;
+(ii)
+a federal energy credit for qualified renewable electricity production facilities under Section 48, Internal Revenue Code;
+(iii)
+a federal grant for a renewable energy property under American Recovery and Reinvestment Act of 2009, Pub. L. No. 111-5, Section 1603; and
+(iv)
+a tax credit under Subsection
+59-7-614
+(5).
+(21)
+&quot;Livestock&quot; means:
+(a)
+a domestic animal;
+(b)
+a fish;
+(c)
+a fur-bearing animal;
+(d)
+a honeybee; or
+(e)
+poultry.
+(22)
+&quot;Low-income housing tax credit&quot; means:
+(a)
+a federal low-income housing tax credit under Section 42, Internal Revenue Code; or
+(b)
+a low-income housing tax credit under Section
+59-7-607
+or Section
+59-10-1010
+.
+(23)
+&quot;Metalliferous minerals&quot; includes gold, silver, copper, lead, zinc, and uranium.
+(24)
+&quot;Mine&quot; means a natural deposit of either metalliferous or nonmetalliferous valuable mineral.
+(25)
+&quot;Mining&quot; means the process of producing, extracting, leaching, evaporating, or otherwise removing a mineral from a mine.
+(26)
+(a)
+&quot;Mobile flight equipment&quot; means tangible personal property that is owned or operated by an air charter service, air contract service, or airline and:
+(i)
+is capable of flight or is attached to an aircraft that is capable of flight; or
+(ii)
+is contained in an aircraft that is capable of flight if the tangible personal property is intended to be used:
+(A)
+during multiple flights;
+(B)
+during a takeoff, flight, or landing; and
+(C)
+as a service provided by an air charter service, air contract service, or airline.
+(b)
+(i)
+&quot;Mobile flight equipment&quot; does not include a spare part other than a spare engine that is rotated at regular intervals with an engine that is attached to the aircraft.
+(ii)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the term &quot;regular intervals.&quot;
+(27)
+&quot;Nonmetalliferous minerals&quot; includes, but is not limited to, oil, gas, coal, salts, sand, rock, gravel, and all carboniferous materials.
+(28)
+&quot;Part-year residential property&quot; means property that is not residential property on January 1 of a calendar year but becomes residential property after January 1 of the calendar year.
+(29)
+&quot;Personal property&quot; includes:
+(a)
+every class of property as defined in Subsection (30) that is the subject of ownership and is not real estate or an improvement;
+(b)
+any pipe laid in or affixed to land whether or not the ownership of the pipe is separate from the ownership of the underlying land, even if the pipe meets the definition of an improvement;
+(c)
+bridges and ferries;
+(d)
+livestock; and
+(e)
+outdoor advertising structures as defined in Section
+72-7-502
+.
+(30)
+(a)
+&quot;Property&quot; means property that is subject to assessment and taxation according to its value.
+(b)
+&quot;Property&quot; does not include intangible property as defined in this section.
+(31)
+(a)
+&quot;Public utility&quot; means:
+(i)
+the operating property of a railroad, gas corporation, oil or gas transportation or pipeline company, coal slurry pipeline company, electrical corporation, sewerage corporation, or heat corporation where the company performs the service for, or delivers the commodity to, the public generally or companies serving the public generally, or in the case of a gas corporation or an electrical corporation, where the gas or electricity is sold or furnished to any member or consumers within the state for domestic, commercial, or industrial use; and
+(ii)
+the operating property of any entity or person defined under Section
+54-2-1
+except water corporations.
+(b)
+&quot;Public utility&quot; does not include the operating property of a telecommunications service provider.
+(32)
+(a)
+Subject to Subsection (32)(b), &quot;qualifying exempt primary residential rental personal property&quot; means household furnishings, furniture, and equipment that:
+(i)
+are used exclusively within a dwelling unit that is the primary residence of a tenant;
+(ii)
+are owned by the owner of the dwelling unit that is the primary residence of a tenant; and
+(iii)
+after applying the residential exemption described in Section
+59-2-103
+, are exempt from taxation under this chapter in accordance with Subsection
+59-2-1115
+(2).
+(b)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define the term &quot;dwelling unit&quot; for purposes of this Subsection (32) and Subsection (35).
+(33)
+&quot;Real estate&quot; or &quot;real property&quot; includes:
+(a)
+the possession of, claim to, ownership of, or right to the possession of land;
+(b)
+all mines, minerals, and quarries in and under the land, all timber belonging to individuals or corporations growing or being on the lands of this state or the United States, and all rights and privileges appertaining to these; and
+(c)
+improvements.
+(34)
+(a)
+&quot;Relationship with an owner of the property's land surface rights&quot; means a relationship described in Subsection 267(b), Internal Revenue Code, except that the term 25% shall be substituted for the term 50% in Subsection 267(b), Internal Revenue Code.
+(b)
+For purposes of determining if a relationship described in Subsection 267(b), Internal Revenue Code, exists, the ownership of stock shall be determined using the ownership rules in Subsection 267(c), Internal Revenue Code.
+(35)
+(a)
+&quot;Residential property,&quot; for purposes of the reductions and adjustments under this chapter, means any property used for residential purposes as a primary residence.
+(b)
+&quot;Residential property&quot; includes:
+(i)
+except as provided in Subsection (35)(b)(ii), includes household furnishings, furniture, and equipment if the household furnishings, furniture, and equipment are:
+(A)
+used exclusively within a dwelling unit that is the primary residence of a tenant; and
+(B)
+owned by the owner of the dwelling unit that is the primary residence of a tenant; and
+(ii)
+if the county assessor determines that the property will be used for residential purposes as a primary residence:
+(A)
+property under construction; or
+(B)
+unoccupied property.
+(c)
+&quot;Residential property&quot; does not include property used for transient residential use.
+(d)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define the term &quot;dwelling unit&quot; for purposes of Subsection (32) and this Subsection (35).
+(36)
+&quot;Split estate mineral rights owner&quot; means a person that:
+(a)
+has a legal right to extract a mineral from property;
+(b)
+does not hold more than a 25% interest in:
+(i)
+the land surface rights of the property where the wellhead is located; or
+(ii)
+an entity with an ownership interest in the land surface rights of the property where the wellhead is located;
+(c)
+is not an entity in which the owner of the land surface rights of the property where the wellhead is located holds more than a 25% interest; and
+(d)
+does not have a relationship with an owner of the land surface rights of the property where the wellhead is located.
+(37)
+(a)
+&quot;State-assessed commercial vehicle&quot; means:
+(i)
+any commercial vehicle, trailer, or semitrailer that operates interstate or intrastate to transport passengers, freight, merchandise, or other property for hire; or
+(ii)
+any commercial vehicle, trailer, or semitrailer that operates interstate and transports the vehicle owner's goods or property in furtherance of the owner's commercial enterprise.
+(b)
+&quot;State-assessed commercial vehicle&quot; does not include vehicles used for hire that are specified in Subsection (10)(c) as county-assessed commercial vehicles.
+(38)
+&quot;Subdivided lot&quot; means a lot, parcel, or other division of land, that is a division of a base parcel.
+(39)
+&quot;Tax area&quot; means a geographic area created by the overlapping boundaries of one or more taxing entities.
+(40)
+&quot;Taxable value&quot; means fair market value less any applicable reduction allowed for residential property under Section
+59-2-103
+.
+(41)
+&quot;Taxing entity&quot; means any county, city, town, school district, special taxing district, special district under Title 17B, Limited Purpose Local Government Entities - Special Districts, or other political subdivision of the state with the authority to levy a tax on property.
+(42)
+(a)
+&quot;Tax roll&quot; means a permanent record of the taxes charged on property, as extended on the assessment roll, and may be maintained on the same record or records as the assessment roll or may be maintained on a separate record properly indexed to the assessment roll.
+(b)
+&quot;Tax roll&quot; includes tax books, tax lists, and other similar materials.
+(43)
+&quot;Telecommunications service provider&quot; means the same as that term is defined in Section
+59-12-102
+.
+Amended by Chapter
+234
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_102__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_102__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Acquisition cost&quot; means any cost required to put an item of tangible personal property into service.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Acquisition cost&quot; includes:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the purchase price of a new or used item;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the cost of freight, shipping, loading at origin, unloading at destination, crating, skidding, or any other applicable cost of shipping;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the cost of installation, engineering, rigging, erection, or assembly, including foundations, pilings, utility connections, or similar costs; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_1__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>sales and use taxes.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Aerial applicator&quot; means aircraft or rotorcraft used exclusively for the purpose of engaging in dispensing activities directly affecting agriculture or horticulture with an airworthiness certificate from the Federal Aviation Administration certifying the aircraft or rotorcraft's use for agricultural and pest control purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Air charter service&quot; means an air carrier operation that requires the customer to hire an entire aircraft rather than book passage in whatever capacity is available on a scheduled trip.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Air contract service&quot; means an air carrier operation available only to customers that engage the services of the carrier through a contractual agreement and excess capacity on any trip and is not available to the public at large.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Aircraft&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_2_102__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (6)(b), &quot;airline&quot; means an air carrier that:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>operates:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>offers to fly one or more passengers or cargo on the basis of available capacity on a regularly scheduled route.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Airline&quot; does not include an:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>air charter service; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>air contract service.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Assessment roll&quot; or &quot;assessment book&quot; means a permanent record of the assessment of property as assessed by the county assessor and the commission and may be maintained manually or as a computerized file as a consolidated record or as multiple records by type, classification, or categories.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Base parcel&quot; means a parcel of property that was legally:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>subdivided into two or more lots, parcels, or other divisions of land; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_8__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_102__subsec_8__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>combined with one or more other parcels of property; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_8__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>subdivided into two or more lots, parcels, or other divisions of land.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_2_102__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Certified revenue levy&quot; means a property tax levy that provides an amount of ad valorem property tax revenue equal to the sum of:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_9__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount of ad valorem property tax revenue to be generated statewide in the previous year from imposing a multicounty assessing and collecting levy, as specified in Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_9__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the product of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this Subsection (9), &quot;ad valorem property tax revenue&quot; does not include property tax revenue received by a taxing entity from personal property that is:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_9__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>assessed by a county assessor in accordance with Part 3, County Assessment; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_9__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>semiconductor manufacturing equipment.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of calculating the certified revenue levy described in this Subsection (9), the commission shall use:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_9__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the taxable value of real property assessed by a county assessor contained on the assessment roll;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_9__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the taxable value of real and personal property assessed by the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_9__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the taxable year end value of personal property assessed by a county assessor contained on the prior year's assessment roll.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>&quot;County-assessed commercial vehicle&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>any commercial vehicle, trailer, or semitrailer that is not apportioned under Section and is not operated interstate to transport the vehicle owner's goods or property in furtherance of the owner's commercial enterprise;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>any passenger vehicle owned by a business and used by its employees for transportation as a company car or vanpool vehicle; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>vehicles that are:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_10__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>especially constructed for towing or wrecking, and that are not otherwise used to transport goods, merchandise, or people for compensation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_10__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>used or licensed as taxicabs or limousines;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_10__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>used as rental passenger cars, travel trailers, or motor homes;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_10__para_c__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>used or licensed in this state for use as ambulances or hearses;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_10__para_c__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>especially designed and used for garbage and rubbish collection; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_10__para_c__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>used exclusively to transport students or their instructors to or from any private, public, or religious school or school activities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Eligible judgment&quot; means a final and unappealable judgment or order under Section :</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that became a final and unappealable judgment or order no more than 14 months before the day on which the notice described in Section is required to be provided; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for which a taxing entity's share of the final and unappealable judgment or order is greater than or equal to the lesser of:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_11__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>$5,000; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_11__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>2.5% of the total ad valorem property taxes collected by the taxing entity in the previous fiscal year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_12">
+            <num>(12)</num>
+            <paragraph eId="59_2_102__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Escaped property&quot; means any property, whether personal, land, or any improvements to the property, that is subject to taxation and is:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_12__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>inadvertently omitted from the tax rolls, assigned to the incorrect parcel, or assessed to the wrong taxpayer by the assessing authority;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_12__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>undervalued or omitted from the tax rolls because of the failure of the taxpayer to comply with the reporting requirements of this chapter; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_12__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>undervalued because of errors made by the assessing authority based upon incomplete or erroneous information furnished by the taxpayer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Escaped property&quot; does not include property that is undervalued because of the use of a different valuation methodology or because of a different application of the same valuation methodology.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_13">
+            <num>(13)</num>
+            <paragraph eId="59_2_102__subsec_13__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Fair market value&quot; means the amount at which property would change hands between a willing buyer and a willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of the relevant facts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_13__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of taxation, &quot;fair market value&quot; shall be determined using the current zoning laws applicable to the property in question, except in cases where there is a reasonable probability of a change in the zoning laws affecting that property in the tax year in question and the change would have an appreciable influence upon the value.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>&quot;Geothermal fluid&quot; means water in any form at temperatures greater than 120 degrees centigrade naturally present in a geothermal system.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>&quot;Geothermal resource&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the natural heat of the earth at temperatures greater than 120 degrees centigrade; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the energy, in whatever form, including pressure, present in, resulting from, created by, or which may be extracted from that natural heat, directly or through a material medium.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_16">
+            <num>(16)</num>
+            <paragraph eId="59_2_102__subsec_16__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Goodwill&quot; means:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_16__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>acquired goodwill that is reported as goodwill on the books and records that a taxpayer maintains for financial reporting purposes; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the ability of a business to:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_16__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The following factors apply to Subsection (16)(a)(ii):</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_16__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>superior management skills;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>reputation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>customer relationships;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>patronage; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a factor similar to Subsections (16)(b)(i) through (iv).</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_16__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Goodwill&quot; does not include:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_16__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the intangible property described in Subsection (20)(a) or (b);</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>locational attributes of real property, including:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>value attributable to the identification of an improvement to real property, including:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_16__para_c__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>the enhancement or assemblage value specifically attributable to the interrelation of the existing tangible property in place working together as a unit.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>&quot;Governing body&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_17__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a county, city, or town, the legislative body of the county, city, or town;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_17__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a special district under Title 17B, Limited Purpose Local Government Entities - Special Districts, the  special district's board of trustees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_17__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for a school district, the local board of education;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_17__para_d">
+              <num>(d)</num>
+              <content>
+                <p>for a special service district under Title 17D, Chapter 1, Special Service District Act:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_17__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the legislative body of the county or municipality that created the special service district, to the extent that the county or municipal legislative body has not delegated authority to an administrative control board established under Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_17__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the administrative control board, to the extent that the county or municipal legislative body has delegated authority to an administrative control board established under Section ; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_17__para_e">
+              <num>(e)</num>
+              <content>
+                <p>for a public infrastructure district under Title 17D, Chapter 4, Public Infrastructure District Act, the public infrastructure district's board of trustees.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>&quot;Gross vehicle weight rating&quot; means the maximum gross vehicle weight rating as reported by the manufacturer of the motor vehicle for the vehicle identification number.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_19">
+            <num>(19)</num>
+            <paragraph eId="59_2_102__subsec_19__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (19)(c), &quot;improvement&quot; means a building, structure, fixture, fence, or other item that is permanently attached to land, regardless of whether the title has been acquired to the land, if:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_19__para_a__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_19__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>removal of the item would:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_19__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Improvement&quot; includes:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_19__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an accessory to an item described in Subsection (19)(a) if the accessory is:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_19__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an item described in Subsection (19)(a) that is temporarily detached from the land for repairs and remains located on the land.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_19__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Improvement&quot; does not include:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_19__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an item considered to be personal property pursuant to rules made in accordance with Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_19__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a moveable item that is attached to land for stability only or for an obvious temporary purpose;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_19__para_c__subpara_iii">
+                <num>(iii)</num>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_19__para_c__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>an item attached to the land in a manner that facilitates removal without substantial damage to the land or the item; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_19__para_c__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a transportable factory-built housing unit as defined in Section if that transportable factory-built housing unit is considered to be personal property under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>&quot;Intangible property&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_20__para_a">
+              <num>(a)</num>
+              <content>
+                <p>property that is capable of private ownership separate from tangible property, including:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>money;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>credits;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>bonds;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>stocks;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>representative property;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>franchises;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>licenses;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>trade names;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_ix">
+                <num>(ix)</num>
+                <content>
+                  <p>copyrights; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_a__subpara_x">
+                <num>(x)</num>
+                <content>
+                  <p>patents;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_20__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a low-income housing tax credit;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_20__para_c">
+              <num>(c)</num>
+              <content>
+                <p>goodwill; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_20__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a clean or renewable energy tax credit or incentive, including:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_20__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a federal renewable energy production tax credit under Section 45, Internal Revenue Code;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a federal energy credit for qualified renewable electricity production facilities under Section 48, Internal Revenue Code;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a federal grant for a renewable energy property under American Recovery and Reinvestment Act of 2009, Pub. L. No. 111-5, Section 1603; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_20__para_d__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a tax credit under Subsection (5).</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>&quot;Livestock&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_21__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a domestic animal;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_21__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a fish;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_21__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a fur-bearing animal;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_21__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a honeybee; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_21__para_e">
+              <num>(e)</num>
+              <content>
+                <p>poultry.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>&quot;Low-income housing tax credit&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_22__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a federal low-income housing tax credit under Section 42, Internal Revenue Code; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_22__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a low-income housing tax credit under Section or Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>&quot;Metalliferous minerals&quot; includes gold, silver, copper, lead, zinc, and uranium.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>&quot;Mine&quot; means a natural deposit of either metalliferous or nonmetalliferous valuable mineral.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>&quot;Mining&quot; means the process of producing, extracting, leaching, evaporating, or otherwise removing a mineral from a mine.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_26">
+            <num>(26)</num>
+            <paragraph eId="59_2_102__subsec_26__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Mobile flight equipment&quot; means tangible personal property that is owned or operated by an air charter service, air contract service, or airline and:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_26__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is capable of flight or is attached to an aircraft that is capable of flight; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_26__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is contained in an aircraft that is capable of flight if the tangible personal property is intended to be used:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_26__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_102__subsec_26__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Mobile flight equipment&quot; does not include a spare part other than a spare engine that is rotated at regular intervals with an engine that is attached to the aircraft.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_26__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the term &quot;regular intervals.&quot;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_27">
+            <num>(27)</num>
+            <content>
+              <p>&quot;Nonmetalliferous minerals&quot; includes, but is not limited to, oil, gas, coal, salts, sand, rock, gravel, and all carboniferous materials.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_28">
+            <num>(28)</num>
+            <content>
+              <p>&quot;Part-year residential property&quot; means property that is not residential property on January 1 of a calendar year but becomes residential property after January 1 of the calendar year.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_29">
+            <num>(29)</num>
+            <content>
+              <p>&quot;Personal property&quot; includes:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_29__para_a">
+              <num>(a)</num>
+              <content>
+                <p>every class of property as defined in Subsection (30) that is the subject of ownership and is not real estate or an improvement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_29__para_b">
+              <num>(b)</num>
+              <content>
+                <p>any pipe laid in or affixed to land whether or not the ownership of the pipe is separate from the ownership of the underlying land, even if the pipe meets the definition of an improvement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_29__para_c">
+              <num>(c)</num>
+              <content>
+                <p>bridges and ferries;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_29__para_d">
+              <num>(d)</num>
+              <content>
+                <p>livestock; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_29__para_e">
+              <num>(e)</num>
+              <content>
+                <p>outdoor advertising structures as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_30">
+            <num>(30)</num>
+            <paragraph eId="59_2_102__subsec_30__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Property&quot; means property that is subject to assessment and taxation according to its value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_30__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Property&quot; does not include intangible property as defined in this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_31">
+            <num>(31)</num>
+            <paragraph eId="59_2_102__subsec_31__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Public utility&quot; means:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_31__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the operating property of a railroad, gas corporation, oil or gas transportation or pipeline company, coal slurry pipeline company, electrical corporation, sewerage corporation, or heat corporation where the company performs the service for, or delivers the commodity to, the public generally or companies serving the public generally, or in the case of a gas corporation or an electrical corporation, where the gas or electricity is sold or furnished to any member or consumers within the state for domestic, commercial, or industrial use; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_31__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the operating property of any entity or person defined under Section except water corporations.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_31__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Public utility&quot; does not include the operating property of a telecommunications service provider.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_32">
+            <num>(32)</num>
+            <paragraph eId="59_2_102__subsec_32__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection (32)(b), &quot;qualifying exempt primary residential rental personal property&quot; means household furnishings, furniture, and equipment that:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_32__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>are used exclusively within a dwelling unit that is the primary residence of a tenant;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_32__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>are owned by the owner of the dwelling unit that is the primary residence of a tenant; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_32__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>after applying the residential exemption described in Section , are exempt from taxation under this chapter in accordance with Subsection (2).</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_32__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define the term &quot;dwelling unit&quot; for purposes of this Subsection (32) and Subsection (35).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_33">
+            <num>(33)</num>
+            <content>
+              <p>&quot;Real estate&quot; or &quot;real property&quot; includes:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_33__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the possession of, claim to, ownership of, or right to the possession of land;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_33__para_b">
+              <num>(b)</num>
+              <content>
+                <p>all mines, minerals, and quarries in and under the land, all timber belonging to individuals or corporations growing or being on the lands of this state or the United States, and all rights and privileges appertaining to these; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_33__para_c">
+              <num>(c)</num>
+              <content>
+                <p>improvements.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_34">
+            <num>(34)</num>
+            <paragraph eId="59_2_102__subsec_34__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Relationship with an owner of the property's land surface rights&quot; means a relationship described in Subsection 267(b), Internal Revenue Code, except that the term 25% shall be substituted for the term 50% in Subsection 267(b), Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_34__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of determining if a relationship described in Subsection 267(b), Internal Revenue Code, exists, the ownership of stock shall be determined using the ownership rules in Subsection 267(c), Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_35">
+            <num>(35)</num>
+            <paragraph eId="59_2_102__subsec_35__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Residential property,&quot; for purposes of the reductions and adjustments under this chapter, means any property used for residential purposes as a primary residence.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_35__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Residential property&quot; includes:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_35__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>except as provided in Subsection (35)(b)(ii), includes household furnishings, furniture, and equipment if the household furnishings, furniture, and equipment are:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_35__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the county assessor determines that the property will be used for residential purposes as a primary residence:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_35__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Residential property&quot; does not include property used for transient residential use.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_35__para_d">
+              <num>(d)</num>
+              <content>
+                <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may by rule define the term &quot;dwelling unit&quot; for purposes of Subsection (32) and this Subsection (35).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_36">
+            <num>(36)</num>
+            <content>
+              <p>&quot;Split estate mineral rights owner&quot; means a person that:</p>
+            </content>
+            <paragraph eId="59_2_102__subsec_36__para_a">
+              <num>(a)</num>
+              <content>
+                <p>has a legal right to extract a mineral from property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_36__para_b">
+              <num>(b)</num>
+              <content>
+                <p>does not hold more than a 25% interest in:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_36__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the land surface rights of the property where the wellhead is located; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_36__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an entity with an ownership interest in the land surface rights of the property where the wellhead is located;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_36__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is not an entity in which the owner of the land surface rights of the property where the wellhead is located holds more than a 25% interest; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_36__para_d">
+              <num>(d)</num>
+              <content>
+                <p>does not have a relationship with an owner of the land surface rights of the property where the wellhead is located.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_37">
+            <num>(37)</num>
+            <paragraph eId="59_2_102__subsec_37__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;State-assessed commercial vehicle&quot; means:</p>
+              </content>
+              <subparagraph eId="59_2_102__subsec_37__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>any commercial vehicle, trailer, or semitrailer that operates interstate or intrastate to transport passengers, freight, merchandise, or other property for hire; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_102__subsec_37__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>any commercial vehicle, trailer, or semitrailer that operates interstate and transports the vehicle owner's goods or property in furtherance of the owner's commercial enterprise.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_37__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;State-assessed commercial vehicle&quot; does not include vehicles used for hire that are specified in Subsection (10)(c) as county-assessed commercial vehicles.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_38">
+            <num>(38)</num>
+            <content>
+              <p>&quot;Subdivided lot&quot; means a lot, parcel, or other division of land, that is a division of a base parcel.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_39">
+            <num>(39)</num>
+            <content>
+              <p>&quot;Tax area&quot; means a geographic area created by the overlapping boundaries of one or more taxing entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_40">
+            <num>(40)</num>
+            <content>
+              <p>&quot;Taxable value&quot; means fair market value less any applicable reduction allowed for residential property under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_41">
+            <num>(41)</num>
+            <content>
+              <p>&quot;Taxing entity&quot; means any county, city, town, school district, special taxing district, special district under Title 17B, Limited Purpose Local Government Entities - Special Districts, or other political subdivision of the state with the authority to levy a tax on property.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_102__subsec_42">
+            <num>(42)</num>
+            <paragraph eId="59_2_102__subsec_42__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Tax roll&quot; means a permanent record of the taxes charged on property, as extended on the assessment roll, and may be maintained on the same record or records as the assessment roll or may be maintained on a separate record properly indexed to the assessment roll.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_102__subsec_42__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Tax roll&quot; includes tax books, tax lists, and other similar materials.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_102__subsec_43">
+            <num>(43)</num>
+            <content>
+              <p>&quot;Telecommunications service provider&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-104.6"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-104.6/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-104.6/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_104_6">
+          <num>59-12-104.6</num>
+          <heading>Procedure for claiming a sales and use tax exemption for certain lodging related purchases -- Rulemaking authority -- Applicability of section.</heading>
+          <content>
+            <p>59-12-104.6.
+Procedure for claiming a sales and use tax exemption for certain lodging related purchases -- Rulemaking authority -- Applicability of section.
+(1)
+As used in this section:
+(a)
+&quot;Designated establishment within the lodging industry&quot; means an establishment described in NAICS Code 721110 or 721191 of the 2007 North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget.
+(b)
+&quot;Exempt purchaser&quot; means a person that:
+(i)
+makes a lodging related purchase; and
+(ii)
+may claim an exemption from a tax under this chapter for the purchase.
+(c)
+&quot;Lodging related purchase&quot; means the purchase of the following from a seller that is a designated establishment within the lodging industry:
+(i)
+accommodations and services described in Subsection
+59-12-103(1)(i)
+; or
+(ii)
+any other tangible personal property, product, or service that is:
+(A)
+purchased as part of a transaction that includes the purchase of accommodations and services described in Subsection
+(1)(c)(i)
+; and
+(B)
+included on the invoice, bill of sale, or similar document provided to the purchaser of the accommodations and services described in Subsection
+(1)(c)(i)
+.
+(2)
+Except as provided in Subsection
+(3)
+, an exempt purchaser that makes a lodging related purchase:
+(a)
+shall pay a tax that would otherwise be imposed under this chapter on the lodging related purchase but for the purchaser being allowed to claim an exemption from a tax under this chapter for the purchase; and
+(b)
+may apply to the commission for a refund of the tax described in Subsection
+(2)(a)
+that the purchaser pays.
+(3)
+An exempt purchaser that makes a lodging related purchase may claim an exemption from a tax under this chapter at the point of sale if the exempt purchaser:
+(a)
+is an agency or instrumentality of the United States;
+(b)
+is exempt from a tax under this chapter on a lodging related purchase as authorized by a diplomatic tax exemption card issued by the United States; or
+(c)
+may claim the exemption at the point of sale in accordance with Section
+59-12-104.1
+.
+(4)
+An exempt purchaser that applies to the commission for a refund may not make an application to the commission for a refund more frequently than monthly.
+(5)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules providing:
+(a)
+procedures for applying for a refund under this section;
+(b)
+standards for determining and verifying the amount of a lodging related purchase by an exempt purchaser; and
+(c)
+procedures for claiming a refund on a monthly basis.
+(6)
+This section does not apply to amounts taxed by the Navajo Nation that are exempt from sales and use taxes in accordance with Section
+59-12-104.2
+.
+Enacted by Chapter
+288
+, 2011 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

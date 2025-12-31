@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1418"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1418"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1418/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1418/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1418/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1418/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1418">
+          <num>59-1-1418</num>
+          <heading>Suspension of running of statute of limitations.</heading>
+          <content>
+            <p>59-1-1418.
+Suspension of running of statute of limitations.
+(1)
+The time period allowed for making an assessment or commencing a proceeding under Section
+59-1-1410
+shall be extended by the time period during which the commission is prohibited by law from making an assessment or commencing a proceeding for collection, plus 60 days.
+(2)
+The time period allowed for commencing a proceeding under Section
+59-1-1410
+shall be extended by the time period during which the commencement of the proceeding is stayed by injunction or statutory prohibition.
+Enacted by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_1418__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The time period allowed for making an assessment or commencing a proceeding under Section shall be extended by the time period during which the commission is prohibited by law from making an assessment or commencing a proceeding for collection, plus 60 days.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1418__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The time period allowed for commencing a proceeding under Section shall be extended by the time period during which the commencement of the proceeding is stayed by injunction or statutory prohibition.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

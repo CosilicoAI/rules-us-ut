@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1308"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1308"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1308/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1308/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1308/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1308/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1308">
+          <num>59-2-1308</num>
+          <heading>Property assessed by commission -- Collection procedures -- Exceptions.</heading>
+          <content>
+            <p>59-2-1308.
+Property assessed by commission -- Collection procedures -- Exceptions.
+(1)
+Property taxes assessed by the commission shall be collected, billed, and paid in the manner provided for the collection, billing, and enforcement of other general property taxes under this chapter, except:
+(a)
+the rolling stock of rail car companies; and
+(b)
+state-assessed commercial vehicles.
+(2)
+(a)
+A county treasurer may require a taxpayer, other than a taxpayer described in Subsection
+(1)(a)
+or
+(b)
+, to pay an ad valorem tax liability immediately if:
+(i)
+the taxpayer's property taxes are assessed by the commission under Section
+59-2-201
+; and
+(ii)
+the taxpayer gives any indication of:
+(A)
+departing from the state;
+(B)
+removing the taxpayer's property from the state; or
+(C)
+doing any other act which may prejudice or hinder the collection process for any assessment period.
+(b)
+If a tax is not paid as provided in this chapter, the county treasurer shall collect the tax:
+(i)
+for personal property and uniform fees, in the same manner as is provided for the collection of delinquent taxes or uniform fees under Sections
+59-2-1302
+and
+59-2-1303
+; or
+(ii)
+for all other property, including personal property and uniform fees listed with real property under Section
+59-2-1302
+, in the same manner as is provided for the collection of delinquent taxes under Section
+59-2-1331
+.
+(c)
+The provisions of Sections
+59-2-1302
+and
+59-2-1303
+apply to the assessment by the commission or the county assessor of taxpayers other than a taxpayer described in Subsection
+(1)(a)
+or
+(b)
+.
+Amended by Chapter
+360
+, 1997 General Session
+Amended by Chapter
+379
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_2_1308__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Property taxes assessed by the commission shall be collected, billed, and paid in the manner provided for the collection, billing, and enforcement of other general property taxes under this chapter, except:</p>
+            </content>
+            <paragraph eId="59_2_1308__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the rolling stock of rail car companies; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1308__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>state-assessed commercial vehicles.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1308__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1308__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A county treasurer may require a taxpayer, other than a taxpayer described in Subsection or , to pay an ad valorem tax liability immediately if:</p>
+              </content>
+              <subparagraph eId="59_2_1308__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the taxpayer's property taxes are assessed by the commission under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1308__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the taxpayer gives any indication of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1308__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a tax is not paid as provided in this chapter, the county treasurer shall collect the tax:</p>
+              </content>
+              <subparagraph eId="59_2_1308__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for personal property and uniform fees, in the same manner as is provided for the collection of delinquent taxes or uniform fees under Sections and ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1308__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for all other property, including personal property and uniform fees listed with real property under Section , in the same manner as is provided for the collection of delinquent taxes under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1308__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of Sections and apply to the assessment by the commission or the county assessor of taxpayers other than a taxpayer described in Subsection or .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

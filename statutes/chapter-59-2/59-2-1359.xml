@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1359"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1359"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1359/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1359/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1359/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1359/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1359">
+          <num>59-2-1359</num>
+          <heading>Collection of taxes and tax notice charges -- Removal or destruction of property.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1359.
+Collection of taxes and tax notice charges -- Removal or destruction of property.
+The tax commission may, under the conditions existing in this section, declare the taxes and tax notice charges to be immediately due and payable if it finds:
+(1)
+that the owner or lessee of any real property, including improvements, subject to taxation within the state is removing, destroying, or is about to remove or destroy the property to such an extent as to render doubtful the payment of delinquent taxes, tax notice charges, penalty, and interest, if any, and the payment of current taxes and tax notice charges; or
+(2)
+that the continued operation and extraction of ores and minerals from mine or mining claims, or the method employed by the owner or lessee, contractor, or other person working upon or operating any mine or mining claim will render doubtful the payment of delinquent taxes, tax notice charges, penalty, and interest, if any, for past years or the current year.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1359__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>that the owner or lessee of any real property, including improvements, subject to taxation within the state is removing, destroying, or is about to remove or destroy the property to such an extent as to render doubtful the payment of delinquent taxes, tax notice charges, penalty, and interest, if any, and the payment of current taxes and tax notice charges; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1359__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>that the continued operation and extraction of ores and minerals from mine or mining claims, or the method employed by the owner or lessee, contractor, or other person working upon or operating any mine or mining claim will render doubtful the payment of delinquent taxes, tax notice charges, penalty, and interest, if any, for past years or the current year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

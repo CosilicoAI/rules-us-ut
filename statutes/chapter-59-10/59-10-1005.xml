@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1005"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1005/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1005/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1005">
+          <num>59-10-1005</num>
+          <heading>Tax credit for at-home parent.</heading>
+          <content>
+            <p>Effective 3/24/2022
+59-10-1005.
+Tax credit for at-home parent.
+(1)
+As used in this section:
+(a)
+&quot;At-home parent&quot; means a parent:
+(i)
+who provides full-time care at the parent's residence for one or more of the parent's own qualifying children;
+(ii)
+who claims the qualifying child as a dependent on the parent's individual income tax return for the taxable year for which the parent claims the credit; and
+(iii)
+if the sum of the following amounts are $3,000 or less for the taxable year for which the parent claims the credit:
+(A)
+the total wages, tips, and other compensation listed on all of the parent's federal Forms W-2; and
+(B)
+the gross income listed on the parent's federal Form 1040 Schedule C, Profit or Loss From Business.
+(b)
+&quot;Parent&quot; means an individual who:
+(i)
+is the biological mother or father of a qualifying child;
+(ii)
+is the stepfather or stepmother of a qualifying child;
+(iii)
+(A)
+legally adopts a qualifying child; or
+(B)
+has a qualifying child placed in the individual's home:
+(I)
+by a child-placing agency, as defined in Section
+26B-2-101
+; and
+(II)
+for the purpose of legally adopting the child;
+(iv)
+is a foster parent of a qualifying child; or
+(v)
+is a legal guardian of a qualifying child.
+(c)
+&quot;Qualifying child&quot; means a child who is no more than 12 months of age on the last day of the taxable year for which the tax credit is claimed.
+(2)
+For a taxable year beginning on or after January 1, 2000, a claimant may claim on the claimant's individual income tax return a nonrefundable tax credit of $100 for each qualifying child if:
+(a)
+the claimant or another claimant filing a joint individual income tax return with the claimant is an at-home parent; and
+(b)
+the adjusted gross income of all of the claimants filing the individual income tax return is less than or equal to $50,000.
+(3)
+A claimant may not carry forward or carry back a tax credit authorized by this section.
+(4)
+(a)
+In accordance with any rules prescribed by the commission under Subsection
+(4)(b)
+, the Division of Finance shall transfer at least annually from the General Fund into the Income Tax Fund the aggregate amount of all tax credits claimed under this section.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules for making a transfer from the General Fund into the Income Tax Fund as required by Subsection
+(4)(a)
+.
+Amended by Chapter
+456
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1005__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1005__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;At-home parent&quot; means a parent:</p>
+              </content>
+              <subparagraph eId="59_10_1005__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>who provides full-time care at the parent's residence for one or more of the parent's own qualifying children;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1005__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>who claims the qualifying child as a dependent on the parent's individual income tax return for the taxable year for which the parent claims the credit; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1005__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>if the sum of the following amounts are $3,000 or less for the taxable year for which the parent claims the credit:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1005__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Parent&quot; means an individual who:</p>
+              </content>
+              <subparagraph eId="59_10_1005__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is the biological mother or father of a qualifying child;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1005__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is the stepfather or stepmother of a qualifying child;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1005__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+              </subparagraph>
+              <subparagraph eId="59_10_1005__subsec_1__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>is a foster parent of a qualifying child; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1005__subsec_1__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>is a legal guardian of a qualifying child.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1005__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Qualifying child&quot; means a child who is no more than 12 months of age on the last day of the taxable year for which the tax credit is claimed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1005__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For a taxable year beginning on or after January 1, 2000, a claimant may claim on the claimant's individual income tax return a nonrefundable tax credit of $100 for each qualifying child if:</p>
+            </content>
+            <paragraph eId="59_10_1005__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the claimant or another claimant filing a joint individual income tax return with the claimant is an at-home parent; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1005__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the adjusted gross income of all of the claimants filing the individual income tax return is less than or equal to $50,000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1005__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A claimant may not carry forward or carry back a tax credit authorized by this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1005__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_10_1005__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with any rules prescribed by the commission under Subsection , the Division of Finance shall transfer at least annually from the General Fund into the Income Tax Fund the aggregate amount of all tax credits claimed under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1005__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may make rules for making a transfer from the General Fund into the Income Tax Fund as required by Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

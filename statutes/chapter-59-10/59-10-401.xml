@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-401"/>
+          <FRBRuri value="/us-ut/act/code/59-10-401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-401/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-401/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_401">
+          <num>59-10-401</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>59-10-401.
+Definitions.
+For purposes of this part:
+(1)
+&quot;Employee&quot; means and includes every individual performing services for an employer, either within or without, or both within or without the state of Utah, or any individual performing services within the state of Utah, the performance of which services constitutes, establishes, and determines the relationship between the parties as that of employer and employee, and includes offices of corporations, individuals, including elected officials, performing services for the United States Government or any agency or instrumentality thereof, or the state of Utah or any county, city, municipality, or political subdivision thereof.
+(2)
+&quot;Employer&quot; means a person or organization transacting business in or deriving any income from sources within the state of Utah for whom an individual performs or performed any services, of whatever nature, and who has control of the payment of wages for such services, or is the officer, agent, or employee of the person or organization having control of the payment of wages.  It includes any officer or department of state or federal government, or any political subdivision or agency of the federal or state government, or any city organized under a charter, or any political body not a subdivision or agency of the state.
+(3)
+&quot;Wages&quot; means wages as defined in Section 3401 of the Internal Revenue Code.
+Renumbered and Amended by Chapter
+2
+, 1987 General Session</p>
+          </content>
+          <subsection eId="59_10_401__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Employee&quot; means and includes every individual performing services for an employer, either within or without, or both within or without the state of Utah, or any individual performing services within the state of Utah, the performance of which services constitutes, establishes, and determines the relationship between the parties as that of employer and employee, and includes offices of corporations, individuals, including elected officials, performing services for the United States Government or any agency or instrumentality thereof, or the state of Utah or any county, city, municipality, or political subdivision thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_401__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Employer&quot; means a person or organization transacting business in or deriving any income from sources within the state of Utah for whom an individual performs or performed any services, of whatever nature, and who has control of the payment of wages for such services, or is the officer, agent, or employee of the person or organization having control of the payment of wages.  It includes any officer or department of state or federal government, or any political subdivision or agency of the federal or state government, or any city organized under a charter, or any political body not a subdivision or agency of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_401__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Wages&quot; means wages as defined in Section 3401 of the Internal Revenue Code.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-302"/>
+          <FRBRuri value="/us-ut/act/code/59-2-302"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-302/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-302/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-302/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-302/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_302">
+          <num>59-2-302</num>
+          <heading>Basis of property taxation for political subdivision.</heading>
+          <content>
+            <p>59-2-302.
+Basis of property taxation for political subdivision.
+The assessments made by:
+(1)
+the county assessor, as equalized by the county board of equalization and the commission; and
+(2)
+the commission, as apportioned to each county, city, town, school, road, or other district in their respective counties, are the only basis of property taxation for political subdivisions of the state.
+Amended by Chapter
+360
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_2_302__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>the county assessor, as equalized by the county board of equalization and the commission; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_302__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the commission, as apportioned to each county, city, town, school, road, or other district in their respective counties, are the only basis of property taxation for political subdivisions of the state.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

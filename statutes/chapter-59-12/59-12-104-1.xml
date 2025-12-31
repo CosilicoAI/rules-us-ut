@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-104.1"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-104.1/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-104.1/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_104_1">
+          <num>59-12-104.1</num>
+          <heading>Exemptions for religious or charitable institutions.</heading>
+          <content>
+            <p>59-12-104.1.
+Exemptions for religious or charitable institutions.
+(1)
+Except as provided in Section
+59-12-104
+, sales made by religious or charitable institutions or organizations are exempt from the sales and use tax imposed by this chapter if the sale is made in the conduct of the institution's or organization's regular religious or charitable functions or activities.
+(2)
+(a)
+Except as provided in Section
+59-12-104
+, sales made to a religious or charitable institution or organization are exempt from the sales and use tax imposed by this chapter if the sale is made in the conduct of the institution's or organization's regular religious or charitable functions and activities.
+(b)
+In order to facilitate the efficient administration of the exemption granted by this section, the exemption shall be administered as follows:
+(i)
+the exemption shall be at point of sale if the sale is in the amount of at least $1,000;
+(ii)
+except as provided in Subsection
+(2)(b)(iii)
+, if the sale is less than $1,000, the exemption shall be in the form of a refund of sales or use taxes paid at the point of sale; and
+(iii)
+notwithstanding Subsection
+(2)(b)(ii)
+, the exemption under this section shall be at point of sale if the sale is:
+(A)
+made pursuant to a contract between the seller and the charitable or religious institution or organization; or
+(B)
+made by a public utility, as defined in Section
+54-2-1
+, to a religious or charitable institution or organization.
+(3)
+(a)
+Religious or charitable institutions or organizations entitled to a refund under Subsection
+(2)(b)(ii)
+may apply to the commission for the refund of sales or use taxes paid.
+(b)
+The commission shall designate the following by commission rule adopted in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+:
+(i)
+procedures for applying for a sales and use tax refund;
+(ii)
+standards for determining and verifying the amount of purchase at the point of sale;
+(iii)
+procedures for submitting a request for refund on a monthly basis anytime the taxpayer has accumulated $100 or more in sales tax payments; and
+(iv)
+procedures for submitting a request for refund on a quarterly basis for any cumulative amount of sales tax payments.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

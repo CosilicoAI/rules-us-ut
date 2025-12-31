@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1351.7"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1351.7"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1351.7/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1351.7/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1351.7/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1351.7/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1351_7">
+          <num>59-2-1351.7</num>
+          <heading>Partial interest tax sales.</heading>
+          <content>
+            <p>59-2-1351.7.
+Partial interest tax sales.
+(1)
+For purposes of this section:
+(a)
+&quot;Tax sale interest purchaser&quot; means an owner of an undivided interest in a parcel of tax sale property that bid for and purchased the undivided interest:
+(i)
+at a tax sale in accordance with Section
+59-2-1351.1
+;
+(ii)
+on or after July 1, 2007; and
+(iii)
+if the undivided interest in the tax sale property equals 49% or less.
+(b)
+&quot;Tax sale property&quot; means a parcel of real property that was sold in part as an undivided interest at a tax sale in accordance with Section
+59-2-1351.1
+.
+(2)
+If a parcel of tax sale property is sold, a tax sale interest purchaser may only receive from the sale of the tax sale property, an amount equal to the greater of:
+(a)
+the amount the tax sale interest purchaser paid for the undivided interest in the tax sale property at the tax sale plus 12% interest; or
+(b)
+the tax sale interest purchaser's pro rata share of the sale price of the tax sale property based on the percentage of the undivided interest the tax sale interest purchaser holds in the tax sale property.
+(3)
+A tax sale interest purchaser may not object to the sale of the tax sale property if the tax sale interest purchaser receives an amount in accordance with Subsection
+(2)
+.
+Enacted by Chapter
+109
+, 2007 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,301 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2218"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2218"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2218/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2218/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2218/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2218/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2218">
+          <num>59-12-2218</num>
+          <heading>County, city, or town option sales and use tax for airports, highways, and systems for public transit -- Base -- Rate -- Administration of sales and use tax -- Voter approval exception.</heading>
+          <content>
+            <p>Effective 7/1/2019
+59-12-2218.
+County, city, or town option sales and use tax for airports, highways, and systems for public transit -- Base -- Rate -- Administration of sales and use tax -- Voter approval exception.
+(1)
+Subject to the other provisions of this part, and subject to Subsection
+(8)
+, the following may impose a sales and use tax under this section:
+(a)
+if, on April 1, 2009, a county legislative body of a county of the second class imposes a sales and use tax under this section, the county legislative body of the county of the second class may impose the sales and use tax on the transactions:
+(i)
+described in Subsection
+59-12-103(1)
+; and
+(ii)
+within the county, including the cities and towns within the county; or
+(b)
+if, on April 1, 2009, a county legislative body of a county of the second class does not impose a sales and use tax under this section:
+(i)
+a city legislative body of a city within the county of the second class may impose a sales and use tax under this section on the transactions described in Subsection
+59-12-103(1)
+within that city;
+(ii)
+a town legislative body of a town within the county of the second class may impose a sales and use tax under this section on the transactions described in Subsection
+59-12-103(1)
+within that town; and
+(iii)
+the county legislative body of the county of the second class may impose a sales and use tax on the transactions described in Subsection
+59-12-103(1)
+:
+(A)
+within the county, including the cities and towns within the county, if on the date the county legislative body provides the notice described in Section
+59-12-2209
+to the commission stating that the county will enact a sales and use tax under this section, no city or town within that county imposes a sales and use tax under this section or has provided the notice described in Section
+59-12-2209
+to the commission stating that the city or town will enact a sales and use tax under this section; or
+(B)
+within the county, except for within a city or town within that county, if, on the date the county legislative body provides the notice described in Section
+59-12-2209
+to the commission stating that the county will enact a sales and use tax under this section, that city or town imposes a sales and use tax under this section or has provided the notice described in Section
+59-12-2209
+to the commission stating that the city or town will enact a sales and use tax under this section.
+(2)
+For purposes of Subsection
+(1)
+and subject to the other provisions of this section, a county, city, or town legislative body that imposes a sales and use tax under this section may impose the tax at a rate of .25%.
+(3)
+(a)
+Except as provided in Subsection
+(3)(b)
+, and subject to Subsection
+(4)
+, a sales and use tax imposed under this section shall be expended as determined by the county, city, or town legislative body for uses described in Section
+59-12-2212.2
+.
+(b)
+(i)
+Notwithstanding Subsection
+59-12-2212.2(1)(a)
+, revenues collected from a sales and use tax under this section may only be used for new capacity or congestion mitigation projects, and may not be expended for operation or maintenance purposes.
+(ii)
+The restriction in Subsection
+(3)(b)(i)
+from using revenue for operation or maintenance purposes does not apply to any revenue subject to rights or obligations under a contract entered into before January 1, 2019, between a county, city, or town legislative body and a public transit district.
+(4)
+A county, city, or town legislative body may not expend revenue collected within a county, city, or town from a tax under this section for a purpose described in Section
+59-12-2212.2
+unless the purpose is recommended by:
+(a)
+for a county that is part of a metropolitan planning organization, the metropolitan planning organization of which the county is a part; or
+(b)
+for a county that is not part of a metropolitan planning organization, the council of governments of which the county is a part.
+(5)
+Before a city or town legislative body may impose a sales and use tax under this section, the city or town legislative body shall provide a copy of the notice described in Section
+59-12-2209
+that the city or town legislative body provides to the commission:
+(a)
+to the county legislative body within which the city or town is located; and
+(b)
+at the same time as the city or town legislative body provides the notice to the commission.
+(6)
+Subject to Section
+59-12-2207
+, the commission shall transmit revenues collected within a county, city, or town from a tax under this part that will be expended for a purpose described in Section
+59-12-2212.2
+to the county, city, or town legislative body in accordance with Section
+59-12-2206
+.
+(7)
+Notwithstanding Section
+59-12-2208
+, a county, city, or town legislative body may, but is not required to, submit an opinion question to the county's, city's, or town's registered voters in accordance with Section
+59-12-2208
+to impose a sales and use tax under this section.
+(8)
+(a)
+(i)
+Notwithstanding any other provision in this section, if the entire boundary of a county, city, or town is annexed into a large public transit district, if the county, city, or town legislative body wishes to impose a sales and use tax under this section, the county, city, or town legislative body shall pass the ordinance to impose a sales and use tax under this section on or before June 30, 2022.
+(ii)
+If the entire boundary of a county, city, or town is annexed into a large public transit district, the county, city, or town legislative body may not pass the ordinance to impose a sales and use tax under this section on or after July 1, 2022.
+(b)
+Notwithstanding the deadline described in Subsection
+(8)(a)
+, any sales and use tax imposed under this section by passage of a county, city, or town ordinance on or before June 30, 2022, may remain in effect.
+Amended by Chapter
+479
+, 2019 General Session</p>
+          </content>
+          <subsection eId="59_12_2218__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this part, and subject to Subsection , the following may impose a sales and use tax under this section:</p>
+            </content>
+            <paragraph eId="59_12_2218__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>if, on April 1, 2009, a county legislative body of a county of the second class imposes a sales and use tax under this section, the county legislative body of the county of the second class may impose the sales and use tax on the transactions:</p>
+              </content>
+              <subparagraph eId="59_12_2218__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>described in Subsection ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2218__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>within the county, including the cities and towns within the county; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2218__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if, on April 1, 2009, a county legislative body of a county of the second class does not impose a sales and use tax under this section:</p>
+              </content>
+              <subparagraph eId="59_12_2218__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a city legislative body of a city within the county of the second class may impose a sales and use tax under this section on the transactions described in Subsection within that city;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2218__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a town legislative body of a town within the county of the second class may impose a sales and use tax under this section on the transactions described in Subsection within that town; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2218__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the county legislative body of the county of the second class may impose a sales and use tax on the transactions described in Subsection :</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of Subsection and subject to the other provisions of this section, a county, city, or town legislative body that imposes a sales and use tax under this section may impose the tax at a rate of .25%.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_2218__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , and subject to Subsection , a sales and use tax imposed under this section shall be expended as determined by the county, city, or town legislative body for uses described in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2218__subsec_3__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_12_2218__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Notwithstanding Subsection , revenues collected from a sales and use tax under this section may only be used for new capacity or congestion mitigation projects, and may not be expended for operation or maintenance purposes.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2218__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The restriction in Subsection from using revenue for operation or maintenance purposes does not apply to any revenue subject to rights or obligations under a contract entered into before January 1, 2019, between a county, city, or town legislative body and a public transit district.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A county, city, or town legislative body may not expend revenue collected within a county, city, or town from a tax under this section for a purpose described in Section unless the purpose is recommended by:</p>
+            </content>
+            <paragraph eId="59_12_2218__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>for a county that is part of a metropolitan planning organization, the metropolitan planning organization of which the county is a part; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2218__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a county that is not part of a metropolitan planning organization, the council of governments of which the county is a part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Before a city or town legislative body may impose a sales and use tax under this section, the city or town legislative body shall provide a copy of the notice described in Section that the city or town legislative body provides to the commission:</p>
+            </content>
+            <paragraph eId="59_12_2218__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to the county legislative body within which the city or town is located; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2218__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>at the same time as the city or town legislative body provides the notice to the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Subject to Section , the commission shall transmit revenues collected within a county, city, or town from a tax under this part that will be expended for a purpose described in Section to the county, city, or town legislative body in accordance with Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Notwithstanding Section , a county, city, or town legislative body may, but is not required to, submit an opinion question to the county's, city's, or town's registered voters in accordance with Section to impose a sales and use tax under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2218__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_12_2218__subsec_8__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_12_2218__subsec_8__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Notwithstanding any other provision in this section, if the entire boundary of a county, city, or town is annexed into a large public transit district, if the county, city, or town legislative body wishes to impose a sales and use tax under this section, the county, city, or town legislative body shall pass the ordinance to impose a sales and use tax under this section on or before June 30, 2022.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2218__subsec_8__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>If the entire boundary of a county, city, or town is annexed into a large public transit district, the county, city, or town legislative body may not pass the ordinance to impose a sales and use tax under this section on or after July 1, 2022.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2218__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the deadline described in Subsection , any sales and use tax imposed under this section by passage of a county, city, or town ordinance on or before June 30, 2022, may remain in effect.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

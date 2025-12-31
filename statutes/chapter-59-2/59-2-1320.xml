@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1320"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1320"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1320/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1320/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1320/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1320/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1320">
+          <num>59-2-1320</num>
+          <heading>Settlements with county legislative bodies.</heading>
+          <content>
+            <p>59-2-1320.
+Settlements with county legislative bodies.
+On the first Monday of March and June, and the second Monday of September and December, the county treasurer shall settle with the county legislative body for all money collected by the treasurer, and on those days shall deliver to and file in the office of the county auditor a statement under oath showing:
+(1)
+an account of all transactions and receipts since the last settlement; and
+(2)
+that all money collected is in the county treasury.
+Amended by Chapter
+227
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_2_1320__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>an account of all transactions and receipts since the last settlement; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1320__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>that all money collected is in the county treasury.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

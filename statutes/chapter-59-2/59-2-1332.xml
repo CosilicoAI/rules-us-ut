@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1332"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1332"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1332/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1332/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1332/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1332/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1332">
+          <num>59-2-1332</num>
+          <heading>Extension of date of delinquency.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1332.
+Extension of date of delinquency.
+(1)
+(a)
+The county legislative body may, upon a petition of not less than 100 taxpayers or upon its own motion for good cause, by proclamation, extend the property tax due date from November 30 to noon on December 30.
+(b)
+If the county legislative body extends the property tax due date under Subsection
+(1)(a)
+, the county legislative body shall publish a notice of the proclamation covering this extension:
+(i)
+in a newspaper of general circulation in the county in at least two issues before November 1 of the year in which the taxes are to be paid; and
+(ii)
+in accordance with Section
+45-1-101
+for two weeks before November 1.
+(2)
+In all cases where the county legislative body extends the property tax due date under Subsection
+(1)
+, the date for the selling of property to the county for delinquent taxes or tax notice charges shall be extended 30 days from the dates provided by law.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1332__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1332__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The county legislative body may, upon a petition of not less than 100 taxpayers or upon its own motion for good cause, by proclamation, extend the property tax due date from November 30 to noon on December 30.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1332__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the county legislative body extends the property tax due date under Subsection , the county legislative body shall publish a notice of the proclamation covering this extension:</p>
+              </content>
+              <subparagraph eId="59_2_1332__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>in a newspaper of general circulation in the county in at least two issues before November 1 of the year in which the taxes are to be paid; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1332__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in accordance with Section for two weeks before November 1.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1332__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In all cases where the county legislative body extends the property tax due date under Subsection , the date for the selling of property to the county for delinquent taxes or tax notice charges shall be extended 30 days from the dates provided by law.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

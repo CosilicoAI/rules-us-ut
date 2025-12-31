@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1345"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1345"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1345/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1345/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1345/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1345/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1345">
+          <num>59-2-1345</num>
+          <heading>Daily statement of accounts -- Audits.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1345.
+Daily statement of accounts -- Audits.
+(1)
+Between March 15 and the date of the tax sale, the county treasurer shall transmit daily to the county auditor a statement of the amount of money received by the treasurer during the preceding business day on account of redemptions made on property listed for tax sale.
+(2)
+The statement described in Subsection
+(1)
+shall set out in separate columns:
+(a)
+the number of the redemption certificate or the receipt issued on account for redemption;
+(b)
+the amount received for taxes, tax notice charges, penalties, and administrative costs accrued to the date of the making of the tax sale record;
+(c)
+the amount received for administrative costs subsequently accruing; and
+(d)
+the amount received as interest accrued.
+(3)
+The county auditor shall audit the treasurer's tax sale records at least once a year and the treasurer shall account to the auditor for all money due the county by reason of any redemptions or payments on account for redemption made, including interest as required by law.
+(4)
+Before the tax sale listing under Section
+59-2-1343
+is compiled, the auditor shall credit the treasurer upon the books of the county with the sums charged for delinquent taxes, tax notice charges, penalties, and administrative costs charged against all real estate upon which the period of redemption is expiring in the nearest forthcoming tax sale.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1345__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Between March 15 and the date of the tax sale, the county treasurer shall transmit daily to the county auditor a statement of the amount of money received by the treasurer during the preceding business day on account of redemptions made on property listed for tax sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1345__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The statement described in Subsection shall set out in separate columns:</p>
+            </content>
+            <paragraph eId="59_2_1345__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the number of the redemption certificate or the receipt issued on account for redemption;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1345__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the amount received for taxes, tax notice charges, penalties, and administrative costs accrued to the date of the making of the tax sale record;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1345__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the amount received for administrative costs subsequently accruing; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1345__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>the amount received as interest accrued.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1345__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The county auditor shall audit the treasurer's tax sale records at least once a year and the treasurer shall account to the auditor for all money due the county by reason of any redemptions or payments on account for redemption made, including interest as required by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1345__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Before the tax sale listing under Section is compiled, the auditor shall credit the treasurer upon the books of the county with the sums charged for delinquent taxes, tax notice charges, penalties, and administrative costs charged against all real estate upon which the period of redemption is expiring in the nearest forthcoming tax sale.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

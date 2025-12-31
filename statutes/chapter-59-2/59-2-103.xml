@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-103"/>
+          <FRBRuri value="/us-ut/act/code/59-2-103"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-103/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-103/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-103/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-103/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_103">
+          <num>59-2-103</num>
+          <heading>Rate of assessment of property -- Residential property.</heading>
+          <content>
+            <p>Effective 7/1/2025
+59-2-103.
+Rate of assessment of property -- Residential property.
+(1)
+As used in this section:
+(a)
+(i)
+&quot;Household&quot; means the association of individuals who live in the same dwelling, sharing the dwelling's furnishings, facilities, accommodations, and expenses.
+(ii)
+&quot;Household&quot; includes married individuals, who are not legally separated, who have established domiciles at separate locations within the state.
+(b)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the term &quot;domicile.&quot;
+(2)
+All tangible taxable property located within the state shall be assessed and taxed at a uniform and equal rate on the basis of its fair market value, as valued on January 1, unless otherwise provided by law.
+(3)
+Subject to Subsections (4) through (6) and Section
+59-2-103.5
+, for a calendar year, the fair market value of residential property located within the state is allowed a residential exemption equal to a 45% reduction in the value of the property.
+(4)
+Part-year residential property located within the state is allowed the residential exemption described in Subsection (3) if the part-year residential property is used as residential property for 183 or more consecutive calendar days during the calendar year for which the owner seeks to obtain the residential exemption.
+(5)
+No more than one acre of land per residential unit may qualify for the residential exemption described in Subsection (3).
+(6)
+(a)
+Except as provided in Subsections (6)(b)(ii) and (iii), a residential exemption described in Subsection (3) is limited to one primary residence per household.
+(b)
+An owner of multiple primary residences located within the state is allowed a residential exemption under Subsection (3) for:
+(i)
+subject to Subsection (6)(a), the primary residence of the owner;
+(ii)
+each residential property that is the primary residence of a tenant; and
+(iii)
+subject to Subsection
+59-2-103.5
+(4), each residential property described in Subsection
+59-2-102(35)(b)(ii)
+.
+Amended by Chapter
+234
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_103__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_2_103__subsec_1__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_2_103__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Household&quot; means the association of individuals who live in the same dwelling, sharing the dwelling's furnishings, facilities, accommodations, and expenses.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_103__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Household&quot; includes married individuals, who are not legally separated, who have established domiciles at separate locations within the state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_103__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the term &quot;domicile.&quot;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_103__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All tangible taxable property located within the state shall be assessed and taxed at a uniform and equal rate on the basis of its fair market value, as valued on January 1, unless otherwise provided by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_103__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subject to Subsections (4) through (6) and Section , for a calendar year, the fair market value of residential property located within the state is allowed a residential exemption equal to a 45% reduction in the value of the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_103__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Part-year residential property located within the state is allowed the residential exemption described in Subsection (3) if the part-year residential property is used as residential property for 183 or more consecutive calendar days during the calendar year for which the owner seeks to obtain the residential exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_103__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>No more than one acre of land per residential unit may qualify for the residential exemption described in Subsection (3).</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_103__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_2_103__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsections (6)(b)(ii) and (iii), a residential exemption described in Subsection (3) is limited to one primary residence per household.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_103__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An owner of multiple primary residences located within the state is allowed a residential exemption under Subsection (3) for:</p>
+              </content>
+              <subparagraph eId="59_2_103__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>subject to Subsection (6)(a), the primary residence of the owner;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_103__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>each residential property that is the primary residence of a tenant; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_103__subsec_6__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>subject to Subsection (4), each residential property described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

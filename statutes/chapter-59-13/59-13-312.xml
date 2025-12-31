@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-312"/>
+          <FRBRuri value="/us-ut/act/code/59-13-312"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-312/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-312/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-312/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-312/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_312">
+          <num>59-13-312</num>
+          <heading>Special fuel user records -- Auditing requirements -- Deposit of funds with treasurer as dedicated credits.</heading>
+          <content>
+            <p>59-13-312.
+Special fuel user records -- Auditing requirements -- Deposit of funds with treasurer as dedicated credits.
+(1)
+(a)
+A user claiming a refund for taxes paid to a supplier shall retain on file a receipt or invoice, or a microfilm or microfiche of the receipt or invoice, evidencing the purchase of special fuel and the payment of the tax.
+(b)
+The commission may require the user to furnish summaries or copies of original documentation substantiating the amount of refund claimed.
+(2)
+If the payer of this tax or the person dealing in special fuel does not maintain records in this state so that an audit of the records may be made by the commission or its representative, that person may be required to:
+(a)
+forward the necessary records to the commission for examination; or
+(b)
+pay the necessary expenses for an auditor of the commission to travel to the location of the records outside of this state to make an examination.
+(3)
+Funds collected under this section:
+(a)
+shall be deposited with the state treasurer; and
+(b)
+are dedicated credits for the commission.
+Amended by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_13_312__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_13_312__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A user claiming a refund for taxes paid to a supplier shall retain on file a receipt or invoice, or a microfilm or microfiche of the receipt or invoice, evidencing the purchase of special fuel and the payment of the tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_312__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may require the user to furnish summaries or copies of original documentation substantiating the amount of refund claimed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_312__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the payer of this tax or the person dealing in special fuel does not maintain records in this state so that an audit of the records may be made by the commission or its representative, that person may be required to:</p>
+            </content>
+            <paragraph eId="59_13_312__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>forward the necessary records to the commission for examination; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_312__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>pay the necessary expenses for an auditor of the commission to travel to the location of the records outside of this state to make an examination.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_312__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Funds collected under this section:</p>
+            </content>
+            <paragraph eId="59_13_312__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be deposited with the state treasurer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_312__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>are dedicated credits for the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

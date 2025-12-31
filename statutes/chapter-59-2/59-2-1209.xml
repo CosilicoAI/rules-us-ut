@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1209"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1209/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1209/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1209">
+          <num>59-2-1209</num>
+          <heading>Renumbered 1/1/2026</heading>
+          <content>
+            <p>Effective 1/1/2024
+Renumbered 1/1/2026
+59-2-1209.
+Amount of renter's credit -- Cost-of-living adjustment -- Renter's credit may be claimed only for gross rent that does not constitute a rental assistance payment -- Calculation of credit when rent includes utilities -- Limitation -- General Fund as source of credit -- Maximum credit.
+(1)
+(a)
+Subject to Subsections (2) and (3), for a calendar year beginning on or after January 1, 2021, a claimant may claim a renter's credit for the previous calendar year that does not exceed the following amounts:
+If household income is
+Percentage of gross rent allowed as a credit
+$0  -- $11,785
+9.5%
+$11,786 -- $15,716
+8.5%
+$15,717 -- $19,643
+7.0%
+$19,644 -- $23,572
+5.5%
+$23,573 -- $27,503
+4.0%
+$27,504 -- $31,198
+3.0%
+$31,199 --  $34,666
+2.5%
+(b)
+For a calendar year beginning on or after January 1, 2022, the commission shall increase or decrease the household income eligibility amounts under Subsection (1)(a) by a percentage equal to the percentage difference between the Consumer Price Index housing for the preceding calendar year and the Consumer Price Index housing for calendar year 2020.
+(2)
+A claimant may claim a renter's credit under this part only for gross rent that does not constitute a rental assistance payment.
+(3)
+For purposes of calculating gross rent when a claimant's rent includes electricity or natural gas and the utility amount is not itemized in the statement provided in accordance with Section
+59-2-1213
+, the commission shall deduct from rent:
+(a)
+7% of rent if the rent includes electricity or natural gas but not both; or
+(b)
+13% of rent if the rent includes both electricity and natural gas.
+(4)
+An individual may not receive the renter's credit under this section if the individual is:
+(a)
+claimed as a personal exemption on another individual's federal income tax return during any portion of a calendar year for which the individual seeks to claim the renter's credit under this section; or
+(b)
+a dependent with respect to whom another individual claims a tax credit under Section 24(h)(4), Internal Revenue Code, during any portion of a calendar year for which the individual seeks to claim the renter's credit under this section.
+(5)
+A payment for a renter's credit allowed by this section, and provided for in Section
+59-2-1204
+, shall be paid from the General Fund.
+(6)
+A credit under this section may not exceed the maximum amount allowed as a homeowner's credit for each income bracket under Section
+59-2-1208
+.
+Amended by Chapter
+272
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_1209__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1209__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsections (2) and (3), for a calendar year beginning on or after January 1, 2021, a claimant may claim a renter's credit for the previous calendar year that does not exceed the following amounts:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1209__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For a calendar year beginning on or after January 1, 2022, the commission shall increase or decrease the household income eligibility amounts under Subsection (1)(a) by a percentage equal to the percentage difference between the Consumer Price Index housing for the preceding calendar year and the Consumer Price Index housing for calendar year 2020.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1209__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A claimant may claim a renter's credit under this part only for gross rent that does not constitute a rental assistance payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1209__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of calculating gross rent when a claimant's rent includes electricity or natural gas and the utility amount is not itemized in the statement provided in accordance with Section , the commission shall deduct from rent:</p>
+            </content>
+            <paragraph eId="59_2_1209__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>7% of rent if the rent includes electricity or natural gas but not both; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1209__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>13% of rent if the rent includes both electricity and natural gas.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1209__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An individual may not receive the renter's credit under this section if the individual is:</p>
+            </content>
+            <paragraph eId="59_2_1209__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>claimed as a personal exemption on another individual's federal income tax return during any portion of a calendar year for which the individual seeks to claim the renter's credit under this section; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1209__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a dependent with respect to whom another individual claims a tax credit under Section 24(h)(4), Internal Revenue Code, during any portion of a calendar year for which the individual seeks to claim the renter's credit under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1209__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A payment for a renter's credit allowed by this section, and provided for in Section , shall be paid from the General Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1209__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A credit under this section may not exceed the maximum amount allowed as a homeowner's credit for each income bracket under Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

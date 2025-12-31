@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-213"/>
+          <FRBRuri value="/us-ut/act/code/59-1-213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-213/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-213/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-213/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-213/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_213">
+          <num>59-1-213</num>
+          <heading>Annual report on Internal Revenue Code changes.</heading>
+          <content>
+            <p>Effective 5/10/2016
+59-1-213.
+Annual report on Internal Revenue Code changes.
+The commission shall annually provide an electronic report to the Revenue and Taxation Interim Committee on or before the October interim meeting concerning the impacts of the reliance of this title on the Internal Revenue Code, including:
+(1)
+any modification to the Internal Revenue Code that is likely to have a fiscal impact on state revenues:
+(a)
+that became effective:
+(i)
+if the commission is preparing its initial report in accordance with this section, during the previous calendar year; or
+(ii)
+if the commission has prepared a previous report in accordance with this section, after the most recent report prepared in accordance with this section; or
+(b)
+that have been enacted and will become effective prior to the end of the calendar year that begins January 1 following the current report prepared in accordance with this section;
+(2)
+the fiscal impacts a modification described in Subsection
+(1)
+may have on state revenues; and
+(3)
+statutory or administrative options to:
+(a)
+implement the effects on this title of a modification described in Subsection
+(1)
+; or
+(b)
+change this title to prevent this title from implementing a modification described in Subsection
+(1)
+.
+Amended by Chapter
+135
+, 2016 General Session</p>
+          </content>
+          <subsection eId="59_1_213__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>any modification to the Internal Revenue Code that is likely to have a fiscal impact on state revenues:</p>
+            </content>
+            <paragraph eId="59_1_213__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>that became effective:</p>
+              </content>
+              <subparagraph eId="59_1_213__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>if the commission is preparing its initial report in accordance with this section, during the previous calendar year; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_213__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the commission has prepared a previous report in accordance with this section, after the most recent report prepared in accordance with this section; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_213__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>that have been enacted and will become effective prior to the end of the calendar year that begins January 1 following the current report prepared in accordance with this section;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_213__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the fiscal impacts a modification described in Subsection may have on state revenues; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_213__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>statutory or administrative options to:</p>
+            </content>
+            <paragraph eId="59_1_213__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>implement the effects on this title of a modification described in Subsection ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_213__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>change this title to prevent this title from implementing a modification described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

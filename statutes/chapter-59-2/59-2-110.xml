@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-110"/>
+          <FRBRuri value="/us-ut/act/code/59-2-110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-110/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-110/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_110">
+          <num>59-2-110</num>
+          <heading>Designation of person to receive notice.</heading>
+          <content>
+            <p>Effective 5/12/2020
+59-2-110.
+Designation of person to receive notice.
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+, if a governmental entity is required under this chapter to send information or notice to a person, the governmental entity shall send the information or notice to:
+(i)
+the person required under the applicable provision of this chapter; and
+(ii)
+each person designated in accordance with Subsection
+(2)
+by the person described in Subsection
+(1)(a)(i)
+.
+(b)
+If a governmental entity is required under Section
+59-2-919
+,
+59-2-919.1
+, or
+59-2-1317
+to send information or notice to a person, the governmental entity shall send the information or notice to:
+(i)
+the person required under the applicable section; or
+(ii)
+one person designated in accordance with Subsection
+(2)
+by the person described in Subsection
+(1)(b)(i)
+.
+(2)
+(a)
+A person to whom a governmental entity is required under this chapter to send information or notice may designate a person to receive the information or notice in accordance with Subsection
+(1)
+.
+(b)
+To make a designation described in Subsection
+(2)(a)
+, the person shall submit a written request to the governmental entity on a form prescribed by the commission.
+(3)
+A person who makes a designation described in Subsection
+(2)
+may revoke the designation by submitting a written request to the governmental entity on a form prescribed by the commission.
+Enacted by Chapter
+105
+, 2020 General Session</p>
+          </content>
+          <subsection eId="59_2_110__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_110__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , if a governmental entity is required under this chapter to send information or notice to a person, the governmental entity shall send the information or notice to:</p>
+              </content>
+              <subparagraph eId="59_2_110__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the person required under the applicable provision of this chapter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_110__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>each person designated in accordance with Subsection by the person described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_110__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a governmental entity is required under Section , , or to send information or notice to a person, the governmental entity shall send the information or notice to:</p>
+              </content>
+              <subparagraph eId="59_2_110__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the person required under the applicable section; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_110__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>one person designated in accordance with Subsection by the person described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_110__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_110__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A person to whom a governmental entity is required under this chapter to send information or notice may designate a person to receive the information or notice in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_110__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>To make a designation described in Subsection , the person shall submit a written request to the governmental entity on a form prescribed by the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_110__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person who makes a designation described in Subsection may revoke the designation by submitting a written request to the governmental entity on a form prescribed by the commission.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

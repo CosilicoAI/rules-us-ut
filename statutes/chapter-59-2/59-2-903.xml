@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-903"/>
+          <FRBRuri value="/us-ut/act/code/59-2-903"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-903/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-903/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-903/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-903/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_903">
+          <num>59-2-903</num>
+          <heading>Remittance to credit of Uniform School Fund of money in excess of basic state-supported school program -- Manner.</heading>
+          <content>
+            <p>59-2-903.
+Remittance to credit of Uniform School Fund of money in excess of basic state-supported school program -- Manner.
+In providing for remittance to the State Board of Education of any excess collections from the tax levy applied for the basic state-supported school program as specified in Subsection
+59-2-902(4)
+, the excess amount shall be remitted in the following manner:
+(1)
+by June 1, 95% of the amount by which the money then collected, pursuant to the levy, exceeds the estimated total basic state-supported school program of the district; or
+(2)
+as soon after the end of the school year as the school district and the State Board of Education can determine the actual cost of the district's basic state-supported school program, the district and the State Board of Education shall make a final settlement.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_2_903__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>by June 1, 95% of the amount by which the money then collected, pursuant to the levy, exceeds the estimated total basic state-supported school program of the district; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_903__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>as soon after the end of the school year as the school district and the State Board of Education can determine the actual cost of the district's basic state-supported school program, the district and the State Board of Education shall make a final settlement.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

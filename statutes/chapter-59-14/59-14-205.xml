@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-205"/>
+          <FRBRuri value="/us-ut/act/code/59-14-205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-205/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-205/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_205">
+          <num>59-14-205</num>
+          <heading>Stamping procedure -- Rules -- Exceptions -- Penalty -- Collection procedure.</heading>
+          <content>
+            <p>59-14-205.
+Stamping procedure -- Rules -- Exceptions -- Penalty -- Collection procedure.
+(1)
+In the case of manufacturers, jobbers, importers, distributors, wholesalers, and retailers, the taxes imposed on cigarettes by this chapter shall be paid by affixing stamps in the manner and at the time prescribed in this section.
+(2)
+All manufacturers, importers, distributors, wholesalers, and retailers shall securely affix the stamps to each individual package or container of cigarettes sold in the state, and may not sell or provide cigarette stamps to any other person.
+(3)
+(a)
+Stamps shall be securely affixed to each individual package of cigarettes within 72 hours after the cigarettes are received within the state.
+(b)
+All cigarettes shall be stamped before sale within the state.
+(c)
+Cigarettes manufactured within the state shall be stamped by the manufacturer when and as sold.
+(4)
+The commission may, if it is practical and reasonable for the enforcement of the collection of taxes, make rules in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, to permit cigarettes to remain unstamped until the original case or crate is broken, unpacked, or sold.
+(5)
+The commission may permit a person to sell and export cigarettes to a regular dealer in cigarettes outside the state without affixing stamps.
+(6)
+(a)
+If cigarettes are allowed to remain unstamped under Subsection
+(4)
+or
+(5)
+, the commission may require the person holding the unstamped cigarettes to secure a surety bond from a surety company authorized to do business in this state.
+(b)
+The surety bond described in Subsection
+(6)(a)
+shall be conditioned to secure the payment of all taxes and penalties provided in this chapter.
+(7)
+A manufacturer, jobber, importer, distributor, wholesaler, or retailer may not remove, conceal, or obscure a cigarette package:
+(a)
+notice described under Subsection
+59-14-210(1)(a)(i)
+; or
+(b)
+warning label that is placed on the package in compliance with the Federal Cigarette Labeling and Advertising Act, 15 U.S.C. Sec. 1333.
+(8)
+(a)
+Any person failing to properly affix and cancel stamps to the cigarettes, under this section and rules promulgated by the commission, may be required by the commission to pay as part of the tax, and in addition to any other penalty provided in this chapter, a penalty of $25 for each offense, to be assessed and collected by the commission in accordance with
+Chapter 1, Part 14, Assessment, Collections, and Refunds Act
+.
+(b)
+Each article, package, or container found not having proper stamps affixed to the article, package, or container is a separate offense.
+(c)
+The presence of any package or container in a place of business conducting retail sales shall be prima facie evidence that it is intended for sale and subject to taxes under this chapter.
+Amended by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_14_205__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In the case of manufacturers, jobbers, importers, distributors, wholesalers, and retailers, the taxes imposed on cigarettes by this chapter shall be paid by affixing stamps in the manner and at the time prescribed in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_205__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All manufacturers, importers, distributors, wholesalers, and retailers shall securely affix the stamps to each individual package or container of cigarettes sold in the state, and may not sell or provide cigarette stamps to any other person.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_205__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_14_205__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Stamps shall be securely affixed to each individual package of cigarettes within 72 hours after the cigarettes are received within the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_205__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>All cigarettes shall be stamped before sale within the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_205__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Cigarettes manufactured within the state shall be stamped by the manufacturer when and as sold.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_205__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The commission may, if it is practical and reasonable for the enforcement of the collection of taxes, make rules in accordance with , to permit cigarettes to remain unstamped until the original case or crate is broken, unpacked, or sold.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_205__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission may permit a person to sell and export cigarettes to a regular dealer in cigarettes outside the state without affixing stamps.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_205__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_14_205__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If cigarettes are allowed to remain unstamped under Subsection or , the commission may require the person holding the unstamped cigarettes to secure a surety bond from a surety company authorized to do business in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_205__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The surety bond described in Subsection shall be conditioned to secure the payment of all taxes and penalties provided in this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_205__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A manufacturer, jobber, importer, distributor, wholesaler, or retailer may not remove, conceal, or obscure a cigarette package:</p>
+            </content>
+            <paragraph eId="59_14_205__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>notice described under Subsection ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_205__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>warning label that is placed on the package in compliance with the Federal Cigarette Labeling and Advertising Act, 15 U.S.C. Sec. 1333.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_205__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_14_205__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any person failing to properly affix and cancel stamps to the cigarettes, under this section and rules promulgated by the commission, may be required by the commission to pay as part of the tax, and in addition to any other penalty provided in this chapter, a penalty of $25 for each offense, to be assessed and collected by the commission in accordance with .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_205__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Each article, package, or container found not having proper stamps affixed to the article, package, or container is a separate offense.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_205__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The presence of any package or container in a place of business conducting retail sales shall be prima facie evidence that it is intended for sale and subject to taxes under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-515"/>
+          <FRBRuri value="/us-ut/act/code/59-7-515"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-515/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-515/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-515/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-515/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_515">
+          <num>59-7-515</num>
+          <heading>Interest when deficiency extended.</heading>
+          <content>
+            <p>59-7-515.
+Interest when deficiency extended.
+(1)
+If the time for the payment of any part of a deficiency is extended, the commission shall collect as a part of the tax interest on the part of the deficiency (the time for payment of which is so extended) at the rate prescribed in Section
+59-1-402
+for the period of the extension, and shall collect no other interest on such part of the deficiency for such period.
+(2)
+If the part of the deficiency (the time for payment of which is so extended) is not paid in accordance with the terms of the extension, the commission shall collect as a part of the tax interest on such unpaid amount at the rate prescribed in Section
+59-1-402
+for the period from the time fixed by the terms of the extension for its payment until it is paid, and shall collect no other interest on such unpaid amount for such period.
+Renumbered and Amended by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_515__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the time for the payment of any part of a deficiency is extended, the commission shall collect as a part of the tax interest on the part of the deficiency (the time for payment of which is so extended) at the rate prescribed in Section for the period of the extension, and shall collect no other interest on such part of the deficiency for such period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_515__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the part of the deficiency (the time for payment of which is so extended) is not paid in accordance with the terms of the extension, the commission shall collect as a part of the tax interest on such unpaid amount at the rate prescribed in Section for the period from the time fixed by the terms of the extension for its payment until it is paid, and shall collect no other interest on such unpaid amount for such period.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

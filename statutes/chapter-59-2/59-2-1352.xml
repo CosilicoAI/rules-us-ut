@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1352"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1352"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1352/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1352/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1352/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1352/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1352">
+          <num>59-2-1352</num>
+          <heading>Purchaser of invalid tax title -- Purchaser's lien -- Extent of lien -- Priority of lien -- Foreclosure of lien.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1352.
+Purchaser of invalid tax title -- Purchaser's lien -- Extent of lien -- Priority of lien -- Foreclosure of lien.
+(1)
+Every person who has purchased or purchases any invalid tax title to any real property in this state shall, from the effective date of this part, have a lien against the property for the recovery of the amount of the purchase price paid to the county to the extent that the county would have a lien prior to the sale by the county, but in no event may the lien be greater than the amount of taxes, tax notice charges, interest, and penalties, or the amount actually paid, whichever is smaller.
+(2)
+Taxes and tax notice charges paid by the purchaser for subsequent years after the purchase from the county shall be included in the amount secured by the lien which has not already been recovered.
+(3)
+The lien shall have the same priority against the property as the lien for the delinquent taxes and tax notice charges which were liquidated by the purchase except that it may not have preference over any right, title, interest in, or lien against, the property acquired since the purchase of the tax title for value and without notice, and the lien shall bear interest at the legal rate for a period of not to exceed four years.
+(4)
+The lien shall be foreclosed in any action in which the invalidity of the tax title is determined.
+(5)
+If the lien is not foreclosed at the time of the determination of the invalidity of the tax title, any later action to foreclose the lien shall be barred.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1352__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Every person who has purchased or purchases any invalid tax title to any real property in this state shall, from the effective date of this part, have a lien against the property for the recovery of the amount of the purchase price paid to the county to the extent that the county would have a lien prior to the sale by the county, but in no event may the lien be greater than the amount of taxes, tax notice charges, interest, and penalties, or the amount actually paid, whichever is smaller.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1352__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Taxes and tax notice charges paid by the purchaser for subsequent years after the purchase from the county shall be included in the amount secured by the lien which has not already been recovered.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1352__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The lien shall have the same priority against the property as the lien for the delinquent taxes and tax notice charges which were liquidated by the purchase except that it may not have preference over any right, title, interest in, or lien against, the property acquired since the purchase of the tax title for value and without notice, and the lien shall bear interest at the legal rate for a period of not to exceed four years.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1352__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The lien shall be foreclosed in any action in which the invalidity of the tax title is determined.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1352__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the lien is not foreclosed at the time of the determination of the invalidity of the tax title, any later action to foreclose the lien shall be barred.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

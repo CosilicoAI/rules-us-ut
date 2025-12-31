@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-707"/>
+          <FRBRuri value="/us-ut/act/code/59-1-707"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-707/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-707/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-707/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-707/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_707">
+          <num>59-1-707</num>
+          <heading>Writ of mandate requiring taxpayer to file return.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-1-707.
+Writ of mandate requiring taxpayer to file return.
+(1)
+(a)
+If a taxpayer fails to file any return required pursuant to this title within 60 days of the time prescribed, the commission may petition for a writ of mandate to compel the taxpayer to file the return.  The petition may be filed, in the discretion of the commission, in the Tax Division of the Third Judicial District or in the district court for the county in which the taxpayer resides or has a principal place of business. In the case of a nonresident taxpayer the petition shall be filed in the Third District Court.
+(b)
+The court shall grant a hearing on the petition for a writ of mandate within 20 days after the filing of the petition or as soon thereafter as the court may determine, having regard for the rights of the parties and the necessity of a speedy determination of the petition.
+(c)
+Upon a finding of failure to file a return within 60 days of the time prescribed pursuant to this title the court shall issue a writ of mandate requiring the taxpayer to file a return.  The order of the court shall include an award of attorney fees, court costs, witness fees, and all other costs in favor of the prevailing party.
+(2)
+Nothing in this section shall limit the remedies otherwise available to the commission under this title or other laws of this state.
+Amended by Chapter
+302
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_1_707__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_1_707__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a taxpayer fails to file any return required pursuant to this title within 60 days of the time prescribed, the commission may petition for a writ of mandate to compel the taxpayer to file the return.  The petition may be filed, in the discretion of the commission, in the Tax Division of the Third Judicial District or in the district court for the county in which the taxpayer resides or has a principal place of business. In the case of a nonresident taxpayer the petition shall be filed in the Third District Court.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_707__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The court shall grant a hearing on the petition for a writ of mandate within 20 days after the filing of the petition or as soon thereafter as the court may determine, having regard for the rights of the parties and the necessity of a speedy determination of the petition.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_707__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon a finding of failure to file a return within 60 days of the time prescribed pursuant to this title the court shall issue a writ of mandate requiring the taxpayer to file a return.  The order of the court shall include an award of attorney fees, court costs, witness fees, and all other costs in favor of the prevailing party.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_707__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this section shall limit the remedies otherwise available to the commission under this title or other laws of this state.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

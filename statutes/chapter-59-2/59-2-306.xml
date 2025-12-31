@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-306"/>
+          <FRBRuri value="/us-ut/act/code/59-2-306"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-306/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-306/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-306/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-306/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_306">
+          <num>59-2-306</num>
+          <heading>Statements by taxpayers -- Power of assessors respecting statements -- Reporting information to other counties.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-2-306.
+Statements by taxpayers -- Power of assessors respecting statements -- Reporting information to other counties.
+(1)
+(a)
+Except as provided in Subsection (1)(c), the county assessor may request a signed statement from any person setting forth all the real and personal property assessable by the assessor that the person owns, possesses, manages, or has under the person's control at 12 noon on January 1.
+(b)
+A request under Subsection (1)(a) shall include a notice of the procedure under Section
+59-2-1005
+for appealing the value of the personal property.
+(c)
+A telecommunications service provider shall file a signed statement setting forth the telecommunications service provider'spersonal property in accordance with Section
+59-2-306.5
+.
+(d)
+A telecommunications service provider shall claim an exemption for personal property in accordance with Section
+59-2-1115
+.
+(2)
+(a)
+Except as provided in Subsection (2)(b) or (c), a person shall file a signed statement described in Subsection (1) on or before May 15 of the year the county assessor requests the statement described in Subsection (1).
+(b)
+For a county of the first class, a person shall file the signed statement described in Subsection (1) on or before the later of:
+(i)
+60 days after the day on which the county assessor requests the statement; or
+(ii)
+May 15 of the year the county assessor requests the statement described in Subsection (1) if, by resolution, the county legislative body of that county adopts the deadline described in Subsection (2)(a).
+(c)
+If a county assessor requests a signed statement described in Subsection (1) on or after March 16, the person shall file the signed statement within 60 days after the day on which the county assessor requests the signed statement.
+(3)
+The signed statement shall include the following:
+(a)
+all property belonging to, claimed by, or in the possession, control, or management of the person, any firm of which the person is a member, or any corporation of which the person is president, secretary, cashier, or managing agent;
+(b)
+the county in which the property is located or in which the property is taxable; and, if taxable in the county in which the signed statement was made, also the city, town, school district, road district, or other taxing district in which the property is located or taxable;
+(c)
+all lands in parcels or subdivisions not exceeding 640 acres each, the sections and fractional sections of all tracts of land containing more than 640 acres that have been sectionized by the United States government, and the improvements on those lands; and
+(d)
+for a person who owns taxable tangible personal property as defined in Section
+59-2-1115
+, the person's NAICS code, as classified under the current North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget.
+(4)
+Every county assessor may subpoena and examine any person in any county in relation to any signed statement but may not require that person to appear in any county other than the county in which the subpoena is served.
+(5)
+(a)
+Except as provided in Subsection (5)(b), if the signed statement discloses property in any other county, the county assessor shall file the signed statement and send a copy to the county assessor of each county in which the property is located.
+(b)
+If the signed statement discloses personal property of a telecommunications service provider, the county assessor shall notify the telecommunications service provider of the requirement to file a signed statement in accordance with Section
+59-2-306.5
+.
+Amended by Chapter
+315
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_306__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_306__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (1)(c), the county assessor may request a signed statement from any person setting forth all the real and personal property assessable by the assessor that the person owns, possesses, manages, or has under the person's control at 12 noon on January 1.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A request under Subsection (1)(a) shall include a notice of the procedure under Section for appealing the value of the personal property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A telecommunications service provider shall file a signed statement setting forth the telecommunications service provider'spersonal property in accordance with Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A telecommunications service provider shall claim an exemption for personal property in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_306__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_306__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (2)(b) or (c), a person shall file a signed statement described in Subsection (1) on or before May 15 of the year the county assessor requests the statement described in Subsection (1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For a county of the first class, a person shall file the signed statement described in Subsection (1) on or before the later of:</p>
+              </content>
+              <subparagraph eId="59_2_306__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>60 days after the day on which the county assessor requests the statement; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_306__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>May 15 of the year the county assessor requests the statement described in Subsection (1) if, by resolution, the county legislative body of that county adopts the deadline described in Subsection (2)(a).</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If a county assessor requests a signed statement described in Subsection (1) on or after March 16, the person shall file the signed statement within 60 days after the day on which the county assessor requests the signed statement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_306__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The signed statement shall include the following:</p>
+            </content>
+            <paragraph eId="59_2_306__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>all property belonging to, claimed by, or in the possession, control, or management of the person, any firm of which the person is a member, or any corporation of which the person is president, secretary, cashier, or managing agent;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the county in which the property is located or in which the property is taxable; and, if taxable in the county in which the signed statement was made, also the city, town, school district, road district, or other taxing district in which the property is located or taxable;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>all lands in parcels or subdivisions not exceeding 640 acres each, the sections and fractional sections of all tracts of land containing more than 640 acres that have been sectionized by the United States government, and the improvements on those lands; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>for a person who owns taxable tangible personal property as defined in Section , the person's NAICS code, as classified under the current North American Industry Classification System of the federal Executive Office of the President, Office of Management and Budget.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_306__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Every county assessor may subpoena and examine any person in any county in relation to any signed statement but may not require that person to appear in any county other than the county in which the subpoena is served.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_306__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_2_306__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (5)(b), if the signed statement discloses property in any other county, the county assessor shall file the signed statement and send a copy to the county assessor of each county in which the property is located.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_306__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the signed statement discloses personal property of a telecommunications service provider, the county assessor shall notify the telecommunications service provider of the requirement to file a signed statement in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

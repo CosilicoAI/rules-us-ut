@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-310"/>
+          <FRBRuri value="/us-ut/act/code/59-13-310"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-310/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-310/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-310/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-310/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_310">
+          <num>59-13-310</num>
+          <heading>Special fuel from out of state -- Reports required -- Contents of reports.</heading>
+          <content>
+            <p>59-13-310.
+Special fuel from out of state -- Reports required -- Contents of reports.
+(1)
+Every person who delivers special fuel from outside the state to any consignee within the state shall file with the commission on or before the last day of each month a report on forms prescribed by the commission showing:
+(a)
+all deliveries of special fuel within the state during the preceding month; and
+(b)
+the points of origin and original destination.
+(2)
+Where any consignment of special fuel was diverted in transit and delivered within this state, the carrier making delivery of this consignment shall report to the commission:
+(a)
+the place of the delivery of the consignment;
+(b)
+to whom the consignment was delivered;
+(c)
+the number of gallons of special fuel transported or delivered;
+(d)
+the date of delivery and the name of the consignor and of the consignee; and
+(e)
+any other information the commission may require.
+Amended by Chapter
+271
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_13_310__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Every person who delivers special fuel from outside the state to any consignee within the state shall file with the commission on or before the last day of each month a report on forms prescribed by the commission showing:</p>
+            </content>
+            <paragraph eId="59_13_310__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>all deliveries of special fuel within the state during the preceding month; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_310__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the points of origin and original destination.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_310__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Where any consignment of special fuel was diverted in transit and delivered within this state, the carrier making delivery of this consignment shall report to the commission:</p>
+            </content>
+            <paragraph eId="59_13_310__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the place of the delivery of the consignment;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_310__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to whom the consignment was delivered;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_310__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the number of gallons of special fuel transported or delivered;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_310__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>the date of delivery and the name of the consignor and of the consignee; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_310__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>any other information the commission may require.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1702"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1702"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1702/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1702/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1702/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1702/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1702">
+          <num>59-2-1702</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-2-1702.
+Definitions.
+As used in this part:
+(1)
+&quot;Actively devoted to urban farming&quot; means that:
+(a)
+land is devoted to active urban farming activities; and
+(b)
+(i)
+the land produces greater than 50% of the average agricultural production per acre:
+(A)
+as determined under Section
+59-2-1703
+; and
+(B)
+for the given type of land and the given county or area; or
+(ii)
+agricultural production on the land generates annual gross sales of at least $1,000 for each quarter-acre of land devoted to active urban farming activities.
+(2)
+&quot;Rollback tax&quot; means the tax imposed under Section
+59-2-1705
+.
+(3)
+&quot;Urban farming&quot; means:
+(a)
+cultivating food or other marketable crop or engaging in livestock production, including grazing; and
+(b)
+performing the activity described in Subsection
+(3)(a)
+with a reasonable expectation of profit and from irrigated land located in a county that has adopted an ordinance governing urban farming in accordance with Section
+59-2-1714
+.
+(4)
+&quot;Withdrawn from this part&quot; means that land that has been assessed under this part is no longer assessed under this part or eligible for assessment under this part for any reason including that:
+(a)
+an owner voluntarily requests that the land be withdrawn from this part;
+(b)
+the land is no longer actively devoted to urban farming;
+(c)
+(i)
+the land has a change in ownership; and
+(ii)
+(A)
+the new owner fails to apply for assessment under this part as required by Section
+59-2-1707
+; or
+(B)
+an owner applies for assessment under this part, as required by Section
+59-2-1707
+, but the land does not meet the requirements of this part to be assessed under this part;
+(d)
+(i)
+the legal description of the land changes; and
+(ii)
+(A)
+an owner fails to apply for assessment under this part, as required by Section
+59-2-1707
+; or
+(B)
+an owner applies for assessment under this part, as required by Section
+59-2-1707
+, but the land does not meet the requirements of this part to be assessed under this part;
+(e)
+the owner of the land fails to file an application as provided in Section
+59-2-1707
+; or
+(f)
+except as provided in Section
+59-2-1703
+, the land fails to meet a requirement of Section
+59-2-1703
+.
+Amended by Chapter
+144
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_1702__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Actively devoted to urban farming&quot; means that:</p>
+            </content>
+            <paragraph eId="59_2_1702__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>land is devoted to active urban farming activities; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_1__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_1702__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the land produces greater than 50% of the average agricultural production per acre:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1702__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>agricultural production on the land generates annual gross sales of at least $1,000 for each quarter-acre of land devoted to active urban farming activities.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1702__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Rollback tax&quot; means the tax imposed under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1702__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Urban farming&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_1702__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>cultivating food or other marketable crop or engaging in livestock production, including grazing; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>performing the activity described in Subsection with a reasonable expectation of profit and from irrigated land located in a county that has adopted an ordinance governing urban farming in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1702__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Withdrawn from this part&quot; means that land that has been assessed under this part is no longer assessed under this part or eligible for assessment under this part for any reason including that:</p>
+            </content>
+            <paragraph eId="59_2_1702__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an owner voluntarily requests that the land be withdrawn from this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the land is no longer actively devoted to urban farming;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_4__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_1702__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the land has a change in ownership; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1702__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_4__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_2_1702__subsec_4__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the legal description of the land changes; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1702__subsec_4__para_d__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>the owner of the land fails to file an application as provided in Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1702__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>except as provided in Section , the land fails to meet a requirement of Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

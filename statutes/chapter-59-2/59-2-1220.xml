@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1220"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1220"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1220/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1220/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1220/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1220/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1220">
+          <num>59-2-1220</num>
+          <heading>Renumbered 1/1/2026</heading>
+          <content>
+            <p>Effective 1/1/2024
+Renumbered 1/1/2026
+59-2-1220.
+Extension of time for filing application -- Rulemaking authority -- County authority to make refunds.
+(1)
+(a)
+The commission or a county may extend the time for filing an application until December 31 of the year the application is required to be filed if, subject to any rules made by the commission under Subsection (1)(b), the commission or county finds that good cause exists to extend the deadline.
+(b)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules to establish the circumstances under which the commission or a county may, for good cause, extend the deadline for filing an application under Subsection (1)(a).
+(2)
+(a)
+For purposes of this Subsection (2):
+(i)
+&quot;Abatement&quot; means the amount of property taxes accrued that constitutes a tax abatement for the poor in accordance with Subsection
+59-2-1202
+(10).
+(ii)
+&quot;Credit&quot; means a homeowner's credit or renter's credit authorized by this part.
+(iii)
+&quot;Property taxes due&quot; means the taxes due on a claimant's property:
+(A)
+for which the county or the commission grants an abatement or a credit; and
+(B)
+for the calendar year for which the abatement or credit is granted.
+(iv)
+&quot;Property taxes paid&quot; is an amount equal to the sum of:
+(A)
+the amount of the property taxes paid for the taxable year for which the claimant is applying for the abatement or credit; and
+(B)
+the amount of the abatement or credit the county or the commission grants.
+(b)
+A county or the commission granting an abatement or a credit to a claimant shall refund to that claimant an amount equal to the amount by which the claimant's property taxes paid exceed the claimant's property taxes due, if that amount is $1 or more.
+Amended by Chapter
+279
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_1220__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1220__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission or a county may extend the time for filing an application until December 31 of the year the application is required to be filed if, subject to any rules made by the commission under Subsection (1)(b), the commission or county finds that good cause exists to extend the deadline.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1220__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules to establish the circumstances under which the commission or a county may, for good cause, extend the deadline for filing an application under Subsection (1)(a).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1220__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1220__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this Subsection (2):</p>
+              </content>
+              <subparagraph eId="59_2_1220__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Abatement&quot; means the amount of property taxes accrued that constitutes a tax abatement for the poor in accordance with Subsection (10).</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1220__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Credit&quot; means a homeowner's credit or renter's credit authorized by this part.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1220__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>&quot;Property taxes due&quot; means the taxes due on a claimant's property:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1220__subsec_2__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>&quot;Property taxes paid&quot; is an amount equal to the sum of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1220__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county or the commission granting an abatement or a credit to a claimant shall refund to that claimant an amount equal to the amount by which the claimant's property taxes paid exceed the claimant's property taxes due, if that amount is $1 or more.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

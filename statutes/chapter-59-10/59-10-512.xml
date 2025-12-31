@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-512"/>
+          <FRBRuri value="/us-ut/act/code/59-10-512"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-512/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-512/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-512/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-512/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_512">
+          <num>59-10-512</num>
+          <heading>Signing of returns and other documents.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-10-512.
+Signing of returns and other documents.
+(1)
+Except as otherwise provided by Subsection
+(2)
+, any return, statement, or other document required to be made under any provision of this chapter shall be signed in accordance with forms or rules prescribed by the commission.
+(2)
+The return of a partnership made under Section
+59-10-507
+shall be signed by any one of the partners.  The fact that a partner's name is signed on the return shall be prima facie evidence that such partner is authorized to sign the return on behalf of the partnership.
+(3)
+The fact that an individual's name is signed on a return, statement, or other document shall be prima facie evidence for all purposes that the return, statement, or other document was actually signed by the individual.
+Amended by Chapter
+302
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_10_512__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided by Subsection , any return, statement, or other document required to be made under any provision of this chapter shall be signed in accordance with forms or rules prescribed by the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_512__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The return of a partnership made under Section shall be signed by any one of the partners.  The fact that a partner's name is signed on the return shall be prima facie evidence that such partner is authorized to sign the return on behalf of the partnership.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_512__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The fact that an individual's name is signed on a return, statement, or other document shall be prima facie evidence for all purposes that the return, statement, or other document was actually signed by the individual.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

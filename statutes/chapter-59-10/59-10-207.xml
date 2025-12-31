@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-207"/>
+          <FRBRuri value="/us-ut/act/code/59-10-207"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-207/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-207/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-207/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-207/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_207">
+          <num>59-10-207</num>
+          <heading>Share of a nonresident estate or trust and beneficiaries in state taxable income.</heading>
+          <content>
+            <p>59-10-207.
+Share of a nonresident estate or trust and beneficiaries in state taxable income.
+(1)
+The following shall be determined as provided in this section:
+(a)
+the share of a nonresident estate or trust or a nonresident beneficiary of a nonresident estate or trust in an item of income, gain, loss, or deduction that constitutes distributable net income; and
+(b)
+for purposes of Section
+59-10-116
+, the share of a nonresident beneficiary of any estate or trust in estate or trust income, gain, loss, or deduction.
+(2)
+(a)
+The modifications described in Sections
+59-10-202
+and
+59-10-210
+shall be added to or subtracted from the amount of an item of income, gain, loss, or deduction that constitutes distributable net income to the extent the item relates to an item of income, gain, loss, or deduction that also constitutes distributable net income.
+(b)
+A modification may not be made under this section if the modification duplicates an item already reflected in distributable net income.
+(3)
+(a)
+The amount determined under Subsection
+(2)(a)
+shall be allocated among the estate or trust and the beneficiaries of the estate or trust, including a resident beneficiary, in proportion to the estate's, trust's, or beneficiary's share of distributable net income.
+(b)
+An amount allocated in accordance with Subsection
+(3)(a)
+has the same character as for federal income tax purposes.
+(4)
+(a)
+If an estate or trust does not have distributable net income for the taxable year, the share of each beneficiary in the amount determined under Subsection
+(2)(a)
+shall be in proportion to the beneficiary's share of the estate or trust income for that taxable year, under state law or the terms of the governing instrument, that is required to be distributed currently and any other amounts of that income distributed in that taxable year.
+(b)
+For purposes of this Subsection
+(4)
+, any balance of net income shall be allocated to the estate or trust.
+(5)
+(a)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule establish one or more other methods of determining the shares of a beneficiary and of an estate or trust in:
+(i)
+income derived from sources in this state; and
+(ii)
+modifications related to income, gain, loss, or deduction.
+(b)
+A fiduciary may elect to use a method allowed by this Subsection
+(5)
+only if the allocation of a share under Subsection
+(3)
+or
+(4)
+:
+(i)
+results in an inequity in the allocation; and
+(ii)
+the inequity described in Subsection
+(5)(b)(i)
+is substantial:
+(A)
+in amount; and
+(B)
+in relation to the total amount of the modifications described in Subsection
+(2)(a)
+.
+Amended by Chapter
+389
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_10_207__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following shall be determined as provided in this section:</p>
+            </content>
+            <paragraph eId="59_10_207__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the share of a nonresident estate or trust or a nonresident beneficiary of a nonresident estate or trust in an item of income, gain, loss, or deduction that constitutes distributable net income; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_207__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for purposes of Section , the share of a nonresident beneficiary of any estate or trust in estate or trust income, gain, loss, or deduction.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_207__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_207__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The modifications described in Sections and shall be added to or subtracted from the amount of an item of income, gain, loss, or deduction that constitutes distributable net income to the extent the item relates to an item of income, gain, loss, or deduction that also constitutes distributable net income.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_207__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A modification may not be made under this section if the modification duplicates an item already reflected in distributable net income.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_207__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_207__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount determined under Subsection shall be allocated among the estate or trust and the beneficiaries of the estate or trust, including a resident beneficiary, in proportion to the estate's, trust's, or beneficiary's share of distributable net income.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_207__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An amount allocated in accordance with Subsection has the same character as for federal income tax purposes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_207__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_10_207__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If an estate or trust does not have distributable net income for the taxable year, the share of each beneficiary in the amount determined under Subsection shall be in proportion to the beneficiary's share of the estate or trust income for that taxable year, under state law or the terms of the governing instrument, that is required to be distributed currently and any other amounts of that income distributed in that taxable year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_207__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this Subsection , any balance of net income shall be allocated to the estate or trust.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_207__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_10_207__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with , the commission may by rule establish one or more other methods of determining the shares of a beneficiary and of an estate or trust in:</p>
+              </content>
+              <subparagraph eId="59_10_207__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>income derived from sources in this state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_207__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>modifications related to income, gain, loss, or deduction.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_207__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A fiduciary may elect to use a method allowed by this Subsection only if the allocation of a share under Subsection or :</p>
+              </content>
+              <subparagraph eId="59_10_207__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>results in an inequity in the allocation; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_207__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the inequity described in Subsection is substantial:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

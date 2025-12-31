@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-502"/>
+          <FRBRuri value="/us-ut/act/code/59-2-502"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-502/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-502/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-502/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-502/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_502">
+          <num>59-2-502</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-502.
+Definitions.
+As used in this part:
+(1)
+&quot;Actively devoted to agricultural use&quot; means that the land in agricultural use produces in excess of 50% of the average agricultural production per acre:
+(a)
+as determined under Section
+59-2-503
+; and
+(b)
+for:
+(i)
+the given type of land; and
+(ii)
+the given county or area.
+(2)
+&quot;Conservation easement rollback tax&quot; means the tax imposed under Section
+59-2-506.5
+.
+(3)
+&quot;Identical legal ownership&quot; means legal ownership held by:
+(a)
+identical legal parties; or
+(b)
+identical legal entities.
+(4)
+&quot;Land in agricultural use&quot; means:
+(a)
+land devoted to the raising of useful plants and animals with a reasonable expectation of profit, including:
+(i)
+forages and sod crops;
+(ii)
+grains and feed crops;
+(iii)
+livestock as defined in Section
+59-2-102
+;
+(iv)
+trees and fruits; or
+(v)
+vegetables, nursery, floral, and ornamental stock; or
+(b)
+land devoted to and meeting the requirements and qualifications for payments or other compensation under a crop-land retirement program with an agency of the state or federal government.
+(5)
+&quot;Other eligible acreage&quot; means land that is:
+(a)
+five or more contiguous acres;
+(b)
+eligible for assessment under this part; and
+(c)
+(i)
+located in the same county as land described in Subsection
+59-2-503(1)(a)
+; or
+(ii)
+contiguous across county lines with land described in Subsection
+59-2-503(1)(a)
+as provided in Section
+59-2-512
+.
+(6)
+&quot;Platted&quot; means land in which:
+(a)
+parcels of ground are laid out and mapped by their boundaries, course, and extent; and
+(b)
+the plat has been approved as provided in Section
+10-20-804
+or
+17-79-704
+.
+(7)
+&quot;Rollback tax&quot; means the tax imposed under Section
+59-2-506
+.
+(8)
+&quot;Withdrawn from this part&quot; means that land that has been assessed under this part is no longer assessed under this part or eligible for assessment under this part for any reason including that:
+(a)
+an owner voluntarily requests that the land be withdrawn from this part;
+(b)
+the land is no longer actively devoted to agricultural use;
+(c)
+(i)
+the land has a change in ownership; and
+(ii)
+(A)
+the new owner fails to apply for assessment under this part as required by Section
+59-2-509
+; or
+(B)
+(I)
+an owner applies for assessment under this part as required by Section
+59-2-509
+; and
+(II)
+the land does not meet the requirements of this part to be assessed under this part;
+(d)
+(i)
+the legal description of the land changes; and
+(ii)
+(A)
+an owner fails to apply for assessment under this part as required by Section
+59-2-509
+; or
+(B)
+(I)
+an owner applies for assessment under this part as required by Section
+59-2-509
+; and
+(II)
+the land does not meet the requirements of this part to be assessed under this part;
+(e)
+if required by the county assessor, the owner of the land:
+(i)
+fails to file a new application as provided in Subsection
+59-2-508(5)
+; or
+(ii)
+fails to file a signed statement as provided in Subsection
+59-2-508(5)
+; or
+(f)
+except as provided in Section
+59-2-503
+, the land fails to meet a requirement of Section
+59-2-503
+.
+Amended by Chapter
+15
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_2_502__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Actively devoted to agricultural use&quot; means that the land in agricultural use produces in excess of 50% of the average agricultural production per acre:</p>
+            </content>
+            <paragraph eId="59_2_502__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>as determined under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for:</p>
+              </content>
+              <subparagraph eId="59_2_502__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the given type of land; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the given county or area.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_502__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Conservation easement rollback tax&quot; means the tax imposed under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_502__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Identical legal ownership&quot; means legal ownership held by:</p>
+            </content>
+            <paragraph eId="59_2_502__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>identical legal parties; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>identical legal entities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_502__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Land in agricultural use&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_502__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>land devoted to the raising of useful plants and animals with a reasonable expectation of profit, including:</p>
+              </content>
+              <subparagraph eId="59_2_502__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>forages and sod crops;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>grains and feed crops;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_4__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>livestock as defined in Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_4__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>trees and fruits; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_4__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>vegetables, nursery, floral, and ornamental stock; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>land devoted to and meeting the requirements and qualifications for payments or other compensation under a crop-land retirement program with an agency of the state or federal government.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_502__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Other eligible acreage&quot; means land that is:</p>
+            </content>
+            <paragraph eId="59_2_502__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>five or more contiguous acres;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>eligible for assessment under this part; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_5__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_502__subsec_5__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>located in the same county as land described in Subsection ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_5__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>contiguous across county lines with land described in Subsection as provided in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_502__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Platted&quot; means land in which:</p>
+            </content>
+            <paragraph eId="59_2_502__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>parcels of ground are laid out and mapped by their boundaries, course, and extent; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the plat has been approved as provided in Section or .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_502__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Rollback tax&quot; means the tax imposed under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_502__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Withdrawn from this part&quot; means that land that has been assessed under this part is no longer assessed under this part or eligible for assessment under this part for any reason including that:</p>
+            </content>
+            <paragraph eId="59_2_502__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an owner voluntarily requests that the land be withdrawn from this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the land is no longer actively devoted to agricultural use;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_8__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_502__subsec_8__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the land has a change in ownership; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_8__para_c__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_8__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_2_502__subsec_8__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the legal description of the land changes; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_8__para_d__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_8__para_e">
+              <num>(e)</num>
+              <content>
+                <p>if required by the county assessor, the owner of the land:</p>
+              </content>
+              <subparagraph eId="59_2_502__subsec_8__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>fails to file a new application as provided in Subsection ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_502__subsec_8__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>fails to file a signed statement as provided in Subsection ; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_502__subsec_8__para_f">
+              <num>(f)</num>
+              <content>
+                <p>except as provided in Section , the land fails to meet a requirement of Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

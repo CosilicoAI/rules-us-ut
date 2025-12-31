@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-301.6"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.6"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-301.6/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.6/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-301.6/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.6/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_301_6">
+          <num>59-2-301.6</num>
+          <heading>Definition -- Assessment of property having a diminished productive value.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-301.6.
+Definition -- Assessment of property having a diminished productive value.
+(1)
+As used in this section, &quot;diminished productive value&quot; means that property has no, or a significantly reduced, ability to generate income as a result of:
+(a)
+a parcel size requirement established under a land use ordinance or zoning map adopted by a:
+(i)
+city or town in accordance with Title 10, Chapter 20, Part 5, Land Use Regulations - General Processes; or
+(ii)
+a county in accordance with Title 17, Chapter 79, Part 5, Land Use Regulations - General Processes; or
+(b)
+one or more easements burdening the property.
+(2)
+In assessing the fair market value of property, a county assessor shall consider as part of the determination of fair market value whether property has diminished productive value.
+(3)
+This section does not prohibit a county assessor from including as part of a determination of the fair market value of property any other factor affecting the fair market value of the property.
+Amended by Chapter
+15
+, 2025 Special Session 1</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

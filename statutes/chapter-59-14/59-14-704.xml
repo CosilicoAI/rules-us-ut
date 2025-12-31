@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-704"/>
+          <FRBRuri value="/us-ut/act/code/59-14-704"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-704/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-704/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-704/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-704/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_704">
+          <num>59-14-704</num>
+          <heading>Cigarette rolling machine operator quarterly report to commission.</heading>
+          <content>
+            <p>59-14-704.
+Cigarette rolling machine operator quarterly report to commission.
+(1)
+A cigarette rolling machine operator shall each quarter report to the commission:
+(a)
+the number of cigarettes, by weight, produced from each of the cigarette rolling machine operator's cigarette rolling machines for the previous calendar quarter;
+(b)
+the brand family and the tobacco product manufacturer of the brand family of the tobacco the cigarette rolling machine operator purchased or was provided for use by the cigarette rolling machine operator's cigarette rolling machine for the previous calendar quarter;
+(c)
+the ounces of tobacco the cigarette rolling machine operator purchased or was provided for use by the cigarette rolling machine operator's cigarette rolling machine for the previous calendar quarter; and
+(d)
+each person from whom the cigarette rolling machine operator purchased or was provided tobacco for use by the cigarette rolling machine operator's cigarette rolling machine for the previous calendar quarter.
+(2)
+A cigarette rolling machine operator shall file the report required by this section on the last day of the month immediately following the last day of the previous calendar quarter.
+(3)
+The commission shall prescribe the form for the report under this section.
+Enacted by Chapter
+148
+, 2013 General Session</p>
+          </content>
+          <subsection eId="59_14_704__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A cigarette rolling machine operator shall each quarter report to the commission:</p>
+            </content>
+            <paragraph eId="59_14_704__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the number of cigarettes, by weight, produced from each of the cigarette rolling machine operator's cigarette rolling machines for the previous calendar quarter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_704__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the brand family and the tobacco product manufacturer of the brand family of the tobacco the cigarette rolling machine operator purchased or was provided for use by the cigarette rolling machine operator's cigarette rolling machine for the previous calendar quarter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_704__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the ounces of tobacco the cigarette rolling machine operator purchased or was provided for use by the cigarette rolling machine operator's cigarette rolling machine for the previous calendar quarter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_704__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>each person from whom the cigarette rolling machine operator purchased or was provided tobacco for use by the cigarette rolling machine operator's cigarette rolling machine for the previous calendar quarter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_704__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A cigarette rolling machine operator shall file the report required by this section on the last day of the month immediately following the last day of the previous calendar quarter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_704__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall prescribe the form for the report under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

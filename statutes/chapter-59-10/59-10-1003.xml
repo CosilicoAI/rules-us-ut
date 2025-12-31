@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1003"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1003"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1003/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1003/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1003/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1003/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1003">
+          <num>59-10-1003</num>
+          <heading>Tax credit for tax paid by individual to another state.</heading>
+          <content>
+            <p>59-10-1003.
+Tax credit for tax paid by individual to another state.
+(1)
+Except as provided in Subsection
+(2)
+, a claimant, estate, or trust may claim a nonrefundable tax credit against the tax otherwise due under this chapter equal to the amount of the tax imposed:
+(a)
+on that claimant, estate, or trust for the taxable year;
+(b)
+by another state of the United States, the District of Columbia, or a possession of the United States; and
+(c)
+on income:
+(i)
+derived from sources within that other state of the United States, District of Columbia, or possession of the United States; and
+(ii)
+if that income is also subject to tax under this chapter.
+(2)
+A tax credit under this section may only be claimed by a:
+(a)
+resident claimant;
+(b)
+resident estate; or
+(c)
+resident trust.
+(3)
+The application of the tax credit provided under this section may not operate to reduce the tax payable under this chapter to an amount less than would have been payable were the income from the other state disregarded.
+(4)
+The tax credit provided by this section shall be computed and claimed in accordance with rules prescribed by the commission.
+Renumbered and Amended by Chapter
+223
+, 2006 General Session</p>
+          </content>
+          <subsection eId="59_10_1003__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , a claimant, estate, or trust may claim a nonrefundable tax credit against the tax otherwise due under this chapter equal to the amount of the tax imposed:</p>
+            </content>
+            <paragraph eId="59_10_1003__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>on that claimant, estate, or trust for the taxable year;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1003__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>by another state of the United States, the District of Columbia, or a possession of the United States; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1003__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>on income:</p>
+              </content>
+              <subparagraph eId="59_10_1003__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>derived from sources within that other state of the United States, District of Columbia, or possession of the United States; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1003__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if that income is also subject to tax under this chapter.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1003__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A tax credit under this section may only be claimed by a:</p>
+            </content>
+            <paragraph eId="59_10_1003__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>resident claimant;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1003__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>resident estate; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1003__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>resident trust.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1003__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The application of the tax credit provided under this section may not operate to reduce the tax payable under this chapter to an amount less than would have been payable were the income from the other state disregarded.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1003__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax credit provided by this section shall be computed and claimed in accordance with rules prescribed by the commission.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

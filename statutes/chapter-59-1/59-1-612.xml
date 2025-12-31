@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-612"/>
+          <FRBRuri value="/us-ut/act/code/59-1-612"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-612/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-612/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-612/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-612/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_612">
+          <num>59-1-612</num>
+          <heading>Formal hearing to exhaust administrative remedies.</heading>
+          <content>
+            <p>Effective 5/14/2019
+59-1-612.
+Formal hearing to exhaust administrative remedies.
+A party has not exhausted the party's administrative remedies in accordance with Section
+63G-4-401
+unless:
+(1)
+the party requests a formal hearing within the time period provided by law; and
+(2)
+the commission has issued a final unappealable administrative order.
+Enacted by Chapter
+351
+, 2019 General Session</p>
+          </content>
+          <subsection eId="59_1_612__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>the party requests a formal hearing within the time period provided by law; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_612__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>the commission has issued a final unappealable administrative order.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

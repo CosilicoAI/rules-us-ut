@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-159"/>
+          <FRBRuri value="/us-ut/act/code/59-7-159"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-159/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-159/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-159/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-159/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_159">
+          <num>59-7-159</num>
+          <heading>Review of credits allowed under this chapter.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-7-159.
+Review of credits allowed under this chapter.
+(1)
+As used in this section, &quot;committee&quot; means the Revenue and Taxation Interim Committee.
+(2)
+(a)
+The committee shall review each tax credit described in this chapter once every five years to determine whether to continue, modify, or repeal the tax credit.
+(b)
+In conducting the review required under Subsection
+(2)(a)
+, the committee shall:
+(i)
+schedule time on a committee agenda to conduct the review as needed;
+(ii)
+invite state agencies, individuals, and organizations concerned with a tax credit under review to provide oral or written testimony;
+(iii)
+(A)
+invite the Governor's Office of Economic Opportunity to present a summary and analysis of the information for each tax credit regarding which the Governor's Office of Economic Opportunity is required to make a report under this chapter; and
+(B)
+invite the Office of the Legislative Fiscal Analyst to present a summary and analysis of the information for each tax credit regarding which the Office of the Legislative Fiscal Analyst is required to make a report under this chapter;
+(iv)
+evaluate:
+(A)
+the cost of the tax credit to the state;
+(B)
+the purpose and effectiveness of the tax credit; and
+(C)
+the extent to which the state benefits from the tax credit; and
+(v)
+undertake other review efforts as determined by the committee chairs or as otherwise required by law.
+Amended by Chapter
+292
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_7_159__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;committee&quot; means the Revenue and Taxation Interim Committee.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_159__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_159__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The committee shall review each tax credit described in this chapter once every five years to determine whether to continue, modify, or repeal the tax credit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_159__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In conducting the review required under Subsection , the committee shall:</p>
+              </content>
+              <subparagraph eId="59_7_159__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>schedule time on a committee agenda to conduct the review as needed;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_159__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>invite state agencies, individuals, and organizations concerned with a tax credit under review to provide oral or written testimony;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_159__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+              </subparagraph>
+              <subparagraph eId="59_7_159__subsec_2__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>evaluate:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_159__subsec_2__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>undertake other review efforts as determined by the committee chairs or as otherwise required by law.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

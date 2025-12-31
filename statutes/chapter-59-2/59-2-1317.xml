@@ -1,0 +1,535 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1317"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1317"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1317/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1317/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1317/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1317/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1317">
+          <num>59-2-1317</num>
+          <heading>Tax notice -- Contents of notice -- Procedures and requirements for providing notice.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-1317.
+Tax notice -- Contents of notice -- Procedures and requirements for providing notice.
+(1)
+As used in this section, &quot;political subdivision lien&quot; means the same as that term is defined in Section
+11-60-102
+.
+(2)
+Subject to the other provisions of this section, the county treasurer shall:
+(a)
+collect the taxes and tax notice charges; and
+(b)
+provide a notice to each taxpayer that contains the following:
+(i)
+the kind and value of property assessed to the taxpayer;
+(ii)
+the street address of the property, if available to the county;
+(iii)
+that the property may be subject to a detailed review in the next year under Section
+59-2-303.1
+;
+(iv)
+the amount of taxes levied;
+(v)
+a separate statement of the taxes levied only on a certain kind or class of property for a special purpose;
+(vi)
+instructions for payment of the taxes and tax notice charges applicable to the property, including the taxpayer's payment options and collection procedures;
+(vii)
+any tax notice charges applicable to the property, including:
+(A)
+if applicable, a political subdivision lien for road damage that a railroad company causes, as described in Section
+10-7-30
+;
+(B)
+if applicable, a political subdivision lien for municipal water distribution, as described in Section
+10-8-17
+, or a political subdivision lien for an increase in supply from a municipal water distribution, as described in Section
+10-8-19
+;
+(C)
+if applicable, a political subdivision lien for unpaid abatement fees as described in Section
+10-11-4
+;
+(D)
+if applicable, a political subdivision lien for the unpaid portion of an assessment assessed in accordance with Title
+11, Chapter 42
+, Assessment Area Act, or Title
+11, Chapter 42a
+, Commercial Property Assessed Clean Energy Act, including unpaid costs, charges, and interest as of the date the local entity certifies the unpaid amount to the county treasurer;
+(E)
+if applicable, for a special district in accordance with Section
+17B-1-902
+, a political subdivision lien for an unpaid fee, administrative cost, or interest;
+(F)
+if applicable, a political subdivision lien for an unpaid irrigation district use charge as described in Section
+17B-2a-506
+;
+(G)
+if applicable, a political subdivision lien for a contract assessment under a water contract, as described in Section
+17B-2a-1007
+;
+(H)
+if applicable, a property tax penalty that a public infrastructure district imposes, as described in Section
+17D-4-304
+; and
+(I)
+if applicable, an annual payment to the Military Installation Development Authority or an entity designated by the authority in accordance with Section
+63H-1-501
+;
+(viii)
+if a county's tax notice includes an assessment area charge, a statement that, due to potentially ongoing assessment area charges, costs, penalties, and interest, payment of a tax notice charge may not:
+(A)
+pay off the full amount the property owner owes to the tax notice entity; or
+(B)
+cause a release of the lien underlying the tax notice charge;
+(ix)
+if applicable, the annual payment described in Subsection
+63H-1-501(4)(a)
+;
+(x)
+the date the taxes and tax notice charges are due;
+(xi)
+the street address or website at which the taxes and tax notice charges may be paid;
+(xii)
+the date on which the taxes and tax notice charges are delinquent;
+(xiii)
+the penalty imposed on delinquent taxes and tax notice charges;
+(xiv)
+a statement that explains the taxpayer's right to direct allocation of a partial payment in accordance with Subsection
+(9)
+;
+(xv)
+other information specifically authorized to be included on the notice under this chapter;
+(xvi)
+other property tax information approved by the commission; and
+(xvii)
+if sent in calendar year 2024, 2025, or 2026:
+(A)
+notice that the taxpayer may request electronic notice as described in Subsection 17-71-302(1)(m); and
+(B)
+instructions describing how to elect to receive a notice as described in Subsection
+17-71-302(1)(m)
+.
+(3)
+(a)
+Unless expressly allowed under this section or another statutory provision, the treasurer may not add an amount to be collected to the property tax notice.
+(b)
+If the county treasurer adds an amount to be collected to the property tax notice under this section or another statutory provision that expressly authorizes the item's inclusion on the property tax notice:
+(i)
+the amount constitutes a tax notice charge; and
+(ii)
+(A)
+the tax notice charge has the same priority as property tax; and
+(B)
+a delinquency of the tax notice charge triggers a tax sale, in accordance with Section
+59-2-1343
+.
+(4)
+For any property for which property taxes or tax notice charges are delinquent, the notice described in Subsection
+(2)
+shall state, &quot;Prior taxes or tax notice charges are delinquent on this parcel.&quot;
+(5)
+Except as provided in Subsection
+(6)
+, the county treasurer shall:
+(a)
+mail the notice required by this section, postage prepaid; or
+(b)
+leave the notice required by this section at the taxpayer's residence or usual place of business, if known.
+(6)
+(a)
+Subject to the other provisions of this Subsection
+(6)
+, a county treasurer may, at the county treasurer's discretion, provide the notice required by this section by electronic mail if a taxpayer makes an election, according to procedures determined by the county treasurer, to receive the notice by electronic mail.
+(b)
+A taxpayer may revoke an election to receive the notice required by this section by electronic mail if the taxpayer provides written notice to the treasurer on or before October 1.
+(c)
+A revocation of an election under this section does not relieve a taxpayer of the duty to pay a tax or tax notice charge due under this chapter on or before the due date for paying the tax or tax notice charge.
+(d)
+A county treasurer shall provide the notice required by this section using a method described in Subsection
+(5)
+, until a taxpayer makes a new election in accordance with this Subsection
+(6)
+, if:
+(i)
+the taxpayer revokes an election in accordance with Subsection
+(6)(b)
+to receive the notice required by this section by electronic mail; or
+(ii)
+the county treasurer finds that the taxpayer's electronic mail address is invalid.
+(e)
+A person is considered to be a taxpayer for purposes of this Subsection
+(6)
+regardless of whether the property that is the subject of the notice required by this section is exempt from taxation.
+(7)
+(a)
+The county treasurer shall provide the notice required by this section to a taxpayer on or before November 1.
+(b)
+The county treasurer shall keep on file in the county treasurer's office the information set forth in the notice.
+(c)
+The county treasurer is not required to mail a tax receipt acknowledging payment.
+(8)
+This section does not apply to property taxed under Section
+59-2-1302
+or
+59-2-1307
+.
+(9)
+(a)
+A taxpayer who pays less than the full amount due on the taxpayer's property tax notice may, on a form provided by the county treasurer, direct how the county treasurer allocates the partial payment between:
+(i)
+the total amount due for property tax;
+(ii)
+the amount due for assessments, past due special district fees, and other tax notice charges; and
+(iii)
+any other amounts due on the property tax notice.
+(b)
+The county treasurer shall comply with a direction submitted to the county treasurer in accordance with Subsection
+(9)(a)
+.
+(c)
+The provisions of this Subsection
+(9)
+do not:
+(i)
+affect the right or ability of a local entity to pursue any available remedy for non-payment of any item listed on a taxpayer's property tax notice; or
+(ii)
+toll or otherwise change any time period related to a remedy described in Subsection
+(9)(c)(i)
+.
+Amended by Chapter
+17
+, 2025 Special Session 1</p>
+          </content>
+          <subsection eId="59_2_1317__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;political subdivision lien&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the other provisions of this section, the county treasurer shall:</p>
+            </content>
+            <paragraph eId="59_2_1317__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>collect the taxes and tax notice charges; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>provide a notice to each taxpayer that contains the following:</p>
+              </content>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the kind and value of property assessed to the taxpayer;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the street address of the property, if available to the county;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>that the property may be subject to a detailed review in the next year under Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>the amount of taxes levied;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a separate statement of the taxes levied only on a certain kind or class of property for a special purpose;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>instructions for payment of the taxes and tax notice charges applicable to the property, including the taxpayer's payment options and collection procedures;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>any tax notice charges applicable to the property, including:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>if a county's tax notice includes an assessment area charge, a statement that, due to potentially ongoing assessment area charges, costs, penalties, and interest, payment of a tax notice charge may not:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_ix">
+                <num>(ix)</num>
+                <content>
+                  <p>if applicable, the annual payment described in Subsection ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_x">
+                <num>(x)</num>
+                <content>
+                  <p>the date the taxes and tax notice charges are due;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xi">
+                <num>(xi)</num>
+                <content>
+                  <p>the street address or website at which the taxes and tax notice charges may be paid;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xii">
+                <num>(xii)</num>
+                <content>
+                  <p>the date on which the taxes and tax notice charges are delinquent;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xiii">
+                <num>(xiii)</num>
+                <content>
+                  <p>the penalty imposed on delinquent taxes and tax notice charges;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xiv">
+                <num>(xiv)</num>
+                <content>
+                  <p>a statement that explains the taxpayer's right to direct allocation of a partial payment in accordance with Subsection ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xv">
+                <num>(xv)</num>
+                <content>
+                  <p>other information specifically authorized to be included on the notice under this chapter;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xvi">
+                <num>(xvi)</num>
+                <content>
+                  <p>other property tax information approved by the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_2__para_b__subpara_xvii">
+                <num>(xvii)</num>
+                <content>
+                  <p>if sent in calendar year 2024, 2025, or 2026:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1317__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Unless expressly allowed under this section or another statutory provision, the treasurer may not add an amount to be collected to the property tax notice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the county treasurer adds an amount to be collected to the property tax notice under this section or another statutory provision that expressly authorizes the item's inclusion on the property tax notice:</p>
+              </content>
+              <subparagraph eId="59_2_1317__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount constitutes a tax notice charge; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For any property for which property taxes or tax notice charges are delinquent, the notice described in Subsection shall state, &quot;Prior taxes or tax notice charges are delinquent on this parcel.&quot;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Except as provided in Subsection , the county treasurer shall:</p>
+            </content>
+            <paragraph eId="59_2_1317__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>mail the notice required by this section, postage prepaid; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>leave the notice required by this section at the taxpayer's residence or usual place of business, if known.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_2_1317__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to the other provisions of this Subsection , a county treasurer may, at the county treasurer's discretion, provide the notice required by this section by electronic mail if a taxpayer makes an election, according to procedures determined by the county treasurer, to receive the notice by electronic mail.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer may revoke an election to receive the notice required by this section by electronic mail if the taxpayer provides written notice to the treasurer on or before October 1.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A revocation of an election under this section does not relieve a taxpayer of the duty to pay a tax or tax notice charge due under this chapter on or before the due date for paying the tax or tax notice charge.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A county treasurer shall provide the notice required by this section using a method described in Subsection , until a taxpayer makes a new election in accordance with this Subsection , if:</p>
+              </content>
+              <subparagraph eId="59_2_1317__subsec_6__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the taxpayer revokes an election in accordance with Subsection to receive the notice required by this section by electronic mail; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_6__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the county treasurer finds that the taxpayer's electronic mail address is invalid.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_6__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A person is considered to be a taxpayer for purposes of this Subsection regardless of whether the property that is the subject of the notice required by this section is exempt from taxation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_2_1317__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The county treasurer shall provide the notice required by this section to a taxpayer on or before November 1.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The county treasurer shall keep on file in the county treasurer's office the information set forth in the notice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The county treasurer is not required to mail a tax receipt acknowledging payment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>This section does not apply to property taxed under Section or .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1317__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_2_1317__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer who pays less than the full amount due on the taxpayer's property tax notice may, on a form provided by the county treasurer, direct how the county treasurer allocates the partial payment between:</p>
+              </content>
+              <subparagraph eId="59_2_1317__subsec_9__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the total amount due for property tax;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_9__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the amount due for assessments, past due special district fees, and other tax notice charges; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_9__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>any other amounts due on the property tax notice.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The county treasurer shall comply with a direction submitted to the county treasurer in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1317__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of this Subsection do not:</p>
+              </content>
+              <subparagraph eId="59_2_1317__subsec_9__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>affect the right or ability of a local entity to pursue any available remedy for non-payment of any item listed on a taxpayer's property tax notice; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1317__subsec_9__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>toll or otherwise change any time period related to a remedy described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,313 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-302"/>
+          <FRBRuri value="/us-ut/act/code/59-14-302"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-302/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-302/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-302/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-302/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_302">
+          <num>59-14-302</num>
+          <heading>Tax basis -- Rates.</heading>
+          <content>
+            <p>Effective 7/1/2020
+59-14-302.
+Tax basis -- Rates.
+(1)
+As used in this section:
+(a)
+&quot;Manufacturer's sales price&quot; means the amount the manufacturer of a tobacco product charges after subtracting a discount.
+(b)
+&quot;Manufacturer's sales price&quot; includes an original Utah destination freight charge, regardless of:
+(i)
+whether the tobacco product is shipped f.o.b. origin or f.o.b. destination; or
+(ii)
+who pays the original Utah destination freight charge.
+(2)
+There is levied a tax upon the sale, use, or storage of tobacco products in the state.
+(3)
+(a)
+Subject to Subsection
+(3)(b)
+, the tax levied under Subsection
+(2)
+shall be paid by the manufacturer, jobber, distributor, wholesaler, retailer, user, or consumer.
+(b)
+The tax levied under Subsection
+(2)
+on a cigarette produced from a cigarette rolling machine shall be paid by the cigarette rolling machine operator.
+(4)
+For tobacco products except for moist snuff, a little cigar, or a cigarette produced from a cigarette rolling machine, the amount of the tax under this section is .86 multiplied by the manufacturer's sales price.
+(5)
+(a)
+Subject to Subsection
+(5)(b)
+, the tax under this section on moist snuff is imposed:
+(i)
+at a rate of $1.83 per ounce; and
+(ii)
+on the basis of the net weight of the moist snuff as listed by the manufacturer.
+(b)
+If the net weight of moist snuff is in a quantity that is a fractional part of one ounce, a proportionate amount of the tax described in Subsection
+(5)(a)
+is imposed:
+(i)
+on that fractional part of one ounce; and
+(ii)
+in accordance with rules made by the commission in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(6)
+(a)
+A little cigar is taxed at the same tax rates as a cigarette is taxed under Subsection
+59-14-204(2)
+.
+(b)
+(i)
+Subject to Subsection
+(6)(b)(ii)
+, a cigarette produced from a cigarette rolling machine is taxed at the same tax rates as a cigarette is taxed under Subsection
+59-14-204(2)
+.
+(ii)
+A tax under this Subsection
+(6)(b)
+is imposed on the date the cigarette is produced from the cigarette rolling machine.
+(7)
+(a)
+Moisture content of a tobacco product is determined at the time of packaging.
+(b)
+A manufacturer who distributes a tobacco product in, or into, Utah, shall:
+(i)
+for a period of three years after the last day on which the manufacturer distributes the tobacco product in, or into, Utah, keep valid scientific evidence of the moisture content of the tobacco product available for review by the commission, upon demand; and
+(ii)
+provide a document, to the person described in Subsection
+(3)
+to whom the manufacturer distributes the tobacco product, that certifies the moisture content of the tobacco product, as verified by the scientific evidence described in Subsection
+(7)(b)(i)
+.
+(c)
+A manufacturer who fails to comply with the requirements of Subsection
+(7)(b)
+is liable for the nonpayment or underpayment of taxes on the tobacco product by a person who relies, in good faith, on the document described in Subsection
+(7)(b)(ii)
+.
+(d)
+A person described in Subsection
+(3)
+who is required to pay tax on a tobacco product:
+(i)
+shall, for a period of three years after the last day on which the person pays the tax on the tobacco product, keep the document described in Subsection
+(7)(b)(ii)
+available for review by the commission, upon demand; and
+(ii)
+is not liable for nonpayment or underpayment of taxes on the tobacco product due to the person's good faith reliance on the document described in Subsection
+(7)(b)(ii)
+.
+Amended by Chapter
+347
+, 2020 General Session</p>
+          </content>
+          <subsection eId="59_14_302__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_14_302__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Manufacturer's sales price&quot; means the amount the manufacturer of a tobacco product charges after subtracting a discount.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Manufacturer's sales price&quot; includes an original Utah destination freight charge, regardless of:</p>
+              </content>
+              <subparagraph eId="59_14_302__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>whether the tobacco product is shipped f.o.b. origin or f.o.b. destination; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_302__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>who pays the original Utah destination freight charge.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_302__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There is levied a tax upon the sale, use, or storage of tobacco products in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_302__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_14_302__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , the tax levied under Subsection shall be paid by the manufacturer, jobber, distributor, wholesaler, retailer, user, or consumer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax levied under Subsection on a cigarette produced from a cigarette rolling machine shall be paid by the cigarette rolling machine operator.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_302__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For tobacco products except for moist snuff, a little cigar, or a cigarette produced from a cigarette rolling machine, the amount of the tax under this section is .86 multiplied by the manufacturer's sales price.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_302__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_14_302__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , the tax under this section on moist snuff is imposed:</p>
+              </content>
+              <subparagraph eId="59_14_302__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>at a rate of $1.83 per ounce; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_302__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>on the basis of the net weight of the moist snuff as listed by the manufacturer.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the net weight of moist snuff is in a quantity that is a fractional part of one ounce, a proportionate amount of the tax described in Subsection is imposed:</p>
+              </content>
+              <subparagraph eId="59_14_302__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on that fractional part of one ounce; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_302__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in accordance with rules made by the commission in accordance with .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_302__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_14_302__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A little cigar is taxed at the same tax rates as a cigarette is taxed under Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_6__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_14_302__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsection , a cigarette produced from a cigarette rolling machine is taxed at the same tax rates as a cigarette is taxed under Subsection .</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_302__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A tax under this Subsection is imposed on the date the cigarette is produced from the cigarette rolling machine.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_302__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_14_302__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Moisture content of a tobacco product is determined at the time of packaging.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A manufacturer who distributes a tobacco product in, or into, Utah, shall:</p>
+              </content>
+              <subparagraph eId="59_14_302__subsec_7__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a period of three years after the last day on which the manufacturer distributes the tobacco product in, or into, Utah, keep valid scientific evidence of the moisture content of the tobacco product available for review by the commission, upon demand; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_302__subsec_7__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>provide a document, to the person described in Subsection to whom the manufacturer distributes the tobacco product, that certifies the moisture content of the tobacco product, as verified by the scientific evidence described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A manufacturer who fails to comply with the requirements of Subsection is liable for the nonpayment or underpayment of taxes on the tobacco product by a person who relies, in good faith, on the document described in Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_302__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A person described in Subsection who is required to pay tax on a tobacco product:</p>
+              </content>
+              <subparagraph eId="59_14_302__subsec_7__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>shall, for a period of three years after the last day on which the person pays the tax on the tobacco product, keep the document described in Subsection available for review by the commission, upon demand; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_302__subsec_7__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is not liable for nonpayment or underpayment of taxes on the tobacco product due to the person's good faith reliance on the document described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

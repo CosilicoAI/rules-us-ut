@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-203"/>
+          <FRBRuri value="/us-ut/act/code/59-12-203"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-203/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-203/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-203/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-203/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_203">
+          <num>59-12-203</num>
+          <heading>County, city, or town may levy tax -- Contracts pursuant to Interlocal Cooperation Act.</heading>
+          <content>
+            <p>Effective 5/1/2024
+59-12-203.
+County, city, or town may levy tax -- Contracts pursuant to Interlocal Cooperation Act.
+(1)
+As used in this section, &quot;converted municipality&quot; means the same as that term is defined in Section
+10-1-201.5
+.
+(2)
+A county, city, or town may impose a sales and use tax under this part.
+(3)
+(a)
+Except as provided in Subsection (3)(b), if a converted municipality imposes a tax under this part, the State Tax Commission shall distribute the amount that the State Tax Commission calculates under Section
+59-12-205
+to the converted municipality.
+(b)
+The State Tax Commission shall transfer the amount that would otherwise be distributed to a converted municipality under this part to a municipal services district created under Title 17B, Chapter 2a, Part 11, Municipal Services District Act, if the converted municipality:
+(i)
+provides written notice to the State Tax Commission requesting the transfer; and
+(ii)
+designates the municipal services district to which the converted municipality requests the State Tax Commission to transfer the revenues.
+(4)
+A county, city, or town that imposes a sales and use tax under this part may:
+(a)
+enter into agreements authorized by Title 11, Chapter 13, Interlocal Cooperation Act; and
+(b)
+use any or all of the revenue collected from the tax for the mutual benefit of local governments that elect to contract with one another pursuant to Title 11, Chapter 13, Interlocal Cooperation Act.
+Amended by Chapter
+438
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_12_203__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;converted municipality&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_203__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A county, city, or town may impose a sales and use tax under this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_203__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_203__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (3)(b), if a converted municipality imposes a tax under this part, the State Tax Commission shall distribute the amount that the State Tax Commission calculates under Section to the converted municipality.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_203__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The State Tax Commission shall transfer the amount that would otherwise be distributed to a converted municipality under this part to a municipal services district created under Title 17B, Chapter 2a, Part 11, Municipal Services District Act, if the converted municipality:</p>
+              </content>
+              <subparagraph eId="59_12_203__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>provides written notice to the State Tax Commission requesting the transfer; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_203__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>designates the municipal services district to which the converted municipality requests the State Tax Commission to transfer the revenues.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_203__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A county, city, or town that imposes a sales and use tax under this part may:</p>
+            </content>
+            <paragraph eId="59_12_203__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>enter into agreements authorized by Title 11, Chapter 13, Interlocal Cooperation Act; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_203__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>use any or all of the revenue collected from the tax for the mutual benefit of local governments that elect to contract with one another pursuant to Title 11, Chapter 13, Interlocal Cooperation Act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

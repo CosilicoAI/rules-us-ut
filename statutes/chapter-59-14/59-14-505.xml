@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-505"/>
+          <FRBRuri value="/us-ut/act/code/59-14-505"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-505/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-505/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-505/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-505/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_505">
+          <num>59-14-505</num>
+          <heading>Separate offenses -- Evidence of intended sale of products.</heading>
+          <content>
+            <p>59-14-505.
+Separate offenses -- Evidence of intended sale of products.
+Each article, package, or container not having a warning label affixed, as required by Section
+59-14-501
+, is considered a separate offense.  The presence of any article, package, or container of smokeless tobacco products in the place of business of any person required by this chapter to affix warning labels is prima facie evidence that those articles, packages, or containers are intended for sale and are subject to this part.
+Amended by Chapter
+4
+, 1993 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

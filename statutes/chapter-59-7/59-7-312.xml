@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-312"/>
+          <FRBRuri value="/us-ut/act/code/59-7-312"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-312/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-312/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-312/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-312/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_312">
+          <num>59-7-312</num>
+          <heading>Property factor for apportionment of business income -- Mobile flight equipment of an airline.</heading>
+          <content>
+            <p>Effective 1/1/2019
+59-7-312.
+Property factor for apportionment of business income -- Mobile flight equipment of an airline.
+(1)
+Except as provided in Subsections
+(2)
+and
+(3)
+, the property factor is a fraction:
+(a)
+the numerator of which is the average value of the taxpayer's real and tangible personal property owned or rented and used in this state during the tax period; and
+(b)
+the denominator of which is the average value of all the taxpayer's real and tangible personal property owned or rented and used during the tax period.
+(2)
+The average value of an airline's real and tangible personal property owned or rented and used in this state attributable to mobile flight equipment for purposes of the numerator of the fraction described in Subsection
+(1)
+shall be calculated for each aircraft type by multiplying:
+(a)
+the total average value of the airline's mobile flight equipment of the aircraft type owned or rented and used during the tax period; and
+(b)
+a fraction:
+(i)
+the numerator of which is the Utah revenue ton miles for the aircraft type; and
+(ii)
+the denominator of which is the airline revenue ton miles for the aircraft type.
+(3)
+(a)
+For purposes of Subsection
+59-7-302(3)(b)(i)(A)
+and subject to Subsection
+(3)(b)
+, the property factor is a fraction:
+(i)
+the numerator of which is the value of the property in this state that is attributable to economic activities that are classified in an excluded NAICS code; and
+(ii)
+the denominator of which is the value of all property in this state.
+(b)
+A taxpayer shall exclude property from the calculation of the property factor fraction described in Subsection
+(3)(a)
+if the property may be attributed to economic activities in both excluded NAICS codes and NAICS codes that are not excluded NAICS codes.
+Amended by Chapter
+456
+, 2018 General Session
+Amended by Chapter
+471
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_7_312__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsections and , the property factor is a fraction:</p>
+            </content>
+            <paragraph eId="59_7_312__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the numerator of which is the average value of the taxpayer's real and tangible personal property owned or rented and used in this state during the tax period; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_312__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the denominator of which is the average value of all the taxpayer's real and tangible personal property owned or rented and used during the tax period.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_312__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The average value of an airline's real and tangible personal property owned or rented and used in this state attributable to mobile flight equipment for purposes of the numerator of the fraction described in Subsection shall be calculated for each aircraft type by multiplying:</p>
+            </content>
+            <paragraph eId="59_7_312__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the total average value of the airline's mobile flight equipment of the aircraft type owned or rented and used during the tax period; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_312__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a fraction:</p>
+              </content>
+              <subparagraph eId="59_7_312__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the numerator of which is the Utah revenue ton miles for the aircraft type; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_312__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the denominator of which is the airline revenue ton miles for the aircraft type.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_312__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_7_312__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of Subsection and subject to Subsection , the property factor is a fraction:</p>
+              </content>
+              <subparagraph eId="59_7_312__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the numerator of which is the value of the property in this state that is attributable to economic activities that are classified in an excluded NAICS code; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_312__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the denominator of which is the value of all property in this state.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_312__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer shall exclude property from the calculation of the property factor fraction described in Subsection if the property may be attributed to economic activities in both excluded NAICS codes and NAICS codes that are not excluded NAICS codes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

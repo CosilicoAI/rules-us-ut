@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-209"/>
+          <FRBRuri value="/us-ut/act/code/59-13-209"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-209/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-209/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-209/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-209/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_209">
+          <num>59-13-209</num>
+          <heading>Due date -- Delinquency -- Penalties -- Interest -- Collection procedure.</heading>
+          <content>
+            <p>59-13-209.
+Due date -- Delinquency -- Penalties -- Interest -- Collection procedure.
+(1)
+(a)
+The motor fuel tax is due and payable by the distributor on or before the last day of each month to the commission for the number of gallons of motor fuel sold, used, or received for sale or use by the distributor during the preceding calendar month.
+(b)
+The commission shall receipt the distributor for taxes paid and shall promptly deposit all revenue with the state treasurer.
+(2)
+(a)
+If any distributor fails or refuses to pay any tax when it becomes due and payable, the tax is delinquent.
+(b)
+If a distributor is delinquent in tax payments, the commission shall impose a penalty as provided under Section
+59-1-401
+.
+(c)
+The amount of the tax shall bear interest at the rate and in the manner prescribed in Section
+59-1-402
+.
+(3)
+(a)
+A report or payment of tax is not considered delinquent if the envelope in which the report or remittance is enclosed bears a post office cancellation mark dated on or before the date on which the report or payment is due.
+(b)
+The commission, upon receipt of a report or remittance described in Subsection
+(3)(a)
+, shall treat the report or payment as if it had been received on the date it was due.
+(4)
+If any part of a tax due is deficient or delinquent because of negligence or disregard of this part, or in the case of false or fraudulent monthly reports, or intent to evade the tax, a penalty shall be added to the tax due as provided in Section
+59-1-401
+.
+(5)
+(a)
+A tax due and unpaid under this part constitutes a debt due the state and may be collected, together with interest, penalty, and costs, by appropriate judicial proceeding.
+(b)
+The remedy described in Subsection
+(5)(a)
+is in addition to all other remedies.
+(6)
+If the tax imposed by this part is not paid when it is due, collection may be made in accordance with
+Chapter 1, Part 14, Assessment, Collections, and Refunds Act
+.
+Amended by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_13_209__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_13_209__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The motor fuel tax is due and payable by the distributor on or before the last day of each month to the commission for the number of gallons of motor fuel sold, used, or received for sale or use by the distributor during the preceding calendar month.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_209__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall receipt the distributor for taxes paid and shall promptly deposit all revenue with the state treasurer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_209__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_13_209__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If any distributor fails or refuses to pay any tax when it becomes due and payable, the tax is delinquent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_209__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a distributor is delinquent in tax payments, the commission shall impose a penalty as provided under Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_209__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount of the tax shall bear interest at the rate and in the manner prescribed in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_209__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_13_209__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A report or payment of tax is not considered delinquent if the envelope in which the report or remittance is enclosed bears a post office cancellation mark dated on or before the date on which the report or payment is due.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_209__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission, upon receipt of a report or remittance described in Subsection , shall treat the report or payment as if it had been received on the date it was due.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_209__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If any part of a tax due is deficient or delinquent because of negligence or disregard of this part, or in the case of false or fraudulent monthly reports, or intent to evade the tax, a penalty shall be added to the tax due as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_209__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_13_209__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A tax due and unpaid under this part constitutes a debt due the state and may be collected, together with interest, penalty, and costs, by appropriate judicial proceeding.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_209__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The remedy described in Subsection is in addition to all other remedies.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_209__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If the tax imposed by this part is not paid when it is due, collection may be made in accordance with .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

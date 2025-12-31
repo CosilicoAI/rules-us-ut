@@ -1,0 +1,304 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-211"/>
+          <FRBRuri value="/us-ut/act/code/59-14-211"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-211/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-211/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-211/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-211/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_211">
+          <num>59-14-211</num>
+          <heading>Penalties for dealing with prohibited cigarettes -- Private right of action.</heading>
+          <content>
+            <p>59-14-211.
+Penalties for dealing with prohibited cigarettes -- Private right of action.
+(1)
+A person, regardless of whether the person is a licensee under Section
+59-14-202
+, is guilty of a class B misdemeanor for each instance in which the person knowingly or with reason to know:
+(a)
+sells or distributes cigarettes described under Section
+59-14-210
+;
+(b)
+acquires, holds, owns, possesses, transports, imports, or causes to be imported cigarettes:
+(i)
+described under Section
+59-14-210
+; and
+(ii)
+intended for distribution or sale in the state;
+(c)
+alters the package of any cigarettes prior to their sale or distribution to the ultimate consumer to remove, conceal, or obscure a notice, warning label, or other package information described in Subsection
+59-14-210(1)(a)
+; or
+(d)
+affixes a stamp used to pay the tax imposed under Section
+59-14-204
+,
+Part 3, Tobacco Products
+, or
+Part 4, Cigarettes and Tobacco Products
+, to a package or container of cigarettes:
+(i)
+described under Section
+59-14-210
+;
+(ii)
+known by the person affixing the stamp to be altered as described under Subsection
+(1)(c)
+; or
+(iii)
+in violation of Section
+59-14-604
+.
+(2)
+If a person knowingly or with reason to know commits an act described in Subsections
+(1)(a)
+through
+(d)
+, the commission shall:
+(a)
+suspend or revoke a license issued to the person under Section
+59-14-202
+; and
+(b)
+regardless of whether the person is licensed under Section
+59-14-202
+, impose a civil penalty in an amount not to exceed the greater of:
+(i)
+500% of the retail value of the cigarettes; or
+(ii)
+$5,000.
+(3)
+Any person whose commercial interests have been adversely affected as a result of a violation of this section may bring an action for injunctive relief, damages, or both.
+(4)
+(a)
+The sale or possession for sale of counterfeit cigarettes by a manufacturer, importer, distributor, or retailer is punishable by a court of law as follows:
+(i)
+a first violation involving a total quantity of less than 100 cartons of cigarettes is punishable by a fine in an amount the greater of $500 or five times the retail value of the cigarettes;
+(ii)
+a subsequent violation involving a total quantity of less than 100 cartons of cigarettes is punishable by:
+(A)
+the greater of a fine of $2,000 or five times the retail value of the cigarettes;
+(B)
+imprisonment not to exceed one year; or
+(C)
+both imprisonment and a fine imposed by this Subsection
+(4)(a)(ii)
+; and
+(D)
+the revocation by the commission of the manufacturer, importer, distributor, or retailer license for a period of up to two years;
+(iii)
+a first violation involving a total quantity of 100 cartons of cigarettes or more is punishable by:
+(A)
+the greater of a fine of $2,500 or five times the retail value of the cigarettes;
+(B)
+imprisonment not to exceed five years; or
+(C)
+both the fine and imprisonment imposed by this Subsection
+(4)(a)(iii)
+;
+(iv)
+a second violation involving a quantity of 100 cartons of cigarettes or more is punishable by:
+(A)
+the greater of a fine of $10,000 or five times the retail value of the cigarettes;
+(B)
+imprisonment not to exceed five years; or
+(C)
+both the fine and imprisonment imposed by this Subsection
+(4)(a)(iv)
+; and
+(D)
+the revocation by the commission of the manufacturer, importer, distributor, or retailer license for a period of up to five years; and
+(v)
+a third and subsequent violation involving a quantity of 100 cartons of cigarettes or more is punishable by:
+(A)
+the greater of a fine of $25,000 or five times the retail value of the cigarettes;
+(B)
+imprisonment not to exceed five years; or
+(C)
+both the fine and imprisonment imposed by this Subsection
+(4)(a)(v)
+; and
+(D)
+the revocation by the commission of the manufacturer, importer, distributor, or retailer license for a period of up to five years; and
+(b)
+any counterfeit cigarette seized by the commission shall be destroyed.
+Amended by Chapter
+204
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_14_211__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person, regardless of whether the person is a licensee under Section , is guilty of a class B misdemeanor for each instance in which the person knowingly or with reason to know:</p>
+            </content>
+            <paragraph eId="59_14_211__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>sells or distributes cigarettes described under Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_211__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>acquires, holds, owns, possesses, transports, imports, or causes to be imported cigarettes:</p>
+              </content>
+              <subparagraph eId="59_14_211__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>described under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>intended for distribution or sale in the state;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_211__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>alters the package of any cigarettes prior to their sale or distribution to the ultimate consumer to remove, conceal, or obscure a notice, warning label, or other package information described in Subsection ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_211__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>affixes a stamp used to pay the tax imposed under Section , , or , to a package or container of cigarettes:</p>
+              </content>
+              <subparagraph eId="59_14_211__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>described under Section ;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>known by the person affixing the stamp to be altered as described under Subsection ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_1__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>in violation of Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_211__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a person knowingly or with reason to know commits an act described in Subsections through , the commission shall:</p>
+            </content>
+            <paragraph eId="59_14_211__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>suspend or revoke a license issued to the person under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_211__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>regardless of whether the person is licensed under Section , impose a civil penalty in an amount not to exceed the greater of:</p>
+              </content>
+              <subparagraph eId="59_14_211__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>500% of the retail value of the cigarettes; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>$5,000.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_211__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person whose commercial interests have been adversely affected as a result of a violation of this section may bring an action for injunctive relief, damages, or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_211__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_14_211__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The sale or possession for sale of counterfeit cigarettes by a manufacturer, importer, distributor, or retailer is punishable by a court of law as follows:</p>
+              </content>
+              <subparagraph eId="59_14_211__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a first violation involving a total quantity of less than 100 cartons of cigarettes is punishable by a fine in an amount the greater of $500 or five times the retail value of the cigarettes;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a subsequent violation involving a total quantity of less than 100 cartons of cigarettes is punishable by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_4__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a first violation involving a total quantity of 100 cartons of cigarettes or more is punishable by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_4__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>a second violation involving a quantity of 100 cartons of cigarettes or more is punishable by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_211__subsec_4__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>a third and subsequent violation involving a quantity of 100 cartons of cigarettes or more is punishable by:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_211__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>any counterfeit cigarette seized by the commission shall be destroyed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

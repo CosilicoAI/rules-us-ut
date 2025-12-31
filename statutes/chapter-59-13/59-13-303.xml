@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-303"/>
+          <FRBRuri value="/us-ut/act/code/59-13-303"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-303/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-303/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-303/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-303/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_303">
+          <num>59-13-303</num>
+          <heading>Special fuel user permits -- Application -- Revocation of permits under certain circumstances.</heading>
+          <content>
+            <p>59-13-303.
+Special fuel user permits -- Application -- Revocation of permits under certain circumstances.
+(1)
+(a)
+Except as provided in Subsection
+(1)(b)
+, each user shall, prior to the use of the fuel in a qualified motor vehicle, apply to the commission on forms prescribed by the commission for a special fuel user permit.  When the application is approved by the commission, a single special fuel user permit shall be issued to the user.
+(b)
+In place of the special fuel user permit issued under Subsection
+(1)(a)
+, a user may purchase a special fuel user trip permit.  A special fuel user trip permit is valid for 96 hours or until the qualified vehicle leaves the state, whichever occurs first.
+(c)
+The fee for the special fuel user trip permit is $25.
+(2)
+A special fuel user permit number shall be assigned to each licensed user and is nontransferable and valid until surrendered by the user for nonuse or until revoked by the commission.
+(3)
+The special fuel user permit expires December 31 of each year. Special fuel user permits for the calendar year shall be honored until February 28 of the following year.  An application shall be filed with the commission each year for a new special fuel user permit for vehicles operated by a licensed user.
+(4)
+(a)
+The special fuel user permit shall be kept in the passenger compartment of each vehicle, or as otherwise authorized by the commission.
+(b)
+A user that does not comply with the requirements of this section may be required to purchase a special fuel user trip permit.
+(5)
+The commission may revoke the special fuel user permit issued under this section from any person refusing or neglecting to comply with this part.
+(6)
+Any user reporting Utah special fuel tax liability under
+Part 5, Interstate Agreements
+, is exempted from the permit requirements of this section.
+Amended by Chapter
+198
+, 2005 General Session</p>
+          </content>
+          <subsection eId="59_13_303__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_13_303__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , each user shall, prior to the use of the fuel in a qualified motor vehicle, apply to the commission on forms prescribed by the commission for a special fuel user permit.  When the application is approved by the commission, a single special fuel user permit shall be issued to the user.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_303__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In place of the special fuel user permit issued under Subsection , a user may purchase a special fuel user trip permit.  A special fuel user trip permit is valid for 96 hours or until the qualified vehicle leaves the state, whichever occurs first.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_303__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The fee for the special fuel user trip permit is $25.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_303__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A special fuel user permit number shall be assigned to each licensed user and is nontransferable and valid until surrendered by the user for nonuse or until revoked by the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_303__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The special fuel user permit expires December 31 of each year. Special fuel user permits for the calendar year shall be honored until February 28 of the following year.  An application shall be filed with the commission each year for a new special fuel user permit for vehicles operated by a licensed user.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_303__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_13_303__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The special fuel user permit shall be kept in the passenger compartment of each vehicle, or as otherwise authorized by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_303__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A user that does not comply with the requirements of this section may be required to purchase a special fuel user trip permit.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_303__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission may revoke the special fuel user permit issued under this section from any person refusing or neglecting to comply with this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_303__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Any user reporting Utah special fuel tax liability under , is exempted from the permit requirements of this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

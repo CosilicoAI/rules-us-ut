@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1311"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1311"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1311/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1311/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1311/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1311/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1311">
+          <num>59-2-1311</num>
+          <heading>Treasurer to advise commission of taxes unpaid on its assessments -- Notice to property owners.</heading>
+          <content>
+            <p>59-2-1311.
+Treasurer to advise commission of taxes unpaid on its assessments -- Notice to property owners.
+Each county treasurer shall, during the first week in February of each year, report to the commission the name of each person who has failed to pay the taxes assessed and levied against the person during the preceding year upon property assessed by the commission.  The commission shall note that the prior year's taxes are delinquent on the next tax notice sent to property owners under Section
+59-2-1307
+.
+Repealed and Re-enacted by Chapter
+3
+, 1988 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

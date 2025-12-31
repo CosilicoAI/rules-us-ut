@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1004"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1004"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1004/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1004/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1004/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1004/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1004">
+          <num>59-1-1004</num>
+          <heading>Installment payments.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-1-1004.
+Installment payments.
+(1)
+The commission may enter into agreements with taxpayers on installment payments of taxes, penalties, and interest.  The commission may revise, accelerate, or cancel the installment agreement if any of the following occurs:
+(a)
+the commission determines that the financial condition of the taxpayer has substantially changed;
+(b)
+the commission determines that the taxpayer provided inaccurate information concerning the taxpayer's financial condition; or
+(c)
+the taxpayer fails to make timely payments pursuant to the terms of the installment agreement.
+(2)
+The commission shall give the taxpayer reasonable notice of its intent to revise or cancel an installment agreement entered into under this section.
+Amended by Chapter
+302
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_1_1004__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission may enter into agreements with taxpayers on installment payments of taxes, penalties, and interest.  The commission may revise, accelerate, or cancel the installment agreement if any of the following occurs:</p>
+            </content>
+            <paragraph eId="59_1_1004__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the commission determines that the financial condition of the taxpayer has substantially changed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1004__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the commission determines that the taxpayer provided inaccurate information concerning the taxpayer's financial condition; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1004__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the taxpayer fails to make timely payments pursuant to the terms of the installment agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1004__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall give the taxpayer reasonable notice of its intent to revise or cancel an installment agreement entered into under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

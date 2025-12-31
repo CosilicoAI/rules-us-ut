@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2215"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2215"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2215/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2215/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2215/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2215/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2215">
+          <num>59-12-2215</num>
+          <heading>City or town option sales and use tax for highways or to fund a system for public transit -- Base -- Rate.</heading>
+          <content>
+            <p>Effective 5/12/2020
+59-12-2215.
+City or town option sales and use tax for highways or to fund a system for public transit -- Base -- Rate.
+(1)
+Subject to the other provisions of this part, a city or town may impose a sales and use tax of up to .30% on the transactions described in Subsection
+59-12-103(1)
+located within the city or town.
+(2)
+A city or town imposing a sales and use tax under this section shall expend the revenues collected from the sales and use tax as described in Section
+59-12-2212.2
+.
+(3)
+Notwithstanding Section
+59-12-2208
+, a city, or town legislative body may, but is not required to, submit an opinion question to the city's, or town's registered voters in accordance with Section
+59-12-2208
+to impose a sales and use tax under this section.
+Amended by Chapter
+377
+, 2020 General Session</p>
+          </content>
+          <subsection eId="59_12_2215__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this part, a city or town may impose a sales and use tax of up to .30% on the transactions described in Subsection located within the city or town.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2215__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A city or town imposing a sales and use tax under this section shall expend the revenues collected from the sales and use tax as described in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2215__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding Section , a city, or town legislative body may, but is not required to, submit an opinion question to the city's, or town's registered voters in accordance with Section to impose a sales and use tax under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

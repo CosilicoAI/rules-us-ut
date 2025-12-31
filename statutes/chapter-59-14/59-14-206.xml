@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-206"/>
+          <FRBRuri value="/us-ut/act/code/59-14-206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-206/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-206/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_206">
+          <num>59-14-206</num>
+          <heading>Sales of stamps -- Deposit of revenues -- Redemption of unused stamps -- Discount on lump purchases of stamps -- Unlawful acts.</heading>
+          <content>
+            <p>59-14-206.
+Sales of stamps -- Deposit of revenues -- Redemption of unused stamps -- Discount on lump purchases of stamps -- Unlawful acts.
+(1)
+The commission may prepare stamps for use on packages and containers of cigarettes according to its specifications, designs, and denominations and shall keep an accurate record of all stamps for which the commission is responsible.  The cost of the stamps shall be charged to any appropriation made to defray the costs of administering this chapter.
+(2)
+The commission shall sell stamps only to persons holding licenses issued as provided in this chapter.
+(a)
+The money received from the sale of the stamps, and all other money received from penalties, fees, and taxes provided by this chapter shall be deposited in the General Fund.
+(b)
+The commission may deliver stamps in face value not to exceed 90% of the penal sum of the licensee's bond to any licensee without payment.  The licensee shall pay for stamps within 60 days of the date the stamps were delivered on credit to the licensee.
+(c)
+Unused stamps may be redeemed within three years of their purchase by presentation to the commission of a claim by the person to whom they were originally sold.  The redemption claim shall be accompanied by the unused stamps.
+(d)
+The commission shall certify a redemption claim with its approval to the state auditor, who shall draw a warrant upon the state treasurer for the payment of the claim.
+(3)
+The commission shall allow a discount of 4% upon the entire amount to each licensee for each single purchase of stamps amounting to $25 or more.
+(4)
+It is unlawful for any person to sell or dispose of stamps to any other person.  However, stamps may be distributed to the various places of sale by the main office whenever a person owns or operates more than one place of sale.  Each place of sale shall have a separate license and cancellation stamp.
+Amended by Chapter
+330
+, 1997 General Session</p>
+          </content>
+          <subsection eId="59_14_206__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission may prepare stamps for use on packages and containers of cigarettes according to its specifications, designs, and denominations and shall keep an accurate record of all stamps for which the commission is responsible.  The cost of the stamps shall be charged to any appropriation made to defray the costs of administering this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_206__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall sell stamps only to persons holding licenses issued as provided in this chapter.</p>
+            </content>
+            <paragraph eId="59_14_206__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The money received from the sale of the stamps, and all other money received from penalties, fees, and taxes provided by this chapter shall be deposited in the General Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_206__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission may deliver stamps in face value not to exceed 90% of the penal sum of the licensee's bond to any licensee without payment.  The licensee shall pay for stamps within 60 days of the date the stamps were delivered on credit to the licensee.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_206__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Unused stamps may be redeemed within three years of their purchase by presentation to the commission of a claim by the person to whom they were originally sold.  The redemption claim shall be accompanied by the unused stamps.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_206__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission shall certify a redemption claim with its approval to the state auditor, who shall draw a warrant upon the state treasurer for the payment of the claim.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_206__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall allow a discount of 4% upon the entire amount to each licensee for each single purchase of stamps amounting to $25 or more.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_206__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>It is unlawful for any person to sell or dispose of stamps to any other person.  However, stamps may be distributed to the various places of sale by the main office whenever a person owns or operates more than one place of sale.  Each place of sale shall have a separate license and cancellation stamp.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

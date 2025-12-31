@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2203"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2203"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2203/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2203/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2203/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2203/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2203">
+          <num>59-12-2203</num>
+          <heading>Authority to impose a sales and use tax under this part.</heading>
+          <content>
+            <p>Effective 7/1/2019
+59-12-2203.
+Authority to impose a sales and use tax under this part.
+(1)
+As provided in this Subsection
+(1)
+, one of the following sales and use taxes may be imposed within the boundaries of a local taxing jurisdiction:
+(a)
+a county, city, or town may impose the sales and use tax authorized by Section
+59-12-2213
+in accordance with Section
+59-12-2213
+; or
+(b)
+a city or town may impose the sales and use tax authorized by Section
+59-12-2215
+in accordance with Section
+59-12-2215
+.
+(2)
+As provided in this Subsection
+(2)
+, one of the following sales and use taxes may be imposed within the boundaries of a local taxing jurisdiction:
+(a)
+a county, city, or town may impose the sales and use tax authorized by Section
+59-12-2214
+in accordance with Section
+59-12-2214
+; or
+(b)
+a county may impose the sales and use tax authorized by Section
+59-12-2216
+in accordance with Section
+59-12-2216
+.
+(3)
+As provided in this Subsection
+(3)
+, one of the following sales and use taxes may be imposed within the boundaries of a local taxing jurisdiction:
+(a)
+a county may impose the sales and use tax authorized by Section
+59-12-2217
+in accordance with Section
+59-12-2217
+; or
+(b)
+a county, city, or town may impose the sales and use tax authorized by Section
+59-12-2218
+in accordance with Section
+59-12-2218
+.
+(4)
+A county may impose the sales and use tax authorized by Section
+59-12-2219
+in accordance with Section
+59-12-2219
+.
+(5)
+A county may impose the sales and use tax authorized by Section
+59-12-2220
+in accordance with Section
+59-12-2220
+.
+Amended by Chapter
+479
+, 2019 General Session</p>
+          </content>
+          <subsection eId="59_12_2203__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As provided in this Subsection , one of the following sales and use taxes may be imposed within the boundaries of a local taxing jurisdiction:</p>
+            </content>
+            <paragraph eId="59_12_2203__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a county, city, or town may impose the sales and use tax authorized by Section in accordance with Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2203__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a city or town may impose the sales and use tax authorized by Section in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2203__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As provided in this Subsection , one of the following sales and use taxes may be imposed within the boundaries of a local taxing jurisdiction:</p>
+            </content>
+            <paragraph eId="59_12_2203__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a county, city, or town may impose the sales and use tax authorized by Section in accordance with Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2203__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a county may impose the sales and use tax authorized by Section in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2203__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As provided in this Subsection , one of the following sales and use taxes may be imposed within the boundaries of a local taxing jurisdiction:</p>
+            </content>
+            <paragraph eId="59_12_2203__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a county may impose the sales and use tax authorized by Section in accordance with Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2203__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a county, city, or town may impose the sales and use tax authorized by Section in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2203__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A county may impose the sales and use tax authorized by Section in accordance with Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2203__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A county may impose the sales and use tax authorized by Section in accordance with Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-305"/>
+          <FRBRuri value="/us-ut/act/code/59-1-305"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-305/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-305/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-305/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-305/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_305">
+          <num>59-1-305</num>
+          <heading>Convenience fee to cover the costs of electronic payments.</heading>
+          <content>
+            <p>59-1-305.
+Convenience fee to cover the costs of electronic payments.
+(1)
+As used in this section:
+(a)
+&quot;Electronic payment&quot; has the same meaning as defined in Section
+41-1a-1221
+.
+(b)
+&quot;Electronic payment fee&quot; has the same meaning as defined in Section
+41-1a-1221
+.
+(2)
+The commission may collect a convenience electronic payment fee established in accordance with the procedures and requirements of Section
+63J-1-504
+to cover the costs of electronic payments of taxes and fees administered by the commission.
+(3)
+Notwithstanding any other provisions of this title, the commission shall use a fee imposed under this section as a dedicated credit to cover the costs of electronic payments.
+Amended by Chapter
+183
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_1_305__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_1_305__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Electronic payment&quot; has the same meaning as defined in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_305__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Electronic payment fee&quot; has the same meaning as defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_305__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission may collect a convenience electronic payment fee established in accordance with the procedures and requirements of Section to cover the costs of electronic payments of taxes and fees administered by the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_305__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this title, the commission shall use a fee imposed under this section as a dedicated credit to cover the costs of electronic payments.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

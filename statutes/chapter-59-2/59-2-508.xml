@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-508"/>
+          <FRBRuri value="/us-ut/act/code/59-2-508"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-508/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-508/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-508/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-508/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_508">
+          <num>59-2-508</num>
+          <heading>Application -- Signed statement -- Consent to creation of a lien -- Consent to audit and review -- Notice.</heading>
+          <content>
+            <p>Effective 5/9/2017
+59-2-508.
+Application -- Signed statement -- Consent to creation of a lien -- Consent to audit and review -- Notice.
+(1)
+If an owner of land eligible for assessment under this part wants the land to be assessed under this part, the owner shall submit an application to the county assessor of the county in which the land is located.
+(2)
+An application required by Subsection
+(1)
+shall:
+(a)
+be on a form:
+(i)
+approved by the commission; and
+(ii)
+provided to an owner:
+(A)
+by the county assessor; and
+(B)
+at the request of an owner;
+(b)
+provide for the reporting of information related to this part;
+(c)
+be submitted by:
+(i)
+May 1 of the tax year in which assessment under Subsection
+(1)
+is requested if the land was not assessed under this part in the year before the application is submitted; or
+(ii)
+by the date otherwise required by this part for land that prior to the application being submitted has been assessed under this part;
+(d)
+be signed by all of the owners of the land that under the application would be assessed under this part;
+(e)
+be accompanied by the prescribed fees made payable to the county recorder;
+(f)
+include a certification by an owner that the facts set forth in the application or signed statement are true;
+(g)
+include a statement that the application constitutes consent by the owners of the land to the creation of a lien upon the land as provided in this part; and
+(h)
+be recorded by the county recorder.
+(3)
+The application  described in  Subsection
+(2)
+constitutes consent by the owners of the land to the creation of a lien upon the land as provided in this part.
+(4)
+(a)
+If the county determines that an application that was timely filed is incomplete, the county shall:
+(i)
+notify the owner of the incomplete application; and
+(ii)
+allow the owner to complete the application within 30 days from the day on which the county provides notice to the owner.
+(b)
+An application that has not been completed within 30 days of the day of the notice described in Subsection
+(4)(a)
+shall be considered denied.
+(5)
+(a)
+Once the application described in Subsection
+(1)
+has been approved, the county may:
+(i)
+require, by written request of the county assessor,  the owner to submit a new application or a signed statement that verifies that the land qualifies for assessment under this part; or
+(ii)
+except as provided in Subsection
+(5)(b)
+, require no additional signed statement or application for assessment under this part.
+(b)
+A county shall require that an owner provide notice if land is withdrawn from this part:
+(i)
+as provided in Section
+59-2-506
+; or
+(ii)
+for land that is subject to a conservation easement created in accordance with Section
+59-2-506.5
+, as provided in Section
+59-2-506.5
+.
+(c)
+An  owner shall submit an  application or signed statement required under Subsection
+(5)(a)
+by the date specified in the written request of the county assessor for the application or signed statement.
+(6)
+A certification under Subsection
+(2)(f)
+is considered as if made under oath and subject to the same penalties as provided by law for perjury.
+(7)
+(a)
+All owners applying for participation under this part and all purchasers or lessees signing statements under Subsection
+(8)
+are considered to have given their consent to field audit and review by:
+(i)
+the commission;
+(ii)
+the county assessor; or
+(iii)
+the commission and the county assessor.
+(b)
+The consent described in Subsection
+(7)(a)
+is a condition to the acceptance of any application or signed statement.
+(8)
+Any owner of land eligible for assessment under this part, because a purchaser or lessee actively devotes the land to agricultural use as required by Section
+59-2-503
+, may qualify the land for assessment under this part by submitting, with the application described in Subsection
+(2)
+, a signed statement from that purchaser or lessee certifying those facts that would be necessary to meet the requirements of Section
+59-2-503
+for assessment under this part.
+Amended by Chapter
+319
+, 2017 General Session</p>
+          </content>
+          <subsection eId="59_2_508__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If an owner of land eligible for assessment under this part wants the land to be assessed under this part, the owner shall submit an application to the county assessor of the county in which the land is located.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_508__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An application required by Subsection shall:</p>
+            </content>
+            <paragraph eId="59_2_508__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>be on a form:</p>
+              </content>
+              <subparagraph eId="59_2_508__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>approved by the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>provided to an owner:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>provide for the reporting of information related to this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>be submitted by:</p>
+              </content>
+              <subparagraph eId="59_2_508__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>May 1 of the tax year in which assessment under Subsection is requested if the land was not assessed under this part in the year before the application is submitted; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>by the date otherwise required by this part for land that prior to the application being submitted has been assessed under this part;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>be signed by all of the owners of the land that under the application would be assessed under this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>be accompanied by the prescribed fees made payable to the county recorder;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>include a certification by an owner that the facts set forth in the application or signed statement are true;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>include a statement that the application constitutes consent by the owners of the land to the creation of a lien upon the land as provided in this part; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>be recorded by the county recorder.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_508__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The application  described in  Subsection constitutes consent by the owners of the land to the creation of a lien upon the land as provided in this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_508__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_508__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the county determines that an application that was timely filed is incomplete, the county shall:</p>
+              </content>
+              <subparagraph eId="59_2_508__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>notify the owner of the incomplete application; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>allow the owner to complete the application within 30 days from the day on which the county provides notice to the owner.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An application that has not been completed within 30 days of the day of the notice described in Subsection shall be considered denied.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_508__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_2_508__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Once the application described in Subsection has been approved, the county may:</p>
+              </content>
+              <subparagraph eId="59_2_508__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>require, by written request of the county assessor,  the owner to submit a new application or a signed statement that verifies that the land qualifies for assessment under this part; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>except as provided in Subsection , require no additional signed statement or application for assessment under this part.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county shall require that an owner provide notice if land is withdrawn from this part:</p>
+              </content>
+              <subparagraph eId="59_2_508__subsec_5__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>as provided in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_5__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for land that is subject to a conservation easement created in accordance with Section , as provided in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An  owner shall submit an  application or signed statement required under Subsection by the date specified in the written request of the county assessor for the application or signed statement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_508__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A certification under Subsection is considered as if made under oath and subject to the same penalties as provided by law for perjury.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_508__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_2_508__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>All owners applying for participation under this part and all purchasers or lessees signing statements under Subsection are considered to have given their consent to field audit and review by:</p>
+              </content>
+              <subparagraph eId="59_2_508__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the commission;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the county assessor; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_508__subsec_7__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the commission and the county assessor.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_508__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The consent described in Subsection is a condition to the acceptance of any application or signed statement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_508__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Any owner of land eligible for assessment under this part, because a purchaser or lessee actively devotes the land to agricultural use as required by Section , may qualify the land for assessment under this part by submitting, with the application described in Subsection , a signed statement from that purchaser or lessee certifying those facts that would be necessary to meet the requirements of Section for assessment under this part.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

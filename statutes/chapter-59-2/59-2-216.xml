@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-216"/>
+          <FRBRuri value="/us-ut/act/code/59-2-216"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-216/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-216/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-216/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-216/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_216">
+          <num>59-2-216</num>
+          <heading>Commission to furnish list of patented lands to county assessors.</heading>
+          <content>
+            <p>59-2-216.
+Commission to furnish list of patented lands to county assessors.
+The commission shall furnish the county assessors, annually, by February 1:
+(1)
+a list of all patents of lands, except patents for mining locations, and all lands for which receivers' final receipts have been issued for which patents have not been issued, not previously reported;
+(2)
+a certified list of all lands that have been sold by the state for which certificates of purchase or patents have been issued during the preceding year, with a description, together with the names of the purchasers or patentees; and
+(3)
+a list containing a description of the lands sold by the state during the preceding year upon contracts for purchase, together with the names and addresses of the purchasers where known, the amount of the purchase price, and the total amount paid or due on the preceding January 1.
+Enacted by Chapter
+4
+, 1987 General Session</p>
+          </content>
+          <subsection eId="59_2_216__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>a list of all patents of lands, except patents for mining locations, and all lands for which receivers' final receipts have been issued for which patents have not been issued, not previously reported;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_216__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>a certified list of all lands that have been sold by the state for which certificates of purchase or patents have been issued during the preceding year, with a description, together with the names of the purchasers or patentees; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_216__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>a list containing a description of the lands sold by the state during the preceding year upon contracts for purchase, together with the names and addresses of the purchasers where known, the amount of the purchase price, and the total amount paid or due on the preceding January 1.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

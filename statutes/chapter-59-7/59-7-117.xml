@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-117"/>
+          <FRBRuri value="/us-ut/act/code/59-7-117"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-117/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-117/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-117/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-117/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_117">
+          <num>59-7-117</num>
+          <heading>Equitable adjustments.</heading>
+          <content>
+            <p>59-7-117.
+Equitable adjustments.
+The commission shall by rule prescribe for adjustments to Utah taxable income when, solely by reason of the enactment of this chapter, a taxpayer would otherwise receive or have received a double tax benefit or suffer or have suffered a double tax detriment.  However, the commission may not make any adjustment pursuant to this section which will result in an increase or decrease of tax liability that is less than $25.
+Repealed and Re-enacted by Chapter
+169
+, 1993 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

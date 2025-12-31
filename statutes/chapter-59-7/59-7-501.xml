@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-501"/>
+          <FRBRuri value="/us-ut/act/code/59-7-501"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-501/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-501/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-501/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-501/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_501">
+          <num>59-7-501</num>
+          <heading>Accounting periods -- Methods of accounting.</heading>
+          <content>
+            <p>59-7-501.
+Accounting periods -- Methods of accounting.
+(1)
+Utah taxable income shall be computed upon the basis of:
+(a)
+the same taxable period used for federal income tax purposes;
+(b)
+the corporation's annual accounting period if the corporation did not file a federal income tax return; or
+(c)
+the calendar year if the corporation has an annual accounting period other than a fiscal year, has no annual accounting period, or does not keep books, and does not file a federal income tax return.
+(2)
+(a)
+Utah taxable income shall be computed under the method of accounting on the basis of which the corporation computes:
+(i)
+its income for federal income tax purposes; or
+(ii)
+its income in keeping its books if the corporation did not file a federal income tax return.
+(b)
+If no method of accounting has been regularly used by the corporation or if the method employed does not clearly reflect Utah taxable income computed and apportioned to this state for the taxable year,  Utah taxable income shall be computed in accordance with a method which in the opinion of the commission clearly reflects Utah taxable income.
+(3)
+If a corporation is required under Public Law 99-514, or successor statute, to change its method of accounting from the cash receipts and disbursements method to an accrual method or other permissible method, the transition period provision of Public Law 99-514, or successor statute, for taking into account the adjustments required by reasons of such change shall be followed.
+(4)
+The amount of all items of gross income shall be included in the gross income for the taxable year in which received by the taxpayer, unless, under the methods of accounting permitted under this section, any such amounts are to be properly accounted for as of a different period.
+(5)
+The subtractions provided for in this chapter shall be taken for the taxable year in which &quot;paid or accrued&quot; or &quot;paid or incurred,&quot; dependent upon the method of accounting upon the basis of which Utah taxable income is computed, unless in order to clearly reflect the income the subtractions ought to be taken as of a different period.
+(6)
+For purposes of Subsections
+(4)
+and
+(5)
+, transition periods for reporting income or deductions permitted or required by Public Law 99-514, or successor statute, shall be followed.
+Renumbered and Amended by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_501__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Utah taxable income shall be computed upon the basis of:</p>
+            </content>
+            <paragraph eId="59_7_501__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the same taxable period used for federal income tax purposes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_501__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the corporation's annual accounting period if the corporation did not file a federal income tax return; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_501__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the calendar year if the corporation has an annual accounting period other than a fiscal year, has no annual accounting period, or does not keep books, and does not file a federal income tax return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_501__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_501__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Utah taxable income shall be computed under the method of accounting on the basis of which the corporation computes:</p>
+              </content>
+              <subparagraph eId="59_7_501__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>its income for federal income tax purposes; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_501__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>its income in keeping its books if the corporation did not file a federal income tax return.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_501__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If no method of accounting has been regularly used by the corporation or if the method employed does not clearly reflect Utah taxable income computed and apportioned to this state for the taxable year,  Utah taxable income shall be computed in accordance with a method which in the opinion of the commission clearly reflects Utah taxable income.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_501__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a corporation is required under Public Law 99-514, or successor statute, to change its method of accounting from the cash receipts and disbursements method to an accrual method or other permissible method, the transition period provision of Public Law 99-514, or successor statute, for taking into account the adjustments required by reasons of such change shall be followed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_501__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The amount of all items of gross income shall be included in the gross income for the taxable year in which received by the taxpayer, unless, under the methods of accounting permitted under this section, any such amounts are to be properly accounted for as of a different period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_501__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The subtractions provided for in this chapter shall be taken for the taxable year in which &quot;paid or accrued&quot; or &quot;paid or incurred,&quot; dependent upon the method of accounting upon the basis of which Utah taxable income is computed, unless in order to clearly reflect the income the subtractions ought to be taken as of a different period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_501__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>For purposes of Subsections and , transition periods for reporting income or deductions permitted or required by Public Law 99-514, or successor statute, shall be followed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

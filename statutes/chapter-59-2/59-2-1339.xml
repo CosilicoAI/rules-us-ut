@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1339"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1339"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1339/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1339/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1339/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1339/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1339">
+          <num>59-2-1339</num>
+          <heading>Form of treasurer's certificate -- Contents of form.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1339.
+Form of treasurer's certificate -- Contents of form.
+(1)
+On or before March 15 the treasurer shall complete the official record of delinquent taxes and tax notice charges and attach the treasurer's certificate to the record.
+(2)
+The certificate shall be substantially in the following form:
+State of Utah)
+ss.
+County of  )
+I, ____, county treasurer of the county of ____, state of Utah, do certify that to the best of my knowledge the attached record is a full, true, and correct record and constitutes the official record of all properties which became delinquent for the year ____, and shows in the same order as the property appears on the assessment roll, the name of the person to whom the property is assessed, the description of the delinquent parcel and a reference to the parcel, serial, or account number under which the property was listed in the assessment roll, the amount of taxes, tax notice charges, penalties, administrative costs, the date of redemption, and by whom the property was redeemed if any redemption has been made.
+Signature ___________________
+County Treasurer of __________ County
+(3)
+The official record shall be maintained in the treasurer's office and shall include any subsequent delinquent taxes, tax notice charges, penalties, administrative costs, and redemptions pertaining to the properties listed thereon.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1339__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>On or before March 15 the treasurer shall complete the official record of delinquent taxes and tax notice charges and attach the treasurer's certificate to the record.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1339__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The certificate shall be substantially in the following form: State of Utah) ss. County of  ) I, ____, county treasurer of the county of ____, state of Utah, do certify that to the best of my knowledge the attached record is a full, true, and correct record and constitutes the official record of all properties which became delinquent for the year ____, and shows in the same order as the property appears on the assessment roll, the name of the person to whom the property is assessed, the description of the delinquent parcel and a reference to the parcel, serial, or account number under which the property was listed in the assessment roll, the amount of taxes, tax notice charges, penalties, administrative costs, the date of redemption, and by whom the property was redeemed if any redemption has been made. Signature ___________________ County Treasurer of __________ County</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1339__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The official record shall be maintained in the treasurer's office and shall include any subsequent delinquent taxes, tax notice charges, penalties, administrative costs, and redemptions pertaining to the properties listed thereon.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1005"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1005/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1005/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1005">
+          <num>59-1-1005</num>
+          <heading>Suits against commission and its employees.</heading>
+          <content>
+            <p>59-1-1005.
+Suits against commission and its employees.
+(1)
+A taxpayer may bring a civil suit against the commission for recovery of actual damages and costs incurred by the taxpayer if:
+(a)
+the commission or one of its employees intentionally or recklessly takes possession of a taxpayer's property in disregard of its published procedures, laws, or rules; or
+(b)
+otherwise intentionally or recklessly disregards published procedures, laws, or rules.
+(2)
+An award of actual damages and court costs in a suit under this section may not exceed $100,000.
+(3)
+If the court finds that the civil action brought by the taxpayer is frivolous, the court may impose a penalty of up to $10,000 against the taxpayer.
+Amended by Chapter
+9
+, 2001 General Session</p>
+          </content>
+          <subsection eId="59_1_1005__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A taxpayer may bring a civil suit against the commission for recovery of actual damages and costs incurred by the taxpayer if:</p>
+            </content>
+            <paragraph eId="59_1_1005__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the commission or one of its employees intentionally or recklessly takes possession of a taxpayer's property in disregard of its published procedures, laws, or rules; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1005__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>otherwise intentionally or recklessly disregards published procedures, laws, or rules.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1005__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An award of actual damages and court costs in a suit under this section may not exceed $100,000.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1005__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the court finds that the civil action brought by the taxpayer is frivolous, the court may impose a penalty of up to $10,000 against the taxpayer.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

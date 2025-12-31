@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-1802"/>
+          <FRBRuri value="/us-ut/act/code/59-12-1802"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-1802/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-1802/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-1802/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-1802/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_1802">
+          <num>59-12-1802</num>
+          <heading>State sales and use tax -- Base -- Rate -- Revenues deposited into General Fund.</heading>
+          <content>
+            <p>59-12-1802.
+State sales and use tax -- Base -- Rate -- Revenues deposited into General Fund.
+(1)
+If a county does not impose a tax under
+Part 11, County Option Sales and Use Tax
+, a tax shall be imposed within the county under this section by the state:
+(a)
+on the transactions described in Subsection
+59-12-103(1)
+;
+(b)
+at a rate of .25%; and
+(c)
+beginning on January 1, 2008, and ending on the day on which the county imposes a tax under
+Part 11, County Option Sales and Use Tax
+.
+(2)
+Notwithstanding Subsection
+(1)
+, a tax under this section may not be imposed on the sales and uses described in Section
+59-12-104
+to the extent the sales and uses are exempt from taxation under Section
+59-12-104
+.
+(3)
+For purposes of Subsection
+(1)
+, the location of a transaction shall be determined in accordance with Sections
+59-12-211
+through
+59-12-215
+.
+(4)
+Revenues collected from the sales and use tax imposed by this section, after subtracting amounts a seller retains in accordance with Section
+59-12-108
+, shall be deposited into the General Fund.
+Amended by Chapter
+384
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_12_1802__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a county does not impose a tax under , a tax shall be imposed within the county under this section by the state:</p>
+            </content>
+            <paragraph eId="59_12_1802__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>on the transactions described in Subsection ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_1802__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>at a rate of .25%; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_1802__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>beginning on January 1, 2008, and ending on the day on which the county imposes a tax under .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_1802__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding Subsection , a tax under this section may not be imposed on the sales and uses described in Section to the extent the sales and uses are exempt from taxation under Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_1802__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of Subsection , the location of a transaction shall be determined in accordance with Sections through .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_1802__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Revenues collected from the sales and use tax imposed by this section, after subtracting amounts a seller retains in accordance with Section , shall be deposited into the General Fund.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

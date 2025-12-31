@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-108"/>
+          <FRBRuri value="/us-ut/act/code/59-7-108"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-108/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-108/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-108/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-108/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_108">
+          <num>59-7-108</num>
+          <heading>Distributions by corporations.</heading>
+          <content>
+            <p>59-7-108.
+Distributions by corporations.
+(1)
+(a)
+For purposes of this chapter, a distribution is made out of earnings or profits to the extent of the earnings or profits, and from the most recently accumulated earnings or profits.
+(b)
+(i)
+Subject to Subsection
+(1)(b)(ii)
+, any earnings or profits accumulated or increase in value of property accrued before January 1, 1931, may be excluded from taxable income after the earnings and profits accumulated after December 31, 1930 have been distributed.
+(ii)
+A distribution described in Subsection
+(1)(b)(i)
+shall be applied against and reduce the basis of the stock.
+(2)
+(a)
+Subject to Subsection
+(2)(b)
+, if any distribution that is not in partial or complete liquidation is made by a corporation to its shareholders, is not out of increase in value of property accrued before January 1, 1931, and is not out of earnings or profits, the amount of the distribution shall be applied against and reduce the basis of the stock.
+(b)
+If a distribution described in Subsection
+(2)(a)
+is in excess of the basis of the stock, the excess shall be treated as a gain from the sale or exchange of property.
+Amended by Chapter
+69
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_7_108__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_7_108__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this chapter, a distribution is made out of earnings or profits to the extent of the earnings or profits, and from the most recently accumulated earnings or profits.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_108__subsec_1__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_7_108__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsection , any earnings or profits accumulated or increase in value of property accrued before January 1, 1931, may be excluded from taxable income after the earnings and profits accumulated after December 31, 1930 have been distributed.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_108__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A distribution described in Subsection shall be applied against and reduce the basis of the stock.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_108__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_108__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , if any distribution that is not in partial or complete liquidation is made by a corporation to its shareholders, is not out of increase in value of property accrued before January 1, 1931, and is not out of earnings or profits, the amount of the distribution shall be applied against and reduce the basis of the stock.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_108__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a distribution described in Subsection is in excess of the basis of the stock, the excess shall be treated as a gain from the sale or exchange of property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

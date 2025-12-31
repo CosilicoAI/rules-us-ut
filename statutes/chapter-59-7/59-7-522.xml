@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-522"/>
+          <FRBRuri value="/us-ut/act/code/59-7-522"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-522/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-522/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-522/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-522/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_522">
+          <num>59-7-522</num>
+          <heading>Overpayments.</heading>
+          <content>
+            <p>Effective 7/21/2018
+59-7-522.
+Overpayments.
+(1)
+As used in this section, &quot;overpayment&quot; means the same as that term is defined in Section
+59-1-1409
+.
+(2)
+(a)
+Subject to Subsection
+(2)(b)
+, a claim for credit or refund of an overpayment that is attributable to a Utah net loss carry forward shall be filed within three years from the due date of the return for the taxable year of the Utah net loss.
+(b)
+The three-year period described in Subsection
+(2)(a)
+shall be extended by any extension of time provided in statute for filing the return described in Subsection
+(2)(a)
+.
+(3)
+The commission shall make a credit against or refund of any overpayment of a tax under this chapter for a taxable year if, in accordance with Section
+59-7-519
+:
+(a)
+(i)
+a corporation agrees with the commissioner of internal revenue for an extension, or a renewal of an extension, of the period for proposing and assessing a deficiency in federal income tax for that taxable year; or
+(ii)
+there is a change in or correction of federal taxable income for that taxable year; and
+(b)
+the corporation files a claim for the credit or refund before the expiration of the time period within which the commission may assess a deficiency.
+(4)
+The commission shall make a credit or refund within a 30-day period after the day on which a court's decision to require the commission to credit or refund the amount of an overpayment to a taxpayer is final.
+Amended by Chapter
+3
+, 2018 Special Session 2</p>
+          </content>
+          <subsection eId="59_7_522__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;overpayment&quot; means the same as that term is defined in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_522__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_522__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , a claim for credit or refund of an overpayment that is attributable to a Utah net loss carry forward shall be filed within three years from the due date of the return for the taxable year of the Utah net loss.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_522__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The three-year period described in Subsection shall be extended by any extension of time provided in statute for filing the return described in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_522__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission shall make a credit against or refund of any overpayment of a tax under this chapter for a taxable year if, in accordance with Section :</p>
+            </content>
+            <paragraph eId="59_7_522__subsec_3__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_7_522__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a corporation agrees with the commissioner of internal revenue for an extension, or a renewal of an extension, of the period for proposing and assessing a deficiency in federal income tax for that taxable year; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_522__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>there is a change in or correction of federal taxable income for that taxable year; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_522__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the corporation files a claim for the credit or refund before the expiration of the time period within which the commission may assess a deficiency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_522__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The commission shall make a credit or refund within a 30-day period after the day on which a court's decision to require the commission to credit or refund the amount of an overpayment to a taxpayer is final.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

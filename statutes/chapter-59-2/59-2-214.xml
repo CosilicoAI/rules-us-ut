@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-214"/>
+          <FRBRuri value="/us-ut/act/code/59-2-214"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-214/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-214/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-214/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-214/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_214">
+          <num>59-2-214</num>
+          <heading>Commission to furnish forms for taxpayers' statements.</heading>
+          <content>
+            <p>59-2-214.
+Commission to furnish forms for taxpayers' statements.
+(1)
+The commission shall furnish the assessor of each county with blank forms of statements provided under Section
+59-2-306
+, affixing to the form a statement substantially as follows to be signed by the party completing the form:
+I, ____, do swear that I am a resident of the county of ____, and that my post office address is ____; that the above list contains a full and correct statement of all property subject to taxation, which I, or any firm of which I am a member, or any corporation, association, or company of which I am president, cashier, secretary, or managing agent, owned, claimed, possessed, or controlled at 12 o'clock midnight on the preceding January 1 and which is not already assessed this year.
+(2)
+The signed statement made on behalf of a firm or corporation shall state the principal place of business of the firm or corporation, and in other respects shall conform substantially to the preceding form.
+Amended by Chapter
+86
+, 2000 General Session</p>
+          </content>
+          <subsection eId="59_2_214__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall furnish the assessor of each county with blank forms of statements provided under Section , affixing to the form a statement substantially as follows to be signed by the party completing the form: I, ____, do swear that I am a resident of the county of ____, and that my post office address is ____; that the above list contains a full and correct statement of all property subject to taxation, which I, or any firm of which I am a member, or any corporation, association, or company of which I am president, cashier, secretary, or managing agent, owned, claimed, possessed, or controlled at 12 o'clock midnight on the preceding January 1 and which is not already assessed this year.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_214__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The signed statement made on behalf of a firm or corporation shall state the principal place of business of the firm or corporation, and in other respects shall conform substantially to the preceding form.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

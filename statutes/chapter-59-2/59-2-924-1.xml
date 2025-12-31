@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-924.1"/>
+          <FRBRuri value="/us-ut/act/code/59-2-924.1"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-924.1/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-924.1/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-924.1/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-924.1/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_924_1">
+          <num>59-2-924.1</num>
+          <heading>Definitions -- Commission authorized to adjust taxing entity's certified rate for clerical error -- Requirements -- Amount of adjustment.</heading>
+          <content>
+            <p>Effective 5/13/2014
+59-2-924.1.
+Definitions -- Commission authorized to adjust taxing entity's certified rate for clerical error -- Requirements -- Amount of adjustment.
+(1)
+For purposes of this section:
+(a)
+&quot;Clerical error&quot; means the following in an assessment roll:
+(i)
+an omission;
+(ii)
+an error; or
+(iii)
+a defect in form.
+(b)
+&quot;Year&quot; means the period beginning on January 1 and ending on December 31 during which there is a clerical error on the taxing entity's assessment roll.
+(2)
+The commission shall adjust a taxing entity's certified tax rate as provided in Subsection
+(3)
+if the county legislative body in which the taxing entity is located certifies to the commission in writing that:
+(a)
+the taxing entity's assessment roll contained a clerical error;
+(b)
+the county adjusted the clerical error on the assessment roll;
+(c)
+the taxing entity's actual collections for the year were different than the taxing entity's budgeted collections for the year; and
+(d)
+the taxing entity notified the county legislative body of the clerical error after the county treasurer provided the tax notices under Section
+59-2-1317
+, but no later than 60 days after the day on which the county treasurer made the final annual settlement with the taxing entity under Section
+59-2-1365
+.
+(3)
+(a)
+The adjustment under Subsection
+(2)
+is an amount equal to the lesser of:
+(i)
+the difference between the taxing entity's budgeted collections for the year and the taxing entity's actual collections for the year; or
+(ii)
+the amount of the clerical error.
+(b)
+The commission shall make an adjustment under Subsection
+(2)
+no later than 90 days after the day on which the county treasurer made the final annual settlement with the taxing entity under Section
+59-2-1365
+.
+Amended by Chapter
+279
+, 2014 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

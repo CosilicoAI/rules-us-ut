@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-601"/>
+          <FRBRuri value="/us-ut/act/code/59-1-601"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-601/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-601/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-601/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-601/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_601">
+          <num>59-1-601</num>
+          <heading>District court jurisdiction.</heading>
+          <content>
+            <p>59-1-601.
+District court jurisdiction.
+(1)
+In addition to the jurisdiction granted in Section
+63G-4-402
+, beginning July 1, 1994, the district court shall have jurisdiction to review by trial de novo all decisions issued by the commission after that date resulting from formal adjudicative proceedings.
+(2)
+As used in this section, &quot;trial de novo&quot; means an original, independent proceeding, and does not mean a trial de novo on the record.
+(3)
+(a)
+In any appeal to the district court pursuant to this section taken after January 1, 1997, the commission shall certify a record of its proceedings to the district court.
+(b)
+This Subsection
+(3)
+supercedes Section
+63G-4-403
+pertaining to judicial review of formal adjudicative proceedings.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_1_601__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In addition to the jurisdiction granted in Section , beginning July 1, 1994, the district court shall have jurisdiction to review by trial de novo all decisions issued by the commission after that date resulting from formal adjudicative proceedings.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_601__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in this section, &quot;trial de novo&quot; means an original, independent proceeding, and does not mean a trial de novo on the record.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_601__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_1_601__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In any appeal to the district court pursuant to this section taken after January 1, 1997, the commission shall certify a record of its proceedings to the district court.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_601__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This Subsection supercedes Section pertaining to judicial review of formal adjudicative proceedings.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

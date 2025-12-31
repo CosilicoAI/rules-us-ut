@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-210"/>
+          <FRBRuri value="/us-ut/act/code/59-14-210"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-210/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-210/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-210/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-210/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_210">
+          <num>59-14-210</num>
+          <heading>Prohibited sales of cigarettes.</heading>
+          <content>
+            <p>59-14-210.
+Prohibited sales of cigarettes.
+(1)
+Except as provided in Subsection
+(3)
+, a person licensed under Section
+59-14-202
+may not barter, sell, exchange, or offer for sale cigarettes:
+(a)
+in a package which:
+(i)
+bears a statement, label, stamp, sticker, or other notice that the manufacturer did not intend the cigarettes to be sold, distributed, or used in the United States, including the following and similar notices:
+(A)
+&quot;For Export Only&quot;;
+(B)
+&quot;U.S. Tax-Exempt&quot;; and
+(C)
+&quot;For Use Outside the U.S.&quot;; or
+(ii)
+does not comply with federal law, including 15 U.S.C. 1333 of the Federal Cigarette Labeling and Advertising Act, regarding warning labels and other package information;
+(b)
+imported to the United States in violation of 26 U.S.C. 5754;
+(c)
+the licensee knows or has reason to know were not manufactured for sale, distribution, or use in the United States;
+(d)
+for which a list of added ingredients has not been submitted to the federal Department of Health and Human Services pursuant to 15 U.S.C. 1335a of the Federal Cigarette Labeling and Advertising Act; or
+(e)
+known by the licensee to be otherwise in violation of other related federal law.
+(2)
+A person licensed under Section
+59-14-202
+may not barter, sell, exchange, or offer for sale cigarettes of a tobacco product manufacturer that is prohibited from selling cigarettes to consumers within the state under Subsection
+59-22-203(3)(c)
+.
+(3)
+Subsection
+(1)
+does not apply to cigarettes sold or intended to be sold as duty-free merchandise by a duty-free sales enterprise in accordance with the provisions of 19 U.S.C. 1555(b) and any implementing regulations unless the cigarettes are brought back into the customs territory for resale within the customs territory.
+Amended by Chapter
+52
+, 2002 General Session</p>
+          </content>
+          <subsection eId="59_14_210__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , a person licensed under Section may not barter, sell, exchange, or offer for sale cigarettes:</p>
+            </content>
+            <paragraph eId="59_14_210__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>in a package which:</p>
+              </content>
+              <subparagraph eId="59_14_210__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>bears a statement, label, stamp, sticker, or other notice that the manufacturer did not intend the cigarettes to be sold, distributed, or used in the United States, including the following and similar notices:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_210__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>does not comply with federal law, including 15 U.S.C. 1333 of the Federal Cigarette Labeling and Advertising Act, regarding warning labels and other package information;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_210__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>imported to the United States in violation of 26 U.S.C. 5754;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_210__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the licensee knows or has reason to know were not manufactured for sale, distribution, or use in the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_210__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>for which a list of added ingredients has not been submitted to the federal Department of Health and Human Services pursuant to 15 U.S.C. 1335a of the Federal Cigarette Labeling and Advertising Act; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_14_210__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>known by the licensee to be otherwise in violation of other related federal law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_210__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person licensed under Section may not barter, sell, exchange, or offer for sale cigarettes of a tobacco product manufacturer that is prohibited from selling cigarettes to consumers within the state under Subsection .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_210__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Subsection does not apply to cigarettes sold or intended to be sold as duty-free merchandise by a duty-free sales enterprise in accordance with the provisions of 19 U.S.C. 1555(b) and any implementing regulations unless the cigarettes are brought back into the customs territory for resale within the customs territory.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

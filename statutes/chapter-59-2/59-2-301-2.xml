@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-301.2"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-301.2/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-301.2/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_301_2">
+          <num>59-2-301.2</num>
+          <heading>Definitions -- Assessment of property subject to a minimum parcel size -- Other factors affecting fair market value.</heading>
+          <content>
+            <p>Effective 11/6/2025
+59-2-301.2.
+Definitions -- Assessment of property subject to a minimum parcel size -- Other factors affecting fair market value.
+(1)
+&quot;Minimum parcel size&quot; means the minimum size that a parcel of property may be divided into under a zoning ordinance adopted by a:
+(a)
+county in accordance with Title 17, Chapter 79, Part 5, Land Use Regulations - General Processes; or
+(b)
+city or town in accordance with Title 10, Chapter 20, Part 5, Land Use Regulations - General Processes.
+(2)
+In assessing the fair market value of a parcel of property that is subject to a minimum parcel size of one acre or more, a county assessor shall include as part of the assessment:
+(a)
+that the parcel of property may not be subdivided into parcels of property smaller than the minimum parcel size; and
+(b)
+any effects Subsection
+(2)(a)
+may have on the fair market value of the parcel of property.
+(3)
+This section does not prohibit a county assessor from including as part of an assessment of the fair market value of a parcel of property any other factor affecting the fair market value of the parcel of property.
+Amended by Chapter
+15
+, 2025 Special Session 1</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

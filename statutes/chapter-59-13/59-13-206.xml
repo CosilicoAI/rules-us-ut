@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-206"/>
+          <FRBRuri value="/us-ut/act/code/59-13-206"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-206/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-206/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-206/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-206/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_206">
+          <num>59-13-206</num>
+          <heading>Distributor requirements -- Reports and statements to be furnished to the commission -- Contents of statements -- Statement to be signed -- Penalties.</heading>
+          <content>
+            <p>59-13-206.
+Distributor requirements -- Reports and statements to be furnished to the commission -- Contents of statements -- Statement to be signed -- Penalties.
+(1)
+Every distributor of motor fuel shall render to the commission, on or before the last day of each month, the following statements on forms prescribed by the commission:
+(a)
+the number of gallons of motor fuel sold, used, or received for sale or use by the distributor during the preceding calendar month;
+(b)
+an itemized account of the date and quantities of motor fuel sold, used, or received for sale or use, stating separately the sales made in interstate commerce and those made in broken packages; and
+(c)
+any other information incidental to the enforcing of this part which the commission may require.
+(2)
+The statement shall be signed by a responsible representative of the distributor.  This signature need not be notarized, but when signed is considered to have been made under oath.  Bills shall be rendered to all purchasers of motor fuel by distributors.
+(3)
+A penalty for failure to file the statement required by Subsection
+(1)
+shall be as provided under Section
+59-1-401
+.
+Enacted by Chapter
+6
+, 1987 General Session</p>
+          </content>
+          <subsection eId="59_13_206__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Every distributor of motor fuel shall render to the commission, on or before the last day of each month, the following statements on forms prescribed by the commission:</p>
+            </content>
+            <paragraph eId="59_13_206__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the number of gallons of motor fuel sold, used, or received for sale or use by the distributor during the preceding calendar month;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_206__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>an itemized account of the date and quantities of motor fuel sold, used, or received for sale or use, stating separately the sales made in interstate commerce and those made in broken packages; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_206__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>any other information incidental to the enforcing of this part which the commission may require.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_206__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The statement shall be signed by a responsible representative of the distributor.  This signature need not be notarized, but when signed is considered to have been made under oath.  Bills shall be rendered to all purchasers of motor fuel by distributors.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_206__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A penalty for failure to file the statement required by Subsection shall be as provided under Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

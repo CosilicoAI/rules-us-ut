@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-213"/>
+          <FRBRuri value="/us-ut/act/code/59-2-213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-213/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-213/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-213/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-213/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_213">
+          <num>59-2-213</num>
+          <heading>Duty to furnish assessment roll to counties.</heading>
+          <content>
+            <p>59-2-213.
+Duty to furnish assessment roll to counties.
+(1)
+The commission shall prepare and furnish to each county an assessment roll in which the county assessor of each county shall list all property within the county.
+(2)
+In counties using computerized listings, the county assessor shall furnish the information required under Subsection
+(1)
+pursuant to procedures established by the commission.
+Amended by Chapter
+3
+, 1988 General Session</p>
+          </content>
+          <subsection eId="59_2_213__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall prepare and furnish to each county an assessment roll in which the county assessor of each county shall list all property within the county.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_213__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In counties using computerized listings, the county assessor shall furnish the information required under Subsection pursuant to procedures established by the commission.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

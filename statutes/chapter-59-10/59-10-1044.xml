@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1044"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1044"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1044/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1044/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1044/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1044/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1044">
+          <num>59-10-1044</num>
+          <heading>Nonrefundable earned income tax credit.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-10-1044.
+Nonrefundable earned income tax credit.
+(1)
+As used in this section:
+(a)
+&quot;Federal earned income tax credit&quot; means the federal earned income tax credit described in Section 32, Internal Revenue Code.
+(b)
+&quot;Qualifying claimant&quot; means a resident or nonresident individual who:
+(i)
+qualifies for and claims the federal earned income tax credit for the current taxable year; and
+(ii)
+earns income in Utah that is reported on a W-2 form.
+(2)
+Subject to Section
+59-10-1002.2
+, a qualifying claimant may claim a nonrefundable earned income tax credit equal to the lesser of:
+(a)
+20% of the amount of the federal earned income tax credit that the qualifying claimant was entitled to claim on a federal income tax return for the current taxable year; and
+(b)
+the total Utah wages reported on the qualifying claimant's W-2 form for the current taxable year.
+(3)
+A qualifying claimant may not carry forward or carry back the amount of the earned income tax credit that exceeds the qualifying claimant's tax liability.
+Amended by Chapter
+459
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_10_1044__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1044__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Federal earned income tax credit&quot; means the federal earned income tax credit described in Section 32, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1044__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Qualifying claimant&quot; means a resident or nonresident individual who:</p>
+              </content>
+              <subparagraph eId="59_10_1044__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>qualifies for and claims the federal earned income tax credit for the current taxable year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1044__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>earns income in Utah that is reported on a W-2 form.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1044__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to Section , a qualifying claimant may claim a nonrefundable earned income tax credit equal to the lesser of:</p>
+            </content>
+            <paragraph eId="59_10_1044__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>20% of the amount of the federal earned income tax credit that the qualifying claimant was entitled to claim on a federal income tax return for the current taxable year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1044__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the total Utah wages reported on the qualifying claimant's W-2 form for the current taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1044__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A qualifying claimant may not carry forward or carry back the amount of the earned income tax credit that exceeds the qualifying claimant's tax liability.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

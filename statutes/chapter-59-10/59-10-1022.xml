@@ -1,0 +1,307 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1022"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1022"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1022/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1022/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1022/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1022/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1022">
+          <num>59-10-1022</num>
+          <heading>Nonrefundable tax credit for capital gain transactions.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-1022.
+Nonrefundable tax credit for capital gain transactions.
+(1)
+As used in this section:
+(a)
+(i)
+&quot;Capital gain transaction&quot; means a transaction that results in a:
+(A)
+short-term capital gain; or
+(B)
+long-term capital gain.
+(ii)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule define the term &quot;transaction.&quot;
+(b)
+&quot;Commercial domicile&quot; means the principal place from which the trade or business of a Utah small business corporation is directed or managed.
+(c)
+&quot;Long-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.
+(d)
+&quot;Qualifying stock&quot; means stock that is:
+(i)
+(A)
+common; or
+(B)
+preferred;
+(ii)
+as defined by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, originally issued to:
+(A)
+a claimant, estate, or trust; or
+(B)
+a partnership if the claimant, estate, or trust that claims a tax credit under this section:
+(I)
+was a partner on the day on which the stock was issued; and
+(II)
+remains a partner until the last day of the taxable year for which the claimant, estate, or trust claims a tax credit under this section; and
+(iii)
+issued:
+(A)
+by a Utah small business corporation;
+(B)
+on or after January 1, 2008; and
+(C)
+for:
+(I)
+money; or
+(II)
+other property, except for stock or securities.
+(e)
+&quot;Short-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.
+(f)
+(i)
+&quot;Utah small business corporation&quot; means a corporation that:
+(A)
+except as provided in Subsection
+(1)(f)(ii)
+, is a small business corporation as defined in Section 1244(c)(3), Internal Revenue Code;
+(B)
+except as provided in Subsection
+(1)(f)(iii)
+, meets the requirements of Section 1244(c)(1)(C), Internal Revenue Code; and
+(C)
+has its commercial domicile in this state.
+(ii)
+The dollar amount listed in Section 1244(c)(3)(A) is considered to be $2,500,000.
+(iii)
+The phrase &quot;the date the loss on such stock was sustained&quot; in Sections 1244(c)(1)(C) and 1244(c)(2), Internal Revenue Code, is considered to be &quot;the last day of the taxable year for which the claimant, estate, or trust claims a tax credit under this section.&quot;
+(2)
+For taxable years beginning on or after January 1, 2008, a claimant, estate, or trust that meets the requirements of Subsection
+(3)
+may claim a nonrefundable tax credit equal to the product of:
+(a)
+the total amount of the claimant's, estate's, or trust's short-term capital gain or long-term capital gain on a capital gain transaction that occurs on or after January 1, 2008; and
+(b)
+the percentage listed in Subsection
+59-10-104(2)
+.
+(3)
+For purposes of Subsection
+(2)
+, a claimant, estate, or trust may claim the nonrefundable tax credit allowed by Subsection
+(2)
+if:
+(a)
+70% or more of the gross proceeds of the capital gain transaction are expended:
+(i)
+to purchase qualifying stock in a Utah small business corporation; and
+(ii)
+within a 12-month period after the day on which the capital gain transaction occurs; and
+(b)
+prior to the purchase of the qualifying stock described in Subsection
+(3)(a)(i)
+, the claimant, estate, or trust did not have an ownership interest in the Utah small business corporation that issued the qualifying stock.
+(4)
+A claimant, estate, or trust may not carry forward or carry back a tax credit under this section.
+(5)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules:
+(a)
+defining the term &quot;gross proceeds&quot;; and
+(b)
+prescribing the circumstances under which a claimant, estate, or trust has an ownership interest in a Utah small business corporation.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_1022__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_10_1022__subsec_1__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_1022__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Capital gain transaction&quot; means a transaction that results in a:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1022__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>In accordance with , the commission may by rule define the term &quot;transaction.&quot;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Commercial domicile&quot; means the principal place from which the trade or business of a Utah small business corporation is directed or managed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Long-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Qualifying stock&quot; means stock that is:</p>
+              </content>
+              <subparagraph eId="59_10_1022__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_10_1022__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>as defined by the commission by rule made in accordance with , originally issued to:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1022__subsec_1__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>issued:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Short-term capital gain&quot; is as defined in Section 1222, Internal Revenue Code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_1__para_f">
+              <num>(f)</num>
+              <subparagraph eId="59_10_1022__subsec_1__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Utah small business corporation&quot; means a corporation that:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1022__subsec_1__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The dollar amount listed in Section 1244(c)(3)(A) is considered to be $2,500,000.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1022__subsec_1__para_f__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>The phrase &quot;the date the loss on such stock was sustained&quot; in Sections 1244(c)(1)(C) and 1244(c)(2), Internal Revenue Code, is considered to be &quot;the last day of the taxable year for which the claimant, estate, or trust claims a tax credit under this section.&quot;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1022__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For taxable years beginning on or after January 1, 2008, a claimant, estate, or trust that meets the requirements of Subsection may claim a nonrefundable tax credit equal to the product of:</p>
+            </content>
+            <paragraph eId="59_10_1022__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the total amount of the claimant's, estate's, or trust's short-term capital gain or long-term capital gain on a capital gain transaction that occurs on or after January 1, 2008; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the percentage listed in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1022__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of Subsection , a claimant, estate, or trust may claim the nonrefundable tax credit allowed by Subsection if:</p>
+            </content>
+            <paragraph eId="59_10_1022__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>70% or more of the gross proceeds of the capital gain transaction are expended:</p>
+              </content>
+              <subparagraph eId="59_10_1022__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>to purchase qualifying stock in a Utah small business corporation; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1022__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>within a 12-month period after the day on which the capital gain transaction occurs; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>prior to the purchase of the qualifying stock described in Subsection , the claimant, estate, or trust did not have an ownership interest in the Utah small business corporation that issued the qualifying stock.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1022__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A claimant, estate, or trust may not carry forward or carry back a tax credit under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1022__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In accordance with , the commission may make rules:</p>
+            </content>
+            <paragraph eId="59_10_1022__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>defining the term &quot;gross proceeds&quot;; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1022__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>prescribing the circumstances under which a claimant, estate, or trust has an ownership interest in a Utah small business corporation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1326"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1326"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1326/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1326/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1326/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1326/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1326">
+          <num>59-2-1326</num>
+          <heading>Illegal tax and tax notice charges -- Injunction to restrain collection.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1326.
+Illegal tax and tax notice charges -- Injunction to restrain collection.
+(1)
+No injunction may be granted by any court to restrain the collection of any tax, any part of the tax, or any tax notice charge, nor to restrain the sale of any property for the nonpayment of the tax or tax notice charge, unless the tax or tax notice charge, or some part of the tax or tax notice charge sought to be enjoined:
+(a)
+is not authorized by law; or
+(b)
+is on property which is exempt from taxation.
+(2)
+If the payment of a part of a tax or tax notice charge is sought to be enjoined, the other part shall be paid or tendered before any action may be commenced.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1326__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No injunction may be granted by any court to restrain the collection of any tax, any part of the tax, or any tax notice charge, nor to restrain the sale of any property for the nonpayment of the tax or tax notice charge, unless the tax or tax notice charge, or some part of the tax or tax notice charge sought to be enjoined:</p>
+            </content>
+            <paragraph eId="59_2_1326__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>is not authorized by law; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1326__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>is on property which is exempt from taxation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1326__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the payment of a part of a tax or tax notice charge is sought to be enjoined, the other part shall be paid or tendered before any action may be commenced.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

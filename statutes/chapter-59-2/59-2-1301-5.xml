@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1301.5"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1301.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1301.5/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1301.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1301.5/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1301.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1301_5">
+          <num>59-2-1301.5</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1301.5.
+Definitions.
+As used in this part:
+(1)
+&quot;Tax notice charge&quot; means an amount that:
+(a)
+a property owner owes to a tax notice charge entity in relation to real property; and
+(b)
+the county treasurer lists on the property tax notice in accordance with Section
+59-2-1317
+or another statutory authorization allowing the item's inclusion on the property tax notice.
+(2)
+&quot;Tax notice charge entity&quot; means the entity that certifies to the county treasurer an outstanding amount that:
+(a)
+a property owner owes to the entity in relation to the property; and
+(b)
+the county treasurer lists on the property tax notice as a tax notice charge.
+Enacted by Chapter
+197
+, 2018 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1018"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1018"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1018/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1018/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1018/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1018/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1018">
+          <num>59-2-1018</num>
+          <heading>Reporting of county appeals information.</heading>
+          <content>
+            <p>Effective 1/1/2026
+59-2-1018.
+Reporting of county appeals information.
+(1)
+On or before May 1 of each year, a county board of equalization shall report the following information to the commission:
+(a)
+the number of appeals involving the valuation or equalization of real property for which the county board of equalization issued a decision during the preceding calendar year in accordance with Section
+59-2-1004
+; and
+(b)
+for each appeal described in Subsection (1)(a):
+(i)
+whether the property is residential or commercial;
+(ii)
+the original assessed value of the property; and
+(iii)
+the value given to the property by the county board of equalization.
+(2)
+The commission shall report the appeals information provided by county boards of equalization under Subsection
+(1)
+to the Revenue and Taxation Interim Committee on or before July 31 of each year.
+Enacted by Chapter
+337
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_1018__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>On or before May 1 of each year, a county board of equalization shall report the following information to the commission:</p>
+            </content>
+            <paragraph eId="59_2_1018__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the number of appeals involving the valuation or equalization of real property for which the county board of equalization issued a decision during the preceding calendar year in accordance with Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1018__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for each appeal described in Subsection (1)(a):</p>
+              </content>
+              <subparagraph eId="59_2_1018__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>whether the property is residential or commercial;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1018__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the original assessed value of the property; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1018__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the value given to the property by the county board of equalization.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1018__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall report the appeals information provided by county boards of equalization under Subsection to the Revenue and Taxation Interim Committee on or before July 31 of each year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

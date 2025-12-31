@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-331"/>
+          <FRBRuri value="/us-ut/act/code/59-2-331"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-331/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-331/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-331/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-331/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_331">
+          <num>59-2-331</num>
+          <heading>Corrective action by commission.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-2-331.
+Corrective action by commission.
+(1)
+As used in this section:
+(a)
+&quot;County officer&quot; means a county assessor, a member of a county board of equalization, or any other individual who holds a county office.
+(b)
+&quot;Multicounty assessing and collecting levy&quot; means the same as that term is defined in Section
+59-2-1601
+.
+(2)
+The commission shall take corrective action if the commission determines that a county officer has materially failed to perform a duty under this chapter relating to the assessment of property.
+(3)
+Corrective action under Subsection
+(2)
+may include one or more of the following actions:
+(a)
+notifying a county officer in writing of the performance issue;
+(b)
+ordering factoring pursuant to Section
+59-2-704
+;
+(c)
+subject to Subsection
+(4)
+:
+(i)
+recommending the removal of a county officer; or
+(ii)
+filing a petition for a court order requiring a county officer to take action;
+(d)
+reporting suspected misconduct or malfeasance of a county officer to law enforcement agencies, as appropriate; and
+(e)
+taking any other action the commission determines is appropriate to ensure that:
+(i)
+all assessments of property are uniform and equal, according to fair market value; and
+(ii)
+the tax burden is distributed without favor or discrimination.
+(4)
+(a)
+Before taking a corrective action described in Subsection
+(3)(c)
+against a county officer, the commission shall publish notice of the commission's intent to take the corrective action on:
+(i)
+the commission's public website; and
+(ii)
+the Utah Public Notice Website created in Section
+63A-16-601
+.
+(b)
+After taking a corrective action described in Subsection
+(3)(c)
+against a county officer, the commission shall provide written notice of the corrective action to:
+(i)
+the county officer subject to the corrective action;
+(ii)
+the county legislative body of the county for which the county officer described in Subsection
+(4)(b)(i)
+holds office;
+(iii)
+the state auditor;
+(iv)
+the president of the Senate; and
+(v)
+the speaker of the House of Representatives.
+(5)
+If the commission determines that a county officer has materially failed to perform a duty under this chapter relating to the assessment of property for a period of one year or longer, the commission shall:
+(a)
+assist the county officer in performing the duty required by this chapter; and
+(b)
+charge the county the full amount of the commission's costs in providing assistance under this Subsection
+(5)
+.
+Enacted by Chapter
+337
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_331__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_2_331__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;County officer&quot; means a county assessor, a member of a county board of equalization, or any other individual who holds a county office.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Multicounty assessing and collecting levy&quot; means the same as that term is defined in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_331__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall take corrective action if the commission determines that a county officer has materially failed to perform a duty under this chapter relating to the assessment of property.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_331__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Corrective action under Subsection may include one or more of the following actions:</p>
+            </content>
+            <paragraph eId="59_2_331__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>notifying a county officer in writing of the performance issue;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>ordering factoring pursuant to Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>subject to Subsection :</p>
+              </content>
+              <subparagraph eId="59_2_331__subsec_3__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>recommending the removal of a county officer; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_3__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>filing a petition for a court order requiring a county officer to take action;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>reporting suspected misconduct or malfeasance of a county officer to law enforcement agencies, as appropriate; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>taking any other action the commission determines is appropriate to ensure that:</p>
+              </content>
+              <subparagraph eId="59_2_331__subsec_3__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>all assessments of property are uniform and equal, according to fair market value; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_3__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the tax burden is distributed without favor or discrimination.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_331__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_331__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Before taking a corrective action described in Subsection against a county officer, the commission shall publish notice of the commission's intent to take the corrective action on:</p>
+              </content>
+              <subparagraph eId="59_2_331__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the commission's public website; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the Utah Public Notice Website created in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>After taking a corrective action described in Subsection against a county officer, the commission shall provide written notice of the corrective action to:</p>
+              </content>
+              <subparagraph eId="59_2_331__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the county officer subject to the corrective action;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the county legislative body of the county for which the county officer described in Subsection holds office;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_4__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the state auditor;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_4__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>the president of the Senate; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_331__subsec_4__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>the speaker of the House of Representatives.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_331__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the commission determines that a county officer has materially failed to perform a duty under this chapter relating to the assessment of property for a period of one year or longer, the commission shall:</p>
+            </content>
+            <paragraph eId="59_2_331__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>assist the county officer in performing the duty required by this chapter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_331__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>charge the county the full amount of the commission's costs in providing assistance under this Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

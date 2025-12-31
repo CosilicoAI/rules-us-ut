@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-205"/>
+          <FRBRuri value="/us-ut/act/code/59-10-205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-205/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-205/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_205">
+          <num>59-10-205</num>
+          <heading>Tax on nonresident estate or trust.</heading>
+          <content>
+            <p>59-10-205.
+Tax on nonresident estate or trust.
+(1)
+Except as provided in Subsection
+(2)
+, a tax is imposed on a nonresident estate or trust in an amount equal to the product of:
+(a)
+the nonresident estate's or trust's state taxable income as determined under Section
+59-10-204
+; and
+(b)
+the percentage listed in Subsection
+59-10-104(2)
+.
+(2)
+The following are not subject to a tax imposed by this part:
+(a)
+a nonresident estate or trust that is not required to file a federal income tax return for estates and trusts for the taxable year; or
+(b)
+a nonresident trust taxed as a corporation.
+Amended by Chapter
+389
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_10_205__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Subsection , a tax is imposed on a nonresident estate or trust in an amount equal to the product of:</p>
+            </content>
+            <paragraph eId="59_10_205__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the nonresident estate's or trust's state taxable income as determined under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_205__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the percentage listed in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_205__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The following are not subject to a tax imposed by this part:</p>
+            </content>
+            <paragraph eId="59_10_205__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a nonresident estate or trust that is not required to file a federal income tax return for estates and trusts for the taxable year; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_205__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a nonresident trust taxed as a corporation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

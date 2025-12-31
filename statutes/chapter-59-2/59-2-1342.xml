@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1342"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1342"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1342/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1342/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1342/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1342/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1342">
+          <num>59-2-1342</num>
+          <heading>Assessment and sale of property after attachment of county tax lien and tax notice charges.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1342.
+Assessment and sale of property after attachment of county tax lien and tax notice charges.
+(1)
+Property against which a property tax delinquency exists shall be assessed in subsequent years for taxes in the same manner as if no delinquency existed.
+(2)
+Property against which a delinquency exists for tax notice charges may still accrue tax notice charges as if no delinquency existed.
+(3)
+The rights of any person purchasing the property from the county at tax sale provided under Section
+59-2-1351.1
+are subject to the right of the county under any subsequent assessment and of any tax notice charge entity.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1342__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Property against which a property tax delinquency exists shall be assessed in subsequent years for taxes in the same manner as if no delinquency existed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1342__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Property against which a delinquency exists for tax notice charges may still accrue tax notice charges as if no delinquency existed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1342__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The rights of any person purchasing the property from the county at tax sale provided under Section are subject to the right of the county under any subsequent assessment and of any tax notice charge entity.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

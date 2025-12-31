@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-111"/>
+          <FRBRuri value="/us-ut/act/code/59-12-111"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-111/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-111/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-111/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-111/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_111">
+          <num>59-12-111</num>
+          <heading>Penalty for certain purchasers that fail to file a return or pay a tax due -- Commission rulemaking authority.</heading>
+          <content>
+            <p>59-12-111.
+Penalty for certain purchasers that fail to file a return or pay a tax due -- Commission rulemaking authority.
+A person shall pay a penalty as provided in Section
+59-1-401
+, plus interest at the rate and in the manner prescribed in Section
+59-1-402
+, and all other penalties and interest as provided by this title if the person:
+(1)
+does not hold:
+(a)
+a license under Section
+59-12-106
+; or
+(b)
+a valid use tax registration certificate;
+(2)
+purchases tangible personal property subject to taxation under Subsection
+59-12-103(1)
+for storage, use, or other consumption in this state; and
+(3)
+fails to file a return or pay the tax due as prescribed by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+Amended by Chapter
+212
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_12_111__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>does not hold:</p>
+            </content>
+            <paragraph eId="59_12_111__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a license under Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_111__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a valid use tax registration certificate;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_111__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>purchases tangible personal property subject to taxation under Subsection for storage, use, or other consumption in this state; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_111__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>fails to file a return or pay the tax due as prescribed by the commission by rule made in accordance with .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

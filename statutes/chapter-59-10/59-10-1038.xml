@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1038"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1038"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1038/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1038/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1038/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1038/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1038">
+          <num>59-10-1038</num>
+          <heading>Nonrefundable rural job creation tax credit.</heading>
+          <content>
+            <p>Effective 5/4/2022
+59-10-1038.
+Nonrefundable rural job creation tax credit.
+(1)
+As used in this section, &quot;office&quot; means the Governor's Office of Economic Opportunity created in Section
+63N-1a-301
+.
+(2)
+Subject to the other provisions of this section, a taxpayer may claim a nonrefundable tax credit for rural job creation as provided in this section.
+(3)
+The tax credit under this section is the amount listed as the tax credit amount on a tax credit certificate that the office issues under
+Title 63N, Chapter 4, Part 3, Utah Rural Jobs Act
+, to the taxpayer for the taxable year.
+(4)
+If the amount of a tax credit under this section exceeds the taxpayer's tax liability under this chapter for the taxable year in which the taxpayer claims the tax credit, the taxpayer may carry forward the tax credit for:
+(a)
+the next seven taxable years, if the credit-eligible contribution as defined in Section
+63N-4-302
+is made before November 1, 2022; or
+(b)
+the next four taxable years, if the credit-eligible contribution as defined in Section
+63N-4-302
+is made on or after November 1, 2022.
+Amended by Chapter
+195
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1038__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;office&quot; means the Governor's Office of Economic Opportunity created in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1038__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the other provisions of this section, a taxpayer may claim a nonrefundable tax credit for rural job creation as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1038__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax credit under this section is the amount listed as the tax credit amount on a tax credit certificate that the office issues under , to the taxpayer for the taxable year.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1038__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the amount of a tax credit under this section exceeds the taxpayer's tax liability under this chapter for the taxable year in which the taxpayer claims the tax credit, the taxpayer may carry forward the tax credit for:</p>
+            </content>
+            <paragraph eId="59_10_1038__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the next seven taxable years, if the credit-eligible contribution as defined in Section is made before November 1, 2022; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1038__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the next four taxable years, if the credit-eligible contribution as defined in Section is made on or after November 1, 2022.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

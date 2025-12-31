@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-118"/>
+          <FRBRuri value="/us-ut/act/code/59-12-118"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-118/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-118/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-118/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-118/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_118">
+          <num>59-12-118</num>
+          <heading>Commission's authority to administer sales and use tax.</heading>
+          <content>
+            <p>Effective 3/22/2021
+59-12-118.
+Commission's authority to administer sales and use tax.
+Except as provided in Sections
+59-12-209
+and
+59-12-302
+, the commission shall have exclusive authority to administer, operate, and enforce the provisions of this chapter including:
+(1)
+determining, assessing, and collecting any sales and use tax imposed pursuant to this chapter;
+(2)
+representing each designated political subdivision's interest in any administrative proceeding involving the state or local option sales and use tax;
+(3)
+adjudicating any administrative proceedings involving the state or local option sales and use tax;
+(4)
+waiving, reducing, or compromising any penalty and interest imposed in connection with any determination of state or local option sales or use tax; and
+(5)
+prescribing forms and rules to conform with this chapter for the making of returns and for the ascertainment, assessment, and collection of the taxes imposed under this chapter.
+Amended by Chapter
+414
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_12_118__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>determining, assessing, and collecting any sales and use tax imposed pursuant to this chapter;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_118__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>representing each designated political subdivision's interest in any administrative proceeding involving the state or local option sales and use tax;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_118__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>adjudicating any administrative proceedings involving the state or local option sales and use tax;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_118__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>waiving, reducing, or compromising any penalty and interest imposed in connection with any determination of state or local option sales or use tax; and</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_118__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>prescribing forms and rules to conform with this chapter for the making of returns and for the ascertainment, assessment, and collection of the taxes imposed under this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

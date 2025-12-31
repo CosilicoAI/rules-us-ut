@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-202"/>
+          <FRBRuri value="/us-ut/act/code/59-1-202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-202/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-202/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-202/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-202/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_202">
+          <num>59-1-202</num>
+          <heading>Qualifications of members of commission.</heading>
+          <content>
+            <p>Effective 5/13/2014
+59-1-202.
+Qualifications of members of commission.
+(1)
+Each member of the commission:
+(a)
+shall have significant tax experience that is relevant to holding office as a commissioner;
+(b)
+shall have knowledge of tax administration or tax compliance;
+(c)
+shall have executive and administrative experience; and
+(d)
+except for one member who has substantial knowledge and expertise in the theory and practice of ad valorem taxation as described in Subsection
+(2)(a)
+, shall have substantial knowledge and experience in one or more of the following:
+(i)
+the theory and practice of excise taxation;
+(ii)
+the theory and practice of income taxation;
+(iii)
+the theory and practice of sales and use taxation; and
+(iv)
+the theory and practice of corporate taxation.
+(2)
+(a)
+At least one member of the commission shall have substantial knowledge and experience in the theory and practice of ad valorem taxation.
+(b)
+At least one member of the commission shall have substantial knowledge and experience in the theory and practice of accounting.
+(3)
+The membership of the commission shall represent composite skills in accounting, auditing, property assessment, management, law, and finance.
+Amended by Chapter
+370
+, 2014 General Session</p>
+          </content>
+          <subsection eId="59_1_202__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each member of the commission:</p>
+            </content>
+            <paragraph eId="59_1_202__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>shall have significant tax experience that is relevant to holding office as a commissioner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_202__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>shall have knowledge of tax administration or tax compliance;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_202__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>shall have executive and administrative experience; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_202__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>except for one member who has substantial knowledge and expertise in the theory and practice of ad valorem taxation as described in Subsection , shall have substantial knowledge and experience in one or more of the following:</p>
+              </content>
+              <subparagraph eId="59_1_202__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the theory and practice of excise taxation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_202__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the theory and practice of income taxation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_202__subsec_1__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the theory and practice of sales and use taxation; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_202__subsec_1__para_d__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>the theory and practice of corporate taxation.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_202__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_1_202__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>At least one member of the commission shall have substantial knowledge and experience in the theory and practice of ad valorem taxation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_202__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At least one member of the commission shall have substantial knowledge and experience in the theory and practice of accounting.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_202__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The membership of the commission shall represent composite skills in accounting, auditing, property assessment, management, law, and finance.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-303"/>
+          <FRBRuri value="/us-ut/act/code/59-2-303"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-303/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-303/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-303/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-303/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_303">
+          <num>59-2-303</num>
+          <heading>General duties of county assessor.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-2-303.
+General duties of county assessor.
+(1)
+(a)
+Before May 22 each year, the county assessor shall:
+(i)
+ascertain the names of the owners of all property that is subject to taxation by the county;
+(ii)
+except as provided in Subsection (2), assess the property to the owner, claimant of record, or occupant in possession or control at midnight on January 1 of the taxable year; and
+(iii)
+conduct the review process described in Section
+59-2-303.2
+.
+(b)
+No mistake in the name or address of the owner or supposed owner of property renders the assessment invalid.
+(2)
+If a conveyance of ownership of the real property was recorded in the office of a county recorder after January 1 but more than 14 calendar days before the day on which the county treasurer mails the tax notice, the county assessor shall assess the property to the new owner.
+(3)
+A county assessor shall become fully acquainted with all property in the county assessor's county, as provided in Section
+59-2-301
+.
+(4)
+A county assessor in a county of the third, fourth, fifth, or sixth class shall seek assistance from other county assessors or an appraiser contracted in accordance with Section
+59-2-703
+for the county assessor to meet the requirements of Section
+59-2-303.1
+.
+Amended by Chapter
+263
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_303__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_303__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Before May 22 each year, the county assessor shall:</p>
+              </content>
+              <subparagraph eId="59_2_303__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>ascertain the names of the owners of all property that is subject to taxation by the county;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_303__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>except as provided in Subsection (2), assess the property to the owner, claimant of record, or occupant in possession or control at midnight on January 1 of the taxable year; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_303__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>conduct the review process described in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_303__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>No mistake in the name or address of the owner or supposed owner of property renders the assessment invalid.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_303__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a conveyance of ownership of the real property was recorded in the office of a county recorder after January 1 but more than 14 calendar days before the day on which the county treasurer mails the tax notice, the county assessor shall assess the property to the new owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_303__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A county assessor shall become fully acquainted with all property in the county assessor's county, as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_303__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A county assessor in a county of the third, fourth, fifth, or sixth class shall seek assistance from other county assessors or an appraiser contracted in accordance with Section for the county assessor to meet the requirements of Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

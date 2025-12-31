@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-904"/>
+          <FRBRuri value="/us-ut/act/code/59-2-904"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-904/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-904/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-904/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-904/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_904">
+          <num>59-2-904</num>
+          <heading>Participation by district in state's contributions to state-supported levy program.</heading>
+          <content>
+            <p>59-2-904.
+Participation by district in state's contributions to state-supported levy program.
+(1)
+In addition to the basic state contribution provided in Section
+59-2-902
+, a school district may participate in the state's contributions to the state-supported levy program by conforming to the requirements of the Minimum School Program Act and by making the required additional levy.
+(2)
+A school district that participates in the state-supported levy program shall certify to the State Board of Education the results of its determination and the amount of the board or voted local levy that the district will impose.
+Amended by Chapter
+371
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_2_904__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In addition to the basic state contribution provided in Section , a school district may participate in the state's contributions to the state-supported levy program by conforming to the requirements of the Minimum School Program Act and by making the required additional levy.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_904__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A school district that participates in the state-supported levy program shall certify to the State Board of Education the results of its determination and the amount of the board or voted local levy that the district will impose.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

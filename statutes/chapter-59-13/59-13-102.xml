@@ -1,0 +1,646 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-102"/>
+          <FRBRuri value="/us-ut/act/code/59-13-102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-102/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-102/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_102">
+          <num>59-13-102</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>Effective 7/1/2015
+59-13-102.
+Definitions.
+As used in this chapter:
+(1)
+&quot;Aviation fuel&quot; means fuel that is sold at airports and used exclusively for the operation of aircraft.
+(2)
+&quot;Clean fuel&quot; means:
+(a)
+the following special fuels:
+(i)
+propane;
+(ii)
+compressed natural gas;
+(iii)
+liquified natural gas;
+(iv)
+electricity; or
+(v)
+hydrogen; or
+(b)
+any motor or special fuel that meets the clean fuel vehicle standards in the federal Clean Air Act Amendments of 1990, Title II.
+(3)
+&quot;Commission&quot; means the State Tax Commission.
+(4)
+&quot;Consumer Price Index&quot; means the Consumer Price Index for All Urban Consumers as published by the Bureau of Labor Statistics of the United States Department of Labor.
+(5)
+(a)
+&quot;Diesel fuel&quot; means any liquid that is commonly or commercially known, offered for sale, or used as a fuel in diesel engines.
+(b)
+&quot;Diesel fuel&quot; includes any combustible liquid, by whatever name the liquid may be known or sold, when the liquid is used in an internal combustion engine for the generation of power to operate a motor vehicle licensed to operate on the highway, except fuel that is subject to the tax imposed in
+Part 2, Motor Fuel
+, and
+Part 4, Aviation Fuel
+, of this chapter.
+(6)
+&quot;Diesel gallon equivalent&quot; means 6.06 pounds of liquified natural gas.
+(7)
+&quot;Distributor&quot; means any person in this state who:
+(a)
+imports or causes to be imported motor fuel for use, distribution, or sale, whether at retail or wholesale;
+(b)
+produces, refines, manufactures, or compounds motor fuel in this state for use, distribution, or sale in this state;
+(c)
+is engaged in the business of purchasing motor fuel for resale in wholesale quantities to retail dealers of motor fuel and who accounts for his own motor fuel tax liability; or
+(d)
+for purposes of
+Part 4, Aviation Fuel
+, only, makes retail sales of aviation fuel to:
+(i)
+federally certificated air carriers; and
+(ii)
+other persons.
+(8)
+&quot;Dyed diesel fuel&quot; means diesel fuel that is dyed in accordance with 26 U.S.C. Sec. 4082 or United States Environmental Protection Agency or Internal Revenue Service regulations and that is considered destined for nontaxable off-highway use.
+(9)
+&quot;Exchange agreement&quot; means an agreement between licensed suppliers where one is a position holder in a terminal who agrees to deliver taxable special fuel to the other supplier or the other supplier's customer at the loading rack of the terminal where the delivering supplier holds an inventory position.
+(10)
+&quot;Federally certificated air carrier&quot; means a person who holds a certificate issued by the Federal Aviation Administration authorizing the person to conduct an all-cargo operation or scheduled operation, as defined in 14 C.F.R. Sec. 110.2.
+(11)
+&quot;Fuels&quot; means any gas, liquid, solid, mixture, or other energy source which is generally used in an engine or motor for the generation of power, including aviation fuel, clean fuel, diesel fuel, motor fuel, and special fuel.
+(12)
+&quot;Gasoline gallon equivalent&quot; means:
+(a)
+5.660 pounds of compressed natural gas; or
+(b)
+2.198 pounds of hydrogen.
+(13)
+&quot;Highway&quot; means every way or place, of whatever nature, generally open to the use of the public for the purpose of vehicular travel notwithstanding that the way or place may be temporarily closed for the purpose of construction, maintenance, or repair.
+(14)
+&quot;Motor fuel&quot; means fuel that is commonly or commercially known or sold as gasoline or gasohol and is used for any purpose, but does not include aviation fuel.
+(15)
+&quot;Motor fuels received&quot; means:
+(a)
+motor fuels that have been loaded at the refinery or other place into tank cars, placed in any tank at the refinery from which any withdrawals are made directly into tank trucks, tank wagons, or other types of transportation equipment, containers, or facilities other than tank cars, or placed in any tank at the refinery from which any sales, uses, or deliveries not involving transportation are made directly; or
+(b)
+motor fuels that have been imported by any person into the state from any other state or territory by tank car, tank truck, pipeline, or any other conveyance at the time when, and the place where, the interstate transportation of the motor fuel is completed within the state by the person who at the time of the delivery is the owner of the motor fuel.
+(16)
+&quot;Oil pricing service&quot; means an organization that:
+(a)
+publishes wholesale petroleum prices within the United States;
+(b)
+publishes at least 25,000 rack prices on a daily basis; and
+(c)
+receives daily gasoline and diesel prices from at least 100,000 retail outlets in the United States and Canada.
+(17)
+(a)
+&quot;Qualified motor vehicle&quot; means a special fuel-powered motor vehicle used, designed, or maintained for transportation of persons or property which:
+(i)
+has a gross vehicle weight or registered gross vehicle weight exceeding 26,000 pounds;
+(ii)
+has three or more axles regardless of weight; or
+(iii)
+is used in a combination of vehicles when the weight of the combination of vehicles exceeds 26,000 pounds gross vehicle weight.
+(b)
+&quot;Qualified motor vehicle&quot; does not include a recreational vehicle not used in connection with any business activity.
+(18)
+&quot;Rack,&quot; as used in
+Part 3, Special Fuel
+, means a deck, platform, or open bay which consists of a series of metered pipes and hoses for the delivery or removal of diesel fuel from a refinery or terminal into a motor vehicle, rail car, or vessel.
+(19)
+&quot;Removal,&quot; as used in
+Part 3, Special Fuel
+, means the physical transfer of diesel fuel from a production, manufacturing, terminal, or refinery facility and includes use of diesel fuel.  Removal does not include:
+(a)
+loss by evaporation or destruction; or
+(b)
+transfers between refineries, racks, or terminals.
+(20)
+(a)
+&quot;Special fuel&quot; means any fuel regardless of name or character that:
+(i)
+is usable as fuel to operate or propel a motor vehicle upon the public highways of the state; and
+(ii)
+is not taxed under the category of aviation or motor fuel.
+(b)
+Special fuel includes:
+(i)
+fuels that are not conveniently measurable on a gallonage basis; and
+(ii)
+diesel fuel.
+(21)
+&quot;Supplier,&quot; as used in
+Part 3, Special Fuel
+, means a person who:
+(a)
+imports or acquires immediately upon importation into this state diesel fuel from within or without a state, territory, or possession of the United States or the District of Columbia;
+(b)
+produces, manufactures, refines, or blends diesel fuel in this state;
+(c)
+otherwise acquires for distribution or sale in this state, diesel fuel with respect to which there has been no previous taxable sale or use; or
+(d)
+is in a two party exchange where the receiving party is deemed to be the supplier.
+(22)
+&quot;Terminal,&quot; as used in
+Part 3, Special Fuel
+, means a facility for the storage of diesel fuel which is supplied by a motor vehicle, pipeline, or vessel and from which diesel fuel is removed for distribution at a rack.
+(23)
+&quot;Two party exchange&quot; means a transaction in which special fuel is transferred between licensed suppliers pursuant to an exchange agreement.
+(24)
+&quot;Undyed diesel fuel&quot; means diesel fuel that is not subject to the dyeing requirements in accordance with 26 U.S.C. Sec. 4082 or United States Environmental Protection Agency or Internal Revenue Service regulations.
+(25)
+&quot;Use,&quot; as used in
+Part 3, Special Fuel
+, means the consumption of special fuel for the operation or propulsion of a motor vehicle upon the public highways of the state and includes the reception of special fuel into the fuel supply tank of a motor vehicle.
+(26)
+&quot;User,&quot; as used in
+Part 3, Special Fuel
+, means any person who uses special fuel within this state in an engine or motor for the generation of power to operate or propel a motor vehicle upon the public highways of the state.
+(27)
+&quot;Ute tribal member&quot; means an enrolled member of the Ute tribe.
+(28)
+&quot;Ute tribe&quot; means the Ute Indian Tribe of the Uintah and Ouray Reservation.
+(29)
+&quot;Ute trust land&quot; means the lands:
+(a)
+of the Uintah and Ouray Reservation that are held in trust by the United States for the benefit of:
+(i)
+the Ute tribe;
+(ii)
+an individual; or
+(iii)
+a group of individuals; or
+(b)
+specified as trust land by agreement between the governor and the Ute tribe meeting the requirements of Subsections
+59-13-201.5(3)
+and
+59-13-301.5(3)
+.
+Amended by Chapter
+275
+, 2015 General Session</p>
+          </content>
+          <subsection eId="59_13_102__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>&quot;Aviation fuel&quot; means fuel that is sold at airports and used exclusively for the operation of aircraft.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Clean fuel&quot; means:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the following special fuels:</p>
+              </content>
+              <subparagraph eId="59_13_102__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>propane;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>compressed natural gas;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>liquified natural gas;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_2__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>electricity; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_2__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>hydrogen; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>any motor or special fuel that meets the clean fuel vehicle standards in the federal Clean Air Act Amendments of 1990, Title II.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>&quot;Commission&quot; means the State Tax Commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>&quot;Consumer Price Index&quot; means the Consumer Price Index for All Urban Consumers as published by the Bureau of Labor Statistics of the United States Department of Labor.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_13_102__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Diesel fuel&quot; means any liquid that is commonly or commercially known, offered for sale, or used as a fuel in diesel engines.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Diesel fuel&quot; includes any combustible liquid, by whatever name the liquid may be known or sold, when the liquid is used in an internal combustion engine for the generation of power to operate a motor vehicle licensed to operate on the highway, except fuel that is subject to the tax imposed in , and , of this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Diesel gallon equivalent&quot; means 6.06 pounds of liquified natural gas.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>&quot;Distributor&quot; means any person in this state who:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>imports or causes to be imported motor fuel for use, distribution, or sale, whether at retail or wholesale;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>produces, refines, manufactures, or compounds motor fuel in this state for use, distribution, or sale in this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is engaged in the business of purchasing motor fuel for resale in wholesale quantities to retail dealers of motor fuel and who accounts for his own motor fuel tax liability; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>for purposes of , only, makes retail sales of aviation fuel to:</p>
+              </content>
+              <subparagraph eId="59_13_102__subsec_7__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>federally certificated air carriers; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_7__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>other persons.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Dyed diesel fuel&quot; means diesel fuel that is dyed in accordance with 26 U.S.C. Sec. 4082 or United States Environmental Protection Agency or Internal Revenue Service regulations and that is considered destined for nontaxable off-highway use.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>&quot;Exchange agreement&quot; means an agreement between licensed suppliers where one is a position holder in a terminal who agrees to deliver taxable special fuel to the other supplier or the other supplier's customer at the loading rack of the terminal where the delivering supplier holds an inventory position.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>&quot;Federally certificated air carrier&quot; means a person who holds a certificate issued by the Federal Aviation Administration authorizing the person to conduct an all-cargo operation or scheduled operation, as defined in 14 C.F.R. Sec. 110.2.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Fuels&quot; means any gas, liquid, solid, mixture, or other energy source which is generally used in an engine or motor for the generation of power, including aviation fuel, clean fuel, diesel fuel, motor fuel, and special fuel.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>&quot;Gasoline gallon equivalent&quot; means:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>5.660 pounds of compressed natural gas; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>2.198 pounds of hydrogen.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>&quot;Highway&quot; means every way or place, of whatever nature, generally open to the use of the public for the purpose of vehicular travel notwithstanding that the way or place may be temporarily closed for the purpose of construction, maintenance, or repair.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>&quot;Motor fuel&quot; means fuel that is commonly or commercially known or sold as gasoline or gasohol and is used for any purpose, but does not include aviation fuel.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>&quot;Motor fuels received&quot; means:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>motor fuels that have been loaded at the refinery or other place into tank cars, placed in any tank at the refinery from which any withdrawals are made directly into tank trucks, tank wagons, or other types of transportation equipment, containers, or facilities other than tank cars, or placed in any tank at the refinery from which any sales, uses, or deliveries not involving transportation are made directly; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>motor fuels that have been imported by any person into the state from any other state or territory by tank car, tank truck, pipeline, or any other conveyance at the time when, and the place where, the interstate transportation of the motor fuel is completed within the state by the person who at the time of the delivery is the owner of the motor fuel.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>&quot;Oil pricing service&quot; means an organization that:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_16__para_a">
+              <num>(a)</num>
+              <content>
+                <p>publishes wholesale petroleum prices within the United States;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_16__para_b">
+              <num>(b)</num>
+              <content>
+                <p>publishes at least 25,000 rack prices on a daily basis; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_16__para_c">
+              <num>(c)</num>
+              <content>
+                <p>receives daily gasoline and diesel prices from at least 100,000 retail outlets in the United States and Canada.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_17">
+            <num>(17)</num>
+            <paragraph eId="59_13_102__subsec_17__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Qualified motor vehicle&quot; means a special fuel-powered motor vehicle used, designed, or maintained for transportation of persons or property which:</p>
+              </content>
+              <subparagraph eId="59_13_102__subsec_17__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>has a gross vehicle weight or registered gross vehicle weight exceeding 26,000 pounds;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_17__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>has three or more axles regardless of weight; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_17__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>is used in a combination of vehicles when the weight of the combination of vehicles exceeds 26,000 pounds gross vehicle weight.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_17__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Qualified motor vehicle&quot; does not include a recreational vehicle not used in connection with any business activity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>&quot;Rack,&quot; as used in , means a deck, platform, or open bay which consists of a series of metered pipes and hoses for the delivery or removal of diesel fuel from a refinery or terminal into a motor vehicle, rail car, or vessel.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>&quot;Removal,&quot; as used in , means the physical transfer of diesel fuel from a production, manufacturing, terminal, or refinery facility and includes use of diesel fuel.  Removal does not include:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_19__para_a">
+              <num>(a)</num>
+              <content>
+                <p>loss by evaporation or destruction; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_19__para_b">
+              <num>(b)</num>
+              <content>
+                <p>transfers between refineries, racks, or terminals.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_20">
+            <num>(20)</num>
+            <paragraph eId="59_13_102__subsec_20__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Special fuel&quot; means any fuel regardless of name or character that:</p>
+              </content>
+              <subparagraph eId="59_13_102__subsec_20__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is usable as fuel to operate or propel a motor vehicle upon the public highways of the state; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_20__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is not taxed under the category of aviation or motor fuel.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_20__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Special fuel includes:</p>
+              </content>
+              <subparagraph eId="59_13_102__subsec_20__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>fuels that are not conveniently measurable on a gallonage basis; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_20__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>diesel fuel.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>&quot;Supplier,&quot; as used in , means a person who:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_21__para_a">
+              <num>(a)</num>
+              <content>
+                <p>imports or acquires immediately upon importation into this state diesel fuel from within or without a state, territory, or possession of the United States or the District of Columbia;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_21__para_b">
+              <num>(b)</num>
+              <content>
+                <p>produces, manufactures, refines, or blends diesel fuel in this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_21__para_c">
+              <num>(c)</num>
+              <content>
+                <p>otherwise acquires for distribution or sale in this state, diesel fuel with respect to which there has been no previous taxable sale or use; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_21__para_d">
+              <num>(d)</num>
+              <content>
+                <p>is in a two party exchange where the receiving party is deemed to be the supplier.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_102__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>&quot;Terminal,&quot; as used in , means a facility for the storage of diesel fuel which is supplied by a motor vehicle, pipeline, or vessel and from which diesel fuel is removed for distribution at a rack.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>&quot;Two party exchange&quot; means a transaction in which special fuel is transferred between licensed suppliers pursuant to an exchange agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>&quot;Undyed diesel fuel&quot; means diesel fuel that is not subject to the dyeing requirements in accordance with 26 U.S.C. Sec. 4082 or United States Environmental Protection Agency or Internal Revenue Service regulations.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>&quot;Use,&quot; as used in , means the consumption of special fuel for the operation or propulsion of a motor vehicle upon the public highways of the state and includes the reception of special fuel into the fuel supply tank of a motor vehicle.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_26">
+            <num>(26)</num>
+            <content>
+              <p>&quot;User,&quot; as used in , means any person who uses special fuel within this state in an engine or motor for the generation of power to operate or propel a motor vehicle upon the public highways of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_27">
+            <num>(27)</num>
+            <content>
+              <p>&quot;Ute tribal member&quot; means an enrolled member of the Ute tribe.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_28">
+            <num>(28)</num>
+            <content>
+              <p>&quot;Ute tribe&quot; means the Ute Indian Tribe of the Uintah and Ouray Reservation.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_102__subsec_29">
+            <num>(29)</num>
+            <content>
+              <p>&quot;Ute trust land&quot; means the lands:</p>
+            </content>
+            <paragraph eId="59_13_102__subsec_29__para_a">
+              <num>(a)</num>
+              <content>
+                <p>of the Uintah and Ouray Reservation that are held in trust by the United States for the benefit of:</p>
+              </content>
+              <subparagraph eId="59_13_102__subsec_29__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the Ute tribe;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_29__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an individual; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_102__subsec_29__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a group of individuals; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_102__subsec_29__para_b">
+              <num>(b)</num>
+              <content>
+                <p>specified as trust land by agreement between the governor and the Ute tribe meeting the requirements of Subsections and .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

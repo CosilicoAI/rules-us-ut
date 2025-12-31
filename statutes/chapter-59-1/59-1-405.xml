@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-405"/>
+          <FRBRuri value="/us-ut/act/code/59-1-405"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-405/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-405/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-405/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-405/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_405">
+          <num>59-1-405</num>
+          <heading>Commission consideration of confidential tax matters.</heading>
+          <content>
+            <p>Effective 5/9/2017
+59-1-405.
+Commission consideration of confidential tax matters.
+(1)
+As used in this section, &quot;confidential tax matter&quot; means:
+(a)
+an offer in compromise;
+(b)
+a private letter ruling;
+(c)
+an appeal before the members of the commission;
+(d)
+a tax matter if the disclosure of the tax matter is prohibited under:
+(i)
+federal law;
+(ii)
+Section
+59-1-403
+; or
+(iii)
+Section
+59-1-404
+;
+(e)
+a voluntary disclosure agreement;
+(f)
+a waiver request; or
+(g)
+provision of guidance by the commission to an employee of the commission on the interpretation and application of a law administered by the commission.
+(2)
+(a)
+Notwithstanding
+Title 52, Chapter 4, Open and Public Meetings Act
+, the commission may hold a meeting that is not open to the public to conduct a hearing on, discuss, or take action on a confidential tax matter in accordance with the rules established as provided under this section.
+(b)
+When the commission holds a meeting described in Subsection
+(2)(a)
+on a confidential tax matter described in Subsection
+(1)(g)
+, the meeting:
+(i)
+shall include:
+(A)
+the commission's executive director; or
+(B)
+the executive director's designee;
+(ii)
+may include any other commission employee as determined by the commission; and
+(iii)
+may not include guidance that constitutes an ex parte communication on a taxpayer specific matter.
+(3)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission shall make rules:
+(a)
+to establish procedures for holding a meeting that is not open to the public to conduct a hearing on, discuss, or take action on a confidential tax matter; and
+(b)
+except as provided in Subsection
+(4)
+, to establish procedures and requirements for keeping confidential minutes and a confidential recording of a meeting that is not open to the public.
+(4)
+For purposes of Subsection
+(3)(b)
+, the commission is not required to make rules to establish procedures and requirements for keeping confidential minutes and a confidential recording of:
+(a)
+an initial hearing to the extent provided in Section
+59-1-502.5
+; or
+(b)
+private analysis, contemplation, and discussion by members of the commission:
+(i)
+in performing the judicial aspects of their duties; and
+(ii)
+consistent with state case law.
+Amended by Chapter
+201
+, 2017 General Session</p>
+          </content>
+          <subsection eId="59_1_405__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;confidential tax matter&quot; means:</p>
+            </content>
+            <paragraph eId="59_1_405__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an offer in compromise;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a private letter ruling;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>an appeal before the members of the commission;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>a tax matter if the disclosure of the tax matter is prohibited under:</p>
+              </content>
+              <subparagraph eId="59_1_405__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>federal law;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_405__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_405__subsec_1__para_d__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>Section ;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>a voluntary disclosure agreement;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>a waiver request; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>provision of guidance by the commission to an employee of the commission on the interpretation and application of a law administered by the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_405__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_1_405__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding , the commission may hold a meeting that is not open to the public to conduct a hearing on, discuss, or take action on a confidential tax matter in accordance with the rules established as provided under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>When the commission holds a meeting described in Subsection on a confidential tax matter described in Subsection , the meeting:</p>
+              </content>
+              <subparagraph eId="59_1_405__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>shall include:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_405__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>may include any other commission employee as determined by the commission; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_405__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>may not include guidance that constitutes an ex parte communication on a taxpayer specific matter.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_405__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In accordance with , the commission shall make rules:</p>
+            </content>
+            <paragraph eId="59_1_405__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to establish procedures for holding a meeting that is not open to the public to conduct a hearing on, discuss, or take action on a confidential tax matter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>except as provided in Subsection , to establish procedures and requirements for keeping confidential minutes and a confidential recording of a meeting that is not open to the public.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_405__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For purposes of Subsection , the commission is not required to make rules to establish procedures and requirements for keeping confidential minutes and a confidential recording of:</p>
+            </content>
+            <paragraph eId="59_1_405__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>an initial hearing to the extent provided in Section ; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_405__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>private analysis, contemplation, and discussion by members of the commission:</p>
+              </content>
+              <subparagraph eId="59_1_405__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>in performing the judicial aspects of their duties; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_405__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>consistent with state case law.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

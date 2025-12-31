@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1203"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1203"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1203/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1203/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1203/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1203/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1203">
+          <num>59-2-1203</num>
+          <heading>Renumbered 1/1/2026</heading>
+          <content>
+            <p>Effective 5/5/2021
+Renumbered 1/1/2026
+59-2-1203.
+Right to file claim -- Death of claimant.
+(1)
+(a)
+The right to file a claim under this part is personal to the claimant.
+(b)
+The right to file a claim does not survive the claimant's death.
+(c)
+The right to file a claim may be exercised on behalf of a claimant by:
+(i)
+a legal guardian of the claimant; or
+(ii)
+an attorney-in-fact of the claimant.
+(2)
+(a)
+If a claimant dies after having filed a timely claim, the amount of the claim shall be disbursed to another member of the household as determined by the commission by rule.
+(b)
+If the claimant described in Subsection
+(2)(a)
+was the only member of the household, the claim may be paid to the executor or administrator, except that if neither an executor or administrator is appointed and qualified within two years of the filing of the claim, the amount of the claim shall escheat to the state.
+(3)
+If the claimant is the grantor, trustor, or settlor of or holds another similar role in a qualifying trust and the claimant meets the requirements of this part, the claimant may claim the portion of the credit and be treated as the owner of that portion of the property held in trust.
+(4)
+The relief described in Subsection
+59-2-1202(10)(a)
+is in addition to any other exemption or reduction for which a homeowner may be eligible, including the homeowner's credit provided for in Section
+59-2-1206
+.
+Amended by Chapter
+391
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_2_1203__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1203__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The right to file a claim under this part is personal to the claimant.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1203__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The right to file a claim does not survive the claimant's death.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1203__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The right to file a claim may be exercised on behalf of a claimant by:</p>
+              </content>
+              <subparagraph eId="59_2_1203__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a legal guardian of the claimant; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1203__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an attorney-in-fact of the claimant.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1203__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1203__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a claimant dies after having filed a timely claim, the amount of the claim shall be disbursed to another member of the household as determined by the commission by rule.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1203__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the claimant described in Subsection was the only member of the household, the claim may be paid to the executor or administrator, except that if neither an executor or administrator is appointed and qualified within two years of the filing of the claim, the amount of the claim shall escheat to the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1203__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the claimant is the grantor, trustor, or settlor of or holds another similar role in a qualifying trust and the claimant meets the requirements of this part, the claimant may claim the portion of the credit and be treated as the owner of that portion of the property held in trust.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1203__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The relief described in Subsection is in addition to any other exemption or reduction for which a homeowner may be eligible, including the homeowner's credit provided for in Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

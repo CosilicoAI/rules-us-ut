@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-304"/>
+          <FRBRuri value="/us-ut/act/code/59-14-304"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-304/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-304/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-304/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-304/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_304">
+          <num>59-14-304</num>
+          <heading>Transitional inventory tax on tobacco products -- Penalties and interest for failure to comply.</heading>
+          <content>
+            <p>59-14-304.
+Transitional inventory tax on tobacco products -- Penalties and interest for failure to comply.
+(1)
+In addition to the tax described in Section
+59-14-302
+, there is imposed, beginning on July 1, 2010, an inventory tax on all tobacco products subject to the tax described in Section
+59-14-302
+, upon the sale, use, or storage of those tobacco products in the state, as follows:
+(a)
+the tax imposed in this section applies only to tobacco products sold, used, or stored in the state on or after July 1, 2010:
+(i)
+for which the tax was paid at the tax rate imposed under Section
+59-14-302
+that was applicable on June 30, 2010; and
+(ii)
+for which the tax imposed in this section has not been paid; and
+(b)
+the tax imposed in this section is equal to the difference between:
+(i)
+the tax imposed on those tobacco products under Section
+59-14-302
+, beginning on July 1, 2010; and
+(ii)
+the tax imposed on those tobacco products under Section
+59-14-302
+on or before June 30, 2010.
+(2)
+The tax imposed in this section shall be paid by the manufacturer, jobber, distributor, wholesaler, or retailer.
+(3)
+A person described in Subsection
+(2)
+shall remit the tax imposed in this section, in a return prescribed by the commission, on or before July 31, 2010.
+(4)
+Failure of a person to comply with the requirements of this section subjects the person to the penalties and interest described in Sections
+59-1-401
+and
+59-1-402
+.
+(5)
+The commission may not waive the interest or penalties imposed on a person for failure to comply with the requirements of this section.
+Amended by Chapter
+407
+, 2010 General Session, (Coordination Clause)
+Enacted by Chapter
+415
+, 2010 General Session</p>
+          </content>
+          <subsection eId="59_14_304__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In addition to the tax described in Section , there is imposed, beginning on July 1, 2010, an inventory tax on all tobacco products subject to the tax described in Section , upon the sale, use, or storage of those tobacco products in the state, as follows:</p>
+            </content>
+            <paragraph eId="59_14_304__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the tax imposed in this section applies only to tobacco products sold, used, or stored in the state on or after July 1, 2010:</p>
+              </content>
+              <subparagraph eId="59_14_304__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for which the tax was paid at the tax rate imposed under Section that was applicable on June 30, 2010; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_304__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for which the tax imposed in this section has not been paid; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_14_304__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the tax imposed in this section is equal to the difference between:</p>
+              </content>
+              <subparagraph eId="59_14_304__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the tax imposed on those tobacco products under Section , beginning on July 1, 2010; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_14_304__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the tax imposed on those tobacco products under Section on or before June 30, 2010.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_14_304__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax imposed in this section shall be paid by the manufacturer, jobber, distributor, wholesaler, or retailer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_304__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person described in Subsection shall remit the tax imposed in this section, in a return prescribed by the commission, on or before July 31, 2010.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_304__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Failure of a person to comply with the requirements of this section subjects the person to the penalties and interest described in Sections and .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_14_304__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission may not waive the interest or penalties imposed on a person for failure to comply with the requirements of this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

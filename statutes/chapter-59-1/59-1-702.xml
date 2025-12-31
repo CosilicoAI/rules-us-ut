@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-702"/>
+          <FRBRuri value="/us-ut/act/code/59-1-702"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-702/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-702/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-702/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-702/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_702">
+          <num>59-1-702</num>
+          <heading>Jeopardy assessment -- Notice -- Amount.</heading>
+          <content>
+            <p>59-1-702.
+Jeopardy assessment -- Notice -- Amount.
+(1)
+If the commission believes that the assessment or collection of any tax or penalty in lieu of tax will be jeopardized by delay, it shall, notwithstanding the assessment provisions of
+Title 59, Chapter 2, Property Tax Act
+,
+Chapter 7, Corporate Franchise and Income Taxes
+,
+Chapter 10, Individual Income Tax Act
+, or
+Chapter 12, Sales and Use Tax Act
+, immediately assess such tax or penalty in lieu of tax (together with all interest, penalties, and additions to tax provided for by law), and notice and demand shall be made by the commission for the payment thereof.
+(2)
+If the jeopardy assessment is made before any notice of the tax deficiency to which the jeopardy assessment relates has been mailed under
+Title 59, Chapter 2, Property Tax Act
+,
+Chapter 7, Corporate Franchise and Income Taxes
+,
+Chapter 10, Individual Income Tax Act
+, or
+Chapter 12, Sales and Use Tax Act
+, then the commission shall mail a notice under this section within 60 days after the making of the assessment.
+(3)
+The jeopardy assessment may be made of a deficiency greater or less than that set forth in the notice of deficiency, which has been mailed to the taxpayer, and whether or not the taxpayer has filed a petition with the commission.  The commission may, at any time before rendering its decision, abate such assessment, or any unpaid portion thereof, to the extent that it believes the assessment to be excessive in amount.  The commission has jurisdiction to redetermine the entire amount of the deficiency and of all amounts assessed.
+(4)
+If the jeopardy assessment is made after the commission has rendered a decision on a taxpayer's petition for redetermination, the assessment may be made only in respect to the amount of the deficiency determined by the commission in its decision.
+Renumbered and Amended by Chapter
+3
+, 1987 General Session</p>
+          </content>
+          <subsection eId="59_1_702__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the commission believes that the assessment or collection of any tax or penalty in lieu of tax will be jeopardized by delay, it shall, notwithstanding the assessment provisions of , , , or , immediately assess such tax or penalty in lieu of tax (together with all interest, penalties, and additions to tax provided for by law), and notice and demand shall be made by the commission for the payment thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_702__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the jeopardy assessment is made before any notice of the tax deficiency to which the jeopardy assessment relates has been mailed under , , , or , then the commission shall mail a notice under this section within 60 days after the making of the assessment.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_702__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The jeopardy assessment may be made of a deficiency greater or less than that set forth in the notice of deficiency, which has been mailed to the taxpayer, and whether or not the taxpayer has filed a petition with the commission.  The commission may, at any time before rendering its decision, abate such assessment, or any unpaid portion thereof, to the extent that it believes the assessment to be excessive in amount.  The commission has jurisdiction to redetermine the entire amount of the deficiency and of all amounts assessed.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_702__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the jeopardy assessment is made after the commission has rendered a decision on a taxpayer's petition for redetermination, the assessment may be made only in respect to the amount of the deficiency determined by the commission in its decision.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-118"/>
+          <FRBRuri value="/us-ut/act/code/59-7-118"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-118/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-118/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-118/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-118/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_118">
+          <num>59-7-118</num>
+          <heading>Section 965, Internal Revenue Code -- Installment payments.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-7-118.
+Section 965, Internal Revenue Code -- Installment payments.
+(1)
+Subject to the other provisions of this section, a corporation may pay in installments the tax owed under this chapter on deferred foreign income described in Section 965, Internal Revenue Code.
+(2)
+Subsection
+(1)
+applies:
+(a)
+to a corporation that:
+(i)
+is authorized to make an election under Section 965(h), Internal Revenue Code; and
+(ii)
+apportions deferred foreign income described in Section 965, Internal Revenue Code, to this state; and
+(b)
+for a tax year in which a corporation makes an election under Section 965(h), Internal Revenue Code, for purposes of the corporation's federal income tax.
+(3)
+(a)
+Except as provided in Subsection
+(3)(b)
+, the same provisions that apply to an election made under Section 965(h), Internal Revenue Code, for federal purposes apply to an installment payment made under this section.
+(b)
+A corporation shall make:
+(i)
+the first installment under this section on or before the due date of the tax return filed under this chapter for the first taxable year in which the corporation reports deferred foreign income described in Section 965, Internal Revenue Code; and
+(ii)
+a subsequent installment on or before the due date of the tax return filed under this chapter in each of the following seven years.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_7_118__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the other provisions of this section, a corporation may pay in installments the tax owed under this chapter on deferred foreign income described in Section 965, Internal Revenue Code.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_118__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subsection applies:</p>
+            </content>
+            <paragraph eId="59_7_118__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>to a corporation that:</p>
+              </content>
+              <subparagraph eId="59_7_118__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is authorized to make an election under Section 965(h), Internal Revenue Code; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_118__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>apportions deferred foreign income described in Section 965, Internal Revenue Code, to this state; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_118__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for a tax year in which a corporation makes an election under Section 965(h), Internal Revenue Code, for purposes of the corporation's federal income tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_118__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_7_118__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection , the same provisions that apply to an election made under Section 965(h), Internal Revenue Code, for federal purposes apply to an installment payment made under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_118__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A corporation shall make:</p>
+              </content>
+              <subparagraph eId="59_7_118__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the first installment under this section on or before the due date of the tax return filed under this chapter for the first taxable year in which the corporation reports deferred foreign income described in Section 965, Internal Revenue Code; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_118__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a subsequent installment on or before the due date of the tax return filed under this chapter in each of the following seven years.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

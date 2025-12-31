@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1101"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1101"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1101/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1101/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1101/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1101/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1101">
+          <num>59-1-1101</num>
+          <heading>Private collection of tax -- Fee.</heading>
+          <content>
+            <p>Effective 7/1/2021
+59-1-1101.
+Private collection of tax -- Fee.
+(1)
+The commission is authorized to employ private collectors for the collection of accounts that are unpaid over 12 months after the assessment date.
+(2)
+Up to, but no more than, 33% of the money collected may be used to offset the payment to a private collector.
+(3)
+The commission may authorize a private collector described in Subsection
+(1)
+to contract with a third party for services for the collection of accounts that the commission refers to the private collector.
+Amended by Chapter
+393
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_1_1101__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission is authorized to employ private collectors for the collection of accounts that are unpaid over 12 months after the assessment date.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1101__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Up to, but no more than, 33% of the money collected may be used to offset the payment to a private collector.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1101__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The commission may authorize a private collector described in Subsection to contract with a third party for services for the collection of accounts that the commission refers to the private collector.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

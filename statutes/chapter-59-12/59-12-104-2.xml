@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-104.2"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.2"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-104.2/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.2/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-104.2/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.2/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_104_2">
+          <num>59-12-104.2</num>
+          <heading>Superseded 7/1/2026</heading>
+          <content>
+            <p>Effective 5/4/2022
+Superseded 7/1/2026
+59-12-104.2.
+Exemption for accommodations and services taxed by the Navajo Nation.
+(1)
+As used in this section &quot;tribal taxing area&quot; means the geographical area that:
+(a)
+is subject to the taxing authority of the Navajo Nation; and
+(b)
+consists of:
+(i)
+notwithstanding the issuance of a patent, all land:
+(A)
+within the limits of an Indian reservation under the jurisdiction of the federal government; and
+(B)
+including any rights-of-way running through the reservation; and
+(ii)
+all Indian allotments the Indian titles to which have not been extinguished, including any rights-of-way running through an Indian allotment.
+(2)
+(a)
+Beginning July 1, 2001, amounts paid by or charged to a purchaser for accommodations and services described in Subsection
+59-12-103(1)(i)
+are exempt from the tax imposed by Subsection
+59-12-103(2)(a)(i)(A)
+or
+(2)
+(e)(i)(A)(I) to the extent permitted under Subsection
+(2)(b)
+if:
+(i)
+the accommodations and services described in Subsection
+59-12-103(1)(i)
+are provided within:
+(A)
+the state; and
+(B)
+a tribal taxing area;
+(ii)
+the Navajo Nation imposes and collects a tax on the amounts paid by or charged to the purchaser for the accommodations and services described in Subsection
+59-12-103(1)(i)
+;
+(iii)
+the Navajo Nation imposes the tax described in Subsection
+(2)(a)(ii)
+without regard to whether or not the purchaser that pays or is charged for the accommodations and services is an enrolled member of the Navajo Nation; and
+(iv)
+the requirements of Subsection
+(4)
+are met.
+(b)
+If but for Subsection
+(2)(a)
+the amounts paid by or charged to a purchaser for accommodations and services described in Subsection
+(2)(a)
+are subject to a tax imposed by Subsection
+59-12-103(2)(a)(i)(A)
+or
+(2)
+(e)(i)(A)(I):
+(i)
+the seller shall collect and pay to the state the difference described in Subsection
+(3)
+if that difference is greater than $0; and
+(ii)
+a person may not require the state to provide a refund, a credit, or similar tax relief if the difference described in Subsection
+(3)
+is equal to or less than $0.
+(3)
+The difference described in Subsection
+(2)(b)
+is equal to the difference between:
+(a)
+the amount of tax imposed by Subsection
+59-12-103(2)(a)(i)(A)
+or
+(2)
+(e)(i)(A)(I) on the amounts paid by or charged to a purchaser for accommodations and services described in Subsection
+59-12-103(1)(i)
+; less
+(b)
+the tax imposed and collected by the Navajo Nation on the amounts paid by or charged to a purchaser for the accommodations and services described in Subsection
+59-12-103(1)(i)
+.
+(4)
+(a)
+If, on or after July 1, 2001, the Navajo Nation changes the tax rate of a tax imposed on amounts paid by or charged to a purchaser for accommodations and services described in Subsection
+59-12-103(1)(i)
+, any change in the amount of the exemption under Subsection
+(2)
+as a result of the change in the tax rate is not effective until the first day of the calendar quarter after a 90-day period beginning on the date the commission receives notice meeting the requirements of Subsection
+(4)(b)
+from the Navajo Nation.
+(b)
+The notice described in Subsection
+(4)(a)
+shall state:
+(i)
+that the Navajo Nation has changed or will change the tax rate of a tax imposed on amounts paid by or charged to a purchaser for accommodations and services described in Subsection
+59-12-103(1)(i)
+;
+(ii)
+the effective date of the rate change on the tax described in Subsection
+(4)(b)(i)
+; and
+(iii)
+the new rate of the tax described in Subsection
+(4)(b)(i)
+.
+Amended by Chapter
+274
+, 2022 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

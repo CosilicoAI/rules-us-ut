@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-541"/>
+          <FRBRuri value="/us-ut/act/code/59-10-541"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-541/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-541/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-541/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-541/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_541">
+          <num>59-10-541</num>
+          <heading>Violations -- Civil and criminal penalties.</heading>
+          <content>
+            <p>59-10-541.
+Violations -- Civil and criminal penalties.
+(1)
+Every person who, without fraudulent intent, fails to make, render, sign, or verify any return, or to supply any information within the time required by or under the provisions of this chapter, is liable for a penalty as provided in Section
+59-1-401
+.
+(2)
+It is unlawful for any person, with intent to evade any tax, to fail to timely remit the full amount of tax required by this chapter.  A violation of this section is punishable as provided in Section
+59-1-401
+.
+(3)
+Any person who knowingly or intentionally makes, renders, signs, or verifies any false or fraudulent return or statement or supplies any false or fraudulent information is guilty of a criminal violation as provided in Section
+59-1-401
+.
+(4)
+Any person who, with intent to evade any tax or any requirement of this chapter, or any lawful requirement of the commission, fails to pay the tax, or to make, render, sign, or verify any return, or to supply any information, within the time required by or under this chapter, or who, with like intent, makes, renders, signs, or verifies any false or fraudulent return or statement, or supplies any false or fraudulent information, is liable for a civil penalty as provided in Section
+59-1-401
+, and is also guilty of a criminal violation as provided in Section
+59-1-401
+.
+Amended by Chapter
+9
+, 2001 General Session</p>
+          </content>
+          <subsection eId="59_10_541__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Every person who, without fraudulent intent, fails to make, render, sign, or verify any return, or to supply any information within the time required by or under the provisions of this chapter, is liable for a penalty as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_541__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>It is unlawful for any person, with intent to evade any tax, to fail to timely remit the full amount of tax required by this chapter.  A violation of this section is punishable as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_541__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person who knowingly or intentionally makes, renders, signs, or verifies any false or fraudulent return or statement or supplies any false or fraudulent information is guilty of a criminal violation as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_541__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any person who, with intent to evade any tax or any requirement of this chapter, or any lawful requirement of the commission, fails to pay the tax, or to make, render, sign, or verify any return, or to supply any information, within the time required by or under this chapter, or who, with like intent, makes, renders, signs, or verifies any false or fraudulent return or statement, or supplies any false or fraudulent information, is liable for a civil penalty as provided in Section , and is also guilty of a criminal violation as provided in Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

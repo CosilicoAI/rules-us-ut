@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-514"/>
+          <FRBRuri value="/us-ut/act/code/59-7-514"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-514/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-514/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-514/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-514/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_514">
+          <num>59-7-514</num>
+          <heading>Extension of time to pay deficiency.</heading>
+          <content>
+            <p>59-7-514.
+Extension of time to pay deficiency.
+(1)
+Where it is shown to the satisfaction of the commission that the payment of a deficiency upon the date prescribed for the payment thereof will result in undue hardship to the taxpayer, the commission (except where the deficiency is due to negligence, to intentional disregard of rules, or to fraud with intent to evade tax) may grant an extension for the payment of such deficiency or any part thereof for a period not in excess of six months.
+(2)
+If an extension is granted, the commission may require the taxpayer to furnish a bond in such amount, not exceeding double the amount of the deficiency, and with such sureties as the commission deems necessary, conditioned upon the payment of the deficiency in accordance with the terms of the extension.
+Renumbered and Amended by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_514__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Where it is shown to the satisfaction of the commission that the payment of a deficiency upon the date prescribed for the payment thereof will result in undue hardship to the taxpayer, the commission (except where the deficiency is due to negligence, to intentional disregard of rules, or to fraud with intent to evade tax) may grant an extension for the payment of such deficiency or any part thereof for a period not in excess of six months.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_514__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If an extension is granted, the commission may require the taxpayer to furnish a bond in such amount, not exceeding double the amount of the deficiency, and with such sureties as the commission deems necessary, conditioned upon the payment of the deficiency in accordance with the terms of the extension.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

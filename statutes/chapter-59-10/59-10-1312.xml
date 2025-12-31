@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1312"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1312"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1312/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1312/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1312/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1312/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1312">
+          <num>59-10-1312</num>
+          <heading>Election Campaign Fund -- Creation -- Funding for account -- Disbursement and distribution -- State treasurer requirement to provide a list of contributions designated to each political party.</heading>
+          <content>
+            <p>Effective 5/4/2022
+59-10-1312.
+Election Campaign Fund -- Creation -- Funding for account -- Disbursement and distribution -- State treasurer requirement to provide a list of contributions designated to each political party.
+(1)
+(a)
+As used in this section, &quot;fund&quot; means the Election Campaign Fund created by this section.
+(b)
+There is created a custodial fund known as the &quot;Election Campaign Fund.&quot;
+(c)
+The fund shall consist of all amounts deposited to the fund in accordance with Section
+59-10-1311
+.
+(2)
+On or before four months after the due date for filing a return required by this chapter in which a contribution is made in accordance with Section
+59-10-1311
+, the state treasurer shall:
+(a)
+disburse that portion of the amounts deposited in the fund since the last disbursement:
+(i)
+that are designated for a political party; and
+(ii)
+to the political party to which the amounts are designated; and
+(b)
+provide to the political party described in Subsection
+(2)(a)(ii)
+a list disclosing, for each county, the total amount designated by resident or nonresident individuals, other than nonresident aliens, in that county.
+Amended by Chapter
+451
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1312__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_1312__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this section, &quot;fund&quot; means the Election Campaign Fund created by this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1312__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>There is created a custodial fund known as the &quot;Election Campaign Fund.&quot;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1312__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The fund shall consist of all amounts deposited to the fund in accordance with Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1312__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>On or before four months after the due date for filing a return required by this chapter in which a contribution is made in accordance with Section , the state treasurer shall:</p>
+            </content>
+            <paragraph eId="59_10_1312__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>disburse that portion of the amounts deposited in the fund since the last disbursement:</p>
+              </content>
+              <subparagraph eId="59_10_1312__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>that are designated for a political party; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1312__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>to the political party to which the amounts are designated; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1312__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>provide to the political party described in Subsection a list disclosing, for each county, the total amount designated by resident or nonresident individuals, other than nonresident aliens, in that county.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

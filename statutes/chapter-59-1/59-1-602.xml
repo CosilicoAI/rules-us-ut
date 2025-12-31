@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-602"/>
+          <FRBRuri value="/us-ut/act/code/59-1-602"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-602/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-602/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-602/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-602/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_602">
+          <num>59-1-602</num>
+          <heading>Right to appeal -- Venue -- County as party in interest.</heading>
+          <content>
+            <p>59-1-602.
+Right to appeal -- Venue -- County as party in interest.
+(1)
+(a)
+Any aggrieved party appearing before the commission or county whose tax revenues are affected by the decision may at that party's option petition for judicial review in the district court pursuant to this section, or in the Supreme Court or the Court of Appeals pursuant to Section
+59-1-610
+.
+(b)
+Judicial review of formal or informal adjudicative proceedings in the district is in the district court located in the county of residence or principal place of business of the affected taxpayer or, in the case of a taxpayer whose taxes are assessed on a statewide basis, to the Third Judicial District Court in and for Salt Lake County.
+(c)
+Notwithstanding Section
+63G-4-402
+, a petition for review made to the district court under this section shall conform to the Utah Rules of Appellate Procedure.
+(2)
+A county whose tax revenues are affected by the decision being reviewed shall be allowed to be a party in interest in the proceeding before the court.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_1_602__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_1_602__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any aggrieved party appearing before the commission or county whose tax revenues are affected by the decision may at that party's option petition for judicial review in the district court pursuant to this section, or in the Supreme Court or the Court of Appeals pursuant to Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_602__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Judicial review of formal or informal adjudicative proceedings in the district is in the district court located in the county of residence or principal place of business of the affected taxpayer or, in the case of a taxpayer whose taxes are assessed on a statewide basis, to the Third Judicial District Court in and for Salt Lake County.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_602__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding Section , a petition for review made to the district court under this section shall conform to the Utah Rules of Appellate Procedure.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_602__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A county whose tax revenues are affected by the decision being reviewed shall be allowed to be a party in interest in the proceeding before the court.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

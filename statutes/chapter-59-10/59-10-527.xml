@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-527"/>
+          <FRBRuri value="/us-ut/act/code/59-10-527"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-527/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-527/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-527/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-527/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_527">
+          <num>59-10-527</num>
+          <heading>Assessment authority.</heading>
+          <content>
+            <p>59-10-527.
+Assessment authority.
+(1)
+The commission shall make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this chapter or former chapters imposing income taxes.
+(2)
+The assessment shall be made by recording the liability of the taxpayer in the office of the commission in accordance with rules prescribed by the commission.  The commission may, at any time within the period prescribed for assessment, make a supplemental assessment if it is ascertained that any assessment is imperfect or incomplete in any material respect.
+Renumbered and Amended by Chapter
+2
+, 1987 General Session</p>
+          </content>
+          <subsection eId="59_10_527__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The commission shall make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this chapter or former chapters imposing income taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_527__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The assessment shall be made by recording the liability of the taxpayer in the office of the commission in accordance with rules prescribed by the commission.  The commission may, at any time within the period prescribed for assessment, make a supplemental assessment if it is ascertained that any assessment is imperfect or incomplete in any material respect.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

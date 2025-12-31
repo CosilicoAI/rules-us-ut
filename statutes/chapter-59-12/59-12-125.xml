@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-125"/>
+          <FRBRuri value="/us-ut/act/code/59-12-125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-125/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-125/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-125/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-125/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_125">
+          <num>59-12-125</num>
+          <heading>Seller or certified service provider reliance on commission information.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-12-125.
+Seller or certified service provider reliance on commission information.
+(1)
+Subject to Subsection
+(2)
+, a seller or certified service provider is not liable for failing to collect a tax at a tax rate imposed under this part if the seller's or certified service provider's failure to collect the tax is as a result of the seller's or certified service provider's reliance on incorrect data provided by the commission in a database created by the commission:
+(a)
+containing tax rates, boundaries, or local taxing jurisdiction assignments; or
+(b)
+indicating the taxability of tangible personal property, a product transferred electronically, or a service.
+(2)
+The time period for which a seller or certified service provider is not liable for failure to collect taxes under Subsection
+(1)
+ends on the first day of the calendar quarter after 90 days from the day on which the commission first notifies the seller or certified service provider of the error.
+Amended by Chapter
+290
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_12_125__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to Subsection , a seller or certified service provider is not liable for failing to collect a tax at a tax rate imposed under this part if the seller's or certified service provider's failure to collect the tax is as a result of the seller's or certified service provider's reliance on incorrect data provided by the commission in a database created by the commission:</p>
+            </content>
+            <paragraph eId="59_12_125__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>containing tax rates, boundaries, or local taxing jurisdiction assignments; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_125__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>indicating the taxability of tangible personal property, a product transferred electronically, or a service.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_125__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The time period for which a seller or certified service provider is not liable for failure to collect taxes under Subsection ends on the first day of the calendar quarter after 90 days from the day on which the commission first notifies the seller or certified service provider of the error.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

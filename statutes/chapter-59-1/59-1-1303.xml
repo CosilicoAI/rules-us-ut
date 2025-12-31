@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-1303"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1303"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-1303/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1303/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-1303/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-1303/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_1303">
+          <num>59-1-1303</num>
+          <heading>Taxpayer disclosure of reportable transactions.</heading>
+          <content>
+            <p>59-1-1303.
+Taxpayer disclosure of reportable transactions.
+(1)
+A taxpayer is subject to this section for each taxable year in which:
+(a)
+the taxpayer participates in a reportable transaction;
+(b)
+the taxpayer:
+(i)
+is included in a federal consolidated return under Sections 1501 and 1504(b), Internal Revenue Code; and
+(ii)
+participates in a reportable transaction; or
+(c)
+the taxpayer is a member of a group that:
+(i)
+is a unitary group; and
+(ii)
+participates in a reportable transaction.
+(2)
+(a)
+A taxpayer described in Subsection
+(1)
+shall disclose a reportable transaction to the commission in a manner required by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(b)
+If a taxpayer described in Subsection
+(1)
+is required to file a disclosure statement under 26 C.F.R. Sec. 1.6011-4, the taxpayer shall provide the commission a copy of that disclosure statement in a manner required by the commission by rule made in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+(3)
+(a)
+For a listed transaction entered into on or after January 1, 2004, but on or before December 31, 2006, a disclosure statement required by this section shall be attached to:
+(i)
+(A)
+the taxpayer's income tax return for the taxable year beginning on or after January 1, 2007, but beginning on or before December 31, 2007; and
+(B)
+any amended income tax return that the taxpayer files for the taxable year beginning on or after January 1, 2007, but beginning on or before December 31, 2007; and
+(ii)
+subject to Subsection
+(3)(b)
+:
+(A)
+the taxpayer's income tax return for any taxable year after the taxable year beginning on or after January 1, 2007, but beginning on or before December 31, 2007, for which there is a reduction in income tax as a result of the listed transaction; and
+(B)
+any amended income tax return for any taxable year after the taxable year beginning on or after January 1, 2007, but beginning on or before December 31, 2007, for which there is a reduction in income tax as a result of the listed transaction.
+(b)
+For purposes of Subsection
+(3)(a)(ii)
+, a reduction in income tax as a result of a listed transaction includes a loss, credit, or deduction if the loss, credit, or deduction results from a listed transaction that is carried forward or carried back.
+(4)
+For a reportable transaction entered into on or after January 1, 2004, a disclosure statement required by this section shall be attached to an amended income tax return filed on or after January 1, 2007, if the filing of the amended income tax return reflects a determination by the Internal Revenue Service of the federal income tax treatment of the reportable transaction.
+(5)
+(a)
+For a reportable transaction entered into on or after January 1, 2007, a disclosure statement required by this section shall be attached to:
+(i)
+(A)
+the taxpayer's income tax return for the taxable year during which the transaction was entered into; and
+(B)
+any amended income tax return that the taxpayer files for the taxable year during which the transaction was entered into; and
+(ii)
+subject to Subsection
+(5)(b)
+:
+(A)
+the taxpayer's income tax return for any taxable year after the taxable year during which the transaction was entered into, for which there is a reduction in income tax as a result of the reportable transaction; and
+(B)
+any amended income tax return for any taxable year after the taxable year during which the transaction was entered into, for which there is a reduction in income tax as a result of the reportable transaction.
+(b)
+For purposes of Subsection
+(5)(a)(ii)
+, a reduction in income tax as a result of a reportable transaction includes a loss, credit, or deduction if the loss, credit, or deduction results from a reportable transaction that is carried forward or carried back.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_1_1303__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A taxpayer is subject to this section for each taxable year in which:</p>
+            </content>
+            <paragraph eId="59_1_1303__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the taxpayer participates in a reportable transaction;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1303__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the taxpayer:</p>
+              </content>
+              <subparagraph eId="59_1_1303__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is included in a federal consolidated return under Sections 1501 and 1504(b), Internal Revenue Code; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1303__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>participates in a reportable transaction; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1303__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the taxpayer is a member of a group that:</p>
+              </content>
+              <subparagraph eId="59_1_1303__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is a unitary group; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_1_1303__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>participates in a reportable transaction.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1303__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_1_1303__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer described in Subsection shall disclose a reportable transaction to the commission in a manner required by the commission by rule made in accordance with .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_1303__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a taxpayer described in Subsection is required to file a disclosure statement under 26 C.F.R. Sec. 1.6011-4, the taxpayer shall provide the commission a copy of that disclosure statement in a manner required by the commission by rule made in accordance with .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1303__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_1_1303__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For a listed transaction entered into on or after January 1, 2004, but on or before December 31, 2006, a disclosure statement required by this section shall be attached to:</p>
+              </content>
+              <subparagraph eId="59_1_1303__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_1_1303__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>subject to Subsection :</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1303__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , a reduction in income tax as a result of a listed transaction includes a loss, credit, or deduction if the loss, credit, or deduction results from a listed transaction that is carried forward or carried back.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_1303__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For a reportable transaction entered into on or after January 1, 2004, a disclosure statement required by this section shall be attached to an amended income tax return filed on or after January 1, 2007, if the filing of the amended income tax return reflects a determination by the Internal Revenue Service of the federal income tax treatment of the reportable transaction.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_1_1303__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_1_1303__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For a reportable transaction entered into on or after January 1, 2007, a disclosure statement required by this section shall be attached to:</p>
+              </content>
+              <subparagraph eId="59_1_1303__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_1_1303__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>subject to Subsection :</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_1_1303__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , a reduction in income tax as a result of a reportable transaction includes a loss, credit, or deduction if the loss, credit, or deduction results from a reportable transaction that is carried forward or carried back.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

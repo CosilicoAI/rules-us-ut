@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1372"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1372"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1372/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1372/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1372/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1372/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1372">
+          <num>59-2-1372</num>
+          <heading>Auditor duties -- Final settlement with treasurer -- Delinquent Tax Control Account.</heading>
+          <content>
+            <p>Effective 5/8/2018
+59-2-1372.
+Auditor duties -- Final settlement with treasurer -- Delinquent Tax Control Account.
+(1)
+The auditor shall audit the books and records of the treasurer and make a final settlement with the treasurer.
+(2)
+In making the settlement the auditor shall credit the treasurer with the amount of taxes and tax notice charges for the previous year which are found to be still unpaid and shall then charge the treasurer upon the books of the county in an account which shall be called the Delinquent Tax Control Account with the full amount of delinquent taxes, tax notice charges, penalty, and costs found due the county for the previous year.
+Amended by Chapter
+197
+, 2018 General Session</p>
+          </content>
+          <subsection eId="59_2_1372__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The auditor shall audit the books and records of the treasurer and make a final settlement with the treasurer.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1372__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In making the settlement the auditor shall credit the treasurer with the amount of taxes and tax notice charges for the previous year which are found to be still unpaid and shall then charge the treasurer upon the books of the county in an account which shall be called the Delinquent Tax Control Account with the full amount of delinquent taxes, tax notice charges, penalty, and costs found due the county for the previous year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

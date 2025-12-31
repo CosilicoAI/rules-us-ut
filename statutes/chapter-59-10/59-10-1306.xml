@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1306"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1306"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1306/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1306/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1306/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1306/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1306">
+          <num>59-10-1306</num>
+          <heading>Homeless contribution -- Credit to Pamela Atkinson Homeless Account.</heading>
+          <content>
+            <p>Effective 7/1/2021
+59-10-1306.
+Homeless contribution -- Credit to Pamela Atkinson Homeless Account.
+(1)
+Except as provided in Section
+59-10-1304
+, a resident or nonresident individual that files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution to the Pamela Atkinson Homeless Account as provided in this part.
+(2)
+The commission shall:
+(a)
+determine annually the total amount of contributions designated in accordance with this section; and
+(b)
+credit the amount described in Subsection
+(2)(a)
+to the Pamela Atkinson Homeless Account created by Section
+35A-16-301
+.
+Amended by Chapter
+281
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_1306__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Section , a resident or nonresident individual that files an individual income tax return under this chapter may designate on the resident or nonresident individual's individual income tax return a contribution to the Pamela Atkinson Homeless Account as provided in this part.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1306__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission shall:</p>
+            </content>
+            <paragraph eId="59_10_1306__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>determine annually the total amount of contributions designated in accordance with this section; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1306__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>credit the amount described in Subsection to the Pamela Atkinson Homeless Account created by Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

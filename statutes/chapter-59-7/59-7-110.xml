@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-110"/>
+          <FRBRuri value="/us-ut/act/code/59-7-110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-110/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-110/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_110">
+          <num>59-7-110</num>
+          <heading>Utah net loss -- Carry forward -- Deduction.</heading>
+          <content>
+            <p>Effective 5/3/2023
+59-7-110.
+Utah net loss -- Carry forward -- Deduction.
+(1)
+A taxpayer shall determine the amount of Utah net loss that the taxpayer may carry forward to offset income of another taxable year as provided in this section.
+(2)
+Subject to the other provisions of this section, a taxpayer:
+(a)
+may carry forward a Utah net loss from a taxable year beginning on or after January 1, 2008, to a future taxable year until the Utah net loss is exhausted; and
+(b)
+may not carry back a Utah net loss from a taxable year.
+(3)
+A taxpayer that carries forward a Utah net loss shall carry forward the Utah net loss to the earliest eligible year for which the Utah taxable income before net loss deduction, minus Utah net losses from previous years that a taxpayer applied or was required to apply to offset income, is not less than zero.
+(4)
+(a)
+Subject to Subsection
+(4)(b)
+, the amount of Utah net loss that a taxpayer may carry to the year identified in Subsection
+(3)
+is the lesser of:
+(i)
+the remaining Utah net loss after deduction of any amounts of the Utah net loss that a taxpayer carried to previous years; or
+(ii)
+the remaining Utah taxable income before net loss deduction of the year identified in Subsection
+(3)
+after deduction of Utah net losses from previous years that a taxpayer carried or was required to carry to the year identified in Subsection
+(3)
+.
+(b)
+(i)
+For a Utah net loss carried forward to a taxable year beginning on or after January 1, 2023, the amount of Utah net loss that a taxpayer may carry forward to a taxable year may not exceed 80% of Utah taxable income calculated before deducting any Utah net loss from Utah taxable income.
+(ii)
+A taxpayer may carry a remaining Utah net loss to one or more taxable years in accordance with this section.
+(5)
+(a)
+(i)
+Subject to Subsection
+(5)(a)(ii)
+, a corporation acquiring the assets or stock of another corporation may not deduct any net loss incurred by the acquired corporation prior to the date of acquisition.
+(ii)
+Subsection
+(5)(a)(i)
+does not apply if the only change in the corporation is that of the state of incorporation.
+(b)
+An acquired corporation may deduct the acquired corporation's net losses incurred before the date of acquisition against the acquired corporation's separate income as calculated under Subsections
+(6)
+and
+(7)
+if the acquired corporation has continued to carry on a trade or business substantially the same as that conducted before the acquisition.
+(6)
+For purposes of Subsection
+(5)(b)
+, the amount of net loss an acquired corporation that is acquired by a unitary group may deduct is calculated by:
+(a)
+subject to Subsection
+(7)
+:
+(i)
+calculating the sum of:
+(A)
+an amount determined by dividing the average value of the acquired corporation's real and tangible personal property owned or rented and used in this state during the taxable year by the average value of all of the unitary group's real and tangible personal property owned or rented and used during the taxable year;
+(B)
+an amount determined by dividing the total amount paid in this state during the taxable year by the acquired corporation for compensation by the total compensation paid everywhere by the unitary group during the taxable year; and
+(C)
+an amount determined by dividing the total sales of the acquired corporation in this state during the taxable year by the total sales of the unitary group everywhere during the taxable year; or
+(ii)
+if the unitary group is required or elects to calculate the fraction for apportioning business income to this state using the method described in Subsection
+59-7-311(2)
+, calculating an amount determined by dividing the total sales of the acquired corporation in this state during the taxable year by the total sales of the unitary group everywhere during the taxable year;
+(b)
+dividing the amount calculated under Subsection
+(6)(a)
+by the same denominator of the fraction the unitary group uses to apportion business income to this state for that taxable year in accordance with Section
+59-7-311
+;
+(c)
+multiplying the amount calculated under Subsection
+(6)(b)
+by the business income of the unitary group for the taxable year that is subject to apportionment under Section
+59-7-311
+; and
+(d)
+calculating the sum of:
+(i)
+the amount calculated under Subsection
+(6)(c)
+; and
+(ii)
+the following amounts allocable to the acquired corporation for the taxable year:
+(A)
+nonbusiness income allocable to this state; or
+(B)
+nonbusiness loss allocable to this state.
+(7)
+The amounts calculated under Subsection
+(6)(a)
+shall be derived in the same manner as those amounts are derived for purposes of apportioning the unitary group's business income before deducting the net loss, including a modification made in accordance with Section
+59-7-320
+.
+Amended by Chapter
+506
+, 2023 General Session</p>
+          </content>
+          <subsection eId="59_7_110__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A taxpayer shall determine the amount of Utah net loss that the taxpayer may carry forward to offset income of another taxable year as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_110__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Subject to the other provisions of this section, a taxpayer:</p>
+            </content>
+            <paragraph eId="59_7_110__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>may carry forward a Utah net loss from a taxable year beginning on or after January 1, 2008, to a future taxable year until the Utah net loss is exhausted; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_110__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>may not carry back a Utah net loss from a taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_110__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A taxpayer that carries forward a Utah net loss shall carry forward the Utah net loss to the earliest eligible year for which the Utah taxable income before net loss deduction, minus Utah net losses from previous years that a taxpayer applied or was required to apply to offset income, is not less than zero.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_110__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_7_110__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , the amount of Utah net loss that a taxpayer may carry to the year identified in Subsection is the lesser of:</p>
+              </content>
+              <subparagraph eId="59_7_110__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the remaining Utah net loss after deduction of any amounts of the Utah net loss that a taxpayer carried to previous years; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_110__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the remaining Utah taxable income before net loss deduction of the year identified in Subsection after deduction of Utah net losses from previous years that a taxpayer carried or was required to carry to the year identified in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_110__subsec_4__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_7_110__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>For a Utah net loss carried forward to a taxable year beginning on or after January 1, 2023, the amount of Utah net loss that a taxpayer may carry forward to a taxable year may not exceed 80% of Utah taxable income calculated before deducting any Utah net loss from Utah taxable income.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_110__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A taxpayer may carry a remaining Utah net loss to one or more taxable years in accordance with this section.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_110__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_7_110__subsec_5__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_7_110__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsection , a corporation acquiring the assets or stock of another corporation may not deduct any net loss incurred by the acquired corporation prior to the date of acquisition.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_110__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Subsection does not apply if the only change in the corporation is that of the state of incorporation.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_110__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An acquired corporation may deduct the acquired corporation's net losses incurred before the date of acquisition against the acquired corporation's separate income as calculated under Subsections and if the acquired corporation has continued to carry on a trade or business substantially the same as that conducted before the acquisition.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_110__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>For purposes of Subsection , the amount of net loss an acquired corporation that is acquired by a unitary group may deduct is calculated by:</p>
+            </content>
+            <paragraph eId="59_7_110__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>subject to Subsection :</p>
+              </content>
+              <subparagraph eId="59_7_110__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>calculating the sum of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_110__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the unitary group is required or elects to calculate the fraction for apportioning business income to this state using the method described in Subsection , calculating an amount determined by dividing the total sales of the acquired corporation in this state during the taxable year by the total sales of the unitary group everywhere during the taxable year;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_110__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>dividing the amount calculated under Subsection by the same denominator of the fraction the unitary group uses to apportion business income to this state for that taxable year in accordance with Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_110__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>multiplying the amount calculated under Subsection by the business income of the unitary group for the taxable year that is subject to apportionment under Section ; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_110__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>calculating the sum of:</p>
+              </content>
+              <subparagraph eId="59_7_110__subsec_6__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the amount calculated under Subsection ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_110__subsec_6__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the following amounts allocable to the acquired corporation for the taxable year:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_110__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The amounts calculated under Subsection shall be derived in the same manner as those amounts are derived for purposes of apportioning the unitary group's business income before deducting the net loss, including a modification made in accordance with Section .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

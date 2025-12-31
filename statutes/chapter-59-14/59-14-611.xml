@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-611"/>
+          <FRBRuri value="/us-ut/act/code/59-14-611"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-611/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-611/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-611/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-611/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_611">
+          <num>59-14-611</num>
+          <heading>Severability clause.</heading>
+          <content>
+            <p>59-14-611.
+Severability clause.
+If a court of competent jurisdiction finds that the provisions of this part and of the Model Tobacco Settlement Act conflict and cannot be harmonized, then the provisions of the Model Tobacco Settlement Act shall control.  If any section, subsection, subdivision, paragraph, sentence, clause, or phrase of this part causes the Model Tobacco Settlement Act to no longer constitute a qualifying or model statute, as those terms are defined in the Master Settlement Agreement, then that portion of this part shall not be valid.  If any section, subsection, subdivision, paragraph, sentence, clause, or phrase of this part is for any reason held to be invalid, unlawful, or unconstitutional, such decision shall not affect the validity of the remaining portions of this part.
+Enacted by Chapter
+204
+, 2005 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

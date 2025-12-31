@@ -1,0 +1,845 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-13-301"/>
+          <FRBRuri value="/us-ut/act/code/59-13-301"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-13-301/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-13-301/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-13-301/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-13-301/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_13">
+        <num>Chapter 59-13</num>
+        <heading>Motor and Special Fuel Tax</heading>
+        <section eId="sec_59_13_301">
+          <num>59-13-301</num>
+          <heading>Tax basis -- Rate -- Exemptions -- Revenue deposited with treasurer and credited to Transportation Fund -- Reduction of tax in limited circumstances.</heading>
+          <content>
+            <p>Effective 7/1/2019
+59-13-301.
+Tax basis -- Rate -- Exemptions -- Revenue deposited with treasurer and credited to Transportation Fund -- Reduction of tax in limited circumstances.
+(1)
+(a)
+Except as provided in Subsections
+(2)
+,
+(3)
+,
+(11)
+, and
+(12)
+and Section
+59-13-304
+, a tax is imposed at the same rate imposed under Subsection
+59-13-201(1)(a)
+on the:
+(i)
+removal of undyed diesel fuel from any refinery;
+(ii)
+removal of undyed diesel fuel from any terminal;
+(iii)
+entry into the state of any undyed diesel fuel for consumption, use, sale, or warehousing;
+(iv)
+sale of undyed diesel fuel to any person who is not registered as a supplier under this part unless the tax has been collected under this section;
+(v)
+any untaxed special fuel blended with undyed diesel fuel; or
+(vi)
+use of untaxed special fuel other than propane or electricity.
+(b)
+The tax imposed under this section shall only be imposed once upon any special fuel.
+(2)
+(a)
+No special fuel tax is imposed or collected upon dyed diesel fuel which:
+(i)
+is sold or used for any purpose other than to operate or propel a motor vehicle upon the public highways of the state, but this exemption applies only in those cases where the purchasers or the users of special fuel establish to the satisfaction of the commission that the special fuel was used for purposes other than to operate a motor vehicle upon the public highways of the state; or
+(ii)
+is sold to this state or any of its political subdivisions.
+(b)
+No special fuel tax is imposed on undyed diesel fuel or clean fuel that is:
+(i)
+sold to the United States government or any of its instrumentalities or to this state or any of its political subdivisions;
+(ii)
+exported from this state if proof of actual exportation on forms prescribed by the commission is made within 180 days after exportation;
+(iii)
+used in a vehicle off-highway;
+(iv)
+used to operate a power take-off unit of a vehicle;
+(v)
+used for off-highway agricultural uses;
+(vi)
+used in a separately fueled engine on a vehicle that does not propel the vehicle upon the highways of the state; or
+(vii)
+used in machinery and equipment not registered and not required to be registered for highway use.
+(3)
+No tax is imposed or collected on special fuel if it is:
+(a)
+(i)
+purchased for business use in machinery and equipment not registered and not required to be registered for highway use; and
+(ii)
+used pursuant to the conditions of a state implementation plan approved under
+Title 19, Chapter 2, Air Conservation Act
+; or
+(b)
+propane or electricity.
+(4)
+Upon request of a buyer meeting the requirements under Subsection
+(3)
+, the Division of Air Quality shall issue an exemption certificate that may be shown to a seller.
+(5)
+The special fuel tax shall be paid by the supplier.
+(6)
+(a)
+The special fuel tax shall be paid by every user who is required by Sections
+59-13-303
+and
+59-13-305
+to obtain a special fuel user permit and file special fuel tax reports.
+(b)
+The user shall receive a refundable credit for special fuel taxes paid on purchases which are delivered into vehicles and for which special fuel tax liability is reported.
+(7)
+(a)
+Except as provided under Subsections
+(7)(b)
+and
+(c)
+, all revenue received by the commission from taxes and license fees under this part shall be deposited daily with the state treasurer and credited to the Transportation Fund.
+(b)
+An appropriation from the Transportation Fund shall be made to the commission to cover expenses incurred in the administration and enforcement of this part and the collection of the special fuel tax.
+(c)
+Five dollars of each special fuel user trip permit fee paid under Section
+59-13-303
+may be used by the commission as a dedicated credit to cover the costs of electronic credentialing as provided in Section
+41-1a-303
+.
+(8)
+The commission may either collect no tax on special fuel exported from the state or, upon application, refund the tax paid.
+(9)
+(a)
+The United States government or any of its instrumentalities, this state, or a political subdivision of this state that has purchased special fuel from a supplier or from a retail dealer of special fuel and has paid the tax on the special fuel as provided in this section is entitled to a refund of the tax and may file with the commission for a quarterly refund in a manner prescribed by the commission.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission shall make rules governing the application and refund provided for in Subsection
+(9)(a)
+.
+(10)
+(a)
+The purchaser shall pay the tax on diesel fuel or clean fuel purchased for uses under Subsections
+(2)(b)(i)
+,
+(iii)
+,
+(iv)
+,
+(v)
+,
+(vi)
+, and
+(vii)
+and apply for a refund for the tax paid as provided in Subsection
+(9)
+and this Subsection
+(10)
+.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission shall make rules governing the application and refund for off-highway and nonhighway uses provided under Subsections
+(2)(b)(iii)
+,
+(iv)
+,
+(vi)
+, and
+(vii)
+.
+(c)
+A refund of tax paid under this part on diesel fuel used for nonhighway agricultural uses shall be made in accordance with the tax return procedures under Section
+59-13-202
+.
+(11)
+(a)
+Beginning on April 1, 2001, a tax imposed under this section on special fuel is reduced to the extent provided in Subsection
+(11)(b)
+if:
+(i)
+the Navajo Nation imposes a tax on the special fuel;
+(ii)
+the tax described in Subsection
+(11)(a)(i)
+is imposed without regard to whether the person required to pay the tax is an enrolled member of the Navajo Nation; and
+(iii)
+the commission and the Navajo Nation execute and maintain an agreement as provided in this Subsection
+(11)
+for the administration of the reduction of tax.
+(b)
+(i)
+If but for Subsection
+(11)(a)
+the special fuel is subject to a tax imposed by this section:
+(A)
+the state shall be paid the difference described in Subsection
+(11)(b)(ii)
+if that difference is greater than $0; and
+(B)
+a person may not require the state to provide a refund, a credit, or similar tax relief if the difference described in Subsection
+(11)(b)(ii)
+is less than or equal to $0.
+(ii)
+The difference described in Subsection
+(11)(b)(i)
+is equal to the difference between:
+(A)
+the amount of tax imposed on the special fuel by this section; less
+(B)
+the tax imposed and collected by the Navajo Nation on the special fuel.
+(c)
+For purposes of Subsections
+(11)(a)
+and
+(b)
+, the tax paid to the Navajo Nation on the special fuel does not include any interest or penalties a taxpayer may be required to pay to the Navajo Nation.
+(d)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission shall make rules governing the procedures for administering the reduction of tax provided under this Subsection
+(11)
+.
+(e)
+The agreement required under Subsection
+(11)(a)
+:
+(i)
+may not:
+(A)
+authorize the state to impose a tax in addition to a tax imposed under this chapter;
+(B)
+provide a reduction of taxes greater than or different from the reduction described in this Subsection
+(11)
+; or
+(C)
+affect the power of the state to establish rates of taxation;
+(ii)
+shall:
+(A)
+be in writing;
+(B)
+be signed by:
+(I)
+the chair of the commission or the chair's designee; and
+(II)
+a person designated by the Navajo Nation that may bind the Navajo Nation;
+(C)
+be conditioned on obtaining any approval required by federal law;
+(D)
+state the effective date of the agreement; and
+(E)
+state any accommodation the Navajo Nation makes related to the construction and maintenance of state highways and other infrastructure within the Utah portion of the Navajo Nation; and
+(iii)
+may:
+(A)
+notwithstanding Section
+59-1-403
+, authorize the commission to disclose to the Navajo Nation information that is:
+(I)
+contained in a document filed with the commission; and
+(II)
+related to the tax imposed under this section;
+(B)
+provide for maintaining records by the commission or the Navajo Nation; or
+(C)
+provide for inspections or audits of suppliers, distributors, carriers, or retailers located or doing business within the Utah portion of the Navajo Nation.
+(f)
+(i)
+If, on or after April 1, 2001, the Navajo Nation changes the tax rate of a tax imposed on special fuel, any change in the amount of the reduction of taxes under this Subsection
+(11)
+as a result of the change in the tax rate is not effective until the first day of the calendar quarter after a 60-day period beginning on the date the commission receives notice:
+(A)
+from the Navajo Nation; and
+(B)
+meeting the requirements of Subsection
+(11)(f)(ii)
+.
+(ii)
+The notice described in Subsection
+(11)(f)(i)
+shall state:
+(A)
+that the Navajo Nation has changed or will change the tax rate of a tax imposed on special fuel;
+(B)
+the effective date of the rate change of the tax described in Subsection
+(11)(f)(ii)(A)
+; and
+(C)
+the new rate of the tax described in Subsection
+(11)(f)(ii)(A)
+.
+(g)
+If the agreement required by Subsection
+(11)(a)
+terminates, a reduction of tax is not permitted under this Subsection
+(11)
+beginning on the first day of the calendar quarter after a 30-day period beginning on the day the agreement terminates.
+(h)
+If there is a conflict between this Subsection
+(11)
+and the agreement required by Subsection
+(11)(a)
+, this Subsection
+(11)
+governs.
+(12)
+(a)
+(i)
+Subject to Subsections
+(12)(a)(ii)
+and
+(iii)
+, a tax imposed under this section on compressed natural gas is imposed at a rate of:
+(A)
+until June 30, 2016, 10-1/2 cents per gasoline gallon equivalent;
+(B)
+beginning on July 1, 2016, and until June 30, 2017, 12-1/2 cents per gasoline gallon equivalent;
+(C)
+beginning on July 1, 2017, and until June 30, 2018, 14-1/2 cents per gasoline gallon equivalent; and
+(D)
+beginning on or after July 1, 2018, 16-1/2 cents per gasoline gallon equivalent.
+(ii)
+Beginning on January 1, 2020, the commission shall, on January 1, annually adjust the rate of a tax imposed under this section on compressed natural gas by taking the rate for the previous calendar year and adding an amount equal to the greater of:
+(A)
+an amount calculated by multiplying the rate of a tax imposed under this section on compressed natural gas for the previous calendar year by the actual percent change during the previous fiscal year in the Consumer Price Index; and
+(B)
+0.
+(iii)
+The rate of a tax imposed under this section on compressed natural gas determined by the commission under Subsection
+(12)(a)(ii)
+may not exceed 22-1/2 cents per gasoline gallon equivalent.
+(b)
+(i)
+Subject to Subsections
+(12)(b)(ii)
+and
+(iii)
+, a tax imposed under this section on liquified natural gas is imposed at a rate of:
+(A)
+until June 30, 2016, 10-1/2 cents per diesel gallon equivalent;
+(B)
+beginning on July 1, 2016, and until June 30, 2017, 12-1/2 cents per diesel gallon equivalent;
+(C)
+beginning on July 1, 2017, and until June 30, 2018, 14-1/2 cents per diesel gallon equivalent; and
+(D)
+beginning on or after July 1, 2018, 16-1/2 cents per diesel gallon equivalent.
+(ii)
+Beginning on January 1, 2020, the commission shall, on January 1, annually adjust the rate of a tax imposed under this section on liquified natural gas by taking the rate for the previous calendar year and adding an amount equal to the greater of:
+(A)
+an amount calculated by multiplying the rate of a tax imposed under this section on liquified natural gas for the previous calendar year by the actual percent change during the previous fiscal year in the Consumer Price Index; and
+(B)
+0.
+(iii)
+The rate of a tax imposed under this section on liquified natural gas determined by the commission under Subsection
+(12)(b)(ii)
+may not exceed 22-1/2 cents per diesel gallon equivalent.
+(c)
+(i)
+Subject to Subsections
+(12)(c)(ii)
+and
+(iii)
+, a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state is imposed at a rate of:
+(A)
+until June 30, 2016, 10-1/2 cents per gasoline gallon equivalent;
+(B)
+beginning on July 1, 2016, and until June 30, 2017, 12-1/2 cents per gasoline gallon equivalent;
+(C)
+beginning on July 1, 2017, and until June 30, 2018, 14-1/2 cents per gasoline gallon equivalent; and
+(D)
+beginning on or after July 1, 2018, 16-1/2 cents per gasoline gallon equivalent.
+(ii)
+Beginning on January 1, 2020, the commission shall, on January 1, annually adjust the rate of a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state by taking the rate for the previous calendar year and adding an amount equal to the greater of:
+(A)
+an amount calculated by multiplying the rate of a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state for the previous calendar year by the actual percent change during the previous fiscal year in the Consumer Price Index; and
+(B)
+0.
+(iii)
+The rate of a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state determined by the commission under Subsection
+(12)(c)(ii)
+may not exceed 22-1/2 cents per gasoline gallon equivalent.
+(d)
+(i)
+The commission shall annually:
+(A)
+adjust the fuel tax rates imposed under Subsections
+(12)(a)(ii)
+,
+(b)(ii)
+, and
+(c)(ii)
+, rounded to the nearest one-tenth of a cent;
+(B)
+publish the adjusted fuel tax as a cents per gallon rate; and
+(C)
+post or otherwise make public the adjusted fuel tax rate as determined in Subsection
+(12)(d)(i)(A)
+no later than 60 days prior to the annual effective date under Subsection
+(12)(d)(ii)
+.
+(ii)
+The tax rates imposed under this Subsection
+(12)
+and adjusted as required under Subsection
+(12)(d)(i)
+shall take effect on January 1 of each year.
+Amended by Chapter
+479
+, 2019 General Session</p>
+          </content>
+          <subsection eId="59_13_301__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_13_301__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsections , , , and and Section , a tax is imposed at the same rate imposed under Subsection on the:</p>
+              </content>
+              <subparagraph eId="59_13_301__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>removal of undyed diesel fuel from any refinery;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>removal of undyed diesel fuel from any terminal;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>entry into the state of any undyed diesel fuel for consumption, use, sale, or warehousing;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_1__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>sale of undyed diesel fuel to any person who is not registered as a supplier under this part unless the tax has been collected under this section;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_1__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>any untaxed special fuel blended with undyed diesel fuel; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_1__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>use of untaxed special fuel other than propane or electricity.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax imposed under this section shall only be imposed once upon any special fuel.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_13_301__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>No special fuel tax is imposed or collected upon dyed diesel fuel which:</p>
+              </content>
+              <subparagraph eId="59_13_301__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is sold or used for any purpose other than to operate or propel a motor vehicle upon the public highways of the state, but this exemption applies only in those cases where the purchasers or the users of special fuel establish to the satisfaction of the commission that the special fuel was used for purposes other than to operate a motor vehicle upon the public highways of the state; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is sold to this state or any of its political subdivisions.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>No special fuel tax is imposed on undyed diesel fuel or clean fuel that is:</p>
+              </content>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>sold to the United States government or any of its instrumentalities or to this state or any of its political subdivisions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>exported from this state if proof of actual exportation on forms prescribed by the commission is made within 180 days after exportation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>used in a vehicle off-highway;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>used to operate a power take-off unit of a vehicle;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>used for off-highway agricultural uses;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>used in a separately fueled engine on a vehicle that does not propel the vehicle upon the highways of the state; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_2__para_b__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>used in machinery and equipment not registered and not required to be registered for highway use.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No tax is imposed or collected on special fuel if it is:</p>
+            </content>
+            <paragraph eId="59_13_301__subsec_3__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_13_301__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>purchased for business use in machinery and equipment not registered and not required to be registered for highway use; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>used pursuant to the conditions of a state implementation plan approved under ; or</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>propane or electricity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Upon request of a buyer meeting the requirements under Subsection , the Division of Air Quality shall issue an exemption certificate that may be shown to a seller.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_301__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The special fuel tax shall be paid by the supplier.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_301__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_13_301__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The special fuel tax shall be paid by every user who is required by Sections and to obtain a special fuel user permit and file special fuel tax reports.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The user shall receive a refundable credit for special fuel taxes paid on purchases which are delivered into vehicles and for which special fuel tax liability is reported.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_13_301__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided under Subsections and , all revenue received by the commission from taxes and license fees under this part shall be deposited daily with the state treasurer and credited to the Transportation Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An appropriation from the Transportation Fund shall be made to the commission to cover expenses incurred in the administration and enforcement of this part and the collection of the special fuel tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Five dollars of each special fuel user trip permit fee paid under Section may be used by the commission as a dedicated credit to cover the costs of electronic credentialing as provided in Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The commission may either collect no tax on special fuel exported from the state or, upon application, refund the tax paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_13_301__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_13_301__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The United States government or any of its instrumentalities, this state, or a political subdivision of this state that has purchased special fuel from a supplier or from a retail dealer of special fuel and has paid the tax on the special fuel as provided in this section is entitled to a refund of the tax and may file with the commission for a quarterly refund in a manner prescribed by the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission shall make rules governing the application and refund provided for in Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_10">
+            <num>(10)</num>
+            <paragraph eId="59_13_301__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The purchaser shall pay the tax on diesel fuel or clean fuel purchased for uses under Subsections , , , , , and and apply for a refund for the tax paid as provided in Subsection and this Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission shall make rules governing the application and refund for off-highway and nonhighway uses provided under Subsections , , , and .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A refund of tax paid under this part on diesel fuel used for nonhighway agricultural uses shall be made in accordance with the tax return procedures under Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_11">
+            <num>(11)</num>
+            <paragraph eId="59_13_301__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Beginning on April 1, 2001, a tax imposed under this section on special fuel is reduced to the extent provided in Subsection if:</p>
+              </content>
+              <subparagraph eId="59_13_301__subsec_11__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the Navajo Nation imposes a tax on the special fuel;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_11__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the tax described in Subsection is imposed without regard to whether the person required to pay the tax is an enrolled member of the Navajo Nation; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_11__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the commission and the Navajo Nation execute and maintain an agreement as provided in this Subsection for the administration of the reduction of tax.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_13_301__subsec_11__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If but for Subsection the special fuel is subject to a tax imposed by this section:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_11__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The difference described in Subsection is equal to the difference between:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of Subsections and , the tax paid to the Navajo Nation on the special fuel does not include any interest or penalties a taxpayer may be required to pay to the Navajo Nation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>In accordance with , the commission shall make rules governing the procedures for administering the reduction of tax provided under this Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The agreement required under Subsection :</p>
+              </content>
+              <subparagraph eId="59_13_301__subsec_11__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>may not:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_11__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>shall:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_11__para_e__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>may:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_f">
+              <num>(f)</num>
+              <subparagraph eId="59_13_301__subsec_11__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If, on or after April 1, 2001, the Navajo Nation changes the tax rate of a tax imposed on special fuel, any change in the amount of the reduction of taxes under this Subsection as a result of the change in the tax rate is not effective until the first day of the calendar quarter after a 60-day period beginning on the date the commission receives notice:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_11__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The notice described in Subsection shall state:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_g">
+              <num>(g)</num>
+              <content>
+                <p>If the agreement required by Subsection terminates, a reduction of tax is not permitted under this Subsection beginning on the first day of the calendar quarter after a 30-day period beginning on the day the agreement terminates.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_11__para_h">
+              <num>(h)</num>
+              <content>
+                <p>If there is a conflict between this Subsection and the agreement required by Subsection , this Subsection governs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_13_301__subsec_12">
+            <num>(12)</num>
+            <paragraph eId="59_13_301__subsec_12__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_13_301__subsec_12__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsections and , a tax imposed under this section on compressed natural gas is imposed at a rate of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Beginning on January 1, 2020, the commission shall, on January 1, annually adjust the rate of a tax imposed under this section on compressed natural gas by taking the rate for the previous calendar year and adding an amount equal to the greater of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>The rate of a tax imposed under this section on compressed natural gas determined by the commission under Subsection may not exceed 22-1/2 cents per gasoline gallon equivalent.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_12__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_13_301__subsec_12__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsections and , a tax imposed under this section on liquified natural gas is imposed at a rate of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Beginning on January 1, 2020, the commission shall, on January 1, annually adjust the rate of a tax imposed under this section on liquified natural gas by taking the rate for the previous calendar year and adding an amount equal to the greater of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>The rate of a tax imposed under this section on liquified natural gas determined by the commission under Subsection may not exceed 22-1/2 cents per diesel gallon equivalent.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_12__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_13_301__subsec_12__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsections and , a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state is imposed at a rate of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Beginning on January 1, 2020, the commission shall, on January 1, annually adjust the rate of a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state by taking the rate for the previous calendar year and adding an amount equal to the greater of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>The rate of a tax imposed under this section on hydrogen used to operate or propel a motor vehicle upon the public highways of the state determined by the commission under Subsection may not exceed 22-1/2 cents per gasoline gallon equivalent.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_13_301__subsec_12__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_13_301__subsec_12__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The commission shall annually:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_13_301__subsec_12__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The tax rates imposed under this Subsection and adjusted as required under Subsection shall take effect on January 1 of each year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

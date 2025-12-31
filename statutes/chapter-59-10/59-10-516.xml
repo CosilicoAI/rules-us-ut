@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-516"/>
+          <FRBRuri value="/us-ut/act/code/59-10-516"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-516/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-516/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-516/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-516/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_516">
+          <num>59-10-516</num>
+          <heading>Filing extension -- Payment of tax -- Penalty -- Foreign residency.</heading>
+          <content>
+            <p>Effective 5/5/2021
+59-10-516.
+Filing extension -- Payment of tax -- Penalty -- Foreign residency.
+(1)
+(a)
+The commission shall allow a taxpayer an extension of time for filing a return.
+(b)
+Except as provided in Subsection
+(1)(c)
+:
+(i)
+for a return filed by a taxpayer except for a partnership, the extension described in Subsection
+(1)(a)
+may be up to six months; and
+(ii)
+for a return filed by a partnership, the extension described in Subsection
+(1)(a)
+may be up to five months.
+(c)
+For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer may receive an extension described in Subsection
+(1)(a)
+for the time period that ends on the last day of the extension to file the taxpayer's federal income tax return.
+(2)
+The commission may not impose a penalty under Section
+59-1-401
+during the extension period described in Subsection
+(1)
+on:
+(a)
+a pass-through entity, if the pass-through entity, on or before the return due date described in Section
+59-10-514
+, pays or withholds the tax on behalf of a pass-through entity taxpayer; or
+(b)
+a taxpayer other than a taxpayer described in Subsection
+(2)(a)
+, if the taxpayer pays, on or before the return due date described in Section
+59-10-514
+, an amount equal to the lesser of:
+(i)
+90% of the total tax reported on the return for the current taxable year; or
+(ii)
+100% of the total tax liability for the taxable year immediately preceding the current taxable year.
+(3)
+If a taxpayer fails to meet the requirements of Subsection
+(2)
+, the commission may apply to the total balance due a penalty as provided in Section
+59-1-401
+.
+(4)
+If a federal income tax return filing is lawfully delayed pending a determination of qualification for a federal tax exemption due to residency outside of the United States, a taxpayer shall file a return within 30 days after that determination is made.
+Amended by Chapter
+367
+, 2021 General Session</p>
+          </content>
+          <subsection eId="59_10_516__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_516__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall allow a taxpayer an extension of time for filing a return.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_516__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in Subsection :</p>
+              </content>
+              <subparagraph eId="59_10_516__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a return filed by a taxpayer except for a partnership, the extension described in Subsection may be up to six months; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_516__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a return filed by a partnership, the extension described in Subsection may be up to five months.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_516__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer may receive an extension described in Subsection for the time period that ends on the last day of the extension to file the taxpayer's federal income tax return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_516__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The commission may not impose a penalty under Section during the extension period described in Subsection on:</p>
+            </content>
+            <paragraph eId="59_10_516__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>a pass-through entity, if the pass-through entity, on or before the return due date described in Section , pays or withholds the tax on behalf of a pass-through entity taxpayer; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_516__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>a taxpayer other than a taxpayer described in Subsection , if the taxpayer pays, on or before the return due date described in Section , an amount equal to the lesser of:</p>
+              </content>
+              <subparagraph eId="59_10_516__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>90% of the total tax reported on the return for the current taxable year; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_516__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>100% of the total tax liability for the taxable year immediately preceding the current taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_516__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a taxpayer fails to meet the requirements of Subsection , the commission may apply to the total balance due a penalty as provided in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_516__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If a federal income tax return filing is lawfully delayed pending a determination of qualification for a federal tax exemption due to residency outside of the United States, a taxpayer shall file a return within 30 days after that determination is made.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-308"/>
+          <FRBRuri value="/us-ut/act/code/59-2-308"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-308/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-308/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-308/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-308/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_308">
+          <num>59-2-308</num>
+          <heading>Assessment in name of representative -- Assessment of property of decedents -- Assessment of property in litigation -- Assessment of personal property valued by Multicounty Appraisal Trust.</heading>
+          <content>
+            <p>Effective 1/1/2023
+59-2-308.
+Assessment in name of representative -- Assessment of property of decedents -- Assessment of property in litigation -- Assessment of personal property valued by Multicounty Appraisal Trust.
+(1)
+If a person is assessed as agent, trustee, bailee, guardian, executor, or administrator, a county shall:
+(a)
+add the representative designation to the name; and
+(b)
+enter the assessment separately from the individual assessment.
+(2)
+A county may assess the undistributed or unpartitioned property of a deceased individual to an heir, guardian, executor, or administrator, and the payment of taxes binds all the parties in interest.
+(3)
+Property in litigation, which is in the possession of a court or receiver, shall be assessed to the court clerk or receiver, and the taxes shall be paid under the direction of the court.
+(4)
+A county shall add the valuation the Multicounty Appraisal Trust gives to personal property of a telecommunications service provider to the valuation of any real property of the telecommunications service provider within the county before making an assessment in accordance with this part.
+Amended by Chapter
+239
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_2_308__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a person is assessed as agent, trustee, bailee, guardian, executor, or administrator, a county shall:</p>
+            </content>
+            <paragraph eId="59_2_308__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>add the representative designation to the name; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_308__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>enter the assessment separately from the individual assessment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_308__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A county may assess the undistributed or unpartitioned property of a deceased individual to an heir, guardian, executor, or administrator, and the payment of taxes binds all the parties in interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_308__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Property in litigation, which is in the possession of a court or receiver, shall be assessed to the court clerk or receiver, and the taxes shall be paid under the direction of the court.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_308__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A county shall add the valuation the Multicounty Appraisal Trust gives to personal property of a telecommunications service provider to the valuation of any real property of the telecommunications service provider within the county before making an assessment in accordance with this part.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

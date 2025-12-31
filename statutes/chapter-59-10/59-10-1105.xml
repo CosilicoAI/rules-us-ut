@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1105"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1105"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1105/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1105/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1105/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1105/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1105">
+          <num>59-10-1105</num>
+          <heading>Tax credit for hand tools used in farming operations -- Procedures for refund -- Transfers from General Fund to Income Tax Fund -- Rulemaking authority.</heading>
+          <content>
+            <p>Effective 3/24/2022
+59-10-1105.
+Tax credit for hand tools used in farming operations -- Procedures for refund -- Transfers from General Fund to Income Tax Fund -- Rulemaking authority.
+(1)
+For a taxable year beginning on or after January 1, 2004, a claimant, estate, or trust may claim a refundable tax credit:
+(a)
+as provided in this section;
+(b)
+against taxes otherwise due under this chapter; and
+(c)
+in an amount equal to the amount of tax the claimant, estate, or trust pays:
+(i)
+on a purchase of a hand tool:
+(A)
+if the purchase is made on or after July 1, 2004;
+(B)
+if the hand tool is used or consumed primarily and directly in a farming operation in the state; and
+(C)
+if the unit purchase price of the hand tool is more than $250; and
+(ii)
+under
+Chapter 12, Sales and Use Tax Act
+, on the purchase described in Subsection
+(1)(c)(i)
+.
+(2)
+A claimant, estate, or trust:
+(a)
+shall retain the following to establish the amount of tax the claimant, estate, or trust paid under
+Chapter 12, Sales and Use Tax Act
+, on the purchase described in Subsection
+(1)(c)(i)
+:
+(i)
+a receipt;
+(ii)
+an invoice; or
+(iii)
+a document similar to a document described in Subsection
+(2)(a)(i)
+or
+(ii)
+; and
+(b)
+may not carry forward or carry back a tax credit under this section.
+(3)
+(a)
+In accordance with any rules prescribed by the commission under Subsection
+(3)(b)
+:
+(i)
+the commission shall make a refund to a claimant, estate, or trust that claims a tax credit under this section if the amount of the tax credit exceeds the claimant's, estate's, or trust's tax liability under this chapter; and
+(ii)
+the Division of Finance shall transfer at least annually from the General Fund into the Income Tax Fund an amount equal to the aggregate amount of all tax credits claimed under this section.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may make rules providing procedures for making:
+(i)
+a refund to a claimant, estate, or trust as required by Subsection
+(3)(a)(i)
+; or
+(ii)
+transfers from the General Fund into the Income Tax Fund as required by Subsection
+(3)(a)(ii)
+.
+Amended by Chapter
+456
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_10_1105__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For a taxable year beginning on or after January 1, 2004, a claimant, estate, or trust may claim a refundable tax credit:</p>
+            </content>
+            <paragraph eId="59_10_1105__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>as provided in this section;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1105__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>against taxes otherwise due under this chapter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1105__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>in an amount equal to the amount of tax the claimant, estate, or trust pays:</p>
+              </content>
+              <subparagraph eId="59_10_1105__subsec_1__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on a purchase of a hand tool:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1105__subsec_1__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>under , on the purchase described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1105__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A claimant, estate, or trust:</p>
+            </content>
+            <paragraph eId="59_10_1105__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>shall retain the following to establish the amount of tax the claimant, estate, or trust paid under , on the purchase described in Subsection :</p>
+              </content>
+              <subparagraph eId="59_10_1105__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a receipt;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1105__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an invoice; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1105__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a document similar to a document described in Subsection or ; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1105__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>may not carry forward or carry back a tax credit under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1105__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_10_1105__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with any rules prescribed by the commission under Subsection :</p>
+              </content>
+              <subparagraph eId="59_10_1105__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the commission shall make a refund to a claimant, estate, or trust that claims a tax credit under this section if the amount of the tax credit exceeds the claimant's, estate's, or trust's tax liability under this chapter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1105__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the Division of Finance shall transfer at least annually from the General Fund into the Income Tax Fund an amount equal to the aggregate amount of all tax credits claimed under this section.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1105__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may make rules providing procedures for making:</p>
+              </content>
+              <subparagraph eId="59_10_1105__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a refund to a claimant, estate, or trust as required by Subsection ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1105__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>transfers from the General Fund into the Income Tax Fund as required by Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

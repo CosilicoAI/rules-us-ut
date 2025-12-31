@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-923"/>
+          <FRBRuri value="/us-ut/act/code/59-2-923"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-923/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-923/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-923/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-923/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_923">
+          <num>59-2-923</num>
+          <heading>Expenditures of money prior to adoption of budget or tax rate.</heading>
+          <content>
+            <p>59-2-923.
+Expenditures of money prior to adoption of budget or tax rate.
+A taxing entity may, before the taxing entity adopts a final annual budget or a tax rate, expend money on the basis of the taxing entity's:
+(1)
+tentative budget after adoption of the tentative budget; or
+(2)
+prior year's adopted final budget as amended, which shall be readopted by resolution at a meeting of the taxing entity's governing body.
+Amended by Chapter
+204
+, 2009 General Session</p>
+          </content>
+          <subsection eId="59_2_923__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>tentative budget after adoption of the tentative budget; or</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_923__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>prior year's adopted final budget as amended, which shall be readopted by resolution at a meeting of the taxing entity's governing body.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

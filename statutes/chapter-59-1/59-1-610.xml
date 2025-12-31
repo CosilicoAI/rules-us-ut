@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-1-610"/>
+          <FRBRuri value="/us-ut/act/code/59-1-610"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-1-610/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-1-610/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-1-610/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-1-610/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_1">
+        <num>Chapter 59-1</num>
+        <heading>General Taxation Policies</heading>
+        <section eId="sec_59_1_610">
+          <num>59-1-610</num>
+          <heading>Standard of review of appellate court.</heading>
+          <content>
+            <p>59-1-610.
+Standard of review of appellate court.
+(1)
+When reviewing formal adjudicative proceedings commenced before the commission, the Court of Appeals or Supreme Court shall:
+(a)
+grant the commission deference concerning its written findings of fact, applying a substantial evidence standard on review; and
+(b)
+grant the commission no deference concerning its conclusions of law, applying a correction of error standard, unless there is an explicit grant of discretion contained in a statute at issue before the appellate court.
+(2)
+This section supercedes Section
+63G-4-403
+pertaining to judicial review of formal adjudicative proceedings.
+Amended by Chapter
+382
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_1_610__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When reviewing formal adjudicative proceedings commenced before the commission, the Court of Appeals or Supreme Court shall:</p>
+            </content>
+            <paragraph eId="59_1_610__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>grant the commission deference concerning its written findings of fact, applying a substantial evidence standard on review; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_1_610__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>grant the commission no deference concerning its conclusions of law, applying a correction of error standard, unless there is an explicit grant of discretion contained in a statute at issue before the appellate court.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_1_610__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This section supercedes Section pertaining to judicial review of formal adjudicative proceedings.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

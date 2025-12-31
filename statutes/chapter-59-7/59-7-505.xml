@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-505"/>
+          <FRBRuri value="/us-ut/act/code/59-7-505"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-505/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-505/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-505/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-505/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_505">
+          <num>59-7-505</num>
+          <heading>Returns required -- When due -- Extension of time -- Exemption from filing.</heading>
+          <content>
+            <p>Effective 1/1/2024
+59-7-505.
+Returns required -- When due -- Extension of time -- Exemption from filing.
+(1)
+Each corporation subject to taxation under this chapter shall make a return, except that a group of corporations filing a combined report under Part 4, Combined Reporting, shall file one combined report.
+(a)
+The return shall be signed by a responsible officer of the corporation, the signature of whom need not be notarized but when signed shall be considered as made under oath.
+(b)
+(i)
+In cases where receivers, trustees in bankruptcy, or assignees are operating the property or business of corporations, those receivers, trustees, or assignees shall make returns for such corporations in the same manner and form as corporations are required to make returns.
+(ii)
+Any tax due on the basis of such returns made by receivers, trustees, or assignees shall be collected in the same manner as if collected from the corporations of whose business or property they have custody and control.
+(2)
+(a)
+A corporation required to make a return under this chapter shall make a return on or before the later of:
+(i)
+the 15th day of the fourth month following the close of the taxable year; or
+(ii)
+the day on which the corporation is required to file a federal income tax return.
+(b)
+Interest accrues from the day on which a return is due under this Subsection (2).
+(3)
+(a)
+The commission shall allow a taxpayer an extension of time for filing a return.
+(b)
+Except as provided in Subsection (3)(c), the extension described in Subsection (3)(a) may be for up to six months.
+(c)
+For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer may receive an extension described in Subsection (3)(a) for the time period that ends on the last day of the extension to file the taxpayer's federal income tax return.
+(4)
+Each return shall be made to the commission.
+(5)
+A corporation incorporated or qualified to do business in this state before January 1, 1973, is not liable for filing a return or paying tax measured by income for the taxable year in which the corporation legally terminates the corporation's existence.
+(6)
+A corporation incorporated or qualified to do business or that had the corporation's authority to do business reinstated on or after January 1, 1973, shall file a return and pay the tax measured by income for each period during which the corporation had the right to do business in this state, and the return shall be filed and the tax paid within three months and 15 days after the close of this period.
+(7)
+If a corporation terminates the corporation's existence under Section
+16-10a-1401
+, the corporation is not required to file a return if the corporation provides a statement to the commission that no business has been conducted during that period.
+(8)
+(a)
+A corporation commencing to do business in Utah after qualification or incorporation with the Division of Corporations and Commercial Code is not required to file a return for the period commencing with the date of incorporation or qualification and ending on the last day of the same month, if that corporation was not doing business in and received no income from sources in the state during such period.
+(b)
+In determining whether a corporation comes within the provisions of this chapter, affidavits on behalf of the corporation that it did no business in and received no income from sources in Utah during such period shall be filed with the commission.
+(9)
+An entity required to file a return under this section shall report on the entity's return:
+(a)
+whether the entity has filed a current annual report with the Division of Corporations; and
+(b)
+the entity's commerce entity number.
+Amended by Chapter
+232
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_7_505__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each corporation subject to taxation under this chapter shall make a return, except that a group of corporations filing a combined report under Part 4, Combined Reporting, shall file one combined report.</p>
+            </content>
+            <paragraph eId="59_7_505__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The return shall be signed by a responsible officer of the corporation, the signature of whom need not be notarized but when signed shall be considered as made under oath.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_505__subsec_1__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_7_505__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>In cases where receivers, trustees in bankruptcy, or assignees are operating the property or business of corporations, those receivers, trustees, or assignees shall make returns for such corporations in the same manner and form as corporations are required to make returns.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_505__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Any tax due on the basis of such returns made by receivers, trustees, or assignees shall be collected in the same manner as if collected from the corporations of whose business or property they have custody and control.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_505__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_7_505__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A corporation required to make a return under this chapter shall make a return on or before the later of:</p>
+              </content>
+              <subparagraph eId="59_7_505__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the 15th day of the fourth month following the close of the taxable year; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_7_505__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the day on which the corporation is required to file a federal income tax return.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_7_505__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Interest accrues from the day on which a return is due under this Subsection (2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_505__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_7_505__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall allow a taxpayer an extension of time for filing a return.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_505__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as provided in Subsection (3)(c), the extension described in Subsection (3)(a) may be for up to six months.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_505__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For a taxable year beginning on or after January 1, 2019, but beginning on or before December 31, 2019, a taxpayer may receive an extension described in Subsection (3)(a) for the time period that ends on the last day of the extension to file the taxpayer's federal income tax return.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_505__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each return shall be made to the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_505__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A corporation incorporated or qualified to do business in this state before January 1, 1973, is not liable for filing a return or paying tax measured by income for the taxable year in which the corporation legally terminates the corporation's existence.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_505__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A corporation incorporated or qualified to do business or that had the corporation's authority to do business reinstated on or after January 1, 1973, shall file a return and pay the tax measured by income for each period during which the corporation had the right to do business in this state, and the return shall be filed and the tax paid within three months and 15 days after the close of this period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_505__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>If a corporation terminates the corporation's existence under Section , the corporation is not required to file a return if the corporation provides a statement to the commission that no business has been conducted during that period.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_505__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_7_505__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A corporation commencing to do business in Utah after qualification or incorporation with the Division of Corporations and Commercial Code is not required to file a return for the period commencing with the date of incorporation or qualification and ending on the last day of the same month, if that corporation was not doing business in and received no income from sources in the state during such period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_505__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In determining whether a corporation comes within the provisions of this chapter, affidavits on behalf of the corporation that it did no business in and received no income from sources in Utah during such period shall be filed with the commission.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_7_505__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>An entity required to file a return under this section shall report on the entity's return:</p>
+            </content>
+            <paragraph eId="59_7_505__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>whether the entity has filed a current annual report with the Division of Corporations; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_7_505__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the entity's commerce entity number.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

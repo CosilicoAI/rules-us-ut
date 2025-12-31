@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-2004"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2004"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-2004/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2004/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-2004/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-2004/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_2004">
+          <num>59-12-2004</num>
+          <heading>Enactment or repeal of tax -- Effective date -- Administration, collection, and enforcement of tax -- Administrative charge.</heading>
+          <content>
+            <p>59-12-2004.
+Enactment or repeal of tax -- Effective date -- Administration, collection, and enforcement of tax -- Administrative charge.
+(1)
+Subject to Subsections
+(2)
+and
+(3)
+, a tax rate repeal or a tax rate change for a tax imposed under this part shall take effect on the first day of a calendar quarter.
+(2)
+(a)
+The enactment of a tax or a tax rate increase takes effect on the first day of the first billing period that begins on or after the effective date of the enactment of the tax or the tax rate increase if the billing period for the transaction begins before the effective date of the enactment of the tax or the tax rate increase under this part.
+(b)
+The repeal of a tax or a tax rate decrease applies to a billing period if the billing statement for the billing period is rendered on or after the effective date of the repeal of the tax or the tax rate decrease imposed under this part.
+(3)
+(a)
+If a tax due under this part on a catalogue sale is computed on the basis of sales and use tax rates published in the catalogue, an enactment, repeal, or change in the rate of a tax under this part takes effect:
+(i)
+on the first day of a calendar quarter; and
+(ii)
+beginning 60 days after the effective date of the enactment, repeal, or change in the rate of the tax under this part.
+(b)
+In accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+, the commission may by rule define the term &quot;catalogue sale.&quot;
+(4)
+The commission shall administer, collect, and enforce a tax under this part in accordance with:
+(a)
+the same procedures used to administer, collect, and enforce the tax under
+Part 1, Tax Collection
+;
+(b)
+Chapter 1, General Taxation Policies
+; and
+(c)
+Section
+59-12-210.1
+.
+(5)
+The commission shall retain and deposit an administrative charge in accordance with Section
+59-1-306
+from the revenues the commission collects from a tax under this part.
+Amended by Chapter
+254
+, 2012 General Session</p>
+          </content>
+          <subsection eId="59_12_2004__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to Subsections and , a tax rate repeal or a tax rate change for a tax imposed under this part shall take effect on the first day of a calendar quarter.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_12_2004__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_2004__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The enactment of a tax or a tax rate increase takes effect on the first day of the first billing period that begins on or after the effective date of the enactment of the tax or the tax rate increase if the billing period for the transaction begins before the effective date of the enactment of the tax or the tax rate increase under this part.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2004__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The repeal of a tax or a tax rate decrease applies to a billing period if the billing statement for the billing period is rendered on or after the effective date of the repeal of the tax or the tax rate decrease imposed under this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2004__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_12_2004__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If a tax due under this part on a catalogue sale is computed on the basis of sales and use tax rates published in the catalogue, an enactment, repeal, or change in the rate of a tax under this part takes effect:</p>
+              </content>
+              <subparagraph eId="59_12_2004__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on the first day of a calendar quarter; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_2004__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>beginning 60 days after the effective date of the enactment, repeal, or change in the rate of the tax under this part.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_2004__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with , the commission may by rule define the term &quot;catalogue sale.&quot;</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2004__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The commission shall administer, collect, and enforce a tax under this part in accordance with:</p>
+            </content>
+            <paragraph eId="59_12_2004__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the same procedures used to administer, collect, and enforce the tax under ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2004__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_2004__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Section .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_2004__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission shall retain and deposit an administrative charge in accordance with Section from the revenues the commission collects from a tax under this part.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

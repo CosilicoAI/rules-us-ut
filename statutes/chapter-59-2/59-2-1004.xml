@@ -1,0 +1,800 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1004"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1004"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1004/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1004/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1004/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1004/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1004">
+          <num>59-2-1004</num>
+          <heading>Superseded 1/1/2026</heading>
+          <content>
+            <p>Effective 5/1/2024
+Superseded 1/1/2026
+59-2-1004.
+Appeal to county board of equalization -- Real property -- Time period for appeal -- Public hearing requirements -- Decision of board -- Extensions approved by commission -- Appeal to commission.
+(1)
+As used in this section:
+(a)
+&quot;Applicable lien date&quot; means January 1 of the year in which the valuation or equalization of real property is appealed to the county board of equalization.
+(b)
+&quot;Final assessed value&quot; means:
+(i)
+for real property for which the taxpayer appealed the valuation or equalization to the county board of equalization in accordance with this section, the value given to the real property by the county board of equalization, including a value based on a stipulation of the parties;
+(ii)
+for real property for which the taxpayer or a county assessor appealed the valuation or equalization to the commission in accordance with Section
+59-2-1006
+, the value given to the real property by:
+(A)
+the commission, if the commission has issued a decision in the appeal or the parties have entered a stipulation; or
+(B)
+a county board of equalization, if the commission has not yet issued a decision in the appeal and the parties have not entered a stipulation; or
+(iii)
+for real property for which the taxpayer or a county assessor sought judicial review of the valuation or equalization in accordance with Section
+59-1-602
+or Title 63G, Chapter 4, Part 4, Judicial Review, the value given the real property by the commission.
+(c)
+&quot;Inflation adjusted value&quot; means the value of the real property that is the subject of the appeal as calculated by changing the final assessed value for the previous taxable year for the real property by the median property value change.
+(d)
+&quot;Median property value change&quot; means the midpoint of the property value changes for all real property that is:
+(i)
+of the same class of real property as the qualified real property; and
+(ii)
+located within the same county and within the same market area as the qualified real property.
+(e)
+&quot;Property value change&quot; means the percentage change in the fair market value of real property on or after January 1 of the previous year and before January 1 of the current year.
+(f)
+&quot;Qualified real property&quot; means real property:
+(i)
+for which:
+(A)
+the taxpayer or a county assessor appealed the valuation or equalization for the previous taxable year to the county board of equalization in accordance with this section or the commission in accordance with Section
+59-2-1006
+;
+(B)
+the appeal described in Subsection (1)(f)(i)(A), resulted in a final assessed value that was lower than the assessed value; and
+(C)
+the assessed value for the current taxable year is higher than the inflation adjusted value; and
+(ii)
+that, on or after January 1 of the previous taxable year and before January 1 of the current taxable year, has not had a qualifying change.
+(g)
+&quot;Qualifying change&quot; means one of the following changes to real property that occurs on or after January 1 of the previous taxable year and before January 1 of the current taxable year:
+(i)
+a physical improvement if, solely as a result of the physical improvement, the fair market value of the physical improvement equals or exceeds the greater of 10% of fair market value of the real property or $20,000;
+(ii)
+a zoning change, if the fair market value of the real property increases solely as a result of the zoning change; or
+(iii)
+a change in the legal description of the real property, if the fair market value of the real property increases solely as a result of the change in the legal description of the real property.
+(h)
+&quot;Qualifying contract&quot; means a contract for the completed sale of residential property that:
+(i)
+involves residential property for which a taxpayer appealed the valuation or equalization to the county board of equalization;
+(ii)
+identifies the final sales price for the residential property described in Subsection (1)(h)(i); and
+(iii)
+is executed within six months before or after the applicable lien date.
+(2)
+(a)
+A taxpayer dissatisfied with the valuation or the equalization of the taxpayer's real property may make an application to appeal by:
+(i)
+filing the application with the county board of equalization within the time period described in Subsection (3); or
+(ii)
+making an application by telephone or other electronic means within the time period described in Subsection (3) if the county legislative body passes a resolution under Subsection (11) authorizing a taxpayer to make an application by telephone or other electronic means.
+(b)
+(i)
+The county board of equalization shall make a rule describing the contents of the application.
+(ii)
+In addition to any information the county board of equalization requires, the application shall include information about:
+(A)
+the burden of proof in an appeal involving qualified real property; and
+(B)
+the process for the taxpayer to learn the inflation adjusted value of the qualified real property.
+(c)
+(i)
+(A)
+The county assessor shall notify the county board of equalization of a qualified real property's inflation adjusted value within 15 business days after the date on which the county assessor receives notice that a taxpayer filed an appeal with the county board of equalization.
+(B)
+The county assessor shall notify the commission of a qualified real property's inflation adjusted value within 15 business days after the date on which the county assessor receives notice that a person dissatisfied with the decision of a county board of equalization files an appeal with the commission.
+(ii)
+(A)
+A person may not appeal a county assessor's calculation of inflation adjusted value but may appeal the fair market value of a qualified real property.
+(B)
+A person may appeal a determination of whether, on or after January 1 of the previous taxable year and before January 1 of the current taxable year, real property had a qualifying change.
+(3)
+(a)
+Except as provided in Subsection (3)(b) and for purposes of Subsection (2), a taxpayer shall make an application to appeal the valuation or the equalization of the taxpayer's real property on or before the later of:
+(i)
+September 15 of the current calendar year; or
+(ii)
+the last day of a 45-day period beginning on the day on which the county auditor provides the notice under Section
+59-2-919.1
+.
+(b)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall make rules providing for circumstances under which the county board of equalization is required to accept an application to appeal that is filed after the time period prescribed in Subsection (3)(a).
+(4)
+(a)
+The taxpayer shall include in the application under Subsection (2)(a):
+(i)
+the taxpayer's estimate of the fair market value of the property and any evidence that may indicate that the assessed valuation of the taxpayer's property is improperly equalized with the assessed valuation of comparable properties; and
+(ii)
+a signed statement of the personal property located in a multi-tenant residential property, as that term is defined in Section
+59-2-301.8
+if the taxpayer:
+(A)
+appeals the value of multi-tenant residential property assessed in accordance with Section
+59-2-301.8
+; and
+(B)
+intends to contest the value of the personal property located within the multi-tenant residential property.
+(b)
+For an appeal involving qualified real propertythe county board of equalization shall presume that the fair market value of the qualified real property is equal to the inflation adjusted value.
+(5)
+Subject to Subsection (6), in reviewing evidence submitted to a county board of equalization by or on behalf of an owner or a county assessor, the county board of equalization shall consider and weigh:
+(a)
+the accuracy, reliability, and comparability of the evidence presented by the owner or the county assessor;
+(b)
+if submitted, the sales price of relevant property that was under contract for sale as of the lien date but sold after the lien date;
+(c)
+if submitted, the sales offering price of property that was offered for sale as of the lien date but did not sell, including considering and weighing the amount of time for which, and manner in which, the property was offered for sale; and
+(d)
+if submitted, other evidence that is relevant to determining the fair market value of the property.
+(6)
+(a)
+This Subsection (6) applies only to an appeal to a county board of equalization involving the valuation or equalization of residential property that is not qualified real property.
+(b)
+If a qualifying contract is submitted as evidence in an appeal described in Subsection (6)(a), the only evidence that the county board of equalization or hearing officer may consider to determine that the final sales price identified in the qualifying contract does not provide an accurate or reliable indication of the fair market value of the residential property is evidence of the following, if submitted:
+(i)
+evidence disputing the nature of the qualifying contract as an arms-length transaction;
+(ii)
+evidence demonstrating that changes in market conditions have occurred in the time period between the day on which the qualifying contract was executed and the applicable lien date; or
+(iii)
+evidence demonstrating that a qualifying change to the residential property has occurred in the time period between the day on which the qualifying contract was executed and the applicable lien date.
+(c)
+In determining the fair market value of residential property in an appeal described in Subsection (6)(a), the county board of equalization may not consider any evidence or information other than the evidence submitted to the county board of equalization by the parties in the appeal.
+(7)
+(a)
+Except as provided in Subsection (7)(b), at least five days before the day on which the county board of equalization holds a public hearing on an appeal:
+(i)
+the county assessor shall provide the taxpayer any evidence the county assessor relies upon in support of the county assessor's valuation; and
+(ii)
+the taxpayer shall provide the county assessor any evidence not previously provided to the county assessor that the taxpayer relies upon in support of the taxpayer's appeal.
+(b)
+(i)
+The deadline described in Subsection (7)(a) does not apply to evidence that is commercial information as defined in Section
+59-1-404
+, if:
+(A)
+for the purpose of complying with Section
+59-1-404
+, the county assessor requires that the taxpayer execute a nondisclosure agreement before the county assessor discloses the evidence; and
+(B)
+the taxpayer fails to execute the nondisclosure agreement before the deadline described in Subsection (7)(a).
+(ii)
+The county assessor shall disclose evidence described in Subsection (7)(b)(i) as soon as practicable after the county assessor receives the executed nondisclosure agreement.
+(iii)
+The county assessor shall provide the taxpayer a copy of the nondisclosure agreement with reasonable time for the taxpayer to review and execute the agreement before the deadline described in Subsection (7)(a) expires.
+(c)
+If at the public hearing, a party presents evidence not previously provided to the other party, the county board of equalization shall allow the other party to respond to the evidence in writing within 10 days after the day on which the public hearing occurs.
+(d)
+(i)
+A county board of equalization may adopt rules governing the deadlines described in this Subsection (7), if the rules are no less stringent than the provisions of this Subsection (7).
+(ii)
+A county board of equalization's rule that complies with Subsection (7)(d)(i) controls over the provisions of this subsection.
+(8)
+(a)
+The county board of equalization shall meet and hold public hearings as described in Section
+59-2-1001
+.
+(b)
+(i)
+For purposes of this Subsection (8)(b), &quot;significant adjustment&quot; means a proposed adjustment to the valuation of real property that:
+(A)
+is to be made by a county board of equalization; and
+(B)
+would result in a valuation that differs from the original assessed value by at least 20% and $1,000,000.
+(ii)
+When a county board of equalization is going to consider a significant adjustment, the county board of equalization shall:
+(A)
+list the significant adjustment as a separate item on the agenda of the public hearing at which the county board of equalization is going to consider the significant adjustment; and
+(B)
+for purposes of the agenda described in Subsection (8)(b)(ii)(A), provide a description of the property for which the county board of equalization is considering a significant adjustment.
+(c)
+The county board of equalization shall make a decision on each appeal filed in accordance with this section within 60 days after the day on which the taxpayer makes an application.
+(d)
+The commission may approve the extension of a time period provided for in Subsection (8)(c) for a county board of equalization to make a decision on an appeal.
+(e)
+Unless the commission approves the extension of a time period under Subsection (8)(d), if a county board of equalization fails to make a decision on an appeal within the time period described in Subsection (8)(c), the county legislative body shall:
+(i)
+list the appeal, by property owner and parcel number, on the agenda for the next meeting the county legislative body holds after the expiration of the time period described in Subsection (8)(c); and
+(ii)
+hear the appeal at the meeting described in Subsection (8)(e)(i).
+(f)
+The decision of the county board of equalization shall contain:
+(i)
+a determination of the valuation of the property based on fair market value; and
+(ii)
+a conclusion that the fair market value is properly equalized with the assessed value of comparable properties.
+(g)
+If no evidence is presented before the county board of equalization, the county board of equalization shall presume that the equalization issue has been met.
+(h)
+(i)
+If the fair market value of the property that is the subject of the appeal deviates plus or minus 5% from the assessed value of comparable properties, the county board of equalization shall adjust the valuation of the appealed property to reflect a value equalized with the assessed value of comparable properties.
+(ii)
+Subject to Sections
+59-2-301.1
+,
+59-2-301.2
+,
+59-2-301.3
+, and
+59-2-301.4
+, equalized value established under Subsection (8)(h)(i) shall be the assessed value for property tax purposes until the county assessor is able to evaluate and equalize the assessed value of all comparable properties to bring all comparable properties into conformity with full fair market value.
+(9)
+(a)
+If the decision of the county board of equalization warrants a refund of any amount of property taxes paid for the tax year for the real property that is the subject of the appeal, the county shall issue the refund directly to the taxpayer that paid the property taxes, or an officer or agent of that taxpayer as identified in the information provided under Subsection (9)(b), regardless of whether the taxpayer is the owner of record of the real property at the time the decision is rendered.
+(b)
+A taxpayer entitled to a refund under this section that is not the owner of record of the real property subject to the appeal shall, within 10 calendar days after the day on which the decision of the county board of equalization is rendered, provide the following information to the county board of equalization:
+(i)
+a statement that the taxpayer is entitled to receive the refund under Subsection (9)(a);
+(ii)
+the name of the taxpayer, or an officer or agent of that taxpayer, entitled to receive the refund;
+(iii)
+the mailing address of the taxpayer, or an officer or agent of that taxpayer, to which the taxpayer requests the refund to be sent; and
+(iv)
+any other information requested by the county board of equalization.
+(10)
+If any taxpayer is dissatisfied with the decision of the county board of equalization, the taxpayer may file an appeal with the commission as described in Section
+59-2-1006
+.
+(11)
+A county legislative body may pass a resolution authorizing taxpayers owing taxes on property assessed by that county to file property tax appeals applications under this section by telephone or other electronic means.
+Amended by Chapter
+252
+, 2024 General Session
+Amended by Chapter
+263
+, 2024 General Session
+Amended by Chapter
+353
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_1004__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section:</p>
+            </content>
+            <paragraph eId="59_2_1004__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Applicable lien date&quot; means January 1 of the year in which the valuation or equalization of real property is appealed to the county board of equalization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Final assessed value&quot; means:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for real property for which the taxpayer appealed the valuation or equalization to the county board of equalization in accordance with this section, the value given to the real property by the county board of equalization, including a value based on a stipulation of the parties;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for real property for which the taxpayer or a county assessor appealed the valuation or equalization to the commission in accordance with Section , the value given to the real property by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>for real property for which the taxpayer or a county assessor sought judicial review of the valuation or equalization in accordance with Section or Title 63G, Chapter 4, Part 4, Judicial Review, the value given the real property by the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Inflation adjusted value&quot; means the value of the real property that is the subject of the appeal as calculated by changing the final assessed value for the previous taxable year for the real property by the median property value change.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Median property value change&quot; means the midpoint of the property value changes for all real property that is:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_1__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>of the same class of real property as the qualified real property; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>located within the same county and within the same market area as the qualified real property.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Property value change&quot; means the percentage change in the fair market value of real property on or after January 1 of the previous year and before January 1 of the current year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Qualified real property&quot; means real property:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_1__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for which:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>that, on or after January 1 of the previous taxable year and before January 1 of the current taxable year, has not had a qualifying change.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Qualifying change&quot; means one of the following changes to real property that occurs on or after January 1 of the previous taxable year and before January 1 of the current taxable year:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_1__para_g__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a physical improvement if, solely as a result of the physical improvement, the fair market value of the physical improvement equals or exceeds the greater of 10% of fair market value of the real property or $20,000;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_g__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a zoning change, if the fair market value of the real property increases solely as a result of the zoning change; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_g__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>a change in the legal description of the real property, if the fair market value of the real property increases solely as a result of the change in the legal description of the real property.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;Qualifying contract&quot; means a contract for the completed sale of residential property that:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_1__para_h__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>involves residential property for which a taxpayer appealed the valuation or equalization to the county board of equalization;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_h__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>identifies the final sales price for the residential property described in Subsection (1)(h)(i); and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_1__para_h__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>is executed within six months before or after the applicable lien date.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_1004__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxpayer dissatisfied with the valuation or the equalization of the taxpayer's real property may make an application to appeal by:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>filing the application with the county board of equalization within the time period described in Subsection (3); or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>making an application by telephone or other electronic means within the time period described in Subsection (3) if the county legislative body passes a resolution under Subsection (11) authorizing a taxpayer to make an application by telephone or other electronic means.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_1004__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The county board of equalization shall make a rule describing the contents of the application.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>In addition to any information the county board of equalization requires, the application shall include information about:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_2__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_1004__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1004__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (3)(b) and for purposes of Subsection (2), a taxpayer shall make an application to appeal the valuation or the equalization of the taxpayer's real property on or before the later of:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>September 15 of the current calendar year; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the last day of a 45-day period beginning on the day on which the county auditor provides the notice under Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission shall make rules providing for circumstances under which the county board of equalization is required to accept an application to appeal that is filed after the time period prescribed in Subsection (3)(a).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_1004__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The taxpayer shall include in the application under Subsection (2)(a):</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the taxpayer's estimate of the fair market value of the property and any evidence that may indicate that the assessed valuation of the taxpayer's property is improperly equalized with the assessed valuation of comparable properties; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a signed statement of the personal property located in a multi-tenant residential property, as that term is defined in Section if the taxpayer:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For an appeal involving qualified real propertythe county board of equalization shall presume that the fair market value of the qualified real property is equal to the inflation adjusted value.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Subject to Subsection (6), in reviewing evidence submitted to a county board of equalization by or on behalf of an owner or a county assessor, the county board of equalization shall consider and weigh:</p>
+            </content>
+            <paragraph eId="59_2_1004__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the accuracy, reliability, and comparability of the evidence presented by the owner or the county assessor;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>if submitted, the sales price of relevant property that was under contract for sale as of the lien date but sold after the lien date;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>if submitted, the sales offering price of property that was offered for sale as of the lien date but did not sell, including considering and weighing the amount of time for which, and manner in which, the property was offered for sale; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>if submitted, other evidence that is relevant to determining the fair market value of the property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_2_1004__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>This Subsection (6) applies only to an appeal to a county board of equalization involving the valuation or equalization of residential property that is not qualified real property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a qualifying contract is submitted as evidence in an appeal described in Subsection (6)(a), the only evidence that the county board of equalization or hearing officer may consider to determine that the final sales price identified in the qualifying contract does not provide an accurate or reliable indication of the fair market value of the residential property is evidence of the following, if submitted:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_6__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>evidence disputing the nature of the qualifying contract as an arms-length transaction;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_6__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>evidence demonstrating that changes in market conditions have occurred in the time period between the day on which the qualifying contract was executed and the applicable lien date; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_6__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>evidence demonstrating that a qualifying change to the residential property has occurred in the time period between the day on which the qualifying contract was executed and the applicable lien date.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In determining the fair market value of residential property in an appeal described in Subsection (6)(a), the county board of equalization may not consider any evidence or information other than the evidence submitted to the county board of equalization by the parties in the appeal.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_2_1004__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (7)(b), at least five days before the day on which the county board of equalization holds a public hearing on an appeal:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the county assessor shall provide the taxpayer any evidence the county assessor relies upon in support of the county assessor's valuation; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the taxpayer shall provide the county assessor any evidence not previously provided to the county assessor that the taxpayer relies upon in support of the taxpayer's appeal.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_7__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_1004__subsec_7__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>The deadline described in Subsection (7)(a) does not apply to evidence that is commercial information as defined in Section , if:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_7__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The county assessor shall disclose evidence described in Subsection (7)(b)(i) as soon as practicable after the county assessor receives the executed nondisclosure agreement.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_7__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>The county assessor shall provide the taxpayer a copy of the nondisclosure agreement with reasonable time for the taxpayer to review and execute the agreement before the deadline described in Subsection (7)(a) expires.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If at the public hearing, a party presents evidence not previously provided to the other party, the county board of equalization shall allow the other party to respond to the evidence in writing within 10 days after the day on which the public hearing occurs.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_7__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_2_1004__subsec_7__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>A county board of equalization may adopt rules governing the deadlines described in this Subsection (7), if the rules are no less stringent than the provisions of this Subsection (7).</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_7__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A county board of equalization's rule that complies with Subsection (7)(d)(i) controls over the provisions of this subsection.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_8">
+            <num>(8)</num>
+            <paragraph eId="59_2_1004__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The county board of equalization shall meet and hold public hearings as described in Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_1004__subsec_8__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>For purposes of this Subsection (8)(b), &quot;significant adjustment&quot; means a proposed adjustment to the valuation of real property that:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_8__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>When a county board of equalization is going to consider a significant adjustment, the county board of equalization shall:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The county board of equalization shall make a decision on each appeal filed in accordance with this section within 60 days after the day on which the taxpayer makes an application.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The commission may approve the extension of a time period provided for in Subsection (8)(c) for a county board of equalization to make a decision on an appeal.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Unless the commission approves the extension of a time period under Subsection (8)(d), if a county board of equalization fails to make a decision on an appeal within the time period described in Subsection (8)(c), the county legislative body shall:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_8__para_e__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>list the appeal, by property owner and parcel number, on the agenda for the next meeting the county legislative body holds after the expiration of the time period described in Subsection (8)(c); and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_8__para_e__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>hear the appeal at the meeting described in Subsection (8)(e)(i).</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The decision of the county board of equalization shall contain:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_8__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a determination of the valuation of the property based on fair market value; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_8__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a conclusion that the fair market value is properly equalized with the assessed value of comparable properties.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_g">
+              <num>(g)</num>
+              <content>
+                <p>If no evidence is presented before the county board of equalization, the county board of equalization shall presume that the equalization issue has been met.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_8__para_h">
+              <num>(h)</num>
+              <subparagraph eId="59_2_1004__subsec_8__para_h__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If the fair market value of the property that is the subject of the appeal deviates plus or minus 5% from the assessed value of comparable properties, the county board of equalization shall adjust the valuation of the appealed property to reflect a value equalized with the assessed value of comparable properties.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_8__para_h__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Subject to Sections , , , and , equalized value established under Subsection (8)(h)(i) shall be the assessed value for property tax purposes until the county assessor is able to evaluate and equalize the assessed value of all comparable properties to bring all comparable properties into conformity with full fair market value.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_2_1004__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the decision of the county board of equalization warrants a refund of any amount of property taxes paid for the tax year for the real property that is the subject of the appeal, the county shall issue the refund directly to the taxpayer that paid the property taxes, or an officer or agent of that taxpayer as identified in the information provided under Subsection (9)(b), regardless of whether the taxpayer is the owner of record of the real property at the time the decision is rendered.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1004__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A taxpayer entitled to a refund under this section that is not the owner of record of the real property subject to the appeal shall, within 10 calendar days after the day on which the decision of the county board of equalization is rendered, provide the following information to the county board of equalization:</p>
+              </content>
+              <subparagraph eId="59_2_1004__subsec_9__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a statement that the taxpayer is entitled to receive the refund under Subsection (9)(a);</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_9__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the name of the taxpayer, or an officer or agent of that taxpayer, entitled to receive the refund;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_9__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the mailing address of the taxpayer, or an officer or agent of that taxpayer, to which the taxpayer requests the refund to be sent; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1004__subsec_9__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>any other information requested by the county board of equalization.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>If any taxpayer is dissatisfied with the decision of the county board of equalization, the taxpayer may file an appeal with the commission as described in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1004__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>A county legislative body may pass a resolution authorizing taxpayers owing taxes on property assessed by that county to file property tax appeals applications under this section by telephone or other electronic means.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-614.4"/>
+          <FRBRuri value="/us-ut/act/code/59-7-614.4"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-614.4/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-614.4/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-614.4/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-614.4/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_614_4">
+          <num>59-7-614.4</num>
+          <heading>Tax credit for pass-through entity taxpayer.</heading>
+          <content>
+            <p>59-7-614.4.
+Tax credit for pass-through entity taxpayer.
+(1)
+As used in this section:
+(a)
+&quot;Pass-through entity&quot; is as defined in Section
+59-10-1402
+.
+(b)
+&quot;Pass-through entity taxpayer&quot; is as defined in Section
+59-10-1402
+.
+(2)
+A pass-through entity taxpayer may claim a refundable tax credit against the tax otherwise due under this chapter.
+(3)
+The tax credit described in Subsection
+(2)
+is equal to the amount paid or withheld by the pass-through entity on behalf of the pass-through entity taxpayer described in Subsection
+(2)
+in accordance with Section
+59-10-1403.2
+.
+(4)
+A pass-through entity taxpayer may not claim a tax credit under this section for an amount for which the pass-through entity taxpayer claims a tax credit under Section
+59-10-1103
+.
+Enacted by Chapter
+312
+, 2009 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

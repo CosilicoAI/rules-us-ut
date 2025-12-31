@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1322"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1322"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1322/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1322/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1322/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1322/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1322">
+          <num>59-10-1322</num>
+          <heading>Contribution to Diapering Supplies Fund.</heading>
+          <content>
+            <p>Effective 1/1/2025
+59-10-1322.
+Contribution to Diapering Supplies Fund.
+(1)
+As used in this section, &quot;fund&quot; means the Diapering Supplies Fund created in Subsection (2).
+(2)
+There is created an expendable special revenue fund known as the &quot;Diapering Supplies Fund.&quot;
+(3)
+The fund consists of amounts deposited into the fund in accordance with Subsection (4).
+(4)
+Except as provided in Section
+59-10-1304
+, a resident or nonresident individual who files an income tax return under this chapter may designate on the resident or nonresident individual's income tax return a contribution to be:
+(a)
+deposited into the Diapering Supplies Fund; and
+(b)
+expended as provided in Subsection (5).
+(5)
+(a)
+Each year, the commission shall:
+(i)
+disburse from the Diapering Supplies Fund all money deposited into the fund since the last disbursement; and
+(ii)
+transfer the money to the Department of Health and Human Services for distribution in accordance with Section
+26B-7-125
+.
+(b)
+The commission shall complete the transfer of funds to the Department of Health and Human Services by August 15 of each year.
+Enacted by Chapter
+95
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_10_1322__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;fund&quot; means the Diapering Supplies Fund created in Subsection (2).</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1322__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There is created an expendable special revenue fund known as the &quot;Diapering Supplies Fund.&quot;</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1322__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The fund consists of amounts deposited into the fund in accordance with Subsection (4).</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1322__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as provided in Section , a resident or nonresident individual who files an income tax return under this chapter may designate on the resident or nonresident individual's income tax return a contribution to be:</p>
+            </content>
+            <paragraph eId="59_10_1322__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>deposited into the Diapering Supplies Fund; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1322__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>expended as provided in Subsection (5).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1322__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_10_1322__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each year, the commission shall:</p>
+              </content>
+              <subparagraph eId="59_10_1322__subsec_5__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>disburse from the Diapering Supplies Fund all money deposited into the fund since the last disbursement; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1322__subsec_5__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>transfer the money to the Department of Health and Human Services for distribution in accordance with Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1322__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall complete the transfer of funds to the Department of Health and Human Services by August 15 of each year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

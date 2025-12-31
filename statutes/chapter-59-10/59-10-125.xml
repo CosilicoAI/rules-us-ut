@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-125"/>
+          <FRBRuri value="/us-ut/act/code/59-10-125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-125/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-125/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-125/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-125/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_125">
+          <num>59-10-125</num>
+          <heading>Adjustment after change of accounting method.</heading>
+          <content>
+            <p>59-10-125.
+Adjustment after change of accounting method.
+(1)
+If a taxpayer's method of accounting is changed, other than from an accrual to an installment method, any additional tax that results from adjustments determined to be necessary solely by reason of the change may not be greater than if those adjustments were ratably allocated and included for the taxable year of the change and the preceding taxable years, not in excess of two, during which the taxpayer used the method of accounting from which the change is made.
+(2)
+If a taxpayer's method of accounting is changed from an accrual to an installment method, any additional tax for the taxable year of the change in the method of accounting and for any subsequent taxable year that is attributable to the receipt of installment payments properly accrued in a prior taxable year, shall be reduced by the portion of tax for any prior taxable year attributable to the accrual of such installment payments, under rules prescribed by the commission in accordance with
+Title 63G, Chapter 3, Utah Administrative Rulemaking Act
+.
+Amended by Chapter
+389
+, 2008 General Session</p>
+          </content>
+          <subsection eId="59_10_125__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a taxpayer's method of accounting is changed, other than from an accrual to an installment method, any additional tax that results from adjustments determined to be necessary solely by reason of the change may not be greater than if those adjustments were ratably allocated and included for the taxable year of the change and the preceding taxable years, not in excess of two, during which the taxpayer used the method of accounting from which the change is made.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_125__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a taxpayer's method of accounting is changed from an accrual to an installment method, any additional tax for the taxable year of the change in the method of accounting and for any subsequent taxable year that is attributable to the receipt of installment payments properly accrued in a prior taxable year, shall be reduced by the portion of tax for any prior taxable year attributable to the accrual of such installment payments, under rules prescribed by the commission in accordance with .</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

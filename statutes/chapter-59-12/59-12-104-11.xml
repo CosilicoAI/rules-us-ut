@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-104.11"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-104.11/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-104.11/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-104.11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_104_11">
+          <num>59-12-104.11</num>
+          <heading>Sales tax due for motor vehicle with adaptive driving equipment.</heading>
+          <content>
+            <p>Effective 10/14/2025
+59-12-104.11.
+Sales tax due for motor vehicle with adaptive driving equipment.
+(1)
+An owner of a motor vehicle with adaptive driving equipment installed may claim the sales tax exemption described in Subsection
+59-12-104(100)
+at the time of purchase if the owner purchases the motor vehicle from a vehicle dealer.
+(2)
+A vehicle dealer shall collect sales tax required by this chapter on the purchase price of the vehicle after subtracting the amount of the purchase price attributed to the adaptive driving equipment.
+(3)
+(a)
+A vehicle dealer shall state the purchase price attributed to the adaptive driving equipment on the contract of sale.
+(b)
+The vehicle dealer shall retain the contract of sale described in Subsection
+(3)(a)
+for the same period of time a vehicle dealer is required to keep books and records under Section
+59-1-1406
+.
+Amended by Chapter
+11
+, 2025 Special Session 1</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

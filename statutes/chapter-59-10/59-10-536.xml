@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-536"/>
+          <FRBRuri value="/us-ut/act/code/59-10-536"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-536/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-536/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-536/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-536/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_536">
+          <num>59-10-536</num>
+          <heading>Assessment and collection of tax -- Change on federal income tax return -- Taxpayer requirement to make certain filings with the commission.</heading>
+          <content>
+            <p>59-10-536.
+Assessment and collection of tax -- Change on federal income tax return -- Taxpayer requirement to make certain filings with the commission.
+(1)
+(a)
+If, before the expiration of the time prescribed in this section for the assessment of a tax, the commission and the taxpayer agree in writing to the assessment of the tax in a time period after the time period prescribed in this section for the assessment of a tax, the tax may be assessed at any time before the expiration of the period to which the commission and the taxpayer agree.
+(b)
+A time period that the commission and a taxpayer agree upon under Subsection
+(1)(a)
+may be extended by written agreement:
+(i)
+between the commission and the taxpayer; and
+(ii)
+made before the expiration of the time period that the commission and the taxpayer previously agreed upon.
+(2)
+(a)
+(i)
+Except as provided in Subsection
+(2)(a)(iii)
+, if a change is made in a taxpayer's net income on the taxpayer's federal income tax return because of an action by the federal government, the taxpayer shall file with the commission within 90 days after the date there is a final determination of the action:
+(A)
+a copy of the taxpayer's amended federal income tax return; and
+(B)
+an amended state income tax return that conforms with the changes made in the taxpayer's amended federal income tax return.
+(ii)
+Except as provided in Subsection
+(2)(a)(iii)
+, if a change is made in a taxpayer's net income on the taxpayer's federal income tax return because the taxpayer files an amended federal income tax return, the taxpayer shall file with the commission within 90 days after the date the taxpayer files the amended federal income tax return:
+(A)
+a copy of the taxpayer's amended federal income tax return; and
+(B)
+an amended state income tax return that conforms with the changes made in the taxpayer's amended federal income tax return.
+(iii)
+A taxpayer is not required to file a return described in Subsection
+(2)(a)(i)
+or
+(ii)
+if a change in the taxpayer's federal income tax return does not increase state tax liability.
+(b)
+(i)
+Subject to Subsection
+(2)(b)(iii)
+, the commission may assess a deficiency in state income taxes within three years after a notification or amended federal income tax return described in Subsection
+(2)(a)
+is filed.
+(ii)
+The amount of an assessment of tax under this Subsection
+(2)(b)
+may not exceed the amount of the increase in Utah tax attributable to the change described in Subsection
+(2)(a)
+.
+(iii)
+If a taxpayer fails to report to the commission a change specified in this Subsection
+(2)(b)
+, the assessment may be made at any time within six years after the date of the change.
+(3)
+If a deficiency in federal income tax required to be reported is attributable to a net operating loss carry back or carry forward, a deficiency in the tax imposed by this chapter may be assessed within three years from the due date of the return for the taxable year of the net operating loss.
+(4)
+Except as provided in Subsections
+(1)
+through
+(3)
+, this section does not affect the time within which or the amount for which an assessment may otherwise be made.
+(5)
+(a)
+An erroneous refund shall be considered an underpayment of tax on the date the commission makes the erroneous refund.
+(b)
+An assessment of a deficiency arising out of an erroneous refund may be made at any time within three years from the date the refund is made, except that an assessment may be made within five years from the time the refund is made if any part of the refund is induced by fraud or misrepresentation of a material fact.
+(6)
+(a)
+Subject to Subsection
+(6)(b)
+, if a return is required for a decedent or for the decedent's estate during the period of administration, the tax shall be assessed within 18 months after written request for the assessment:
+(i)
+made after the return is filed; and
+(ii)
+by:
+(A)
+the personal representative; or
+(B)
+another person representing the estate of the decedent.
+(b)
+Except as otherwise provided in this section, the assessment described in Subsection
+(6)(a)
+may not be made more than three years after the time the return is filed.
+(7)
+(a)
+The amount of a tax imposed by this chapter may be assessed at any time within six years after the time the return is filed if:
+(i)
+a resident individual, resident estate, or resident trust omits from gross income as reported for federal income tax purposes an amount properly includable in adjusted gross income, which is in excess of 25% of the amount of gross income stated in the return; or
+(ii)
+a nonresident individual, nonresident estate, or nonresident trust omits from gross income as reported for federal income tax purposes an amount of adjusted gross income derived from Utah sources determined in accordance with Section
+59-10-117
+, properly includable in adjusted gross income, that is in excess of 25% of the amount of adjusted gross income derived from Utah sources which is reflected in the return.
+(b)
+For purposes of Subsection
+(7)(a)(ii)
+, there may not be taken into account any amount that is omitted in the return if the amount is disclosed:
+(i)
+(A)
+in the return; or
+(B)
+in a statement attached to the return; and
+(ii)
+in a manner adequate to apprise the commission of the nature and amount of the item.
+Amended by Chapter
+53
+, 2011 General Session</p>
+          </content>
+          <subsection eId="59_10_536__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_10_536__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If, before the expiration of the time prescribed in this section for the assessment of a tax, the commission and the taxpayer agree in writing to the assessment of the tax in a time period after the time period prescribed in this section for the assessment of a tax, the tax may be assessed at any time before the expiration of the period to which the commission and the taxpayer agree.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_536__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A time period that the commission and a taxpayer agree upon under Subsection may be extended by written agreement:</p>
+              </content>
+              <subparagraph eId="59_10_536__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>between the commission and the taxpayer; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>made before the expiration of the time period that the commission and the taxpayer previously agreed upon.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_536__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_10_536__subsec_2__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_536__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection , if a change is made in a taxpayer's net income on the taxpayer's federal income tax return because of an action by the federal government, the taxpayer shall file with the commission within 90 days after the date there is a final determination of the action:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Except as provided in Subsection , if a change is made in a taxpayer's net income on the taxpayer's federal income tax return because the taxpayer files an amended federal income tax return, the taxpayer shall file with the commission within 90 days after the date the taxpayer files the amended federal income tax return:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_2__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>A taxpayer is not required to file a return described in Subsection or if a change in the taxpayer's federal income tax return does not increase state tax liability.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_536__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_10_536__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Subject to Subsection , the commission may assess a deficiency in state income taxes within three years after a notification or amended federal income tax return described in Subsection is filed.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The amount of an assessment of tax under this Subsection may not exceed the amount of the increase in Utah tax attributable to the change described in Subsection .</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_2__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>If a taxpayer fails to report to the commission a change specified in this Subsection , the assessment may be made at any time within six years after the date of the change.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_536__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a deficiency in federal income tax required to be reported is attributable to a net operating loss carry back or carry forward, a deficiency in the tax imposed by this chapter may be assessed within three years from the due date of the return for the taxable year of the net operating loss.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_536__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as provided in Subsections through , this section does not affect the time within which or the amount for which an assessment may otherwise be made.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_536__subsec_5">
+            <num>(5)</num>
+            <paragraph eId="59_10_536__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>An erroneous refund shall be considered an underpayment of tax on the date the commission makes the erroneous refund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_536__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An assessment of a deficiency arising out of an erroneous refund may be made at any time within three years from the date the refund is made, except that an assessment may be made within five years from the time the refund is made if any part of the refund is induced by fraud or misrepresentation of a material fact.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_536__subsec_6">
+            <num>(6)</num>
+            <paragraph eId="59_10_536__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to Subsection , if a return is required for a decedent or for the decedent's estate during the period of administration, the tax shall be assessed within 18 months after written request for the assessment:</p>
+              </content>
+              <subparagraph eId="59_10_536__subsec_6__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>made after the return is filed; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_6__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>by:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_536__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this section, the assessment described in Subsection may not be made more than three years after the time the return is filed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_536__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_10_536__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount of a tax imposed by this chapter may be assessed at any time within six years after the time the return is filed if:</p>
+              </content>
+              <subparagraph eId="59_10_536__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a resident individual, resident estate, or resident trust omits from gross income as reported for federal income tax purposes an amount properly includable in adjusted gross income, which is in excess of 25% of the amount of gross income stated in the return; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a nonresident individual, nonresident estate, or nonresident trust omits from gross income as reported for federal income tax purposes an amount of adjusted gross income derived from Utah sources determined in accordance with Section , properly includable in adjusted gross income, that is in excess of 25% of the amount of adjusted gross income derived from Utah sources which is reflected in the return.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_536__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of Subsection , there may not be taken into account any amount that is omitted in the return if the amount is disclosed:</p>
+              </content>
+              <subparagraph eId="59_10_536__subsec_7__para_b__subpara_i">
+                <num>(i)</num>
+              </subparagraph>
+              <subparagraph eId="59_10_536__subsec_7__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>in a manner adequate to apprise the commission of the nature and amount of the item.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

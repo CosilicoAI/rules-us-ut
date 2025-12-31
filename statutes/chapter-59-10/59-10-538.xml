@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-538"/>
+          <FRBRuri value="/us-ut/act/code/59-10-538"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-538/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-538/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-538/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-538/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_538">
+          <num>59-10-538</num>
+          <heading>Interest on overpayments.</heading>
+          <content>
+            <p>59-10-538.
+Interest on overpayments.
+(1)
+Interest shall be allowed and paid upon any overpayment in respect of any tax imposed by this chapter, at the rate and in the manner prescribed in Section
+59-1-402
+.
+(2)
+For purposes of this section, if any overpayment of tax imposed by this chapter results from a carryback of a net operating loss, such overpayment shall be deemed not to have been made prior to the close of the taxable year of the net operating loss which results in such carryback.
+Amended by Chapter
+1
+, 1993 Special Session 2
+Amended by Chapter
+1
+, 1993 Special Session 2</p>
+          </content>
+          <subsection eId="59_10_538__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Interest shall be allowed and paid upon any overpayment in respect of any tax imposed by this chapter, at the rate and in the manner prescribed in Section .</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_538__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of this section, if any overpayment of tax imposed by this chapter results from a carryback of a net operating loss, such overpayment shall be deemed not to have been made prior to the close of the taxable year of the net operating loss which results in such carryback.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

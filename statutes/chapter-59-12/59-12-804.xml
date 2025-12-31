@@ -1,0 +1,316 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-12-804"/>
+          <FRBRuri value="/us-ut/act/code/59-12-804"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-12-804/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-12-804/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-12-804/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-12-804/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_12">
+        <num>Chapter 59-12</num>
+        <heading>Sales and Use Tax Act</heading>
+        <section eId="sec_59_12_804">
+          <num>59-12-804</num>
+          <heading>Imposition of rural city hospital tax -- Base -- Rate -- Administration, collection,enforcement, and interpretation of tax -- Administrative charge. .</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-12-804.
+Imposition of rural city hospital tax -- Base -- Rate -- Administration, collection,enforcement, and interpretation of tax -- Administrative charge. .
+(1)
+(a)
+A city legislative body may impose a sales and use tax of up to 1%:
+(i)
+on the transactions described in Subsection
+59-12-103(1)
+located within the city; and
+(ii)
+to fund rural city hospitals in that city.
+(b)
+Notwithstanding Subsection
+(1)(a)(i)
+, a city legislative body may not impose a tax under this section on:
+(i)
+the sales and uses described in Section
+59-12-104
+to the extent the sales and uses are exempt from taxation under Section
+59-12-104
+; and
+(ii)
+except as provided in Subsection
+(1)(d)
+, amounts paid or charged for food and food ingredients.
+(c)
+For purposes of this Subsection
+(1)
+, the location of a transaction shall be determined in accordance with Sections
+59-12-211
+through
+59-12-215
+.
+(d)
+A city legislative body imposing a tax under this section shall impose the tax on the purchase price or sales price for amounts paid or charged for food and food ingredients if the food and food ingredients are sold as part of a bundled transaction attributable to food and food ingredients and tangible personal property other than food and food ingredients.
+(2)
+(a)
+Before imposing a tax under Subsection
+(1)(a)
+, a city legislative body shall obtain approval to impose the tax from a majority of the:
+(i)
+members of the city legislative body; and
+(ii)
+city's registered voters voting on the imposition of the tax.
+(b)
+The city legislative body shall conduct the election according to the procedures and requirements of
+Title 11, Chapter 14, Local Government Bonding Act
+.
+(3)
+The money collected from a tax imposed under Subsection
+(1)
+may only be used to fund:
+(a)
+ongoing operating expenses of a rural city hospital;
+(b)
+the acquisition of land for a rural city hospital; or
+(c)
+the design, construction, equipping, or furnishing of a rural city hospital.
+(4)
+(a)
+A tax under this section shall be:
+(i)
+except as provided in Subsection
+(4)(b)
+, administered, collected, enforced, and interpreted in accordance with:
+(A)
+the same procedures used to administer, collect, enforce, and interpret the tax under:
+(I)
+Part 1, Tax Collection
+; or
+(II)
+Part 2, Local Sales and Use Tax Act
+; and
+(B)
+Chapter 1, General Taxation Policies
+; and
+(ii)
+levied for a period of 10 years and may be reauthorized at the end of the 10-year period by the city legislative body and the city's registered voters in accordance with the procedures and requirements for levying a tax under Subsection
+(2)
+, except as provided in Subsection
+(4)(c)
+.
+(b)
+A tax under this section is not subject to Subsections
+59-12-205(2)
+and (4) through (6).
+(c)
+(i)
+This Subsection
+(4)(c)
+applies to a city that imposes a tax under this section on or before January 1, 2024.
+(ii)
+Notwithstanding Subsection
+(4)(a)(ii)
+, a city described in Subsection
+(4)(c)(i)
+is not subject to the voter approval requirement in Subsection
+(2)
+for the first time the city reauthorizes the tax at the end of the 10-year levy period after January 1, 2024.
+(iii)
+The voter approval requirement in Subsection
+(2)
+applies to a city described in Subsection
+(4)(c)(i)
+for any time the city reauthorizes the tax at the end of the 10-year levy period after the reauthorization described in Subsection
+(4)(c)(ii)
+.
+(5)
+The commission shall retain and deposit an administrative charge in accordance with Section
+59-1-306
+from the revenue the commission collects from a tax under this section.
+Amended by Chapter
+290
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_12_804__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_12_804__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A city legislative body may impose a sales and use tax of up to 1%:</p>
+              </content>
+              <subparagraph eId="59_12_804__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>on the transactions described in Subsection located within the city; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_804__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>to fund rural city hospitals in that city.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding Subsection , a city legislative body may not impose a tax under this section on:</p>
+              </content>
+              <subparagraph eId="59_12_804__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the sales and uses described in Section to the extent the sales and uses are exempt from taxation under Section ; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_804__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>except as provided in Subsection , amounts paid or charged for food and food ingredients.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of this Subsection , the location of a transaction shall be determined in accordance with Sections through .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A city legislative body imposing a tax under this section shall impose the tax on the purchase price or sales price for amounts paid or charged for food and food ingredients if the food and food ingredients are sold as part of a bundled transaction attributable to food and food ingredients and tangible personal property other than food and food ingredients.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_804__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_12_804__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Before imposing a tax under Subsection , a city legislative body shall obtain approval to impose the tax from a majority of the:</p>
+              </content>
+              <subparagraph eId="59_12_804__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>members of the city legislative body; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_804__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>city's registered voters voting on the imposition of the tax.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The city legislative body shall conduct the election according to the procedures and requirements of .</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_804__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The money collected from a tax imposed under Subsection may only be used to fund:</p>
+            </content>
+            <paragraph eId="59_12_804__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>ongoing operating expenses of a rural city hospital;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the acquisition of land for a rural city hospital; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>the design, construction, equipping, or furnishing of a rural city hospital.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_804__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_12_804__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A tax under this section shall be:</p>
+              </content>
+              <subparagraph eId="59_12_804__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>except as provided in Subsection , administered, collected, enforced, and interpreted in accordance with:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_804__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>levied for a period of 10 years and may be reauthorized at the end of the 10-year period by the city legislative body and the city's registered voters in accordance with the procedures and requirements for levying a tax under Subsection , except as provided in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A tax under this section is not subject to Subsections and (4) through (6).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_12_804__subsec_4__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_12_804__subsec_4__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>This Subsection applies to a city that imposes a tax under this section on or before January 1, 2024.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_804__subsec_4__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>Notwithstanding Subsection , a city described in Subsection is not subject to the voter approval requirement in Subsection for the first time the city reauthorizes the tax at the end of the 10-year levy period after January 1, 2024.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_12_804__subsec_4__para_c__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>The voter approval requirement in Subsection applies to a city described in Subsection for any time the city reauthorizes the tax at the end of the 10-year levy period after the reauthorization described in Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_12_804__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The commission shall retain and deposit an administrative charge in accordance with Section from the revenue the commission collects from a tax under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

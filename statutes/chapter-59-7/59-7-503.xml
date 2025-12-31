@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-7-503"/>
+          <FRBRuri value="/us-ut/act/code/59-7-503"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-7-503/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-7-503/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-7-503/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-7-503/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_7">
+        <num>Chapter 59-7</num>
+        <heading>Corporate Franchise and Income Taxes</heading>
+        <section eId="sec_59_7_503">
+          <num>59-7-503</num>
+          <heading>Return where period changed.</heading>
+          <content>
+            <p>59-7-503.
+Return where period changed.
+(1)
+If a corporation changes its taxable year in accordance with Section
+59-7-502
+, a short period return shall be made for the period of less than 12 months between the close of the last taxable year for which a return was made and the close of the new taxable year.
+(2)
+Where a short period return is made under Subsection
+(1)
+on account of a change in the accounting period, and in any other case where a short period return is required or permitted by rules prescribed by the commission to be made for a fractional part of a year, the tax shall be calculated at the rate provided in Section
+59-7-104
+for the period covered by the return assignable to business done in Utah.
+Renumbered and Amended by Chapter
+169
+, 1993 General Session</p>
+          </content>
+          <subsection eId="59_7_503__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a corporation changes its taxable year in accordance with Section , a short period return shall be made for the period of less than 12 months between the close of the last taxable year for which a return was made and the close of the new taxable year.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_7_503__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Where a short period return is made under Subsection on account of a change in the accounting period, and in any other case where a short period return is required or permitted by rules prescribed by the commission to be made for a fractional part of a year, the tax shall be calculated at the rate provided in Section for the period covered by the return assignable to business done in Utah.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

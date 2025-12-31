@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-10-1031"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-10-1031/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-10-1031/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-10-1031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_10">
+        <num>Chapter 59-10</num>
+        <heading>Individual Income Tax Act</heading>
+        <section eId="sec_59_10_1031">
+          <num>59-10-1031</num>
+          <heading>Nonrefundable tax credit for employing a recently deployed veteran.</heading>
+          <content>
+            <p>59-10-1031.
+Nonrefundable tax credit for employing a recently deployed veteran.
+(1)
+As used in this section, &quot;recently deployed veteran&quot; means an individual who:
+(a)
+was mobilized to active federal military service in:
+(i)
+an active component of the United States Armed Forces as defined in Section
+59-10-1027
+; or
+(ii)
+a reserve component of the United States Armed Forces as defined in Section
+59-10-1027
+; and
+(b)
+received an honorable or general discharge from active federal military service under Subsection
+(1)(a)
+within the two-year period before the date the employment begins.
+(2)
+A claimant, estate, or trust may claim a nonrefundable tax credit as provided in this section against a tax under this chapter if the claimant, estate, or trust employs a recently deployed veteran, on or after January 1, 2012, who:
+(a)
+(i)
+is collecting or is eligible to collect unemployment benefits under
+Title 35A, Chapter 4, Part 4, Benefits and Eligibility
+; or
+(ii)
+within the last two years, has exhausted the unemployment benefits under Subsection
+(2)(a)(i)
+; and
+(b)
+works for the claimant, estate, or trust at least 35 hours per week for not less than 45 of the 52 weeks following the recently deployed veteran's start date for the employment.
+(3)
+A tax credit:
+(a)
+earned under this section shall be claimed beginning in the year the requirements of Subsection
+(2)
+are met;
+(b)
+for the first taxable year, is equal to $200 for each month of employment not to exceed $2,400 for the taxable year for each recently deployed veteran; and
+(c)
+for the second taxable year, is equal to $400 for each month of employment not to exceed $4,800 for the taxable year for each recently deployed veteran.
+(4)
+A claimant, estate, or trust that claims a tax credit under this section shall retain the following for each recently deployed veteran for which a tax credit is claimed under this section:
+(a)
+the recently deployed veteran's:
+(i)
+name;
+(ii)
+taxpayer identification number;
+(iii)
+last known address;
+(iv)
+start date of the employment; and
+(v)
+documentation establishing that the recently deployed veteran was employed as required under Subsection
+(2)(b)
+;
+(b)
+documentation provided by the recently deployed veteran's military service unit establishing that the recently deployed veteran is a recently deployed veteran; and
+(c)
+a signed statement from the Department of Workforce Services that the recently deployed veteran meets the requirements of Subsection
+(2)(a)
+regarding unemployment benefits.
+(5)
+At the request of the commission, a claimant, estate, or trust shall provide the information described in Subsection
+(4)
+to the commission.
+(6)
+A claimant, estate, or trust may carry forward a tax credit under this section for a period that does not exceed the next five taxable years if:
+(a)
+the claimant, estate, or trust is allowed to claim a tax credit under this section for a taxable year; and
+(b)
+the amount of the tax credit exceeds the claimant, estate, or trust's tax liability under this chapter for that taxable year.
+Enacted by Chapter
+306
+, 2012 General Session</p>
+          </content>
+          <subsection eId="59_10_1031__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, &quot;recently deployed veteran&quot; means an individual who:</p>
+            </content>
+            <paragraph eId="59_10_1031__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>was mobilized to active federal military service in:</p>
+              </content>
+              <subparagraph eId="59_10_1031__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an active component of the United States Armed Forces as defined in Section ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1031__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a reserve component of the United States Armed Forces as defined in Section ; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>received an honorable or general discharge from active federal military service under Subsection within the two-year period before the date the employment begins.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1031__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A claimant, estate, or trust may claim a nonrefundable tax credit as provided in this section against a tax under this chapter if the claimant, estate, or trust employs a recently deployed veteran, on or after January 1, 2012, who:</p>
+            </content>
+            <paragraph eId="59_10_1031__subsec_2__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_10_1031__subsec_2__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is collecting or is eligible to collect unemployment benefits under ; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1031__subsec_2__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>within the last two years, has exhausted the unemployment benefits under Subsection ; and</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>works for the claimant, estate, or trust at least 35 hours per week for not less than 45 of the 52 weeks following the recently deployed veteran's start date for the employment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1031__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A tax credit:</p>
+            </content>
+            <paragraph eId="59_10_1031__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>earned under this section shall be claimed beginning in the year the requirements of Subsection are met;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>for the first taxable year, is equal to $200 for each month of employment not to exceed $2,400 for the taxable year for each recently deployed veteran; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for the second taxable year, is equal to $400 for each month of employment not to exceed $4,800 for the taxable year for each recently deployed veteran.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1031__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A claimant, estate, or trust that claims a tax credit under this section shall retain the following for each recently deployed veteran for which a tax credit is claimed under this section:</p>
+            </content>
+            <paragraph eId="59_10_1031__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the recently deployed veteran's:</p>
+              </content>
+              <subparagraph eId="59_10_1031__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>name;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1031__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>taxpayer identification number;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1031__subsec_4__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>last known address;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1031__subsec_4__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>start date of the employment; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_10_1031__subsec_4__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>documentation establishing that the recently deployed veteran was employed as required under Subsection ;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>documentation provided by the recently deployed veteran's military service unit establishing that the recently deployed veteran is a recently deployed veteran; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>a signed statement from the Department of Workforce Services that the recently deployed veteran meets the requirements of Subsection regarding unemployment benefits.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_10_1031__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>At the request of the commission, a claimant, estate, or trust shall provide the information described in Subsection to the commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_10_1031__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A claimant, estate, or trust may carry forward a tax credit under this section for a period that does not exceed the next five taxable years if:</p>
+            </content>
+            <paragraph eId="59_10_1031__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>the claimant, estate, or trust is allowed to claim a tax credit under this section for a taxable year; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_10_1031__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>the amount of the tax credit exceeds the claimant, estate, or trust's tax liability under this chapter for that taxable year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

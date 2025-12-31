@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-307"/>
+          <FRBRuri value="/us-ut/act/code/59-2-307"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-307/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-307/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-307/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-307/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_307">
+          <num>59-2-307</num>
+          <heading>Refusal by taxpayer to file signed statement -- Estimation of value -- Penalty.</heading>
+          <content>
+            <p>Effective 1/1/2023
+59-2-307.
+Refusal by taxpayer to file signed statement -- Estimation of value -- Penalty.
+(1)
+(a)
+Each person that fails to file the signed statement required by Section
+59-2-306
+or Section
+59-2-306.5
+, fails to file the signed statement with respect to name and place of residence, or fails to appear and testify when requested by the assessor, shall pay a penalty equal to 10% of the estimated tax due, but not less than $25 for each failure to file a signed and completed statement.
+(b)
+The Multicounty Appraisal Trust shall notify the county assessor of a telecommunications service provider's failure to file the signed statement.
+(c)
+The assessor shall collect each penalty under Subsection
+(1)(a)
+in the manner provided by Sections
+59-2-1302
+and
+59-2-1303
+, except as otherwise provided for in this section, or by a judicial proceeding brought in the name of the assessor.
+(d)
+The assessor shall pay all money recovered under this section into the county treasury.
+(2)
+(a)
+Upon a showing of reasonable cause, a county may waive or reduce a penalty imposed under Subsection
+(1)(a)
+.
+(b)
+(i)
+Except as provided in Subsection
+(2)(b)(ii)
+, a county assessor may impose a penalty under Subsection
+(1)(a)
+on or after May 16 of the year the county assessor requests the statement described in Section
+59-2-306
+or is due under Section
+59-2-306.5
+.
+(ii)
+A county assessor may not impose a penalty under Subsection
+(1)(a)
+until 30 days after the postmark date of mailing of a subsequent notice if the signed statement described in Section
+59-2-306
+is requested:
+(A)
+on or after March 16; or
+(B)
+by a county assessor of a county of the first class.
+(3)
+(a)
+If an owner neglects or refuses to file a signed statement requested by an assessor as required under Section
+59-2-306
+:
+(i)
+the assessor shall:
+(A)
+make a record of the failure to file; and
+(B)
+make an estimate of the value of the property of the owner based on known facts and circumstances; and
+(ii)
+the assessor of a county of the first class:
+(A)
+shall make a subsequent request by mail for the signed statement, informing the owner of the consequences of not filing a signed statement; and
+(B)
+may impose a fee for the actual and necessary expenses of the mailing under Subsection
+(3)(a)(ii)(A)
+.
+(b)
+(i)
+If a telecommunications service provider neglects or refuses to file a signed statement in accordance with Section
+59-2-306.5
+, the Multicounty Appraisal Trust shall make:
+(A)
+a record of the failure to file;
+(B)
+a request by mail for the signed statement, informing the telecommunications service provider of the consequences of not filing a signed statement; and
+(C)
+an estimate of the value of the personal property of the telecommunications service provider based on known facts and circumstances.
+(ii)
+The Multicounty Appraisal Trust may impose a fee for the actual and necessary expenses of the mailing under Subsection
+(3)(b)(i)(B)
+.
+(c)
+A county board of equalization or the commission may not reduce the value fixed by the assessor in accordance with Subsection
+(3)(a)(i)
+or the Multicounty Appraisal Trust in accordance with Subsection
+(3)(b)(i)
+.
+Amended by Chapter
+239
+, 2022 General Session</p>
+          </content>
+          <subsection eId="59_2_307__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_307__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each person that fails to file the signed statement required by Section or Section , fails to file the signed statement with respect to name and place of residence, or fails to appear and testify when requested by the assessor, shall pay a penalty equal to 10% of the estimated tax due, but not less than $25 for each failure to file a signed and completed statement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_307__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Multicounty Appraisal Trust shall notify the county assessor of a telecommunications service provider's failure to file the signed statement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_307__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The assessor shall collect each penalty under Subsection in the manner provided by Sections and , except as otherwise provided for in this section, or by a judicial proceeding brought in the name of the assessor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_307__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The assessor shall pay all money recovered under this section into the county treasury.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_307__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_307__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon a showing of reasonable cause, a county may waive or reduce a penalty imposed under Subsection .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_307__subsec_2__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_307__subsec_2__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Except as provided in Subsection , a county assessor may impose a penalty under Subsection on or after May 16 of the year the county assessor requests the statement described in Section or is due under Section .</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_307__subsec_2__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A county assessor may not impose a penalty under Subsection until 30 days after the postmark date of mailing of a subsequent notice if the signed statement described in Section is requested:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_307__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_307__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If an owner neglects or refuses to file a signed statement requested by an assessor as required under Section :</p>
+              </content>
+              <subparagraph eId="59_2_307__subsec_3__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>the assessor shall:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_307__subsec_3__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the assessor of a county of the first class:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_307__subsec_3__para_b">
+              <num>(b)</num>
+              <subparagraph eId="59_2_307__subsec_3__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If a telecommunications service provider neglects or refuses to file a signed statement in accordance with Section , the Multicounty Appraisal Trust shall make:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_307__subsec_3__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>The Multicounty Appraisal Trust may impose a fee for the actual and necessary expenses of the mailing under Subsection .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_307__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A county board of equalization or the commission may not reduce the value fixed by the assessor in accordance with Subsection or the Multicounty Appraisal Trust in accordance with Subsection .</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

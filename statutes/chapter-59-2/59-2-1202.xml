@@ -1,0 +1,832 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-1202"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-1202/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1202/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-1202/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-1202/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_1202">
+          <num>59-2-1202</num>
+          <heading>Renumbered 1/1/2026</heading>
+          <content>
+            <p>Effective 1/1/2024
+Renumbered 1/1/2026
+59-2-1202.
+Definitions.
+As used in this part:
+(1)
+(a)
+&quot;Claimant&quot; means a homeowner or renter who:
+(i)
+files a claim under this part for a residence;
+(ii)
+is domiciled in this state for the entire calendar year for which a claim for relief is filed under this part; and
+(iii)
+on or before December 31 of the year for which a claim for relief is filed under this part, is:
+(A)
+66 years old or older if the individual was born on or before December 31, 1959; or
+(B)
+67 years old or older if the individual was born on or after January 1, 1960.
+(b)
+Notwithstanding Subsection (1)(a), &quot;claimant&quot; includes a surviving spouse:
+(i)
+regardless of:
+(A)
+the age of the surviving spouse; or
+(B)
+the age of the deceased spouse at the time of death;
+(ii)
+if the surviving spouse meets the requirements of this part except for the age requirement;
+(iii)
+if the surviving spouse is part of the same household of the deceased spouse at the time of death of the deceased spouse; and
+(iv)
+if the surviving spouse is unmarried at the time the surviving spouse files the claim.
+(c)
+If two or more individuals of a household are able to meet the qualifications for a claimant, they may determine among them as to who the claimant shall be, but if they are unable to agree, the matter shall be referred to the county legislative body for a determination of the claimant of an owned residence and to the commission for a determination of the claimant of a rented residence.
+(2)
+&quot;Consumer price index housing&quot; means the Consumer Price Index - All Urban Consumers, Housing United States Cities Average, published by the Bureau of Labor Statistics of the United States Department of Labor.
+(3)
+(a)
+&quot;Gross rent&quot; means rent actually paid in cash or its equivalent solely for the right of occupancy, at arm's-length, of a residence, exclusive of charges for any utilities, services, furniture, furnishings, or personal appliances furnished by the landlord as a part of the rental agreement.
+(b)
+If a claimant occupies two or more residences in the year, &quot;gross rent&quot; means the total rent paid for the residences during the one-year period for which the renter files a claim under this part.
+(4)
+(a)
+&quot;Homeowner&quot; means:
+(i)
+an individual whose name is listed on the deed of a residence; or
+(ii)
+if a residence is owned in a qualifying trust, an individual who is a grantor, trustor, or settlor or holds another similar role in the trust.
+(b)
+&quot;Homeowner&quot; does not include:
+(i)
+if a residence is owned by any type of entity other than a qualifying trust, an individual who holds an ownership interest in that entity; or
+(ii)
+an individual who is listed on a deed of a residence along with an entity other than a qualifying trust.
+(5)
+&quot;Homeowner's credit&quot; means a credit against a claimant's property tax liability.
+(6)
+&quot;Household&quot; means the association of individuals who live in the same dwelling, sharing the dwelling's furnishings, facilities, accommodations, and expenses.
+(7)
+(a)
+Except as provided in Subsection (7)(b), &quot;household income&quot; means all income received by all members of a claimant's household in:
+(i)
+for a claimant who owns a residence, the calendar year preceding the calendar year in which property taxes are due; or
+(ii)
+for a claimant who rents a residence, the year for which a claim is filed.
+(b)
+&quot;Household income&quot; does not include income received by a member of a claimant's household who is:
+(i)
+under the age of 18; or
+(ii)
+a parent or a grandparent, through blood, marriage, or adoption, of the claimant or the claimant's spouse.
+(8)
+&quot;Income&quot; means the sum of:
+(a)
+federal adjusted gross income as defined in Section 62, Internal Revenue Code; and
+(b)
+nontaxable income.
+(9)
+(a)
+&quot;Nontaxable income&quot; means amounts excluded from adjusted gross income under the Internal Revenue Code, including:
+(i)
+capital gains;
+(ii)
+loss carry forwards claimed during the taxable year in which a claimant files for relief under this part or Part 18, Tax Deferral and Tax Abatement;
+(iii)
+depreciation claimed pursuant to the Internal Revenue Code by a claimant on the residence for which the claimant files for relief under this part or Part 18, Tax Deferral and Tax Abatement;
+(iv)
+support money received;
+(v)
+nontaxable strike benefits;
+(vi)
+the gross amount of a pension or annuity, including benefits under the Railroad Retirement Act of 1974, 45 U.S.C. Sec. 231 et seq., and veterans disability pensions;
+(vii)
+except for payments described in Subsection (9)(b)(vi), payments received under the Social Security Act;
+(viii)
+state unemployment insurance amounts;
+(ix)
+nontaxable interest received from any source;
+(x)
+workers' compensation;
+(xi)
+the gross amount of &quot;loss of time&quot; insurance; and
+(xii)
+voluntary contributions to a tax-deferred retirement plan.
+(b)
+&quot;Nontaxable income&quot; does not include:
+(i)
+public assistance;
+(ii)
+aid, assistance, or contributions from a tax-exempt nongovernmental source;
+(iii)
+surplus foods;
+(iv)
+relief in kind supplied by a public or private agency;
+(v)
+relief provided under this part or Part 18, Tax Deferral and Tax Abatement;
+(vi)
+Social Security Disability Income payments received under the Social Security Act;
+(vii)
+federal tax refunds;
+(viii)
+federal child tax credits received under 26 U.S.C. Sec. 24;
+(ix)
+federal earned income tax credits received under 26 U.S.C. Sec. 32;
+(x)
+payments received under a reverse mortgage;
+(xi)
+payments or reimbursements to senior program volunteers under 42 U.S.C. Sec. 5058; or
+(xii)
+gifts or bequests.
+(10)
+(a)
+&quot;Property taxes accrued&quot; means property taxes, exclusive of special assessments, delinquent interest, and charges for service, levied on 35% of the fair market value, as reflected on the assessment roll, of a claimant's residence in this state.
+(b)
+For a mobile home, &quot;property taxes accrued&quot; includes taxes imposed on both the land upon which the home is situated and on the structure of the home itself, whether classified as real property or personal property taxes.
+(c)
+The relief described in Subsection (10)(a) constitutes:
+(i)
+a tax abatement for the poor in accordance with Utah Constitution, Article XIII,
+Section 3; and
+(ii)
+the residential exemption provided for in Section
+59-2-103
+.
+(d)
+For purposes of this Subsection (10), property taxes accrued are levied on the lien date.
+(e)
+When a household owns and occupies two or more different residences in this state in the same calendar year, and neither residence is acquired or sold during the calendar year for which relief is claimed under this part, property taxes accrued shall relate only to the residence occupied on the lien date by the household as the household's principal place of residence.
+(f)
+(i)
+If a residence is an integral part of a large unit such as a farm or a multipurpose or multidwelling building, property taxes accrued shall be calculated on the percentage that the value of the residence is of the total value of the unit.
+(ii)
+For purposes of this Subsection (10)(f), &quot;unit&quot; refers to the parcel of property covered by a single tax statement of which the residence is a part.
+(11)
+&quot;Public assistance&quot; means:
+(a)
+medical assistance provided under Title 26B, Chapter 3, Health Care - Administration and Assistance;
+(b)
+SNAP benefits as defined in Section
+35A-1-102
+;
+(c)
+services or benefits provided under Title 35A, Chapter 3, Employment Support Act; and
+(d)
+foster care maintenance payments provided from the General Fund or under Title IV-E of the Social Security Act.
+(12)
+&quot;Qualifying trust&quot; means a trust holding title to real or tangible personal property for which an individual:
+(a)
+makes a claim under this part;
+(b)
+proves to the satisfaction of the county that title to the portion of the trust will revest in the individual upon the exercise of a power:
+(i)
+by:
+(A)
+the individual as grantor, trustor, settlor, or in another similar role of the trust;
+(B)
+a nonadverse party; or
+(C)
+both the individual and a nonadverse party; and
+(ii)
+regardless of whether the power is a power:
+(A)
+to revoke;
+(B)
+to terminate;
+(C)
+to alter;
+(D)
+to amend; or
+(E)
+to appoint; and
+(c)
+is obligated to pay the taxes on that portion of the trust property beginning January 1 of the year the individual makes the claim.
+(13)
+(a)
+&quot;Rental assistance payment&quot; means any payment that:
+(i)
+is made by a:
+(A)
+governmental entity;
+(B)
+charitable organization; or
+(C)
+religious organization; and
+(ii)
+is specifically designated for the payment of rent of a claimant:
+(A)
+for the calendar year for which the claimant seeks a renter's credit under this part; and
+(B)
+regardless of whether the payment is made to the claimant or the landlord.
+(b)
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the terms:
+(i)
+&quot;governmental entity&quot;;
+(ii)
+&quot;charitable organization&quot;; or
+(iii)
+&quot;religious organization.&quot;
+(14)
+(a)
+(i)
+&quot;Residence&quot; means the dwelling in this state, whether owned or rented, and so much of the land surrounding the dwelling, not exceeding one acre, as is reasonably necessary for use of the dwelling as a home.
+(ii)
+&quot;Residence&quot; includes a dwelling that is:
+(A)
+a part of a multidwelling or multipurpose building and a part of the land upon which the multidwelling or multipurpose building is built; and
+(B)
+a mobile home or houseboat.
+(b)
+&quot;Residence&quot; does not include personal property such as furniture, furnishings, or appliances.
+(c)
+For purposes of this Subsection (14), &quot;owned&quot; includes a vendee in possession under a land contract or one or more joint tenants or tenants in common.
+Amended by Chapter
+279
+, 2024 General Session</p>
+          </content>
+          <subsection eId="59_2_1202__subsec_1">
+            <num>(1)</num>
+            <paragraph eId="59_2_1202__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Claimant&quot; means a homeowner or renter who:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_1__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>files a claim under this part for a residence;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_1__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is domiciled in this state for the entire calendar year for which a claim for relief is filed under this part; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_1__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>on or before December 31 of the year for which a claim for relief is filed under this part, is:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding Subsection (1)(a), &quot;claimant&quot; includes a surviving spouse:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_1__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>regardless of:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_1__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if the surviving spouse meets the requirements of this part except for the age requirement;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_1__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>if the surviving spouse is part of the same household of the deceased spouse at the time of death of the deceased spouse; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_1__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>if the surviving spouse is unmarried at the time the surviving spouse files the claim.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If two or more individuals of a household are able to meet the qualifications for a claimant, they may determine among them as to who the claimant shall be, but if they are unable to agree, the matter shall be referred to the county legislative body for a determination of the claimant of an owned residence and to the commission for a determination of the claimant of a rented residence.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>&quot;Consumer price index housing&quot; means the Consumer Price Index - All Urban Consumers, Housing United States Cities Average, published by the Bureau of Labor Statistics of the United States Department of Labor.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_3">
+            <num>(3)</num>
+            <paragraph eId="59_2_1202__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Gross rent&quot; means rent actually paid in cash or its equivalent solely for the right of occupancy, at arm's-length, of a residence, exclusive of charges for any utilities, services, furniture, furnishings, or personal appliances furnished by the landlord as a part of the rental agreement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a claimant occupies two or more residences in the year, &quot;gross rent&quot; means the total rent paid for the residences during the one-year period for which the renter files a claim under this part.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_4">
+            <num>(4)</num>
+            <paragraph eId="59_2_1202__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Homeowner&quot; means:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_4__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>an individual whose name is listed on the deed of a residence; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_4__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>if a residence is owned in a qualifying trust, an individual who is a grantor, trustor, or settlor or holds another similar role in the trust.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Homeowner&quot; does not include:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_4__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>if a residence is owned by any type of entity other than a qualifying trust, an individual who holds an ownership interest in that entity; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_4__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an individual who is listed on a deed of a residence along with an entity other than a qualifying trust.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>&quot;Homeowner's credit&quot; means a credit against a claimant's property tax liability.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>&quot;Household&quot; means the association of individuals who live in the same dwelling, sharing the dwelling's furnishings, facilities, accommodations, and expenses.</p>
+            </content>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_7">
+            <num>(7)</num>
+            <paragraph eId="59_2_1202__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as provided in Subsection (7)(b), &quot;household income&quot; means all income received by all members of a claimant's household in:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_7__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>for a claimant who owns a residence, the calendar year preceding the calendar year in which property taxes are due; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_7__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>for a claimant who rents a residence, the year for which a claim is filed.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Household income&quot; does not include income received by a member of a claimant's household who is:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_7__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>under the age of 18; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_7__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>a parent or a grandparent, through blood, marriage, or adoption, of the claimant or the claimant's spouse.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>&quot;Income&quot; means the sum of:</p>
+            </content>
+            <paragraph eId="59_2_1202__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>federal adjusted gross income as defined in Section 62, Internal Revenue Code; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>nontaxable income.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_9">
+            <num>(9)</num>
+            <paragraph eId="59_2_1202__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Nontaxable income&quot; means amounts excluded from adjusted gross income under the Internal Revenue Code, including:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>capital gains;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>loss carry forwards claimed during the taxable year in which a claimant files for relief under this part or Part 18, Tax Deferral and Tax Abatement;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>depreciation claimed pursuant to the Internal Revenue Code by a claimant on the residence for which the claimant files for relief under this part or Part 18, Tax Deferral and Tax Abatement;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>support money received;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>nontaxable strike benefits;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>the gross amount of a pension or annuity, including benefits under the Railroad Retirement Act of 1974, 45 U.S.C. Sec. 231 et seq., and veterans disability pensions;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>except for payments described in Subsection (9)(b)(vi), payments received under the Social Security Act;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>state unemployment insurance amounts;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_ix">
+                <num>(ix)</num>
+                <content>
+                  <p>nontaxable interest received from any source;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_x">
+                <num>(x)</num>
+                <content>
+                  <p>workers' compensation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_xi">
+                <num>(xi)</num>
+                <content>
+                  <p>the gross amount of &quot;loss of time&quot; insurance; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_a__subpara_xii">
+                <num>(xii)</num>
+                <content>
+                  <p>voluntary contributions to a tax-deferred retirement plan.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Nontaxable income&quot; does not include:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>public assistance;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>aid, assistance, or contributions from a tax-exempt nongovernmental source;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>surplus foods;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>relief in kind supplied by a public or private agency;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_v">
+                <num>(v)</num>
+                <content>
+                  <p>relief provided under this part or Part 18, Tax Deferral and Tax Abatement;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>Social Security Disability Income payments received under the Social Security Act;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>federal tax refunds;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>federal child tax credits received under 26 U.S.C. Sec. 24;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_ix">
+                <num>(ix)</num>
+                <content>
+                  <p>federal earned income tax credits received under 26 U.S.C. Sec. 32;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_x">
+                <num>(x)</num>
+                <content>
+                  <p>payments received under a reverse mortgage;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_xi">
+                <num>(xi)</num>
+                <content>
+                  <p>payments or reimbursements to senior program volunteers under 42 U.S.C. Sec. 5058; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_9__para_b__subpara_xii">
+                <num>(xii)</num>
+                <content>
+                  <p>gifts or bequests.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_10">
+            <num>(10)</num>
+            <paragraph eId="59_2_1202__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Property taxes accrued&quot; means property taxes, exclusive of special assessments, delinquent interest, and charges for service, levied on 35% of the fair market value, as reflected on the assessment roll, of a claimant's residence in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For a mobile home, &quot;property taxes accrued&quot; includes taxes imposed on both the land upon which the home is situated and on the structure of the home itself, whether classified as real property or personal property taxes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The relief described in Subsection (10)(a) constitutes:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_10__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>a tax abatement for the poor in accordance with Utah Constitution, Article XIII, Section 3; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_10__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the residential exemption provided for in Section .</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of this Subsection (10), property taxes accrued are levied on the lien date.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_10__para_e">
+              <num>(e)</num>
+              <content>
+                <p>When a household owns and occupies two or more different residences in this state in the same calendar year, and neither residence is acquired or sold during the calendar year for which relief is claimed under this part, property taxes accrued shall relate only to the residence occupied on the lien date by the household as the household's principal place of residence.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_10__para_f">
+              <num>(f)</num>
+              <subparagraph eId="59_2_1202__subsec_10__para_f__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>If a residence is an integral part of a large unit such as a farm or a multipurpose or multidwelling building, property taxes accrued shall be calculated on the percentage that the value of the residence is of the total value of the unit.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_10__para_f__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>For purposes of this Subsection (10)(f), &quot;unit&quot; refers to the parcel of property covered by a single tax statement of which the residence is a part.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>&quot;Public assistance&quot; means:</p>
+            </content>
+            <paragraph eId="59_2_1202__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>medical assistance provided under Title 26B, Chapter 3, Health Care - Administration and Assistance;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>SNAP benefits as defined in Section ;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>services or benefits provided under Title 35A, Chapter 3, Employment Support Act; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>foster care maintenance payments provided from the General Fund or under Title IV-E of the Social Security Act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>&quot;Qualifying trust&quot; means a trust holding title to real or tangible personal property for which an individual:</p>
+            </content>
+            <paragraph eId="59_2_1202__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>makes a claim under this part;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>proves to the satisfaction of the county that title to the portion of the trust will revest in the individual upon the exercise of a power:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_12__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>by:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_12__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>regardless of whether the power is a power:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_12__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is obligated to pay the taxes on that portion of the trust property beginning January 1 of the year the individual makes the claim.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_13">
+            <num>(13)</num>
+            <paragraph eId="59_2_1202__subsec_13__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Rental assistance payment&quot; means any payment that:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_13__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>is made by a:</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_13__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>is specifically designated for the payment of rent of a claimant:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_13__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the commission may make rules defining the terms:</p>
+              </content>
+              <subparagraph eId="59_2_1202__subsec_13__para_b__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;governmental entity&quot;;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_13__para_b__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;charitable organization&quot;; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_13__para_b__subpara_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>&quot;religious organization.&quot;</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_1202__subsec_14">
+            <num>(14)</num>
+            <paragraph eId="59_2_1202__subsec_14__para_a">
+              <num>(a)</num>
+              <subparagraph eId="59_2_1202__subsec_14__para_a__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>&quot;Residence&quot; means the dwelling in this state, whether owned or rented, and so much of the land surrounding the dwelling, not exceeding one acre, as is reasonably necessary for use of the dwelling as a home.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_1202__subsec_14__para_a__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>&quot;Residence&quot; includes a dwelling that is:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_14__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Residence&quot; does not include personal property such as furniture, furnishings, or appliances.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_1202__subsec_14__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of this Subsection (14), &quot;owned&quot; includes a vendee in possession under a land contract or one or more joint tenants or tenants in common.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

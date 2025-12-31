@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-14-207.5"/>
+          <FRBRuri value="/us-ut/act/code/59-14-207.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-14-207.5/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-14-207.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-14-207.5/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-14-207.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_14">
+        <num>Chapter 59-14</num>
+        <heading>Tobacco Products</heading>
+        <section eId="sec_59_14_207_5">
+          <num>59-14-207.5</num>
+          <heading>Transactions only with licensed manufacturers, importers, distributors, and retailers.</heading>
+          <content>
+            <p>59-14-207.5.
+Transactions only with licensed manufacturers, importers, distributors, and retailers.
+(1)
+A manufacturer or importer may sell or distribute cigarettes to a licensee if that person is located or doing business in the state, including on any tribal lands located in the state.
+(2)
+An importer may obtain cigarettes only from a licensed manufacturer.
+(3)
+(a)
+A distributor may obtain cigarettes only from a licensed manufacturer, importer, or distributor.
+(b)
+A distributor may sell or distribute cigarettes to a person who is a licensed distributor or retailer, if that person is located or doing business in the state, including on any tribal lands in the state.
+(4)
+A retailer may obtain cigarettes only from a properly licensed person.
+Enacted by Chapter
+217
+, 2004 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

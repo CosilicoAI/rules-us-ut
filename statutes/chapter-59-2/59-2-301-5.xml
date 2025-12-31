@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-301.5"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.5"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-301.5/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.5/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-301.5/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-301.5/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_301_5">
+          <num>59-2-301.5</num>
+          <heading>Definitions -- Assessment of property if threatened or endangered species is present.</heading>
+          <content>
+            <p>Effective 7/1/2023
+59-2-301.5.
+Definitions -- Assessment of property if threatened or endangered species is present.
+(1)
+As used in this section:
+(a)
+&quot;Endangered&quot; is as defined in Section
+23A-1-101
+.
+(b)
+&quot;Threatened&quot; is as defined in Section
+23A-1-101
+.
+(2)
+In assessing the fair market value of property, a county assessor shall consider as part of the determination of fair market value whether a threatened or endangered species is present on any portion of the property, including any impacts the presence of the threatened or endangered species has on:
+(a)
+the functionality of the property;
+(b)
+the ability to use the property; and
+(c)
+property rights.
+(3)
+This section does not prohibit a county assessor from including as part of a determination of the fair market value of property any other factor affecting the fair market value of the property.
+Amended by Chapter
+34
+, 2023 General Session</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ut-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ut/act/code/59-2-703"/>
+          <FRBRuri value="/us-ut/act/code/59-2-703"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRcountry value="us-ut"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ut/act/code/59-2-703/eng"/>
+          <FRBRuri value="/us-ut/act/code/59-2-703/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ut-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ut/act/code/59-2-703/eng/akn"/>
+          <FRBRuri value="/us-ut/act/code/59-2-703/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ut-legislature" href="/ontology/organization/us-ut/legislature" showAs="Utah State Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_59_2">
+        <num>Chapter 59-2</num>
+        <heading>Property Tax Act</heading>
+        <section eId="sec_59_2_703">
+          <num>59-2-703</num>
+          <heading>Commission to assist county assessors -- Appraisers provided upon request -- Costs of services -- Contingency fee arrangements prohibited.</heading>
+          <content>
+            <p>Effective 5/7/2025
+59-2-703.
+Commission to assist county assessors -- Appraisers provided upon request -- Costs of services -- Contingency fee arrangements prohibited.
+(1)
+Except as provided in Section
+59-2-331
+, the commission shall, upon request and pursuant to mutual agreement, provide county assessors with technical assistance and appraisal aid.
+(a)
+The commission shall provide certified or licensed appraisers who, upon request of the county assessor and pursuant to mutual agreement, shall perform appraisals of property and other technical services as needed by the county assessor.
+(b)
+The commission shall calculate the costs of these services based on the number of days of services rendered.
+(c)
+Each county shall pay to the commission an amount equal to the cost of the services that the county receives.
+(2)
+(a)
+Both the commission and counties may contract with a private firm or an individual to conduct appraisals.
+(b)
+A county assessor may request the private firm or individual conducting appraisals to assist the county assessor in meeting the requirements of Section
+59-2-303.1
+.
+(c)
+(i)
+Notwithstanding Title 63G, Chapter 2, Government Records Access and Management Act, the commission and counties may disclose the name of the taxpayer and the taxpayer's address to the contract appraiser.
+(ii)
+A private appraiser is subject to the confidentiality requirements and penalty provisions provided in Title 63G, Chapter 2, Part 8, Remedies.
+(d)
+(i)
+Neither the commission nor a county may contract with a private firm or an individual under a contingency fee arrangement to assess property or prosecute or defend an appeal.
+(ii)
+An appraisal that has been prepared on a contingency fee basis may not be allowed in any proceeding before a county board of equalization or the commission.
+Amended by Chapter
+337
+, 2025 General Session</p>
+          </content>
+          <subsection eId="59_2_703__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in Section , the commission shall, upon request and pursuant to mutual agreement, provide county assessors with technical assistance and appraisal aid.</p>
+            </content>
+            <paragraph eId="59_2_703__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The commission shall provide certified or licensed appraisers who, upon request of the county assessor and pursuant to mutual agreement, shall perform appraisals of property and other technical services as needed by the county assessor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_703__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The commission shall calculate the costs of these services based on the number of days of services rendered.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_703__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Each county shall pay to the commission an amount equal to the cost of the services that the county receives.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="59_2_703__subsec_2">
+            <num>(2)</num>
+            <paragraph eId="59_2_703__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Both the commission and counties may contract with a private firm or an individual to conduct appraisals.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_703__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county assessor may request the private firm or individual conducting appraisals to assist the county assessor in meeting the requirements of Section .</p>
+              </content>
+            </paragraph>
+            <paragraph eId="59_2_703__subsec_2__para_c">
+              <num>(c)</num>
+              <subparagraph eId="59_2_703__subsec_2__para_c__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Notwithstanding Title 63G, Chapter 2, Government Records Access and Management Act, the commission and counties may disclose the name of the taxpayer and the taxpayer's address to the contract appraiser.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_703__subsec_2__para_c__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>A private appraiser is subject to the confidentiality requirements and penalty provisions provided in Title 63G, Chapter 2, Part 8, Remedies.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="59_2_703__subsec_2__para_d">
+              <num>(d)</num>
+              <subparagraph eId="59_2_703__subsec_2__para_d__subpara_i">
+                <num>(i)</num>
+                <content>
+                  <p>Neither the commission nor a county may contract with a private firm or an individual under a contingency fee arrangement to assess property or prosecute or defend an appeal.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="59_2_703__subsec_2__para_d__subpara_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>An appraisal that has been prepared on a contingency fee basis may not be allowed in any proceeding before a county board of equalization or the commission.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
